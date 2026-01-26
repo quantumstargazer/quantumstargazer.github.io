@@ -26,9 +26,11 @@
 
 # Canon Typical
 > [!summary]+ Private Investigator
+> - *Working as a Private Investigator[^1] in Baldur's Gate for over two hundred years.*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
->> - Dossier
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Dossiers & Verses/0.1 D - Private Investigator - Faeynore Moonstar\|Dossier]]
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
@@ -206,3 +208,5 @@
 
 ---
 # Footnotes
+
+[^1]: Modded Class: Investigator / Subclass: Medium
