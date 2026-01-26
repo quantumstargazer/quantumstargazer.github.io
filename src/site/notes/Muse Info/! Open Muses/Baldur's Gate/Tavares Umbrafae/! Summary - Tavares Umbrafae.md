@@ -25,7 +25,9 @@
 
 # Canon Typical
 > [!summary]+ Absolute Crisis 
-> Summary goes here.
+> Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
+>  
+> As she ventures out onto the surface and away from the city in the ice, she falls victim to a mind flayer's nautiloid, where she is infected with one of their parasitic tadpoles before an attack on the ship leads to her and others like her finding their freedom within the wilderness of the Storm Coast, desperate for a cure before they themselves are turned into mind flayers.
 >> [!info]- Verse Navigation 
 >> - [[Muse Info x/Dossier - Absolute Crisis (Tavares Umbrafae)\|Dossier]]
 >> - Headcanons
@@ -36,7 +38,7 @@
 > [!summary]+ Callidae Exile 
 > - *Companion (Non-Party Leader) AU*
 > 
-> Summary goes here.
+> Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
