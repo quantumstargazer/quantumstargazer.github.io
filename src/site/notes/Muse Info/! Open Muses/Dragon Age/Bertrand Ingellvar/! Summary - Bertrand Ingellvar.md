@@ -4,7 +4,7 @@
 
 # Bertrand Ingellvar
 
-![bert temp01.png|250x250](/img/user/z%20Assets/Attachments/bert%20temp01.png)
+![bert temp01.png](/img/user/z%20Assets/Attachments/bert%20temp01.png)
 
 > [!muse]+ Muse Info
 > - *name:* Bertrand Ingellvar
