@@ -45,7 +45,7 @@
 > In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows.
 
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina Tabris\|Dossiers & Verses]]
-- Connections
+- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina Tabris\|Connections]]
 - Headcanons
 - Wishlists
 ## Zaehire de Riva
