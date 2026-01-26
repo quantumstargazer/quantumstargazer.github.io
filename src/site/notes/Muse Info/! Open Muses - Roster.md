@@ -11,7 +11,7 @@
 ## Tavares Umbrafae
 *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
 > [!muse]- Archfey Warlock of the Prince of Frost
-> Tavares is a warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
+> Tavares is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares Umbrafae\|Dossiers & Verses]]
 - Connections
@@ -41,6 +41,8 @@
 *City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin*
 > [!muse]- Hero of Ferelden turned Antivan Crow
 > Ashina was conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "*Tathas Arainai*". By 9:31 Dragon, she was notoreous among the Wardens by having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and then letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden had survived the attempt until she was said to have been killed by the Antivan Crows in 9:33 Dragon.
+> 
+> In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows.
 
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina Tabris\|Dossiers & Verses]]
 - Connections
@@ -58,7 +60,7 @@
 ## Leonardo de Riva
 *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé*
 > [!muse]- Viago Jr. (No Relation... Probably)
-> TBA
+> Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers were killed by Antivan Crows, and he was instead taken into House de Riva.
 
 - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo de Riva\|Dossiers & Verses]]
 - Connections
