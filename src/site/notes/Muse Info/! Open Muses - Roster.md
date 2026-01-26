@@ -13,7 +13,7 @@
 > [!muse]- Archfey Warlock of the Prince of Frost
 > Tavares is a warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 
-- [[Muse Info/! Open Muses/z Baldur's Gate/Tavares Umbrafae/! Summary - Tavares Umbrafae\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares Umbrafae\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -22,7 +22,7 @@
 > [!muse]- Baldur's Gate PI for Over 200 Years
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
 
-- [[Muse Info/! Open Muses/z Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore Moonstar\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore Moonstar\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -31,7 +31,7 @@
 > [!caution]- The Dark Urge
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
 
-- [[Muse Info/! Open Muses/z Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
