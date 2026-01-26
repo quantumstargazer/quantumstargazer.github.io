@@ -1,0 +1,56 @@
+---
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina-tabris/","tags":["connections","muse-ashina"]}
+---
+
+# Connections - Ashina de Riva née Tabris
+> [!muse]+ Muse Info
+> - *name:* Ashina de Riva
+> 	- ~~Ashina Tabris~~
+> - *nickname:* Ash
+> - *alias:* 
+> - *gender:* Female
+> - *pronouns:* She/Her/Herself
+> 
+>> [!info]- Tumblr Tags
+>> - ***in character:*** 
+>> - ***open starters:*** 
+>> - ***Wishlists:*** 
+>> - ***wishlist:*** 
+>> - *desires:* 
+>> - *musings:* 
+>> - *aesthetics:* 
+>> - *visage:* 
+>> - *playlist:* 
+
+# Mains
+> [!main] Viago de Riva — corvusrookery
+> 
+
+> [!main] Andarateia Cantori — corvusrookery
+> 
+
+# Best Friends Call Members
+> [!bfc]
+> 
+
+# Shipping Partners
+> [!shipdyn] 
+> 
+
+# Desired Dynamics
+> [!wishlist] Zevran Arainai 
+> 
+
+> [!wishlist] Lucanis Dellamorte
+> 
+
+
+
+
+
+
+
+
+
+---
+# Footnotes
