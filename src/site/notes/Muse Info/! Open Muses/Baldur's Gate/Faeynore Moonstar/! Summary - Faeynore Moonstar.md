@@ -17,23 +17,23 @@
 > [!muse]- Additional Information
 > 
 >> [!muse]+ Age
->> - *apparent age:* XX +/- years
->> - *date of birth:* YEAR
+>> - *apparent age:* 326 +/- years
+>> - *date of birth:* 1166 DR
 >> 	- DAY of MONTH
 >  
 >> [!muse]+ Personal Identity 
->> - *sexual orientation:* 
+>> - *sexual orientation:* Panromantic Demisexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* 
 >> - *Enneagram:* 
 > 
 >> [!muse]+ Physical Description
->> - *species:* 
->> - *race:* 
->> - *ethnicity:* 
+>> - *species:* Elf
+>> - *race:* High Elf
+>> - *ethnicity:* Moon Elf
 >> - *additional ethnicities/cultures:* 
->> - *height:*  cm
->> 	-  ft  in
+>> - *height:* 160 cm
+>> -  5 ft 2.99 in
 >> - *body shape:* 
 >> - *hair:* 
 >> - *eyes:* 
