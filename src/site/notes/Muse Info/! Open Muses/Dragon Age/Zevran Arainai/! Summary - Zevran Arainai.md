@@ -9,6 +9,8 @@
 > [!muse]+ Muse Info
 > - *name:* Zevran Arainai
 > - *nickname:* Zev
+> - *alias:* Eighth Talon of House Arainai (*as of 9:45 Dragon*)
+> 	- The Black Shadow (*Bane of the Antivan Crows — 9:31 - 9:45 Dragon*)
 > - *gender:* Male 
 > - *pronouns:* He/Him/Himself
 

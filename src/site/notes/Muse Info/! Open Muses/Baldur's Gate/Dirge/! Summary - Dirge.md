@@ -9,6 +9,7 @@
 > [!muse]+ Muse Info
 > - *name:* The Dark Urge
 > - *nickname:* Dirge
+> - *alias:* 
 > - *gender:* Nonbinary
 > - *pronouns:* They/Them/Themself
 > 	- She/Her/Herself 

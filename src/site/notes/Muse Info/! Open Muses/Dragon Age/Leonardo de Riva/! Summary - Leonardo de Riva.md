@@ -10,6 +10,7 @@
 > - *name:* Leonardo de Riva
 > - *nickname:* Leo
 > 	- Viago Jr.
+> - *alias:* 
 > - *gender:* Nonbinary
 > - *pronouns:* He/Him/Himself
 > 	- They/Them/Themself

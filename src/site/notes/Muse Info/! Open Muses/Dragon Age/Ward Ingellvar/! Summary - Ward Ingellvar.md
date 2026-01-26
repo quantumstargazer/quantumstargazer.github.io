@@ -9,6 +9,7 @@
 > [!muse]+ Muse Info
 > - *name:* Ward Ingellvar 
 > - *nickname:* Ghost
+> - *alias:* 
 > - *gender:* Agender
 > - *pronouns:* They/Them/Themself
 

@@ -10,6 +10,7 @@
 > - *name:* Bertrand Ingellvar
 > - *nickname:* Bert
 > 	- Bertie (*close friends only*)
+> - *alias:* 
 > - *gender:* Male
 > - *pronouns:* He/Him/Himself
 

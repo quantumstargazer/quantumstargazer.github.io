@@ -9,6 +9,7 @@
 > [!muse]+ Muse Info
 > - *name:* Haleir Lavellan
 > - *nickname:* Hale
+> - *alias:* 
 > - *gender:* Female
 > - *pronouns:* She/Her/Herself
 

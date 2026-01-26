@@ -9,6 +9,7 @@
 > [!muse]+ Muse Info
 > - *name:* Zaehire de Riva
 > - *nickname:* Zae
+> - *alias:* 
 > - *gender:* Nonbinary
 > - *pronouns:* She/Her/Herself
 > 	- They/Them/Themself

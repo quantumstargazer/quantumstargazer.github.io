@@ -10,6 +10,7 @@
 > - *name:* Isabela Shepard 
 > - *nickname:* Izzy
 > 	- Shep 
+> - *alias:* 
 > - *gender:* Nonbinary
 > - *pronouns:* She/Her/Herself
 > 	- They/Them/Themself

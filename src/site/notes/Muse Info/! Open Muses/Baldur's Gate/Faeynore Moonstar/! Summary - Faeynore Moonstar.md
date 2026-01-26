@@ -9,6 +9,7 @@
 > [!muse]+ Muse Info
 > - *name:* Faeynore Moonstar
 > - *nickname:* Faey
+> - *alias:* 
 > - *gender:* Nonbinary
 > - *pronouns:* They/Them/Themself
 > 	- She/Her/Herself
