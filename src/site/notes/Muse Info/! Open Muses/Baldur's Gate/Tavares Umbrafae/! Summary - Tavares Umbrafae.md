@@ -12,79 +12,74 @@
 > - *alias:* 
 > - *gender:* Female 
 > - *pronouns:* She/Her/Herself
-> - *apparent age:* 99 +/- years
-> - *date of birth:* YEAR
-> 	- DAY of MONTH
+
+> [!muse]- Additional Information
 > 
->> [!muse]- Additional Information
->> #### Personal Identity 
->> - *sexual orientation:* Panromantic Pansexual
+>> [!muse]+ Age
+>> - *apparent age:* XX +/- years
+>> - *date of birth:* YEAR
+>> 	- DAY of MONTH
+>  
+>> [!muse]+ Personal Identity 
+>> - *sexual orientation:* 
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* 
 >> - *Enneagram:* 
->> #### Physical Description
->> - *species:* Half-Fey Elf
->> - *race:* Half-Eladrin Drow
->> - *ethnicity:* Half-Winter Eladrin Aevendrow
+> 
+>> [!muse]+ Physical Description
+>> - *species:* 
+>> - *race:* 
+>> - *ethnicity:* 
 >> - *additional ethnicities/cultures:* 
->> - *height:* 167 cm
->> 	- 5 ft 5.75 in
+>> - *height:*  cm
+>> 	-  ft  in
 >> - *body shape:* 
->> - *hair:* Drow White (*DL*)
->> - *eyes:* Pale Ice Blue (*Glamoured - Both Eyes*)
->> 	- White Sclera (*Glamoured -  Both Eyes*)
->> 	- Feydark (*Left Eye Only*)
->> 	- Prince of Frost (*Right Eye*) — Pact Binding Mark
->> 	- Blue Sclera (*Both Eyes*)
->> - *complexion:* Starlight Enclave (*12*)
->> #### Demographics 
->> - *planet of origin:* Toril
->> - *place of birth:* Callidae - The North - Faerûn
->> - *homeworld:* Toril
+>> - *hair:* 
+>> - *eyes:* 
+>> - *complexion:* 
+> 
+>> [!muse]- Demographics 
+>> - *planet of origin:* 
+>> - *place of birth:* 
+>> - *homeworld:* 
 >> - *nationality:* 
 >> - *home town:* 
->> #### Communication 
->> - *known languages:* Common
->> 	- Callidean Drow
->> 	- Elvish	
->> 	- Sylvan
->> 	- Primordial
->> 	- Undercommon
->> 	- Drow
->> 	- Drow Sign
->> 	- Thieves' Cant
->> #### Social Standing & Affiliations 
->> - *affiliated organizations:* Long Night Scions
->> - *extended affiliations:* Winter Court - Faerie
->> - *employer(s)/patron(s):* Prince of Frost
->> - *occupation(s):* Archfey Warlock 
->> 	- Misfortune Bringer
->> - *title(s):* Long Night Scion
->> #### Spiritual Beliefs 
->> - *beliefs:* Faithful
->> - *patron deity:* Corellon Larethian
->> - *pantheon:* Seldarine
->> #### Origin Attributes 
->> - *class (primary):* Wintertouched Long Night Scion — *Archfey Warlock*
->> - *class (secondary):* Misfortune Bringer — *Rogue*
->> - *class (tertiary):* Frozen Sorcery — *Sorcerer*
->> - *class (additional support):* 
->> - *fighting style:* Spellblade
->> 	- Ice (Cold) Magic
->> 	- Faerie (Psychic) Magic
->> #### Current Status
->> - *current moral alignment:* Rebel Impure 
 > 
->> [!info]- Tumblr Tags
->> - ***in character:*** 
->> - ***open starters:*** 
->> - ***headcanons:*** 
->> - ***wishlist:*** 
->> - *desires:* 
->> - *musings:* 
->> - *aesthetics:* 
->> - *visage:* 
->> - *playlist:* 
+>> [!muse]- Communication 
+>> - *known languages:* 
+> 
+>> [!muse]- Social Standing & Affiliations 
+>> - *affiliated organizations:* 
+>> - *extended affiliations:* 
+>> - *employer(s)/patron(s):* 
+>> - *occupation(s):* 
+>> - *title(s):* 
+> 
+>> [!muse]- Spiritual Beliefs 
+>> - *beliefs:* 
+>> - *patron deity:* 
+>> - *pantheon:* 
+> 
+>> [!muse]+ Origin Attributes 
+>> - *class (primary):* 
+>> - *class (secondary):* 
+>> - *class (tertiary):* 
+>> - *class (additional support):* 
+>> - *fighting style:* 
+> 
+>> [!muse]+ Current Status
+>> - *current moral alignment:* 
+
+> [!info]- Tumblr Tags
+> - ***in character:*** 
+> - ***open starters:*** 
+> - ***headcanons:*** 
+> - ***wishlist:*** 
+> - *desires:* 
+> - *musings:* 
+> - *aesthetics:* 
+> - *visage:* 
+> - *playlist:* 
 
 # Canon Typical
 > [!summary]+ Absolute Crisis 

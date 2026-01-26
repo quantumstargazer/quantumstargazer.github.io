@@ -12,17 +12,74 @@
 > - *gender:* Nonbinary
 > - *pronouns:* They/Them/Themself
 > 	- She/Her/Herself 
+
+> [!muse]- Additional Information
 > 
->> [!info]- Tumblr Tags
->> - ***in character:*** 
->> - ***open starters:*** 
->> - ***headcanons:*** 
->> - ***wishlist:*** 
->> - *desires:* 
->> - *musings:* 
->> - *aesthetics:* 
->> - *visage:* 
->> - *playlist:* 
+>> [!muse]+ Age
+>> - *apparent age:* XX +/- years
+>> - *date of birth:* YEAR
+>> 	- DAY of MONTH
+>  
+>> [!muse]+ Personal Identity 
+>> - *sexual orientation:* 
+>> 	- *polyamory:* open to plotting
+>> - *MBTI:* 
+>> - *Enneagram:* 
+> 
+>> [!muse]+ Physical Description
+>> - *species:* 
+>> - *race:* 
+>> - *ethnicity:* 
+>> - *additional ethnicities/cultures:* 
+>> - *height:*  cm
+>> 	-  ft  in
+>> - *body shape:* 
+>> - *hair:* 
+>> - *eyes:* 
+>> - *complexion:* 
+> 
+>> [!muse]- Demographics 
+>> - *planet of origin:* 
+>> - *place of birth:* 
+>> - *homeworld:* 
+>> - *nationality:* 
+>> - *home town:* 
+> 
+>> [!muse]- Communication 
+>> - *known languages:* 
+> 
+>> [!muse]- Social Standing & Affiliations 
+>> - *affiliated organizations:* 
+>> - *extended affiliations:* 
+>> - *employer(s)/patron(s):* 
+>> - *occupation(s):* 
+>> - *title(s):* 
+> 
+>> [!muse]- Spiritual Beliefs 
+>> - *beliefs:* 
+>> - *patron deity:* 
+>> - *pantheon:* 
+> 
+>> [!muse]+ Origin Attributes 
+>> - *class (primary):* 
+>> - *class (secondary):* 
+>> - *class (tertiary):* 
+>> - *class (additional support):* 
+>> - *fighting style:* 
+> 
+>> [!muse]+ Current Status
+>> - *current moral alignment:* 
+
+> [!info]- Tumblr Tags
+> - ***in character:*** 
+> - ***open starters:*** 
+> - ***headcanons:*** 
+> - ***wishlist:*** 
+> - *desires:* 
+> - *musings:* 
+> - *aesthetics:* 
+> - *visage:* 
+> - *playlist:* 
 
 # Canon Typical
 > [!summary]+ Wandering Dirge

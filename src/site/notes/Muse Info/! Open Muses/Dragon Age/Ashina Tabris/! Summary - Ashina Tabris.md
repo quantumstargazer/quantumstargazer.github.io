@@ -10,19 +10,79 @@
 > - *name:* Ashina de Riva
 > 	- ~~Ashina Tabris~~ [^1]
 > - *nickname:* Ash
+> - *alias:* The Black Shadow's Grey Raven (*Bane of the Antivan Crows — 9:31 - 9:33 Dragon*)
+> 	- The Dark Wolf of Denerim
+> 	- Warden Tathas Arainai - The Hero of Ferelden (*"deceased" as of 9:33 Dragon*)
 > - *gender:* Female
 > - *pronouns:* She/Her/Herself
+
+> [!muse]- Additional Information
 > 
->> [!info]- Tumblr Tags
->> - ***in character:*** [IC ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Ashina+Tabris)
->> - ***open starters:*** [Open Starter ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Ashina+Tabris)
->> - ***headcanons:*** [Headcanon ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Ashina+Tabris)
->> - ***wishlist:*** [Wishlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Ashina+Tabris)
->> - *desires:* [Desires ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Ashina+Tabris)
->> - *musings:* [Musings ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Ashina+Tabris)
->> - *aesthetics:* [Aesthetics ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Ashina+Tabris)
->> - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
->> - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
+>> [!muse]+ Age
+>> - *apparent age:* XX +/- years
+>> - *date of birth:* YEAR
+>> 	- DAY of MONTH
+>  
+>> [!muse]+ Personal Identity 
+>> - *sexual orientation:* 
+>> 	- *polyamory:* open to plotting
+>> - *MBTI:* 
+>> - *Enneagram:* 
+> 
+>> [!muse]+ Physical Description
+>> - *species:* 
+>> - *race:* 
+>> - *ethnicity:* 
+>> - *additional ethnicities/cultures:* 
+>> - *height:*  cm
+>> 	-  ft  in
+>> - *body shape:* 
+>> - *hair:* 
+>> - *eyes:* 
+>> - *complexion:* 
+> 
+>> [!muse]- Demographics 
+>> - *planet of origin:* 
+>> - *place of birth:* 
+>> - *homeworld:* 
+>> - *nationality:* 
+>> - *home town:* 
+> 
+>> [!muse]- Communication 
+>> - *known languages:* 
+> 
+>> [!muse]- Social Standing & Affiliations 
+>> - *affiliated organizations:* 
+>> - *extended affiliations:* 
+>> - *employer(s)/patron(s):* 
+>> - *occupation(s):* 
+>> - *title(s):* 
+> 
+>> [!muse]- Spiritual Beliefs 
+>> - *beliefs:* 
+>> - *patron deity:* 
+>> - *pantheon:* 
+> 
+>> [!muse]+ Origin Attributes 
+>> - *class (primary):* 
+>> - *class (secondary):* 
+>> - *class (tertiary):* 
+>> - *class (additional support):* 
+>> - *fighting style:* 
+> 
+>> [!muse]+ Current Status
+>> - *current moral alignment:* 
+
+> [!info]- Tumblr Tags
+> - ***in character:*** [IC ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Ashina+Tabris)
+> - ***open starters:*** [Open Starter ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Ashina+Tabris)
+> - ***headcanons:*** [Headcanon ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Ashina+Tabris)
+> - ***wishlist:*** [Wishlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Ashina+Tabris)
+> - *desires:* [Desires ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Ashina+Tabris)
+> - *musings:* [Musings ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Ashina+Tabris)
+> - *aesthetics:* [Aesthetics ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Ashina+Tabris)
+> - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
+> - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
 
 # Canon Typical
 > [!summary]+ Dragon Age
