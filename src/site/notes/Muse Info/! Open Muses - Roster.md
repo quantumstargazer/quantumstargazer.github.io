@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/"}
+{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","roster","open-muse"]}
 ---
 
 # Open Muses Roster
@@ -149,7 +149,6 @@
 
 
 ---
-#directory #rosters 
 # Footnotes
 [^1]: Verse & timeline dependant.
 
