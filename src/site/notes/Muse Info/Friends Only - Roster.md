@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/"}
+{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","roster","friends-only-muse"]}
 ---
 
 # Friends Only Roster 
@@ -158,5 +158,4 @@
 
 
 ---
-#directory #rosters 
 # Footnotes
