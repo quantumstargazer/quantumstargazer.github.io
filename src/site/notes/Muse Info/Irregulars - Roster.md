@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/irregulars-roster/"}
+{"dg-publish":true,"permalink":"/muse-info/irregulars-roster/","tags":["directory","roster","irregulars-muse"]}
 ---
 
 # Irregulars Roster
@@ -475,5 +475,4 @@
 
 
 ---
-#directory #rosters 
 # Footnotes
