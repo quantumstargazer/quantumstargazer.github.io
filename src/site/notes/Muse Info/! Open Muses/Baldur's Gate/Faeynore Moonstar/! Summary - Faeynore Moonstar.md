@@ -40,20 +40,24 @@
 >> - *complexion:* 
 > 
 >> [!muse]- Demographics 
->> - *planet of origin:* 
+>> - *planet of origin:* Toril
 >> - *place of birth:* 
->> - *homeworld:* 
+>> - *homeworld:* Toril
 >> - *nationality:* 
->> - *home town:* 
+>> - *home town:* Baldur's Gate
 > 
 >> [!muse]- Communication 
->> - *known languages:* 
+>> - *known languages:* Common
+>> - Elvish
+>> - Sylvan 
+>> - Infernal
+>> - Thieves' Cant
 > 
 >> [!muse]- Social Standing & Affiliations 
 >> - *affiliated organizations:* 
 >> - *extended affiliations:* 
 >> - *employer(s)/patron(s):* 
->> - *occupation(s):* 
+>> - *occupation(s):* Private Investigator 
 >> - *title(s):* 
 > 
 >> [!muse]- Spiritual Beliefs 
