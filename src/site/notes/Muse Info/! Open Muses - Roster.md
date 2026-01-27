@@ -3,10 +3,12 @@
 ---
 
 # Open Muses Roster
+
 > [!FAQ]- What Are Open Muses?
 > **Open Muses** are my *primary muses*, though that does *not* mean that they share the same activity level, as I base that off of *fandom* more than individual muse, as it tends to vary drastically, plus all of my muses have AUs for all of my primary fandoms. So while a muse's fandom might be tertiary in terms of activity, their verses/AUs for the primary fandom would likely have higher activity.
 > 
 > These are the muses that, unless you tell me you're *not* interested in them by filling out the (Dis)Interest Tracker form, then they are who I am more likely to throw your way at random, from any of their canon-based verses and/or fandom matched AUs.
+
 # Baldur's Gate
 ## Tavares Umbrafae
 *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*

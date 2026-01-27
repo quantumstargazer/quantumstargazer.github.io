@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/"}
+{"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/","tags":["directory","roster","by-request-only-muse"]}
 ---
 
 # By Request Only Roster
@@ -216,5 +216,4 @@
 
 
 ---
-#directory #rosters 
 # Footnotes
