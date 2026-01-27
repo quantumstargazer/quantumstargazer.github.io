@@ -29,6 +29,11 @@
 > [!main] Andarateia Cantori — corvusrookery
 > 
 
+## Mass Effect — Fandom Specific AUs
+### Mercenary Assassin
+> [!main] Garrus Vakarian — lanternlit
+> 
+
 # Best Friends Call Members
 > [!bfc]
 > 
