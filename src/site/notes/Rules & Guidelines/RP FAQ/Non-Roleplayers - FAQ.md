@@ -4,10 +4,9 @@
 
 # Non-Roleplayers
 
-
+---
 # Following
 Non-roleplayers *are* welcome to follow, if they wish, but I will *not* follow back. I only follow other independent roleplay blogs with whom I wish to write with, whose writers are 21+ years old, and whose own rules are compatible with my own.
-
 # Interacting
 ## Things Okay To Do
 - Ask about the characters I write
