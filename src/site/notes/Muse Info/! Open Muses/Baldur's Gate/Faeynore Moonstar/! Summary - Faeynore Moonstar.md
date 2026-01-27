@@ -41,7 +41,7 @@
 > 
 >> [!muse]- Demographics 
 >> - *planet of origin:* Toril
->> - *place of birth:* 
+>> - *place of birth:* Drelagara - Evermeet - Trackless Sea - The Feywild
 >> - *homeworld:* Toril
 >> - *nationality:* 
 >> - *home town:* Baldur's Gate
@@ -66,8 +66,8 @@
 >> - *pantheon:* 
 > 
 >> [!muse]+ Origin Attributes 
->> - *class (primary):* 
->> - *class (secondary):* 
+>> - *class (primary):* Medium - Investigator 
+>> - *class (secondary):* College of Glamour - Bard
 >> - *class (tertiary):* 
 >> - *class (additional support):* 
 >> - *fighting style:* 
