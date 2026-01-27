@@ -30,7 +30,7 @@
 > 
 >> [!muse]+ Physical Description
 >> - *species:* Human
->> - *race:* Enhanced Human ~~Biotic~~ (*limited biotics - not combat proficient*)
+>> - *race:* Enhanced Human ~~Biotic~~[^1]
 >> - *ethnicity:* Louisianan Creole
 >> - *additional ethnicities/cultures:* 
 >> - *height:* 170 cm
@@ -760,3 +760,5 @@
 
 ---
 # Footnotes
+
+[^1]: *limited biotics - not combat proficient*
