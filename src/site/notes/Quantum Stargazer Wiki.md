@@ -28,9 +28,9 @@
 > [!info]- Interest Assumed For All Open Muses
 > Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
-- [(Dis)Interest Tracker](https://tally.so/r/D4p7pb)
-- RP Preferences Tracker
-- [Best Friends Call](https://tally.so/r/eqraq0)[^1]
+- [(Dis)Interest Tracker](https://tally.so/r/D4p7pb) - *for telling me who you are &/or are **not** interested in interacting with*
+- RP Preferences Tracker - *for telling me your preferences for interactions, plotting, etc. (Coming Soon)*
+- [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call' with benefits*
 ## Interactions Calls
 > [!info]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
@@ -41,7 +41,7 @@
 # Rules & Guidelines
 - [[Rules & Guidelines/Actual Rules\|The Actual Rules]] - *must be read before following*
 - [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
-- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]]
+- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
 # Muse Rosters
 - [[Muse Info/! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
@@ -73,6 +73,8 @@
 >> - Star Trek
 >> - Stardew Valley
 >> - Supernatural
+
+
 
 ---
 # Footnotes
