@@ -58,7 +58,7 @@
 
 
 # Ships & Dynamics
-*These are connections with Private Verses & AUs only.*
+*These are connections with Private Verses & AUs that don't fit into any of the above categories only.*
 > [!shipdyn] 
 > 
 
