@@ -61,6 +61,8 @@
 *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé*
 > [!muse]- Viago Jr. (No Relation... Probably)
 > Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers were killed by Antivan Crows, and he was instead taken into House de Riva.
+> 
+> When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. While he begins training as a mage, he *also* doesn't give up his training as a rogue, and this eventually leads to his being trained as a Spellblade.
 
 - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo de Riva\|Dossiers & Verses]]
 - Connections
@@ -69,7 +71,9 @@
 ## Ward Ingellvar
 *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
 > [!muse]- Wisp to Spirit to Elf
-> TBA
+> What started as a curious little wisp with a desperate desire to learn was nurtured and taught by a greater Spirit of Wisdom[^2] until it grew into a Spirit of Learning in time. 
+> 
+> In 9:30 Dragon, Learning *finally* accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.
 
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward Ingellvar\|Dossiers & Verses]]
 - Connections
@@ -78,7 +82,7 @@
 ## Zevran Arainai
 *City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows* [^1]
 > [!muse]- From Shadow to Talon 
-> TBA
+In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if  they are destroyed completely, or he takes control of them himself.
 
 - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran Arainai\|Dossiers & Verses]]
 - Connections
@@ -87,7 +91,7 @@
 ## Haleir Lavellan
 *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
 > [!muse]- Inquisition Abandoned
-> TBA
+> In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 
 - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir Lavellan\|Dossiers & Verses]]
 - Connections
@@ -96,7 +100,7 @@
 ## Bertrand Ingellvar
 *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
 > [!muse]- Grand Necropolis Guard
-> TBA
+> A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
 
 - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand Ingellvar\|Dossiers & Verses]]
 - Connections
@@ -152,3 +156,4 @@
 # Footnotes
 [^1]: Verse & timeline dependant.
 
+[^2]: Intended to be Solas, but may be open to plotting.
