@@ -19,8 +19,8 @@
 > 
 >> [!muse]+ Age
 >> - *apparent age:* XX +/- years
->> - *date of birth:* YEAR
->> 	- DAY of MONTH
+>> - *date of birth:* 2154 CE
+>> 	- 11th of April
 >  
 >> [!muse]+ Personal Identity 
 >> - *sexual orientation:* 
@@ -29,48 +29,59 @@
 >> - *Enneagram:* 
 > 
 >> [!muse]+ Physical Description
->> - *species:* 
->> - *race:* 
->> - *ethnicity:* 
+>> - *species:* Human
+>> - *race:* Enhanced Human ~~Biotic~~ (*limited biotics - not combat proficient*)
+>> - *ethnicity:* Louisianan Creole
 >> - *additional ethnicities/cultures:* 
->> - *height:*  cm
->> 	-  ft  in
+>> - *height:* 170 cm
+>> 	- 5 ft 6.93 in
 >> - *body shape:* 
 >> - *hair:* 
 >> - *eyes:* 
 >> - *complexion:* 
 > 
 >> [!muse]- Demographics 
->> - *planet of origin:* 
->> - *place of birth:* 
->> - *homeworld:* 
+>> - *planet of origin:* Earth - Sol - Local - Milky Way
+>> - *place of birth:* New Orleans - Louisiana - United North American States
+>> - *homeworld:* Earth - Sol - Local - Milky Way
 >> - *nationality:* 
 >> - *home town:* 
 > 
 >> [!muse]- Communication 
->> - *known languages:* 
+>> - *known languages:* Galactic Trade Standard
+>> 	- Galactic Trade Sign 
+>> 	- Louisiana Creole (*native fluency*) 
+>> 	- English (*native fluency*)
+>> 	- Mandarin 
+>> 	- Spanish
+>> 	- Hindi
+>> 	- Arabic
+>> 	- United North American Sign (*UNASL*)
+>> 	- Khelish (*Quarian — non-fluent*)
+>> 	- Palaven Standard (*Turian — non-fluent*)
 > 
 >> [!muse]- Social Standing & Affiliations 
->> - *affiliated organizations:* 
->> - *extended affiliations:* 
->> - *employer(s)/patron(s):* 
->> - *occupation(s):* 
->> - *title(s):* 
+>> - *affiliated organizations:* Special Tactics & Reconnaissance 
+>> - *extended affiliations:* Human Systems Alliance
+>> - *employer(s)/patron(s):* Citadel Council 
+>> - *occupation(s):* Council Spectre 
+>> - *title(s):* Spectre
+>> 	- N7 Operative
 > 
 >> [!muse]- Spiritual Beliefs 
->> - *beliefs:* 
+>> - *beliefs:* Faithless
 >> - *patron deity:* 
 >> - *pantheon:* 
 > 
 >> [!muse]+ Origin Attributes 
->> - *class (primary):* 
->> - *class (secondary):* 
->> - *class (tertiary):* 
->> - *class (additional support):* 
->> - *fighting style:* 
+>> - *class (primary):* Engineer
+>> - *class (secondary):* Infiltrator
+>> - *class (tertiary):* Saboteur 
+>> - *class (additional support):* Biotic
+>> - *fighting style:* Infiltration Saboteur Engineer
 > 
 >> [!muse]+ Current Status
->> - *current moral alignment:* 
+>> - *current moral alignment:* Rebel Moral
 
 > [!info]- Tumblr Tags
 > - ***in character:*** 
