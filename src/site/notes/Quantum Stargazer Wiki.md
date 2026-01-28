@@ -24,6 +24,26 @@
 > If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering it's collaborative nature, then I'm *probably* not the roleplay partner for you.
 
 ---
+# Thread Tracking
+> [!tracker]+ Important Note About Thread Tracking
+> ***I do not use the RP Thread Tracker quite as intended.*** Most notably where the Archive and Queue is concerned.
+> - Any in character post tagged with "**; partnerurl / partnermuse & my muse / 000**" is intended to be added to the tracker.
+> - Only *active threads* are in the front most view, so I can keep tabs what I currently have going on.
+> - Threads that have been on "*their turn*" for 2+ months are sent to the Archive for storage until it is replied to — these threads are still accessible through the public view's dropdown menu to access Archived threads.
+> - Threads that have been on *my turn* for 2+ months are potentially sent to the Queue for storage if they're stuck in drafts due to low muse activity — again, they're still accessible through the dropdown menu to access Queued threads.
+> 	- These posts are *not* actually queued, however, as I *never* queue in character posts. It is just a functional way of setting them aside in the tracker so as not to overwhelm me when I know I'm not going to be replying to that post for a while, and it should automatically release it from being marked as queued when I do eventually get it posted.
+
+- **[Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads)** - *all threads, regardless of whose turn it is*
+- [**Ziggy’s Turn**](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) - *my turns only*
+
+> [!guideline]- Regarding Tracking & Dropped Threads
+> I *very rarely* drop threads myself simply due to a lack of interest, so this is *not* something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it *eventually*, or I will reach out and let you know that I need to drop it because I'm unable to find a way to continue it.
+> 
+> If you lose interest in a thread, *please just let me know* so I can mark it as dropped &/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I'm an avid reader of work-in-progress fics on AO3 — I will wait *literal years* for a continuation. 
+> 
+> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to the far kinder "they're probably just busy/too tired/brainfoggy/etc" side of things rather than "oh, they've lost interest and I should move on from that thread" that most neurotypical people assume.
+
+---
 # Interest Forms
 > [!info]- Interest Assumed For All Open Muses
 > Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
