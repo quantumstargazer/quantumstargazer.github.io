@@ -124,7 +124,9 @@
 
 > [!summary]+ Inquisition's Ghost
 > - *Time Travel Shenanigans AU*
+> 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -133,7 +135,9 @@
 
 > [!summary]+ Ancient Times
 > - *Time Travel Shenanigans AU*
+> 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -154,6 +158,7 @@
 > - *Pre-Mortal Origin AU*
 > 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -164,6 +169,7 @@
 ## Baldur's Gate AUs
 > [!summary]- Scion of the Outer Planes
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -172,6 +178,7 @@
 
 > [!summary]- Astral Drifter
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -180,6 +187,7 @@
 ## Dragon Age AUs
 > [!summary]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -188,6 +196,7 @@
 ## Mass Effect AUs
 > [!summary]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -197,6 +206,7 @@
 ### Doctor Who AUs
 > [!summary]- In Time & Space
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -205,6 +215,7 @@
 ### Elder Scrolls AUs
 > [!summary]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -213,6 +224,7 @@
 ### Stardew Valley AUs
 > [!summary]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -274,6 +286,7 @@
 ### Elder Scrolls AWs
 > [!summary]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
