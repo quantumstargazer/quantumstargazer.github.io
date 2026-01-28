@@ -98,7 +98,10 @@
 
 # Canon Typical
 > [!summary]+ Dragon Age
-> Summary goes here.
+> Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
+> 
+> In 9:50 Dragon, when the War of the Banners breaks out within the Necropolis, Ward is surprisingly at the forefront, leading to the destruction of the Baron and the other noble undead that took part in the uprising. With the living nobles up in arms over their tactics, Vorgoth and Myrna encourage Ward to leave the Necropolis for a time and see the world until tempers and minds can be calmed. It's during this time that Ward encounters Varric Tethras, who takes them under his wing as they join him and Harding in their quest to stop the Dread Wolf from destroying the world.
+> 
 >> [!info]- Verse Navigation 
 >> - [[Muse Info x/Dossier - Dragon Age (Ward Ingellvar)\|Dossier]]
 >> - Headcanons
@@ -107,7 +110,12 @@
 
 # Canon Divergent AUs
 > [!summary]+ Ghost of the Necropolis 
-> Summary goes here.
+> - *Recruitable Companion (Non-Rook) AU*
+> 
+> Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
+> 
+> When word reaches the Grand Necropolis of a new Blight plaguing Thedas, and the adventurers seeking to stop what is said to be ancient elven gods from blighting and destroying the world, they make their willingness to provide their own assistance known when Rook seeks to recruit Emmrich Volkarin for the Veilguard.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
