@@ -138,7 +138,7 @@
 > [!summary]+ Ancient Times
 > - *Time Travel AU*
 > 
-> Summary goes here.
+> When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and finds themself at the very moment of the Veil's creation, faced with a distraught ancient elf who is not quite so ancient in this time...
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -149,7 +149,10 @@
 > [!summary]+ Rebellion's Ghost
 > - *Alternate Origin AU*
 > 
-> Summary goes here.
+> Determined to prove there was another way, a Spirit of Learning — once Wisdom's pupil — seeks to learn how to take on physical form *without* the stolen blood of the titans. When they finally achieve such, the results aren't exactly... *ideal*, given their very obvious physical youth as an elven child — and a *very small one*, at that — but they are now in the material world, *physically*, and can go confront Solas with undeniable proof that they were correct that the Evanuris were not the *'wise and all knowing'* beings they liked to try to portray themselves as.
+> 
+> They quickly find themself in the midst of Fen'Harel's rebellion against the Evanuris, and little do they know just how precarious their own situation has become since taking on physical form as a result...
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -157,9 +160,9 @@
 >> - Wishlist 
 
 > [!summary]+ Spirit of Learning
-> - *Pre-Mortal Origin AU*
+> - *Pre-Physical Origin AU*
 > 
-> Summary goes here.
+> What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. 
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
