@@ -141,6 +141,8 @@
 >> - Wishlist 
 
 > [!summary]+ Rebellion's Ghost
+> - *Alternate Origin AU*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -149,6 +151,8 @@
 >> - Wishlist 
 
 > [!summary]+ Spirit of Learning
+> - *Pre-Mortal Origin AU*
+> 
 > Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
