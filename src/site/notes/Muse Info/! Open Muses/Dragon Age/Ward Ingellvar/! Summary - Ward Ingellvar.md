@@ -9,66 +9,81 @@
 > [!muse]+ Muse Info
 > - *name:* Ward Ingellvar 
 > - *nickname:* Ghost
-> - *alias:* 
+> - *alias:* Rook (*verse dependent*)
 > - *gender:* Agender
 > - *pronouns:* They/Them/Themself
 
 > [!muse]- Additional Information
 > 
 >> [!muse]+ Age
->> - *apparent age:* XX +/- years
->> - *date of birth:* YEAR
->> 	- DAY of MONTH
+>> - *apparent age:* 21 +/- years (*9:51 Dragon*)
+>> 	- 20 +/- years (*9:50 Dragon*)
+>> 	- 15 +/- years (*9:45 Dragon*)	
+>> 	- 10 +/- years (*9:40 Dragon*)
+>> 	- 5 +/- years (*9:35 Dragon*)
+>> 	- 0 +/- years (*9:30 Dragon*)
+>> - *date of birth:* 9:30 Dragon
+>> 	- 30th of Harvestmere
 >  
 >> [!muse]+ Personal Identity 
->> - *sexual orientation:* 
+>> - *sexual orientation:* Panromantic Demisexual
 >> 	- *polyamory:* open to plotting
->> - *MBTI:* 
+>> - *MBTI:* ISFP-T
 >> - *Enneagram:* 
 > 
 >> [!muse]+ Physical Description
->> - *species:* 
->> - *race:* 
->> - *ethnicity:* 
+>> - *species:* ~~Spirit of Learning~~ Elf
+>> - *race:* City Elf
+>> - *ethnicity:* Nevarran
 >> - *additional ethnicities/cultures:* 
->> - *height:*  cm
->> 	-  ft  in
+>> - *height:* 147 cm
+>> 	- 4 ft 9.87 in
 >> - *body shape:* 
->> - *hair:* 
->> - *eyes:* 
->> - *complexion:* 
+>> - *hair:* Shock White
+>> 	- Curly
+>> 	- Jaw length
+>> - *eyes:* Deathly Silver-White
+>> - *complexion:* TBA
+>> 	- Ritual Scarification
 > 
 >> [!muse]- Demographics 
->> - *planet of origin:* 
->> - *place of birth:* 
->> - *homeworld:* 
->> - *nationality:* 
->> - *home town:* 
+>> - *planet of origin:* Thedas (*planet name unknown*)
+>> - *place of birth:* Grand Necropolis - Nevarra
+>> - *homeworld:* Thedas (*planet name unknown*)
+>> - *nationality:* Nevarran
+>> - *home town:* Grand Necropolis - Nevarra
 > 
 >> [!muse]- Communication 
->> - *known languages:* 
+>> - *known languages:* Common Trade Tongue
+>> 	- Nevarran
+>> 	- Elvhen (*verse/timeline dependent*)
 > 
 >> [!muse]- Social Standing & Affiliations 
->> - *affiliated organizations:* 
+>> - *affiliated organizations:* Mourn Watch
 >> - *extended affiliations:* 
->> - *employer(s)/patron(s):* 
->> - *occupation(s):* 
->> - *title(s):* 
+>> - *employer(s)/patron(s):* Vorgoth
+>> 	- Myrna
+>> - *occupation(s):* Mourn Watch Death Caller
+>> - *title(s):* Mourn Watcher
 > 
 >> [!muse]- Spiritual Beliefs 
->> - *beliefs:* 
+>> - *beliefs:* Questioning
 >> - *patron deity:* 
 >> - *pantheon:* 
 > 
 >> [!muse]+ Origin Attributes 
->> - *class (primary):* 
+>> - *class (primary):* Necromancer - Mage
+>> 	- Death Caller (*Mourn Watch*)
+>> 	- Necromancy
+>> 	- Ice
 >> - *class (secondary):* 
 >> - *class (tertiary):* 
->> - *class (additional support):* 
->> - *fighting style:* 
+>> - *class (additional support):* Spirit Healing
+>> - *fighting style:* Staff
+>> 	- Spellblade & Orb
 > 
 >> [!muse]+ Current Status
->> - *current moral alignment:* 
+>> - *current moral alignment:* Chaotic Good
 
 > [!info]- Tumblr Tags
 > - ***in character:*** 
