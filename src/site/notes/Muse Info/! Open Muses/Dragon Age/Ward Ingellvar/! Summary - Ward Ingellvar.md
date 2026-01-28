@@ -125,7 +125,9 @@
 > [!summary]+ Inquisition's Ghost
 > - *Time Travel Shenanigans AU*
 > 
-> Summary goes here.
+> When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and wakes up back in their own quarters within Vorgoth's apartments in the Grand Necropolis — only it's a shockingly familiar moment in their past they wake to when they find their room coated in a thin layer of ice when their magic awakened triggered by the ripples in the Fade from the Breach opening in the south.
+> 
+> It is now 9:41 Dragon, Ward is inexplicably their twenty-something year old self's mind in their ten-year-old self's body, and Vorgoth is being as cryptic as always. Despite their unusual circumstances, they are likely the only one in the world who has even a *chance* of convincing Solas to change his plans, and so they are given the nigh impossible task of getting close to the Dread Wolf and try to convince him that *this world* is worth living in.
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
