@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/connections-ward-ingellvar/","tags":["connections"]}
 ---
 
-# Connections - Musename
+# Connections - Ward Ingellvar 
 > [!muse]+ Muse Info
-> - *name:* 
-> - *nickname:* 
-> - *gender:* 
-> - *pronouns:* 
+> - *name:* Ward Ingellvar 
+> - *nickname:* Ghost
+> - *gender:* Agender 
+> - *pronouns:* They/Them/Themself
 > 
 >> [!info]- Tumblr Tags
 >> - ***in character:*** 
