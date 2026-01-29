@@ -3,6 +3,8 @@
 ---
 
 # Exclusives
+> *I do **not** interact with duplicates of any of the following exclusive muses:*
+
 > [!main]- Jack Harkness (Doctor Who) — canspotatimeagent
 > - Blogwide — *exclusive for all muses in all verses*
 > - **Currently On Hiatus**
@@ -14,7 +16,7 @@
 >> - Astarion Ancunín
 > 
 >> [!shipdyn]- Mass Effect
->> - Wren Shepard
+>> - Wren Shepard (*Shepard in general*)
 >> - Garrus Vakarian
 >> - Tali'Zorah
 >> - EDI
@@ -32,6 +34,8 @@
 > *Blogwide for all of Argent's muses, but especially:*
 > - Viago de Riva
 > - Solas
+> - Andarateia Cantori
+> - Duncan
 
 # Best Friends Call Members
 ## All Muses
@@ -41,14 +45,14 @@
 
 
 ## Dragon Age Muses
-> [!bfc]- cantorisdiamond — Andarateia Cantori 
+> [!bfc]- Andarateia Cantori — cantorisdiamond
 > - *Ashina de Riva*
 > - *Zevran Arainai*
 > - *Viago de Riva*
 
 
 ## Mass Effect Muses
-> [!bfc]- codenamearchangel — Garrus Vakarian
+> [!bfc]- Garrus Vakarian — codenamearchangel
 > - *Isabela Shepard*
 > - *Nihlus Kryik*
 
@@ -61,6 +65,10 @@
 *These are connections with Private Verses & AUs that don't fit into any of the above categories only.*
 > [!shipdyn] 
 > 
+
+
+
+
 
 
 ---
