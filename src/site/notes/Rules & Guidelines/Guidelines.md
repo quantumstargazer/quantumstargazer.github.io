@@ -30,7 +30,7 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > 
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
 ### Include Full Prompt When Sending
-I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or include a link to the meme itself so I can find it later).
+I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself so I can find it later for the context).
 
 > [!guideline] Repeated Emojis & Mistaken Prompts For Sentence Starters
 > This is *especially* true for **emoji memes**[^4], as well as anything along the lines of **"*Send 'This is an example' for a starter about whatever the prompt is for*" style memes**, which are often easily confused for sentence starters if the full prompt isn't included.
@@ -40,8 +40,6 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
 ## Starters
-### Random Starters
-I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
 ### Requesting Starters
 You can request for me to write starters for your muses from mine *at any time* by filling out the **Starter Call form** linked in the pinned post and/or on the homepage of this site.
 
@@ -52,6 +50,8 @@ You can request for me to write starters for your muses from mine *at any time* 
 >
 >
 > The form *does* offer a "*Ziggy's Choice*" option for those who aren't picky and/or are feeling indecisive, though I may be slower to fill such requests if I don't have any direction whatsoever to work from.
+### Random Starters
+I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
 
 # Ships & Dynamics
 ## Multi-Shipping
@@ -66,17 +66,19 @@ While I'm *always* willing to test the waters with letting the characters have s
 ### Platonic
 Platonic dynamics are *still* chemistry based for *progression* — strangers, acquaintances, casual friends, coworkers, family, etc. are all baseline starting points for platonic dynamics, but the deeper the connection, the more important chemistry becomes.
 ### Queerplatonic
-Queerplatonic dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics.
+Queerplatonic[^6] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends, and is very much akin to what you'd expect from romantic dynamics, but without the actual romance side of things.
 ## Shipping
 ### Romanic Ships
 Romantic ships are *strictly* chemistry based — if the muses don't have chemistry, then a romantic ship isn't likely to develop. At least not without more plotting, and may require a soft reset of their interactions to try again.
 ### Sexual Ships
 Sexual ships — which may be *independent* of a romantic ship, in cases of more casual sexual dynamics — are *also* reliant on chemistry for actual progression, though this may be less necessary for more casual sexual encounters than for other sexual dynamics.
 ### Smut
-**No Ship/Dynamic Required To Start** — While I'm not here to write *just* smut, some of my muses are open to more casual sexual encounters than others, so it's not impossible to have smut be a part of the muses' dynamics without there being a need for anything beyond mutual agreement to test things out through in character interactions.
+**No Ship/Dynamic Required To Start** — While I am open to writing smut, it is *not* my primary focus. But some of my muses are open to more casual sexual encounters than others, so it's not impossible to have smut be a part of the muses' dynamics without there being a need for anything beyond mutual agreement to test things out through in character interactions.
 
 > [!guideline] Spicy Prompts Open To All Mutuals
-> This can be done simply my sending a prompt/meme from the ones tagged as "**Spicy**", for both in and/or out of character responses.
+> This can be done simply my sending a prompt/meme from the ones tagged as "**Spicy**", for both in and/or out of character responses. 
+> 
+> **Sending such is *not* considered forced shipping** — if I don't feel we're quite there yet, I will simply let the ask hang out in the inbox until a more suitable time to answer it.
 
 # Verses & AUs
 ## Private Verses & AUs
@@ -84,7 +86,7 @@ Private Verses & AUs are largely reserved for Mains, Best Friends Call Members, 
 
 Generally speaking, if I'm likely to want and/or need to have room to where I can make notes to track progression of the pairing's dynamics together, then I'll probably tag it as a private verse and have dedicated note pages to keep track of such things on here.
 ### Interacting In Other Muns' Private Verses & AUs
-It is *exceptionally rare* that I am willing to let anyone interact within any private verses, largely due to the fact that even mutual mutuals can one day *not be* mutuals anymore, and so there is the matter of untangling the mess then when it comes to dissolving those connections.
+It is *exceptionally rare* that I am willing to let anyone other than the intended partner interact within any private verses, largely due to the fact that even mutual mutuals can one day *not be* mutuals anymore, and so there is the matter of untangling the mess then when it comes to dissolving those connections.
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
@@ -127,3 +129,6 @@ As such, private verses are most likely available *only* for their intended part
 [^4]: Many of which don't even show up correctly on the desktop, plus emojis get reused between memes all the time, and with no expiration date on how long ago I reblogged something for someone to send it, those emojis are bound to have been used by multiple memes.
 
 [^5]: My social anxiety disorder simply just can't handle it, *especially* if it's involving people that I'm not actively friends with myself. So the likeliness of me agreeing to be a part of a group verse in any way is slim to none, with none being the more likely outcome.
+
+[^6]: A **queerplatonic relationship** is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
+	*source:* **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
