@@ -3,14 +3,223 @@
     <title>Quantum Stargazer Wiki</title>
     <link href="https://quantumstargazer.github.io//feed.xml" rel="self" />
     <link href="https://quantumstargazer.github.io/" />
-    <updated>2026-01-28T17:03:09Z</updated>
+    <updated>2026-01-29T05:57:05Z</updated>
     <id>https://quantumstargazer.github.io/</id>
+        <entry>
+            <title>
+                To Do
+                
+            </title>
+            <updated>2026-01-29T05:56:49Z</updated>
+            <id>https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/</id>
+            <content type="html">
+                &lt;h1 id=&quot;muse-info&quot; tabindex=&quot;-1&quot;&gt;Muse Info&lt;/h1&gt;
+&lt;h2 id=&quot;open-muses&quot; tabindex=&quot;-1&quot;&gt;Open Muses&lt;/h2&gt;
+&lt;h3 id=&quot;baldur-s-gate&quot; tabindex=&quot;-1&quot;&gt;Baldur&#39;s Gate&lt;/h3&gt;
+&lt;h4 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_0&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_0&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_1&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_1&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_2&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_2&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_3&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_3&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_4&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_4&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_5&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_5&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_6&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_6&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_7&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_7&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_8&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_8&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_9&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_9&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;faeynore-moonstar&quot; tabindex=&quot;-1&quot;&gt;Faeynore Moonstar&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_10&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_10&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_11&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_11&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_12&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_12&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_13&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_13&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_14&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_14&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_15&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_15&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_16&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_16&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_17&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_17&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_18&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_18&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_19&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_19&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;dirge&quot; tabindex=&quot;-1&quot;&gt;Dirge&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_20&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_20&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_21&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_21&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_22&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_22&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_23&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_23&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_24&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_24&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_25&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_25&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_26&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_26&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_27&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_27&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_28&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_28&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_29&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_29&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dragon Age&lt;/h3&gt;
+&lt;h4 id=&quot;ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Ashina de Riva née Tabris&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_30&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_30&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_31&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_31&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_32&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_32&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_33&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_33&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_34&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_34&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_35&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_35&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_36&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_36&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_37&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_37&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_38&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_38&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_39&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_39&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;zaehire-de-riva&quot; tabindex=&quot;-1&quot;&gt;Zaehire de Riva&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_40&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_40&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_41&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_41&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_42&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_42&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_43&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_43&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_44&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_44&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_45&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_45&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_46&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_46&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_47&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_47&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_48&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_48&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_49&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_49&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;leonardo-de-riva&quot; tabindex=&quot;-1&quot;&gt;Leonardo de Riva&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_50&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_50&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_51&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_51&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_52&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_52&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_53&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_53&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_54&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_54&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_55&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_55&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_56&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_56&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_57&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_57&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_58&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_58&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_59&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_59&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;ward-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Ward Ingellvar&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_60&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_60&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_61&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_61&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_62&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_62&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_63&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_63&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_64&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_64&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_65&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_65&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_66&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_66&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_67&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_67&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_68&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_68&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_69&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_69&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;zevran-arainai&quot; tabindex=&quot;-1&quot;&gt;Zevran Arainai&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_70&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_70&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_71&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_71&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_72&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_72&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_73&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_73&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_74&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_74&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_75&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_75&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_76&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_76&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_77&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_77&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_78&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_78&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_79&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_79&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;haleir-lavellan&quot; tabindex=&quot;-1&quot;&gt;Haleir Lavellan&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_80&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_80&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_81&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_81&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_82&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_82&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_83&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_83&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_84&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_84&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_85&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_85&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_86&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_86&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_87&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_87&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_88&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_88&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_89&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_89&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;bertrand-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Bertrand Ingellvar&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_90&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_90&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_91&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_91&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_92&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_92&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_93&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_93&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_94&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_94&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_95&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_95&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_96&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_96&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_97&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_97&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_98&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_98&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_99&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_99&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;mass-effect&quot; tabindex=&quot;-1&quot;&gt;Mass Effect&lt;/h3&gt;
+&lt;h4 id=&quot;isabela-shepard&quot; tabindex=&quot;-1&quot;&gt;Isabela Shepard&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_100&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_100&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_101&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_101&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_102&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_102&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_103&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_103&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_104&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_104&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_105&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_105&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_106&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_106&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_107&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_107&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_108&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_108&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_109&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_109&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;nihlus-kryik&quot; tabindex=&quot;-1&quot;&gt;Nihlus Kryik&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_110&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_110&quot;&gt; Summary - Dossiers &amp;amp; Verses&lt;/label&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_111&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_111&quot;&gt; Canon Typical&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_112&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_112&quot;&gt; Canon Divergent AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_113&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_113&quot;&gt; Fandom Specific AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_114&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_114&quot;&gt; Trapped In Another World AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_115&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_115&quot;&gt; Other Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_116&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_116&quot;&gt; Private Verses &amp;amp; AUs&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_117&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_117&quot;&gt; Connections&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_118&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_118&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_119&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_119&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/" />
+        </entry>
         <entry>
             <title>
                 RP FAQ
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/rp-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;frequently-asked-questions&quot; tabindex=&quot;-1&quot;&gt;Frequently Asked Questions&lt;/h1&gt;
@@ -140,7 +349,7 @@ I use a series of userscripts and stylesheets to make the tumblr dashboard acces
                 Guidelines
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/guidelines/</id>
             <content type="html">
                 &lt;h1 id=&quot;guidelines&quot; tabindex=&quot;-1&quot;&gt;Guidelines&lt;/h1&gt;
@@ -267,7 +476,7 @@ This can be done simply my sending a prompt/meme from the ones tagged as &amp;qu
                 Exclusivity - Rules
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/exclusivity-rules/</id>
             <content type="html">
                 &lt;h1 id=&quot;exclusivity&quot; tabindex=&quot;-1&quot;&gt;Exclusivity&lt;/h1&gt;
@@ -291,7 +500,7 @@ This can be done simply my sending a prompt/meme from the ones tagged as &amp;qu
                 Blacklist Tags - Rules
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/blacklist-tags-rules/</id>
             <content type="html">
                 &lt;h1 id=&quot;blacklist-tags-requested&quot; tabindex=&quot;-1&quot;&gt;Blacklist Tags Requested&lt;/h1&gt;
@@ -513,7 +722,7 @@ I am chronically ill and disabled, so blacklisting &lt;em&gt;literal dozens&lt;/
                 Interest Tracking Forms - Guidelines
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interest-tracking-forms-guidelines/</id>
             <content type="html">
                 &lt;h1 id=&quot;interest-tracking-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interest Tracking Forms - Guidelines&lt;/h1&gt;
@@ -580,7 +789,7 @@ If we haven&#39;t even said so much as &amp;quot;hello&amp;quot; to each other y
                 Interaction Forms - Guidelines
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interaction-forms-guidelines/</id>
             <content type="html">
                 &lt;h1 id=&quot;interaction-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interaction Forms - Guidelines&lt;/h1&gt;
@@ -606,7 +815,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
                 Non-Roleplayers - FAQ
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/non-roleplayers-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;non-roleplayers&quot; tabindex=&quot;-1&quot;&gt;Non-Roleplayers&lt;/h1&gt;
@@ -639,7 +848,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
                 Mature Audiences Only - FAQ
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/mature-audiences-only-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;rated-m-for-mature-audiences-only&quot; tabindex=&quot;-1&quot;&gt;Rated M for Mature Audiences Only&lt;/h1&gt;
@@ -716,7 +925,7 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
                 Fellow Stargazers - FAQ
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/fellow-stargazers-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;exclusives&quot; tabindex=&quot;-1&quot;&gt;Exclusives&lt;/h1&gt;
@@ -807,7 +1016,7 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
                 Do&#39;s &amp; Don&#39;t&#39;s - FAQ
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/do-s-and-don-t-s-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;do-s-and-amp-don-t-s-of-interacting&quot; tabindex=&quot;-1&quot;&gt;Do&#39;s &amp;amp; Don&#39;t&#39;s of Interacting&lt;/h1&gt;
@@ -857,7 +1066,7 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
                 Actual Rules
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/actual-rules/</id>
             <content type="html">
                 &lt;h1 id=&quot;the-actual-rules&quot; tabindex=&quot;-1&quot;&gt;The Actual Rules&lt;/h1&gt;
@@ -961,7 +1170,7 @@ I do not follow anyone whose only warnings for their blog consists of &amp;quot;
                 Quantum Stargazer Wiki
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//</id>
             <content type="html">
                 &lt;h1 id=&quot;quantum-stargazer-wiki&quot; tabindex=&quot;-1&quot;&gt;Quantum Stargazer Wiki&lt;/h1&gt;
@@ -1106,7 +1315,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
                 Irregulars - Roster
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/irregulars-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;irregulars-roster&quot; tabindex=&quot;-1&quot;&gt;Irregulars Roster&lt;/h1&gt;
@@ -1737,7 +1946,7 @@ TBA&lt;/p&gt;
                 Friends Only - Roster
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/friends-only-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;friends-only-roster&quot; tabindex=&quot;-1&quot;&gt;Friends Only Roster&lt;/h1&gt;
@@ -1955,7 +2164,7 @@ TBA&lt;/p&gt;
                 By Request Only - Roster
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/by-request-only-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;by-request-only-roster&quot; tabindex=&quot;-1&quot;&gt;By Request Only Roster&lt;/h1&gt;
@@ -2247,7 +2456,7 @@ TBA&lt;/p&gt;
                 ! Summary - Nihlus Kryik
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus-kryik/</id>
             <content type="html">
                 &lt;h1 id=&quot;nihlus-kryik&quot; tabindex=&quot;-1&quot;&gt;Nihlus Kryik&lt;/h1&gt;
@@ -2656,7 +2865,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Isabela Shepard
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela-shepard/</id>
             <content type="html">
                 &lt;h1 id=&quot;isabela-shepard&quot; tabindex=&quot;-1&quot;&gt;Isabela Shepard&lt;/h1&gt;
@@ -3876,7 +4085,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Zevran Arainai
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran-arainai/</id>
             <content type="html">
                 &lt;h1 id=&quot;zevran-arainai&quot; tabindex=&quot;-1&quot;&gt;Zevran Arainai&lt;/h1&gt;
@@ -4292,7 +4501,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Zaehire de Riva
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire-de-riva/</id>
             <content type="html">
                 &lt;h1 id=&quot;zaehire-de-riva&quot; tabindex=&quot;-1&quot;&gt;Zaehire de Riva&lt;/h1&gt;
@@ -4705,7 +4914,7 @@ Summary goes here.&lt;/p&gt;
                 Connections - Ward Ingellvar
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/connections-ward-ingellvar/</id>
             <content type="html">
                 &lt;h1 id=&quot;connections-ward-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Connections - Ward Ingellvar&lt;/h1&gt;
@@ -4789,7 +4998,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Ward Ingellvar
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward-ingellvar/</id>
             <content type="html">
                 &lt;h1 id=&quot;ward-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Ward Ingellvar&lt;/h1&gt;
@@ -5351,7 +5560,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Leonardo de Riva
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo-de-riva/</id>
             <content type="html">
                 &lt;h1 id=&quot;leonardo-de-riva&quot; tabindex=&quot;-1&quot;&gt;Leonardo de Riva&lt;/h1&gt;
@@ -5768,7 +5977,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Haleir Lavellan
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir-lavellan/</id>
             <content type="html">
                 &lt;h1 id=&quot;haleir-lavellan&quot; tabindex=&quot;-1&quot;&gt;Haleir Lavellan&lt;/h1&gt;
@@ -6217,7 +6426,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Bertrand Ingellvar
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand-ingellvar/</id>
             <content type="html">
                 &lt;h1 id=&quot;bertrand-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Bertrand Ingellvar&lt;/h1&gt;
@@ -6630,7 +6839,7 @@ Summary goes here.&lt;/p&gt;
                 Headcanons - Ashina Tabris
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina-tabris/</id>
             <content type="html">
                 &lt;h1 id=&quot;headcanons-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Headcanons - Ashina de Riva née Tabris&lt;/h1&gt;
@@ -6881,7 +7090,7 @@ TBA&lt;/p&gt;
                 0.1 D - Dragon Age - Ashina Tabris
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/dossiers-and-verses/0-1-d-dragon-age-ashina-tabris/</id>
             <content type="html">
                 &lt;h1 id=&quot;dossier-dragon-age-ashina-tabris&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age - Ashina Tabris&lt;/h1&gt;
@@ -7197,7 +7406,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
                 Connections - Ashina Tabris
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina-tabris/</id>
             <content type="html">
                 &lt;h1 id=&quot;connections-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Connections - Ashina de Riva née Tabris&lt;/h1&gt;
@@ -7267,7 +7476,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
                 ! Summary - Ashina Tabris
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina-tabris/</id>
             <content type="html">
                 &lt;h1 id=&quot;ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Ashina de Riva née Tabris&lt;/h1&gt;
@@ -8028,7 +8237,7 @@ Summary goes here.&lt;/p&gt;
                 0.1 D - Absolute Crisis - Tavares Umbrafae
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/dossiers-and-verses/0-1-d-absolute-crisis-tavares-umbrafae/</id>
             <content type="html">
                 &lt;h1 id=&quot;dossier-absolute-crisis&quot; tabindex=&quot;-1&quot;&gt;Dossier: Absolute Crisis&lt;/h1&gt;
@@ -8224,7 +8433,7 @@ TBA&lt;/p&gt;
                 ! Summary - Tavares Umbrafae
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares-umbrafae/</id>
             <content type="html">
                 &lt;h1 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h1&gt;
@@ -8640,7 +8849,7 @@ Summary goes here.&lt;/p&gt;
                 0.1 D - Private Investigator - Faeynore Moonstar
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/dossiers-and-verses/0-1-d-private-investigator-faeynore-moonstar/</id>
             <content type="html">
                 &lt;h1 id=&quot;dossier-verse&quot; tabindex=&quot;-1&quot;&gt;Dossier: Verse&lt;/h1&gt;
@@ -8845,7 +9054,7 @@ Faeynore has the Raven Queen&#39;s favour, though they themself never sought it 
                 ! Summary - Faeynore Moonstar
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore-moonstar/</id>
             <content type="html">
                 &lt;h1 id=&quot;faeynore-moonstar&quot; tabindex=&quot;-1&quot;&gt;Faeynore Moonstar&lt;/h1&gt;
@@ -9278,7 +9487,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Dirge
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/</id>
             <content type="html">
                 &lt;h1 id=&quot;dirge&quot; tabindex=&quot;-1&quot;&gt;Dirge&lt;/h1&gt;
@@ -9697,7 +9906,7 @@ Summary goes here.&lt;/p&gt;
                 ! Open Muses - Roster
                 
             </title>
-            <updated>2026-01-28T17:02:56Z</updated>
+            <updated>2026-01-29T05:56:49Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;open-muses-roster&quot; tabindex=&quot;-1&quot;&gt;Open Muses Roster&lt;/h1&gt;
