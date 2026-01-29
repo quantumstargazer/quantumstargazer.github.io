@@ -27,8 +27,8 @@
 >> - *Enneagram:* 
 > 
 >> [!muse]+ Physical Description
->> - *species:* 
->> - *race:* 
+>> - *species:* Turian
+>> - *race:* Turian
 >> - *ethnicity:* 
 >> - *additional ethnicities/cultures:* 
 >> - *height:*  cm
@@ -49,11 +49,11 @@
 >> - *known languages:* 
 > 
 >> [!muse]- Social Standing & Affiliations 
->> - *affiliated organizations:* 
+>> - *affiliated organizations:* Special Tactics & Reconnaissance 
 >> - *extended affiliations:* 
->> - *employer(s)/patron(s):* 
->> - *occupation(s):* 
->> - *title(s):* 
+>> - *employer(s)/patron(s):* Citadel Council 
+>> - *occupation(s):* Council Spectre 
+>> - *title(s):* Spectre
 > 
 >> [!muse]- Spiritual Beliefs 
 >> - *beliefs:* 
@@ -61,7 +61,7 @@
 >> - *pantheon:* 
 > 
 >> [!muse]+ Origin Attributes 
->> - *class (primary):* 
+>> - *class (primary):* Havoc Soldier
 >> - *class (secondary):* 
 >> - *class (tertiary):* 
 >> - *class (additional support):* 
