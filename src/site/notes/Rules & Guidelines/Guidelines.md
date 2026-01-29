@@ -21,7 +21,7 @@ You are *always* welcome to add context and/or expand on any meme and/or prompt 
 > As I *always* turn asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
 
 ### Continue As Threads
-You are *always* welcome to continue answered in character prompts/memes into threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
+You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 ### Prompts Never Expire
 There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the middle of summer, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
 
