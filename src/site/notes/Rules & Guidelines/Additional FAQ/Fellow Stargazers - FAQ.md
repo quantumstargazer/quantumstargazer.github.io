@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/additional-faq/fellow-stargazers-faq/","tags":["mains","exclusives","bfc-members","ship-partners","dynamic-partners","faq"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/additional-faq/fellow-stargazers-faq/","tags":["mains","exclusives","bfc-members","ship-partners","dynamic-partners","faq","rules","guidelines"]}
 ---
 
 # Exclusives
