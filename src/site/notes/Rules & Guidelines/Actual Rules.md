@@ -7,7 +7,7 @@
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
 # Don't Be A Dick
-This *should* got without saying, *and yet...*
+This *should* got without saying, *and yet...*[^1]
 
 # 21+ & Mutuals Only
 > [!caution]- Viewer Discretion Is Advised
@@ -24,9 +24,9 @@ If you don't have an age range that actively states you are *at least **21+*** l
 > Without any explanation, it's as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor.
 
 ## Don't Like? Don't Follow.
-If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^1] instead, so as to keep my content off your dash.
+If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
-If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^1]
+If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^2]
 
 # Banned & Restricted Content
 ## Tropes & Themes
@@ -39,10 +39,10 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > [!warning]+ Restricted Tropes & Themes
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
-> - scenes involving active labor and/or childbirth [^2]
+> - scenes involving active labor and/or childbirth [^3]
 ## Fandoms
 > [!danger]+ Banned Fandoms — No Follow &/or Interaction
-> - Harry Potter & Related Fandoms (JK Rowling)  [^3]
+> - Harry Potter & Related Fandoms (JK Rowling)  [^4]
 > - The Boys (2019)
 ## Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
@@ -55,8 +55,8 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > - Models
 
 > [!warning]+ Restricted Faceclaims
-> - Musicians [^4]
-> - Youtubers [^4]
+> - Musicians [^5]
+> - Youtubers [^5]
 
 # Additional Guidelines May Apply
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
@@ -66,10 +66,12 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 
 ---
 # Footnotes
-[^1]: I have severe memory issues due to various comorbid medical conditions, including a traumatic brain injury, so I sincerely *cannot* be relied on to remember if you merely unfollowed &/or soft blocked me. It is for the best that I simply *remain blocked*, and that if you move to a new blog in the future, *especially* if you change your username, that you continue to block me from the new blog(s) as well.
+[^1]: Given that I only write with those who are 21 years or older, if you've reached *that point* of your life and *still* don't know how to be a decent human being, then I truly would rather you go elsewhere, because I don't have the time nor the energy to deal with that kind of bullshit.
 
-[^2]: If pregnancy becomes a part of any interaction, the active labor and childbirth will be time skipped to when the baby has arrived and has been cleaned up — *no exceptions*.
+[^2]: I have severe memory issues due to various comorbid medical conditions, including a traumatic brain injury, so I sincerely *cannot* be relied on to remember if you merely unfollowed &/or soft blocked me. It is for the best that I simply *remain blocked*, and that if you move to a new blog in the future, *especially* if you change your username, that you continue to block me from the new blog(s) as well.
 
-[^3]: I don't care *how anti-JK Rowling* you are — I will *not* follow or interact with you if you have any Harry Potter muses or verses/AUs on your blog. If we are mutuals, and you add such muses and/or verses/AUs in the future, I will break mutual status by hard blocking you. There will be *no exceptions* to this rule.
+[^3]: If pregnancy becomes a part of any interaction, the active labor and childbirth will be time skipped to when the baby has arrived and has been cleaned up — *no exceptions*.
 
-[^4]: If they have *genuine face acting roles*, such as would be the case with someone like David Bowie in Labyrinth (1986), then they're fine. Cameos *do not count*, especially in the case of Youtubers.
+[^4]: I don't care *how anti-JK Rowling* you are — I will *not* follow or interact with you if you have any Harry Potter muses or verses/AUs on your blog. If we are mutuals, and you add such muses and/or verses/AUs in the future, I will break mutual status by hard blocking you. There will be *no exceptions* to this rule.
+
+[^5]: If they have *genuine face acting roles*, such as would be the case with someone like David Bowie in Labyrinth (1986), then they're fine. Cameos *do not count*, especially in the case of Youtubers.
