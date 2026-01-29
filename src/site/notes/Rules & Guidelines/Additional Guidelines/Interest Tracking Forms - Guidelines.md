@@ -10,7 +10,7 @@
 # (Dis)Interest Tracker
 Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[Muse Info/! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the (Dis)Interest Tracker form. 
 ## If Not Filled Out, All Open Muses Are Fair Game
-This form is *technically* optional, but if I start sending you muses you don't actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
+This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
 # RP Preference Tracker
 Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover as least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes post or a reblogged PSA.
@@ -21,23 +21,23 @@ This form is *completely optional*, but recommended, especially if you're wantin
 > [!info]- Intended For Mutuals Who Have Already Started Interacting
 > If we haven't even said so much as "hello" to each other yet, chances are it's too soon to fill this form out. This is effectively a *permanent starter call*, and if we've yet to start writing &/or plotting together, I'm not going to add you to the members list until we are.
 
-This is the closest thing I have to a permanent starter call, and it comes with additional benefits beyond my just sending you starters at random.
+This is the closest thing I have to a **permanent starter call**, and it comes with additional benefits beyond my just sending you starters at random.
 ## Terms of Use
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 
-- The right to send/tag you in starters whenever the whim takes me;
+- The right to **send/tag you in starters whenever** the whim takes me;
 - The right to send you a message via IM/Discord/Ask with plots/ideas for threads/AUs/general buffoonery;
 - The right to tag you in shit that I come across that makes me take pause and think ‘Yup. This is them. This is them to a T. This is our idiots.’;
-- The right to tag you in wishlist stuff;
-- The right to send you a shit tonne[^1] of prompts/memes should you reblog same;
+- The right to **tag you in wishlist stuff**;
+- The right to **send you a shit tonne[^1] of prompts/memes** should you reblog same;
 - The above rights are reciprocal;
-	- You can send/tag me in starters whenever the whim takes you, including whenever you post starter calls that I miss on the dash;
+	- You can **send/tag me in starters whenever** the whim takes you, *including whenever you post starter calls that I may have missed on the dash*;
 	- You can send me messages via Discord and/or tumblr ask with plots/ideas for threads/AUs/general buffoonery;
 	- You can tag me in shit that you come across that makes you take pause and think ‘Yup. This is them. This is them to a T. This is our idiots.’;
-	- You can tag me in wishlist stuff;
-	- You can send a shit tonne[^1] of prompts/memes at any time from anything I've reblogged — and even stuff I haven't[^2];
-	- You also gain automatic access to all of my muses (minus those that are by invitation only), though reply speeds for muses will often be slower than the primary muses as muse inspiration waxes and wanes;
-	- You don't have to specify a muse and/or verse when sending prompts/memes and whatnot (though it is still preferred that you do whenever possible); 
+	- You can **tag me in wishlist stuff**;
+	- You can **send a shit tonne[^1] of prompts/memes** at any time from anything I've reblogged — and even stuff I haven't[^2];
+	- You also gain automatic **access to all of my muses** (*minus those that are by **invitation only***), though reply speeds for muses will often be slower than the primary muses as muse inspiration waxes and wanes;
+	- You **don't have to specify a muse and/or verse when sending prompts/memes and whatnot** (though it is still preferred that you do whenever possible); 
 - To provide you with general messages of love, favour, and/or affection from now into perpetuity.
 
 The above call extends to all forms of ships, including but not restricted to: friendships, romantic ships, companionships, enemy combatant ships, apprenticeships, worships, and more.

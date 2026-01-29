@@ -21,10 +21,10 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 | Alpha/Beta/Omega (*Omegaverse*) | **no** — *no exceptions*                                |            **no** — *no exceptions*             |
 | rape (*noncon*)                 | **yes** — *if warned about*<br>*re: mostly backstory*   |            **no** — *no exceptions*             |
 | incest                          | **maybe** — *if warned about*<br>*re: mostly backstory* |             **maybe** — *if tagged*             |
-| sexual assault                  | **yes** — *if tagged*                                   |             **maybe** — *if tagged*             |
-| sexual abuse                    | **yes** — *if warned about*                             |             **maybe** — *if tagged*             |
-| sexual violence                 | **yes** — *if warned about*                             |             **maybe** — *if tagged*             |
-| sexual torture                  | **yes** — *if warned about*                             |             **maybe** — *if tagged*             |
+| sexual assault                  | **maybe** — *if tagged*                                 |             **maybe** — *if tagged*             |
+| sexual abuse                    | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
+| sexual violence                 | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
+| sexual torture                  | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
 | dubcon                          | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
 | pregnancy                       | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
 | pregnancy complications         | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
