@@ -97,7 +97,6 @@
 
 
 ---
-# Footnotes
 [^1]: Essentially a permanent starter call with benefits — this is the only permanent starter call you will find on my blog. It's mostly a major reliever of social anxiety for me, for having explicit permission to interact.
 
 [^2]: Incorporates Forgotten Realms and D&D/AD&D lore for individual characters as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters.
