@@ -3,6 +3,10 @@
 ---
 
 # Muse Info
+
+> [!ziggy] A Word From Ziggy
+> I am *only* focusing on the Open Muses for now. Once they are near competition, then I will start to add info to the other muses.
+
 ## Open Muses
 ### Baldur's Gate
 #### Tavares Umbrafae 
