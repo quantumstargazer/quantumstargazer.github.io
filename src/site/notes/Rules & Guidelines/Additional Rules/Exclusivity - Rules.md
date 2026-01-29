@@ -15,5 +15,3 @@ Do not make my muses your exclusives simply based on your following following my
 ## Close Friends Only For Exclusives
 If we're not *extremely* close friends out-of-character, my muses are *not* available to be your exclusives. I am not willing to be near *anyone's* exclusive portrayal of any given canon and/or canon-inspired muse, largely in part due to the fact that my activity is often so sporadic, it would not only be unfair to you to limit yourself in that way, but also unfair to me for you trying to place that expectation of availability on me, which I would not be able to guarantee to be able to maintain.
 
----
-# Footnotes

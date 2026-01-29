@@ -71,7 +71,3 @@ However, I do rely on the mobile app as well, so please tag posts with this aest
 
 
 
-
-
----
-# Footnotes

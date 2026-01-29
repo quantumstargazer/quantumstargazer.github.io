@@ -56,8 +56,6 @@ This is *not* a comprehensive list of what you might find on my blogs, though it
 
 
 
----
-# Footnotes
 [^1]: *Highly Selective Partners Only* — I am *extremely* selective about who I will write any kind of kink content and themes with, due to the nature of the content itself. But there *are* people with whom I write it, and not every aspect of it is consistently tagged with content warnings.
 
 [^2]: There are some dynamics in *private verses* where the consent may appear dubious from an outside perspective, but the *plotting* behind the scenes has ensured both muses are, in fact, fully consenting to any such sexual encounters, and/or they may be roleplaying themselves because they're kinky bastards that way.

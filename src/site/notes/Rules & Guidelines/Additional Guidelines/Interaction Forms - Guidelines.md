@@ -16,6 +16,3 @@ If you'd like me to send you some prompts &/or memes to your inbox, *especially*
 
 
 
-
----
-# Footnotes

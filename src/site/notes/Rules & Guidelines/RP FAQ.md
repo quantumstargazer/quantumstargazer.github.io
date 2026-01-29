@@ -56,8 +56,6 @@
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
 
----
-# Footnotes
 [^1]: That *don't* fall into the realm of "being a dick" — any and all anon hate is screen capped and mocked privately with my friends, while the messages themselves are blocked and/or reported.
 
 [^2]: This is made even worse when there is a lack of proper sentence case and punctuation, though I can usually tolerate it so long as paragraph breaks are used properly.
