@@ -10,6 +10,8 @@
 > - **Currently On Hiatus**
 
 # Mains
+> *I **do** interact with duplicates of any of my Mains that follow:*
+
 > [!main]- lanternlit (multifandom multimuse)
 > *Blogwide for all of Havu's muses & fandoms, but especially:*
 >> [!shipdyn]- Baldur's Gate
@@ -38,6 +40,8 @@
 > - Duncan
 
 # Best Friends Call Members
+> *I **do** interact with duplicates of any of the Best Friends Call muses that follow:*
+
 ## All Muses
 
 
@@ -63,6 +67,8 @@
 
 # Ships & Dynamics
 *These are connections with Private Verses & AUs that don't fit into any of the above categories only.*
+> *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow:*
+
 > [!shipdyn] 
 > 
 
