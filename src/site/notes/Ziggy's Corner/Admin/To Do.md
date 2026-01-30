@@ -2,10 +2,17 @@
 {"dg-publish":true,"permalink":"/ziggy-s-corner/admin/to-do/","tags":["ziggy-pinned","ziggy-to-do"]}
 ---
 
+# Wiki
+## Theme
+- [ ] Try to track down "dusty" overlay & get rid of it
+## Layout
+- [ ] Update templates to work with new theme
+- [ ] Redo notes with the new templates (this will be hell because there are *literal thousands* of notes)
+
 # Muse Info
 
 > [!ziggy] A Word From Ziggy
-> I am *only* focusing on the Open Muses for now. Once they are near competition, then I will start to add info to the other muses.
+> I am *only* focusing on the Open Muses for now, and prioritising just the summary pages for the moment with their Canon Typical & Canon Divergent AUs. Once they are nearer competition, then I will start to add info to the other AUs, as well as start on the other muses.
 
 ## Open Muses
 ### Baldur's Gate
