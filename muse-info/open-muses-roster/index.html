@@ -500,7 +500,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,s=arguments,a=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,s)}),t),a&&e.apply(i,s)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘K"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const s=Math.max(0,i-50),a=Math.min(r.length,s+n);let c=r.substring(s,a);return s>0&&(c="..."+c),a<r.length&&(c+="..."),c}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),s=i?i.innerHTML:"";return previewCache.set(e,s),s}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),s=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const a=document.querySelector(`.searchresult[data-index="${e}"]`);a&&a.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),s.style.display="none";const c=await fetchPreviewContent(n.url),o=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${o}\n            <div class="preview-body">${c}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-01-30T00:14:30.767Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="",hidePreview(),void(t&&t.classList.add("no-preview"));if(e===lastSearch)return;window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),s=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${s}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,s=arguments,a=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,s)}),t),a&&e.apply(i,s)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘K"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const s=Math.max(0,i-50),a=Math.min(r.length,s+n);let c=r.substring(s,a);return s>0&&(c="..."+c),a<r.length&&(c+="..."),c}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),s=i?i.innerHTML:"";return previewCache.set(e,s),s}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),s=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const a=document.querySelector(`.searchresult[data-index="${e}"]`);a&&a.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),s.style.display="none";const c=await fetchPreviewContent(n.url),o=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${o}\n            <div class="preview-body">${c}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-01-30T00:40:46.102Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="",hidePreview(),void(t&&t.classList.add("no-preview"));if(e===lastSearch)return;window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),s=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${s}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian">
 <header>
 <div class="header-meta">
@@ -515,11 +515,14 @@
 </div></div>
 <h1 id="baldur-s-gate" tabindex="-1">Baldur's Gate</h1>
 <h2 id="tavares-umbrafae" tabindex="-1">Tavares Umbrafae</h2>
-<p><em>Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Archfey Warlock of the Prince of Frost<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Tavares Umbrafae<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-Tavares is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after &quot;<em>seven years and a day</em>&quot; that proved to have lasted <em>decades</em> longer than were claimed.</p>
+<em>Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer</em><br>
+<picture src="/img/user/z%20Assets/Attachments/20250810034220.png" alt="20250810034220.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/SOcd8BIJlT-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/SOcd8BIJlT-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/20250810034220.png" alt="20250810034220.png|red|100" width="100px"></picture></p>
+<p>Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after &quot;<em>seven years and a day</em>&quot; that proved to have lasted <em>decades</em> longer than were claimed.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares-umbrafae/">Dossiers &amp; Verses</a></li>
@@ -528,11 +531,14 @@ Tavares is an archfey warlock in service of the Prince of Frost, tasked with bri
 <li>Wishlists</li>
 </ul>
 <h2 id="faeynore-moonstar" tabindex="-1">Faeynore Moonstar</h2>
-<p><em>Moon Elf — Private Investigator &amp; Spirit Medium — College of Glamour Bard</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Baldur's Gate PI for Over 200 Years<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Faeynore Moonstar<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - <em>including</em> Magistrate Astarion Ancunín before his death some two centuries prior.</p>
+<em>Moon Elf — Private Investigator &amp; Spirit Medium — College of Glamour Bard</em><br>
+<picture src="/img/user/z%20Assets/Attachments/20250726145030.png" alt="20250726145030.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/u_NTUtTQBw-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/u_NTUtTQBw-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/20250726145030.png" alt="20250726145030.png|red|100" width="100px"></picture></p>
+<p>Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - <em>including</em> Magistrate Astarion Ancunín before his death some two centuries prior.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore-moonstar/">Dossiers &amp; Verses</a></li>
@@ -541,11 +547,14 @@ Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has 
 <li>Wishlists</li>
 </ul>
 <h2 id="dirge" tabindex="-1">Dirge</h2>
-<p><em>Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="caution"><div class="callout-title"><div class="callout-title-inner"> The Dark Urge<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Dirge<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-Unable to recall their life from <em>before</em> the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look <em>so much better</em> as a pretty corpse...</p>
+<em>Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk</em><br>
+<picture src="/img/user/z%20Assets/Attachments/Dirge%20temp01.png" alt="Dirge temp01.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/ORenSPCPWh-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/ORenSPCPWh-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/Dirge%20temp01.png" alt="Dirge temp01.png|red|100" width="100px"></picture></p>
+<p>Unable to recall their life from <em>before</em> the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look <em>so much better</em> as a pretty corpse...</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/">Dossiers &amp; Verses</a></li>
@@ -555,11 +564,14 @@ Unable to recall their life from <em>before</em> the nautiloid, they only know t
 </ul>
 <h1 id="dragon-age" tabindex="-1">Dragon Age</h1>
 <h2 id="ashina-de-riva-nee-tabris" tabindex="-1">Ashina de Riva née Tabris</h2>
-<p><em>City Elf — <s>Grey Wardens</s> (defected) Antivan Crows — Master Assassin</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Hero of Ferelden turned Antivan Crow<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Ashina de Riva<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-Ashina was conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of &quot;<em>Tathas Arainai</em>&quot;. By 9:31 Dragon, she was notoreous among the Wardens by having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and then letting it live. The First Warden issued orders for her to be brought in — <em>alive</em> — to Weisshaupt for questioning. No warden had survived the attempt until she was said to have been killed by the Antivan Crows in 9:33 Dragon.</p>
+<em>City Elf — <s>Grey Wardens</s> (defected) Antivan Crows — Master Assassin</em><br>
+<picture src="/img/user/z%20Assets/Attachments/Ash001.png" alt="Ash001.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/PRkdQZ2eOX-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/PRkdQZ2eOX-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/Ash001.png" alt="Ash001.png|red|100" width="100px"></picture></p>
+<p>Ashina was conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of &quot;<em>Tathas Arainai</em>&quot;. By 9:31 Dragon, she was notoreous among the Wardens by having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and then letting it live. The First Warden issued orders for her to be brought in — <em>alive</em> — to Weisshaupt for questioning. No warden had survived the attempt until she was said to have been killed by the Antivan Crows in 9:33 Dragon.</p>
 <p>In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows.</p>
 </div></div>
 <ul>
@@ -569,11 +581,14 @@ Ashina was conscripted against her will into the Grey Wardens at the start of th
 <li>Wishlists</li>
 </ul>
 <h2 id="zaehire-de-riva" tabindex="-1">Zaehire de Riva</h2>
-<p><em><s>Casteless Royal Bastard</s> Dwarf — Antivan Crows — Assassin Duelist — Viago's Protégé</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Casteless Bastard of Prince Trian Aeducan<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Zaehire de Riva<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow. She would later be freed from House Arainai by the Black Shadow, who would aid her in getting as far as Salle, where she would be taken in by House de Riva.</p>
+<em><s>Casteless Royal Bastard</s> Dwarf — Antivan Crows — Assassin Duelist — Viago's Protégé</em><br>
+<picture src="/img/user/z%20Assets/Attachments/Zae001.png" alt="Zae001.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/5cRy6Ms2ID-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/5cRy6Ms2ID-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/Zae001.png" alt="Zae001.png|red|100" width="100px"></picture></p>
+<p>Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow. She would later be freed from House Arainai by the Black Shadow, who would aid her in getting as far as Salle, where she would be taken in by House de Riva.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire-de-riva/">Dossiers &amp; Verses</a></li>
@@ -582,11 +597,14 @@ Purchased by a House Arainai from her noblehunter mother in Orzammar mere days a
 <li>Wishlists</li>
 </ul>
 <h2 id="leonardo-de-riva" tabindex="-1">Leonardo de Riva</h2>
-<p><em>Human <s>Noble Orphan</s> Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Viago Jr. (No Relation... Probably)<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Leonardo de Riva<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers were killed by Antivan Crows, and he was instead taken into House de Riva.</p>
+<em>Human <s>Noble Orphan</s> Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé</em><br>
+<picture src="/img/user/z%20Assets/Attachments/Leo001.png" alt="Leo001.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/D-KWcqqPbw-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/D-KWcqqPbw-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/Leo001.png" alt="Leo001.png|red|100" width="100px"></picture></p>
+<p>Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers were killed by Antivan Crows, and he was instead taken into House de Riva.</p>
 <p>When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. While he begins training as a mage, he <em>also</em> doesn't give up his training as a rogue, and this eventually leads to his being trained as a Spellblade.</p>
 </div></div>
 <ul>
@@ -596,11 +614,14 @@ Leonardo was the third son of a minor noble family in Salle, Antiva — a noble 
 <li>Wishlists</li>
 </ul>
 <h2 id="ward-ingellvar" tabindex="-1">Ward Ingellvar</h2>
-<p><em><s>Spirit of Learning</s> Elf — Mourn Watch — Mortalitasi Death Caller</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Wisp to Spirit to Elf<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Ward Ingellvar<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-What started as a curious little wisp with a desperate desire to learn was nurtured and taught by a greater Spirit of Wisdom<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> until it grew into a Spirit of Learning in time.</p>
+<em><s>Spirit of Learning</s> Elf — Mourn Watch — Mortalitasi Death Caller</em><br>
+<picture src="/img/user/z%20Assets/Attachments/Ward%20temp02.png" alt="Ward temp02.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/W2qwgmx9oq-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/W2qwgmx9oq-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/Ward%20temp02.png" alt="Ward temp02.png|red|100" width="100px"></picture></p>
+<p>What started as a curious little wisp with a desperate desire to learn was nurtured and taught by a greater Spirit of Wisdom<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> until it grew into a Spirit of Learning in time.</p>
 <p>In 9:30 Dragon, Learning <em>finally</em> accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.</p>
 </div></div>
 <ul>
@@ -610,11 +631,14 @@ What started as a curious little wisp with a desperate desire to learn was nurtu
 <li>Wishlists</li>
 </ul>
 <h2 id="zevran-arainai" tabindex="-1">Zevran Arainai</h2>
-<p><em>City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows</em> <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> From Shadow to Talon<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Zevran Arainai<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.</p>
+<em>City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows</em> <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup><br>
+<picture src="/img/user/z%20Assets/Attachments/zev%20temp.png" alt="zev temp.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/kiRtrRzTqq-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/kiRtrRzTqq-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/zev%20temp.png" alt="zev temp.png|red|100" width="100px"></picture></p>
+<p>In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran-arainai/">Dossiers &amp; Verses</a></li>
@@ -623,11 +647,14 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 <li>Wishlists</li>
 </ul>
 <h2 id="haleir-lavellan" tabindex="-1">Haleir Lavellan</h2>
-<p><em><s>Dalish Exile</s> Elf — <s>Inquisition</s> Followers of Fen'Harel — <s>Inquisitor</s> Agent of Fen'Harel</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Inquisition Abandoned<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Haleir Lavellan<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas <em>truly</em> is, instead joining him and his cause, following him through the eluvian.</p>
+<em><s>Dalish Exile</s> Elf — <s>Inquisition</s> Followers of Fen'Harel — <s>Inquisitor</s> Agent of Fen'Harel</em><br>
+<picture src="/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png" alt="Haleir Lavellan.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/twnt7jiEU1-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/twnt7jiEU1-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png" alt="Haleir Lavellan.png|red|100" width="100px"></picture></p>
+<p>In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas <em>truly</em> is, instead joining him and his cause, following him through the eluvian.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir-lavellan/">Dossiers &amp; Verses</a></li>
@@ -636,11 +663,14 @@ In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas <em>tru
 <li>Wishlists</li>
 </ul>
 <h2 id="bertrand-ingellvar" tabindex="-1">Bertrand Ingellvar</h2>
-<p><em>Qunari — Mourn Watch — Grand Necropolis Reaper Guard</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Grand Necropolis Guard<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Bertrand Ingellvar<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.</p>
+<em>Qunari — Mourn Watch — Grand Necropolis Reaper Guard</em><br>
+<picture src="/img/user/z%20Assets/Attachments/bert%20temp01.png" alt="bert temp01.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/2rhh6Fp_6a-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/2rhh6Fp_6a-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/bert%20temp01.png" alt="bert temp01.png|red|100" width="100px"></picture></p>
+<p>A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand-ingellvar/">Dossiers &amp; Verses</a></li>
@@ -650,11 +680,14 @@ A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch,
 </ul>
 <h1 id="mass-effect" tabindex="-1">Mass Effect</h1>
 <h2 id="isabela-shepard" tabindex="-1">Isabela Shepard</h2>
-<p><em>Human <s>Biotic</s> — Paragade — Council Spectre — Infiltration Saboteur Engineer</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> First Human Spectre<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Isabela Shepard<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+<em>Human <s>Biotic</s> — Paragade — Council Spectre — Infiltration Saboteur Engineer</em><br>
+<picture src="/img/user/z%20Assets/Attachments/20250818152450%20(1).png" alt="20250818152450 (1).png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/TGana-rgIQ-250.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/TGana-rgIQ-250.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/20250818152450%20(1).png" alt="20250818152450 (1).png|red|100" width="100px"></picture></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela-shepard/">Dossiers &amp; Verses</a></li>
@@ -663,11 +696,14 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="nihlus-kryik" tabindex="-1">Nihlus Kryik</h2>
-<p><em>Turian — Renegon — Council Spectre — Havoc Soldier</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> Survival Against The Odds<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Nihlus Kryik<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+<em>Turian — Renegon — Council Spectre — Havoc Soldier</em><br>
+<picture src="/img/user/z%20Assets/Attachments/nihlus000.png" alt="nihlus000.png|red|100" width="100px"><source media="(max-width:480px)" srcset="/img/optimized/i4hrRWP0TR-343.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/i4hrRWP0TR-343.jpeg">
+<img class="" src="/img/user/z%20Assets/Attachments/nihlus000.png" alt="nihlus000.png|red|100" width="100px"></picture></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus-kryik/">Dossiers &amp; Verses</a></li>
@@ -683,11 +719,11 @@ TBA</p>
 I'm not currently writing <em>any</em> of my Doctor Who muses. I just have them included here so as not to forget to add them later.</p>
 </div></div>
 <h3 id="eighth-doctor" tabindex="-1">Eighth Doctor</h3>
-<p><em>Time Lord (Renegade)</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -696,11 +732,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="carmen-sandiego" tabindex="-1">Carmen Sandiego</h3>
-<p><em>Time Lord (Renegade) — Celestial Intervention Agency (defected)</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
