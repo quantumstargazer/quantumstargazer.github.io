@@ -11,7 +11,7 @@
 > - *nickname:* Ash
 > - *alias:* The Black Shadow's Grey Raven (*Bane of the Antivan Crows — 9:31 - 9:33 Dragon*)
 > 	- The Dark Wolf of Denerim
-> 	- Warden Tathas Arainai - The Hero of Ferelden (*"deceased" as of 9:33 Dragon*)
+> 	- ***Warden*** Tathas Arainai - **The Hero of Ferelden** (*"deceased" as of 9:33 Dragon*)
 > - *gender:* Female
 > - *pronouns:* She/Her/Herself
 
