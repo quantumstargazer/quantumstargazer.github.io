@@ -15,7 +15,7 @@
 > - *gender:* Female
 > - *pronouns:* She/Her/Herself
 
-> [!muse]- Additional Information
+> [!profile]- Additional Information
 > 
 >> [!muse]+ Age
 >> - *apparent age:* XX +/- years
