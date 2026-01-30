@@ -3,7 +3,6 @@
 ---
 
 # Ashina de Riva née Tabris 
-> [!caption] Ashina de Riva (she/her)
 ![z Assets/Attachments/Ash001.png|250x250](/img/user/z%20Assets/Attachments/Ash001.png)
 
 > [!muse]+ Muse Info
