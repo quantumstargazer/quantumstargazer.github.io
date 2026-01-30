@@ -11,7 +11,7 @@
 
 # Baldur's Gate
 ## Tavares Umbrafae
-> [!profile]- Tavares Umbrafae
+> [!profile]+ Tavares Umbrafae
 > *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
 > ![20250810034220.png|red|100](/img/user/z%20Assets/Attachments/20250810034220.png)
 >  
@@ -22,7 +22,7 @@
 - Headcanons
 - Wishlists
 ## Faeynore Moonstar
-> [!profile]- Faeynore Moonstar
+> [!profile]+ Faeynore Moonstar
 > *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
 > ![20250726145030.png|red|100](/img/user/z%20Assets/Attachments/20250726145030.png)
 > 
@@ -33,7 +33,7 @@
 - Headcanons
 - Wishlists
 ## Dirge
-> [!profile]- Dirge
+> [!profile]+ Dirge
 > *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk*
 > ![Dirge temp01.png|red|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 > 
@@ -46,7 +46,7 @@
 
 # Dragon Age
 ## Ashina de Riva née Tabris
-> [!profile]- Ashina de Riva
+> [!profile]+ Ashina de Riva
 > *City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin*
 > ![Ash001.png|red|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
@@ -59,7 +59,7 @@
 - Headcanons
 - Wishlists
 ## Zaehire de Riva
-> [!profile]- Zaehire de Riva
+> [!profile]+ Zaehire de Riva
 > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist — Viago's Protégé*
 > ![Zae001.png|red|100](/img/user/z%20Assets/Attachments/Zae001.png)
 > 
@@ -70,7 +70,7 @@
 - Headcanons
 - Wishlists
 ## Leonardo de Riva
-> [!profile]- Leonardo de Riva
+> [!profile]+ Leonardo de Riva
 > *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé*
 > ![Leo001.png|red|100](/img/user/z%20Assets/Attachments/Leo001.png)
 > 
@@ -83,7 +83,7 @@
 - Headcanons
 - Wishlists
 ## Ward Ingellvar
-> [!profile]- Ward Ingellvar
+> [!profile]+ Ward Ingellvar
 > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
 > ![Ward temp02.png|red|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
@@ -96,7 +96,7 @@
 - Headcanons
 - Wishlists
 ## Zevran Arainai
-> [!profile]- Zevran Arainai
+> [!profile]+ Zevran Arainai
 > *City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows* [^2]
 > ![zev temp.png|red|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
@@ -107,7 +107,7 @@
 - Headcanons
 - Wishlists
 ## Haleir Lavellan
-> [!profile]- Haleir Lavellan
+> [!profile]+ Haleir Lavellan
 > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
 > ![Haleir Lavellan.png|red|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > 
@@ -118,7 +118,7 @@
 - Headcanons
 - Wishlists
 ## Bertrand Ingellvar
-> [!profile]- Bertrand Ingellvar
+> [!profile]+ Bertrand Ingellvar
 > *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
 > ![bert temp01.png|red|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
 > 
@@ -131,7 +131,7 @@
 
 # Mass Effect
 ## Isabela Shepard
-> [!profile]- Isabela Shepard
+> [!profile]+ Isabela Shepard
 > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
 > ![20250818152450 (1).png|red|100](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 > 
@@ -142,7 +142,7 @@
 - Headcanons
 - Wishlists
 ## Nihlus Kryik
-> [!profile]- Nihlus Kryik
+> [!profile]+ Nihlus Kryik
 > *Turian — Renegon — Council Spectre — Havoc Soldier*
 > ![nihlus000.png|red|100](/img/user/z%20Assets/Attachments/nihlus000.png)
 > 
@@ -159,7 +159,7 @@
 > I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
 
 ### Eighth Doctor
-> [!profile]- Musename
+> [!profile]+ Musename
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -169,7 +169,7 @@
 - Headcanons
 - Wishlists
 ### Carmen Sandiego 
-> [!profile]- Musename
+> [!profile]+ Musename
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
