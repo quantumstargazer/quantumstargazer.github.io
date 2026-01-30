@@ -3,7 +3,7 @@
 ---
 
 # Ashina de Riva née Tabris 
-
+> [!caption] Ashina de Riva (she/her)
 ![z Assets/Attachments/Ash001.png|250x250](/img/user/z%20Assets/Attachments/Ash001.png)
 
 > [!muse]+ Muse Info
@@ -20,8 +20,8 @@
 > 
 >> [!muse]+ Age
 >> - *apparent age:* XX +/- years
->> - *date of birth:* YEAR
->> 	- DAY of MONTH
+>> - *date of birth:* 9:06 Dragon
+>> 	- 30th of Harvestmere
 >  
 >> [!muse]+ Personal Identity 
 >> - *sexual orientation:* 
