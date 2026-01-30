@@ -13,7 +13,8 @@
 > - *gender:* Agender
 > - *pronouns:* They/Them/Themself
 
-> [!muse]- Additional Information
+> [!profile]- Additional Information
+> (*verse/timeline dependent*)
 > 
 >> [!muse]+ Age
 >> - *apparent age:* 21 +/- years (*9:51 Dragon*)
@@ -60,7 +61,7 @@
 > 
 >> [!muse]- Social Standing & Affiliations 
 >> - *affiliated organizations:* Mourn Watch
->> - *extended affiliations:* 
+>> - *extended affiliations:* —
 >> - *employer(s)/patron(s):* Vorgoth
 >> 	- Myrna
 >> - *occupation(s):* Mourn Watch Death Caller
@@ -68,17 +69,17 @@
 > 
 >> [!muse]- Spiritual Beliefs 
 >> - *beliefs:* Questioning
->> - *patron deity:* 
->> - *pantheon:* 
+>> - *patron deity:* —
+>> - *pantheon:* —
 > 
 >> [!muse]+ Origin Attributes 
 >> - *class (primary):* Necromancer - Mage
 >> 	- Death Caller (*Mourn Watch*)
 >> 	- Necromancy
 >> 	- Ice
->> - *class (secondary):* 
->> - *class (tertiary):* 
->> - *class (additional support):* Spirit Healing
+>> - *class (secondary):* —
+>> - *class (tertiary):* —
+>> - *class (additional support):* Spirit Healing (*verse/timeline dependent*)
 >> - *fighting style:* Staff
 >> 	- Spellblade & Orb
 > 
