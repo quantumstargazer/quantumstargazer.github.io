@@ -36,8 +36,9 @@ body {
 //	}
 
 body {
-    /* background-color: var(--workspace-background); */
+  background-color: transparent !important; /* Makes the background transparent */
 }
+
 
 p {
   font-size: 16px;  
