@@ -18,59 +18,89 @@
 > [!profile]- Additional Information
 > 
 >> [!muse]+ Age
->> - *apparent age:* XX +/- years
+>> - *apparent age:* 45 +/- years (*9:51 Dragon*)
+>> 	- 44 +/- years (*9:50 Dragon*)
+>> 	- 39 +/- years (*9:45 Dragon*)
+>> 	- 34 +/- years (*9:40 Dragon*)
+>> 	- 29 +/- years (*9:35 Dragon*)
+>> 	- 24 +/- years (*9:30 Dragon*)
 >> - *date of birth:* 9:06 Dragon
 >> 	- 30th of Harvestmere
 >  
 >> [!muse]+ Personal Identity 
->> - *sexual orientation:* 
+>> - *sexual orientation:* Biromantic Bisexual
 >> 	- *polyamory:* open to plotting
->> - *MBTI:* 
+>> - *MBTI:* ISTJ-T
 >> - *Enneagram:* 
 > 
 >> [!muse]+ Physical Description
->> - *species:* 
->> - *race:* 
->> - *ethnicity:* 
->> - *additional ethnicities/cultures:* 
->> - *height:*  cm
->> 	-  ft  in
+>> - *species:* Elf
+>> - *race:* City Elf
+>> - *ethnicity:* Antivan
+>> - *additional ethnicities/cultures:* Ferelden
+>> - *height:* 157 cm
+>> 	- 5 ft 1.81 in
 >> - *body shape:* 
->> - *hair:* 
->> - *eyes:* 
->> - *complexion:* 
+>> - *hair:* Black/Dark Brown
+>> 	- Dark Red Undertones/Highlights
+>> 	- Curly
+>> 	- Shoulder Length
+>> - *eyes:* Amber Brown
+>> - *complexion:* Brown Skin
+>> 	- Warm Orange-Red Undertones
+>> 	- Battle-Scarred
+>> 	- Tattooed
 > 
 >> [!muse]- Demographics 
->> - *planet of origin:* 
->> - *place of birth:* 
->> - *homeworld:* 
->> - *nationality:* 
->> - *home town:* 
+>> - *planet of origin:* Thedas (*planet name unknown*)
+>> - *place of birth:* Denerim Alienage - Ferelden
+>> - *homeworld:* Thedas (*planet name unknown*)
+>> - *nationality:* Antivan
+>> 	- Ferelden (*formerly*)
+>> - *home town:* Salle - Antiva
+>> 	- Denerim - Ferelden (*formerly*)
 > 
 >> [!muse]- Communication 
->> - *known languages:* 
+>> - *known languages:* Common Trade Tongue
+>> 	- Antivan
+>> 	- Qunlat
+>> 	- Elvhen[^2]
 > 
 >> [!muse]- Social Standing & Affiliations 
->> - *affiliated organizations:* 
->> - *extended affiliations:* 
->> - *employer(s)/patron(s):* 
->> - *occupation(s):* 
->> - *title(s):* 
+>> - *affiliated organizations:* Antivan Crows
+>> 	- House de Riva
+>> - *extended affiliations:* Grey Wardens (*defected in 9:33 Dragon*)
+>> - *employer(s)/patron(s):* Antivan Crows
+>> 	- Fifth Talon of House de Riva
+>> 	- Viago de Riva - Fifth Talon
+>> - *occupation(s):* Master Assassin of House de Riva
+>> 	- Warden-Commander of Antiva
+>> 	- Warden-Commander of Ferelden (*formerly*)
+>> 	- *De Facto* Arlessa of Amarathine (*formerly*)
+>> - *title(s):* Fifth Talon's Second
+>> 	- Commander of the Grey of Antiva
+>> 	- Dark Wolf of Denerim
+>> 	- Commander of the Grey of Ferelden (*formerly*)
+>> 	- *De Facto* Arlessa of Amaranthine (*formerly*)
+>> 	- Hero of Ferelden (*formerly*)
+>> 	- Champion of Redcliffee (*formerly*)
 > 
 >> [!muse]- Spiritual Beliefs 
->> - *beliefs:* 
->> - *patron deity:* 
->> - *pantheon:* 
+>> - *beliefs:* Faithless
+>> - *patron deity:* — 
+>> - *pantheon:* — 
 > 
 >> [!muse]+ Origin Attributes 
->> - *class (primary):* 
->> - *class (secondary):* 
->> - *class (tertiary):* 
->> - *class (additional support):* 
->> - *fighting style:* 
+>> - *class (primary):* Master Assassin (*Rogue*)
+>> - *class (secondary):* Duelist (*Rogue*)
+>> - *class (tertiary):* Shadow (*Rogue*)
+>> - *class (additional support):* Bard (*Rogue*)
+>> - *fighting style:* Dual Wielded Blades
+>> 	- Archery
+>> 	- Poisons
 > 
 >> [!muse]+ Current Status
->> - *current moral alignment:* 
+>> - *current moral alignment:* Chaotic Neutral
 
 > [!info]- Tumblr Tags
 > - ***in character:*** [IC ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Ashina+Tabris)
@@ -476,7 +506,6 @@
 
 
 
-
----
-# Footnotes
 [^1]: Ashina never uses her real name throughout the course of the Fifth Blight, and so the Hero of Ferelden is only known as *Tathas Arainai*, who is said to have been killed by Antivan Crows in 9:33 Dragon.
+
+[^2]: Learned from the trapped spirit in the Brecillian Forest during the Fifth Blight.
