@@ -37,7 +37,7 @@ body {
 
 div.callout-content {
   padding-left: 10px;
-  padding-right: 1px;
+  padding-right: 7.5px;
 }
 
 p {
@@ -54,15 +54,15 @@ nav.filetree-sidebar {
 
 
 .theme-dark {
-    --highlight-mix-blend-mode: none;
+    --highlight-mix-blend-mode: transparent;
 }
 
 .workspace, body {
-    background-color: none;
+    background-color: transparent;
 }
 
 .body {
-    background-color: none;
+    background-color: transparent;
 }
 
 
