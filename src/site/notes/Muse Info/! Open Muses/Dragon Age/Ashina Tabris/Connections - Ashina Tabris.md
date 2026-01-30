@@ -43,19 +43,50 @@
 > 
 
 # Desired Dynamics
+## Dragon Age
 > [!wishlist] Zevran Arainai 
+> 
+
+> [!wishlist] Morrigan
+> 
+
+> [!wishlist] Sten
+> 
+
+> [!wishlist] Shale
+> 
+
+> [!wishlist] Alistair
+> 
+
+> [!wishlist] Anders
+> 
+
+> [!wishlist] Viago de Riva
+> 
+
+> [!wishlist] Andarateia Cantori
+> 
+
+> [!wishlist] Chance
+> 
+
+> [!wishlist] Fletcher
+> 
+
+> [!wishlist] Heir
 > 
 
 > [!wishlist] Lucanis Dellamorte
 > 
 
+> [!wishlist] Jacobus
+> 
+
+> [!wishlist] Varric Tethras
+> 
+
+> [!wishlist] Dorian Pavus
+> 
 
 
-
-
-
-
-
-
----
-# Footnotes
