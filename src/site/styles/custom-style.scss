@@ -11,12 +11,32 @@ body {
     //   color: black;
     //  }
 
-.workspace, body {
-    background-color: #070918;
-}
+/***
+	ATTEMPT TO FIX FANCY-A-STORY CSS FOR WEB.
+***/
 
-p {
-  font-color: #f3f3f3;
+//	.workspace, body {
+//	    background-color: #070918;
+//	}
+//	
+//	.workspace, p {
+//	  font-color: #f3f3f3;
+//	}
+//	
+//	p {
+//	  font-size: 16px;  
+//	}
+//	
+//	ul li {
+//	  font-size: 16px;
+//	}
+//	
+//	nav.filetree-sidebar {
+//	  background-color: #121212;
+//	}
+
+.workspace, body {
+    /* background-color: var(--workspace-background); */
 }
 
 p {
@@ -30,6 +50,13 @@ ul li {
 nav.filetree-sidebar {
   background-color: #121212;
 }
+
+
+
+
+
+
+
 
 
 
