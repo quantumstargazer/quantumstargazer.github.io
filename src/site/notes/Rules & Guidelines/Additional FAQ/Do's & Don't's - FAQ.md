@@ -3,7 +3,23 @@
 ---
 
 # Do's & Don't's of Interacting
-TBA 
+## TL;DR 
+
+| Things                              |     | Do Them? |   Restrictions?    |
+| ----------------------------------- | --- | :------: | :----------------: |
+| Send unprompted asks                |     |   Yes    |       *None*       |
+| Send memes/prompts                  |     |   Yes    | *Mutuals Priority* |
+| Write me random starters            |     |   Yes    |   *Mutuals Only*   |
+| Reply to my open starters           |     |   Yes    |   *Mutuals Only*   |
+| Fill out interest forms             |     |   Yes    |   *Mutuals Only*   |
+| Take inspiration from my stuff      |     |   Yes    |       *None*       |
+| Ask questions about my stuff        |     |   Yes    |       *None*       |
+| Ask to start over                   |     |   Yes    |       *None*       |
+| Tell me if you want to ship         |     |   Yes    |       *None*       |
+| Discord message whenever **(24/7)** |     |   Yes    |   *Mutuals Only*   |
+| Random plot ideas                   |     |   Yes    |       *None*       |
+| Comment on HCs & other posts        |     |   Yes    |   *Mutuals Only*   |
+
 
 ---
 # Things You Should Do
