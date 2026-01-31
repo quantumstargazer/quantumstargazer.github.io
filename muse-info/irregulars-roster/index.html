@@ -500,7 +500,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,s=arguments,a=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,s)}),t),a&&e.apply(i,s)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘K"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const s=Math.max(0,i-50),a=Math.min(r.length,s+n);let c=r.substring(s,a);return s>0&&(c="..."+c),a<r.length&&(c+="..."),c}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),s=i?i.innerHTML:"";return previewCache.set(e,s),s}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),s=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const a=document.querySelector(`.searchresult[data-index="${e}"]`);a&&a.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),s.style.display="none";const c=await fetchPreviewContent(n.url),o=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${o}\n            <div class="preview-body">${c}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-01-31T07:26:50.183Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="",hidePreview(),void(t&&t.classList.add("no-preview"));if(e===lastSearch)return;window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),s=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${s}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,s=arguments,a=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,s)}),t),a&&e.apply(i,s)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘K"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const s=Math.max(0,i-50),a=Math.min(r.length,s+n);let c=r.substring(s,a);return s>0&&(c="..."+c),a<r.length&&(c+="..."),c}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),s=i?i.innerHTML:"";return previewCache.set(e,s),s}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),s=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const a=document.querySelector(`.searchresult[data-index="${e}"]`);a&&a.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),s.style.display="none";const c=await fetchPreviewContent(n.url),o=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${o}\n            <div class="preview-body">${c}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-01-31T09:01:01.975Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="",hidePreview(),void(t&&t.classList.add("no-preview"));if(e===lastSearch)return;window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),s=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${s}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian">
 <header>
 <div class="header-meta">
@@ -510,11 +510,11 @@
 <div class="callout" data-callout="warning"><div class="callout-title"><div class="callout-title-inner"> Mains &amp; Best Friends Call Members Only</div></div></div>
 <h1 id="baldur-s-gate" tabindex="-1">Baldur's Gate</h1>
 <h2 id="gale-dekarios" tabindex="-1">Gale Dekarios</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -523,11 +523,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="minsc" tabindex="-1">Minsc</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -536,11 +536,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="fisk-em-the-enigma-em" tabindex="-1">Fisk (<em>The Enigma</em>)</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -549,11 +549,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="halima" tabindex="-1">Halima</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -563,11 +563,11 @@ TBA</p>
 </ul>
 <h1 id="dragon-age" tabindex="-1">Dragon Age</h1>
 <h2 id="marian-hawke" tabindex="-1">Marian Hawke</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -576,11 +576,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="garrett-hawke" tabindex="-1">Garrett Hawke</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -589,11 +589,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="bethany-hawke" tabindex="-1">Bethany Hawke</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -602,11 +602,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="carver-hawke" tabindex="-1">Carver Hawke</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -615,11 +615,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="fenris" tabindex="-1">Fenris</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -628,11 +628,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="tamlen" tabindex="-1">Tamlen</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -641,11 +641,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="orabela-aeducan" tabindex="-1">Orabela Aeducan</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -654,11 +654,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="evka-ivo" tabindex="-1">Evka Ivo</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -667,11 +667,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="antoine" tabindex="-1">Antoine</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -681,11 +681,11 @@ TBA</p>
 </ul>
 <h2 id="veterans-of-the-fifth-blight" tabindex="-1">Veterans of the Fifth Blight</h2>
 <h3 id="aileas-cousland" tabindex="-1">Aileas Cousland</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -694,11 +694,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="bran-cousland" tabindex="-1">Bran Cousland</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -707,11 +707,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="isenril-mahariel" tabindex="-1">Isenril Mahariel</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -720,11 +720,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="lailani-sabrae" tabindex="-1">Lailani Sabrae</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -733,11 +733,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="satu-surana" tabindex="-1">Satu Surana</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -746,11 +746,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="selena-amell" tabindex="-1">Selena Amell</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -759,11 +759,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="kiran-brosca" tabindex="-1">Kiran Brosca</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -773,11 +773,11 @@ TBA</p>
 </ul>
 <h2 id="veterans-of-the-kirkwall-rebellions" tabindex="-1">Veterans of the Kirkwall Rebellions</h2>
 <h3 id="rowan-hawke" tabindex="-1">Rowan Hawke</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -786,11 +786,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="quincy-hawke" tabindex="-1">Quincy Hawke</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -800,11 +800,11 @@ TBA</p>
 </ul>
 <h2 id="veterans-of-the-inquisition" tabindex="-1">Veterans of the Inquisition</h2>
 <h3 id="garahel-ithalanas-lavellan" tabindex="-1">Garahel Ithalanas Lavellan</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -813,11 +813,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="rubi-cadash" tabindex="-1">Rubi Cadash</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -826,11 +826,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="tamik-adaar" tabindex="-1">Tamik Adaar</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -840,11 +840,11 @@ TBA</p>
 </ul>
 <h2 id="veterans-of-the-veilguard" tabindex="-1">Veterans of the Veilguard</h2>
 <h3 id="darcy-mercer" tabindex="-1">Darcy Mercer</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -853,11 +853,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="esha-laidir" tabindex="-1">Esha Laidir</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -866,11 +866,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="gertrude-ingellvar" tabindex="-1">Gertrude Ingellvar</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -879,11 +879,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="hakiem-aldwir" tabindex="-1">Hakiem Aldwir</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -892,11 +892,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="iven-thorne" tabindex="-1">Iven Thorne</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -905,11 +905,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="nikolas-mercer" tabindex="-1">Nikolas Mercer</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -918,11 +918,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="redmond-thorne" tabindex="-1">Redmond Thorne</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -932,11 +932,11 @@ TBA</p>
 </ul>
 <h1 id="mass-effect" tabindex="-1">Mass Effect</h1>
 <h2 id="urdnot-wrex" tabindex="-1">Urdnot Wrex</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -945,11 +945,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="garrus-vakarian" tabindex="-1">Garrus Vakarian</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -958,11 +958,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="tali-zorah" tabindex="-1">Tali'Zorah</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -971,11 +971,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="jeff-and-quot-joker-and-quot-moreau" tabindex="-1">Jeff &quot;Joker&quot; Moreau</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -984,11 +984,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="karin-chakwas" tabindex="-1">Karin Chakwas</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -997,11 +997,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="mordin-solus" tabindex="-1">Mordin Solus</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1010,11 +1010,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="thane-krios" tabindex="-1">Thane Krios</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1023,11 +1023,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="javik" tabindex="-1">Javik</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1036,11 +1036,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="jack" tabindex="-1">Jack</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1049,11 +1049,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="james-vega" tabindex="-1">James Vega</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1062,11 +1062,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="aria-t-loak" tabindex="-1">Aria T'Loak</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1075,11 +1075,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h2 id="aethyta" tabindex="-1">Aethyta</h2>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1095,11 +1095,11 @@ TBA</p>
 I'm not currently writing <em>any</em> of my Doctor Who muses. I just have them included here so as not to forget to add them later.</p>
 </div></div>
 <h3 id="osgood" tabindex="-1">Osgood</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1108,11 +1108,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="bill-potts" tabindex="-1">Bill Potts</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1121,11 +1121,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="toshiko-sato" tabindex="-1">Toshiko Sato</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1134,11 +1134,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="gabby-gonzalez" tabindex="-1">Gabby Gonzalez</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1147,11 +1147,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="cindy-wu" tabindex="-1">Cindy Wu</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1160,11 +1160,11 @@ TBA</p>
 <li>Wishlists</li>
 </ul>
 <h3 id="noobis" tabindex="-1">Noobis</h3>
-<p><em>QUICKINFO</em></p>
-<div class="callout is-collapsible is-collapsed" data-callout="muse"><div class="callout-title"><div class="callout-title-inner"> TBA<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profile"><div class="callout-title"><div class="callout-title-inner"> Musename<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
-TBA</p>
+!<a class="internal-link is-unresolved" href="/404" target="">red</a></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.</p>
 </div></div>
 <ul>
 <li>Dossiers &amp; Verses</li>
@@ -1172,8 +1172,6 @@ TBA</p>
 <li>Headcanons</li>
 <li>Wishlists</li>
 </ul>
-<hr>
-<h1 id="footnotes" tabindex="-1">Footnotes</h1>
 </main>
 <aside>
 <div class="sidebar">
@@ -1353,16 +1351,13 @@ Irregulars - Roster
 </li>
 </ol>
 </li>
-<li><a href="#footnotes">Footnotes</a>
-</li>
 </ol>
 </nav>
 </div>
 </div>
 <div class="backlinks">
 <div class="backlink-title">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card">
-<span class="no-backlinks-message">No other pages mentions this page</span>
+<div class="backlink-list"><div class="backlink-card"><i data-lucide="link"></i><a href="/" data-note-icon="" class="backlink">Quantum Stargazer Wiki</a>
 </div></div>
 </div>
 </div>
