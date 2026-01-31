@@ -21,6 +21,20 @@
 | Random plot ideas                   |     |   Yes    |       *None*       |
 | Comment on HCs & other posts        |     |   Yes    |       *None*       |
 
+| Things                           | Do Them? |       Consequences?       |
+| -------------------------------- | :------: | :-----------------------: |
+| Be a dick                        |    No    |        **Blocked**        |
+| Send anonymous hate              |    No    | **Blocked &/or Reported** |
+| Interact without reading rules   |    No    | **Dropped &/or Blocked**  |
+| Assume Muse = Mun                |    No    | **Dropped &/or Blocked**  |
+| Reblog posts that aren't for you |    No    |  **Warned &/or Blocked**  |
+| Use as rp resource blog          |    No    |  **Warned &/or Blocked**  |
+| Feed my writing into AI          |    No    | **Blocked &/or Reported** |
+| Use AI in our interactions       |    No    | **Dropped &/or Blocked**  |
+| Softblock Me                     |    No    |   ***Hardblock Only***    |
+| Assume canon accurate            |    No    | ***Warned &/or Dropped*** |
+|                                  |          |                           |
+
 
 ---
 # Things You Should Do
