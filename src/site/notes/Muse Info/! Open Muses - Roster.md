@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","roster","open-muse"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","rosters","open-muses"]}
 ---
 
 # Open Muses Roster
@@ -17,7 +17,7 @@
 >  
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 
-- [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares Umbrafae\|Dossiers & Verses]]
+- [[! Summary - Tavares Umbrafae\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -28,7 +28,7 @@
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
 
-- [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore Moonstar\|Dossiers & Verses]]
+- [[! Summary - Faeynore Moonstar\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -54,8 +54,8 @@
 > 
 > In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows.
 
-- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina Tabris\|Dossiers & Verses]]
-- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina Tabris\|Connections]]
+- [[! Summary - Ashina Tabris\|Dossiers & Verses]]
+- [[Connections - Ashina Tabris\|Connections]]
 - Headcanons
 - Wishlists
 ## Zaehire de Riva
@@ -65,7 +65,7 @@
 > 
 > Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow. She would later be freed from House Arainai by the Black Shadow, who would aid her in getting as far as Salle, where she would be taken in by House de Riva.
 
-- [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire de Riva\|Dossiers & Verses]]
+- [[! Summary - Zaehire de Riva\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -78,7 +78,7 @@
 > 
 > When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. While he begins training as a mage, he *also* doesn't give up his training as a rogue, and this eventually leads to his being trained as a Spellblade.
 
-- [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo de Riva\|Dossiers & Verses]]
+- [[! Summary - Leonardo de Riva\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -91,8 +91,8 @@
 > 
 > In 9:30 Dragon, Learning *finally* accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.
 
-- [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward Ingellvar\|Dossiers & Verses]]
-- [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward Ingellvar\|Connections]]
+- [[! Summary - Ward Ingellvar\|Dossiers & Verses]]
+- [[Connections - Ward Ingellvar\|Connections]]
 - Headcanons
 - Wishlists
 ## Zevran Arainai
@@ -102,7 +102,7 @@
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if  they are destroyed completely, or he takes control of them himself.
 
-- [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran Arainai\|Dossiers & Verses]]
+- [[! Summary - Zevran Arainai\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -113,7 +113,7 @@
 > 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 
-- [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir Lavellan\|Dossiers & Verses]]
+- [[! Summary - Haleir Lavellan\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -124,7 +124,7 @@
 > 
 > A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
 
-- [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand Ingellvar\|Dossiers & Verses]]
+- [[! Summary - Bertrand Ingellvar\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -137,7 +137,7 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela Shepard\|Dossiers & Verses]] 
+- [[! Summary - Isabela Shepard\|Dossiers & Verses]] 
 - Connections
 - Headcanons
 - Wishlists
@@ -148,7 +148,7 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus Kryik\|Dossiers & Verses]]
+- [[! Summary - Nihlus Kryik\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -180,8 +180,6 @@
 - Wishlists
 
 
----
-# Footnotes
 [^1]: Intended to be Solas, but may be open to plotting.
 
 [^2]: Verse & timeline dependant.

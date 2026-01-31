@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","roster","friends-only-muse"]}
+{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","rosters","friends-only-muses"]}
 ---
 
 # Friends Only Roster 
@@ -7,29 +7,34 @@
 > These muses are available for highly selective individuals only, and are not requestable by anyone but them.
 # Baldur's Gate
 ## Faertorithrue
-*Fey'ri Tiefling — Witchlight Carnival Hand*
-> [!muse]- TBA
-> TBA
+> [!profile]+ Faertorithrue
+> *Fey'ri Tiefling — Witchlight Carnival Hand*
+> ![20250816030845.png|red|100](/img/user/z%20Assets/Attachments/20250816030845.png)
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ## Fenmaer Dawngazer
-*Sun Elf — Cleric of Corellon*
-> [!muse]- TBA
-> TBA
+> [!profile]+ Fenmaer Dawngazer
+> *Sun Elf — Cleric of Corellon*
+> ![20250729084634.png|red|100](/img/user/z%20Assets/Attachments/20250729084634.png)
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ## Karlach Cliffgate
-> For [lanternlit](https://lanternlit.tumblr.com) only.
-
-*Tiefling — Barbarian*
-> [!muse]- TBA
-> TBA
+> [!profile]+ Karlach Cliffgate
+> > For [lanternlit](https://lanternlit.tumblr.com) only.
+> 
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -37,9 +42,10 @@
 - Wishlists
 # Dragon Age
 ## Musename
-*QUICKINFO*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -47,9 +53,10 @@
 - Wishlists
 # Mass Effect
 ## Avitus Rix
-*Turian — Council Spectre (Retired) — Turian Pathfinder*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -58,18 +65,20 @@
 # Other Fandoms
 ## The Elder Scrolls
 ### Inigo
-*QUICKINFO*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Courier
-*Human (probably) — Skyrim Courier*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -77,27 +86,30 @@
 - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
-*Human — Wizard*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Elliot
-*Human — Author*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Gunter
-*Human — Librarian Historian*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -107,9 +119,10 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of Tony as I'm working on designing his new AU origin. I just have him included here so as not to forget to add the info here later.
 ### Tony Stark
-*Human — Iron Man*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -119,36 +132,40 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
 ### Irving Braxiatel
-*Time Lord — Art Collector*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Bernice Summerfield
-*QUICKINFO*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Leela of the Sevateem
-*QUICKINFO*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
 - Wishlists
 ### Narvin
-*Time Lord — Celestial Intervention Agency Director*
-> [!muse]- TBA
-> TBA
+> [!profile]- Musename
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
@@ -156,6 +173,3 @@
 - Wishlists
 
 
-
----
-# Footnotes

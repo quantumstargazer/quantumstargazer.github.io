@@ -13,7 +13,7 @@
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
 ## RP Info
 - **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*
-- **Multi-Verse** - All [[! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
+- **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
 - **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
 - **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
 - **In Character Posts Immediately** - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.
@@ -63,10 +63,10 @@
 - [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
 - [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
 # Muse Rosters
-- [[! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
-- [[By Request Only - Roster\|By Request Only]] - *available only on request*
-- [[Friends Only - Roster\|Friends Only]] - *by invitation only*
-- [[Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
+- [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
+- [[Muse Info/Friends Only - Roster\|Friends Only]] - *by invitation only*
+- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
 ---
 # About the Mun
 - *name/alias:* Ziggy

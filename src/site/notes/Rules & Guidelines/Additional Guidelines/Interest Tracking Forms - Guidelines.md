@@ -8,7 +8,7 @@
 
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
 # (Dis)Interest Tracker
-Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the (Dis)Interest Tracker form. 
+Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[Muse Info/! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the (Dis)Interest Tracker form. 
 ## If Not Filled Out, All Open Muses Are Fair Game
 This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
