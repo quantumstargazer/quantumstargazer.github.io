@@ -87,7 +87,7 @@
 >  
 > As she ventures out onto the surface and away from the city in the ice, she falls victim to a mind flayer's nautiloid, where she is infected with one of their parasitic tadpoles before an attack on the ship leads to her and others like her finding their freedom within the wilderness of the Storm Coast, desperate for a cure before they themselves are turned into mind flayers.
 >> [!info]- Verse Navigation 
->> - [[Muse Info x/Dossier - Absolute Crisis (Tavares Umbrafae)\|Dossier]]
+>> - [[Muse Info x (oldest)/Dossier - Absolute Crisis (Tavares Umbrafae)\|Dossier]]
 >> - Headcanons
 >> - Verse
 >> - Wishlist 

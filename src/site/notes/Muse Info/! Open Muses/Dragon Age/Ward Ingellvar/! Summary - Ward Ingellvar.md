@@ -104,7 +104,7 @@
 > In 9:50 Dragon, when the War of the Banners breaks out within the Necropolis, Ward is surprisingly at the forefront, leading to the destruction of the Baron and the other noble undead that took part in the uprising. With the living nobles up in arms over their tactics, Vorgoth and Myrna encourage Ward to leave the Necropolis for a time and see the world until tempers and minds can be calmed. It's during this time that Ward encounters Varric Tethras, who takes them under his wing as they join him and Harding in their quest to stop the Dread Wolf from destroying the world.
 > 
 >> [!info]- Verse Navigation 
->> - [[Muse Info x/Dossier - Dragon Age (Ward Ingellvar)\|Dossier]]
+>> - [[Muse Info x (oldest)/Dossier - Dragon Age (Ward Ingellvar)\|Dossier]]
 >> - Headcanons
 >> - Verse
 >> - Wishlist 

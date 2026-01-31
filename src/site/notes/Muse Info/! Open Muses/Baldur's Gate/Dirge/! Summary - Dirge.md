@@ -14,10 +14,10 @@
 > - *pronouns:* They/Them/Themself
 > 	- She/Her/Herself 
 
-> [!muse]- Additional Information
+> [!profile]- Additional Information
 > 
 >> [!muse]+ Age
->> - *apparent age:* XX +/- years
+>> - *apparent age:* 30 +/- years
 >> - *date of birth:* YEAR
 >> 	- DAY of MONTH
 >  
@@ -28,8 +28,8 @@
 >> - *Enneagram:* 
 > 
 >> [!muse]+ Physical Description
->> - *species:* 
->> - *race:* 
+>> - *species:* Dwarf
+>> - *race:* Gold Dwarf
 >> - *ethnicity:* 
 >> - *additional ethnicities/cultures:* 
 >> - *height:*  cm
@@ -40,14 +40,14 @@
 >> - *complexion:* 
 > 
 >> [!muse]- Demographics 
->> - *planet of origin:* 
+>> - *planet of origin:* Toril
 >> - *place of birth:* 
->> - *homeworld:* 
+>> - *homeworld:* Toril
 >> - *nationality:* 
->> - *home town:* 
+>> - *home town:* Baldur's Gate - Storm Coast - Faerûn
 > 
 >> [!muse]- Communication 
->> - *known languages:* 
+>> - *known languages:* Common
 > 
 >> [!muse]- Social Standing & Affiliations 
 >> - *affiliated organizations:* 
@@ -57,13 +57,13 @@
 >> - *title(s):* 
 > 
 >> [!muse]- Spiritual Beliefs 
->> - *beliefs:* 
+>> - *beliefs:* Questioning
 >> - *patron deity:* 
 >> - *pantheon:* 
 > 
 >> [!muse]+ Origin Attributes 
->> - *class (primary):* 
->> - *class (secondary):* 
+>> - *class (primary):* College of Spirits - Bard
+>> - *class (secondary):* Way of the Long Death - Monk
 >> - *class (tertiary):* 
 >> - *class (additional support):* 
 >> - *fighting style:* 
