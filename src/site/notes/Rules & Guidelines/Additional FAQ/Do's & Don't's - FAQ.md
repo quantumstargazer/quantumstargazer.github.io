@@ -12,13 +12,14 @@
 | Write me random starters            |     |   Yes    |   *Mutuals Only*   |
 | Reply to my open starters           |     |   Yes    |   *Mutuals Only*   |
 | Fill out interest forms             |     |   Yes    |   *Mutuals Only*   |
+| Read my stuff                       |     |   Yes    |       *None*       |
 | Take inspiration from my stuff      |     |   Yes    |       *None*       |
 | Ask questions about my stuff        |     |   Yes    |       *None*       |
 | Ask to start over                   |     |   Yes    |       *None*       |
 | Tell me if you want to ship         |     |   Yes    |       *None*       |
 | Discord message whenever **(24/7)** |     |   Yes    |   *Mutuals Only*   |
 | Random plot ideas                   |     |   Yes    |       *None*       |
-| Comment on HCs & other posts        |     |   Yes    |   *Mutuals Only*   |
+| Comment on HCs & other posts        |     |   Yes    |       *None*       |
 
 
 ---
