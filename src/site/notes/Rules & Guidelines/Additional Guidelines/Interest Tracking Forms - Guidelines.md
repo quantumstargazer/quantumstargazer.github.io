@@ -9,10 +9,16 @@
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
 # (Dis)Interest Tracker
 Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[Muse Info/! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the (Dis)Interest Tracker form. 
+
+> [!rule] Reverse UNO - Assume Interest Unless Told Otherwise
+> 
 ## If Not Filled Out, All Open Muses Are Fair Game
 This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
 # RP Preference Tracker
+> [!help] Not Yet Implemented
+> 
+
 Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover as least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes post or a reblogged PSA.
 ## Optional But Recommended
 This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
