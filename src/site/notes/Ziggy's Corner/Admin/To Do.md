@@ -6,7 +6,7 @@
 ## Theme
 - [ ] Try to track down "dusty" overlay & get rid of it
 ## Layout
-- [ ] Update templates to work with new theme
+- [x] Update templates to work with new theme  [completion:: 2026-01-31]
 - [ ] Redo notes with the new templates (this will be hell because there are *literal thousands* of notes)
 
 # Muse Info
