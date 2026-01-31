@@ -10,7 +10,7 @@
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
 
 # Quantum Stargazer
-[Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate, Dragon Age, Mass Effect, & more.
+[Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
 ## RP Info
 - **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*
 - **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
@@ -27,11 +27,15 @@
 # Thread Tracking
 > [!tracker]- Important Note About Thread Tracking
 > ***I do not use the RP Thread Tracker quite as intended.*** Most notably where the Archive and Queue is concerned.
-> - Any in character post tagged with "**; partnerurl / partnermuse & my muse / 000**" is intended to be added to the tracker.
-> - Only *active threads* are in the front most view, so I can keep tabs what I currently have going on.
-> - Threads that have been on "*their turn*" for 2+ months are sent to the Archive for storage until it is replied to — these threads are still accessible through the public view's dropdown menu to access Archived threads.
+> - Any in character post tagged with "**; partnerurl / partnermuse & my muse / 000**" is intended to be added to the tracker — Havu ([lanternlit](https://lanternlit.tumblr.com)) is helping to make sure everything actually gets tracked.
+> - **Only active threads are in the front most view**, so I can keep tabs what I currently have going on — anything else is either marked as Archived or Queued for storage purposes.
+> 
+> **Threads Inactive For Longer Than 2+ Months**
+> - Threads that have been on "*their turn*" for 2+ months are sent to the Archive for storage until it is replied to — these threads are still accessible through the public view's dropdown menu to access Archived threads. 
+> 	- I do *not* consider these threads dropped *unless I have updated the title to mark them as such*. If you have outright dropped a thread, *please notify me directly*. This can be done through discord, tumblr IM, and/or the tumblr inbox.
 > - Threads that have been on *my turn* for 2+ months are potentially sent to the Queue for storage if they're stuck in drafts due to low muse activity — again, they're still accessible through the dropdown menu to access Queued threads.
 > 	- These posts are *not* actually queued, however, as I *never* queue in character posts. It is just a functional way of setting them aside in the tracker so as not to overwhelm me when I know I'm not going to be replying to that post for a while, and it should automatically release it from being marked as queued when I do eventually get it posted.
+> 	- Likewise, these threads are also *not dropped* — some muses, or even just some verses for that muse, are simply slower than others, and so interactions may go months without being replied to if I have little to no muse for them at the time.
 ## Where You Can See What's Tracked
 - **[Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads)** - *all threads, regardless of whose turn it is*
 - **[Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn)** - *my turns only*
@@ -45,14 +49,14 @@
 
 ---
 # Interest Forms
-> [!info]- Interest Assumed For All Open Muses
+> [!rule]- Interest Assumed For All Open Muses
 > Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
 - [(Dis)Interest Tracker](https://tally.so/r/D4p7pb) - *for telling me who you are &/or are **not** interested in interacting with*
 - RP Preferences Tracker - *for telling me your preferences for interactions, plotting, etc. (Coming Soon)*
 - [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call' with benefits*
 ## Interactions Calls
-> [!info]- Request Interaction At Any Time
+> [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
 
 - [Starter Call](https://tally.so/r/eqrr8J) - *for requesting that I write a starter for your muse(s)*
@@ -73,7 +77,7 @@
 - *pronouns:* they/them
 - *age:* 40+
 > [!example]+ Fandoms
-> - Baldur's Gate[^2] - *secondary — moderate activity*
+> - Baldur's Gate[^1] - *secondary — moderate activity*
 > - Dragon Age - *primary — high activity*
 > - Mass Effect - *tertiary — low activity*
 >
@@ -87,8 +91,8 @@
 >> - Elder Scrolls
 >> - Fallout
 >> - Forgotten Realms (*D&D setting*)
->> - Ghostbusters (*focus:* The ***Real*** Ghostbusters)[^3]
->> - Marvel (*focus:* Iron Man/Tony Stark)[^4]
+>> - Ghostbusters (*focus:* The ***Real*** Ghostbusters)[^2]
+>> - Marvel (*focus:* Iron Man/Tony Stark)[^3]
 >> - Our Flag Means Death
 >> - Star Trek
 >> - Stardew Valley
@@ -96,10 +100,9 @@
 
 
 
-[^1]: Essentially a permanent starter call with benefits — this is the only permanent starter call you will find on my blog. It's mostly a major reliever of social anxiety for me, for having explicit permission to interact.
+[^1]: Incorporates **Forgotten Realms** and **D&D/AD&D** lore for individual characters as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters.
 
-[^2]: Incorporates Forgotten Realms and D&D/AD&D lore for individual characters as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters.
+[^2]: When I am writing Peter Venkman, he is *not* the movie-verse Venkman, but rather the further developed characterization from **The *Real* Ghostbusters** (ie the sharp minded businessman who has a soft spot for kids and little old ladies who remind him of his mom) and it is extremely important that this is respected — failure to do so will likely result in the interactions being dropped.
 
-[^3]: When I am writing Peter Venkman, he is *not* the movie-verse Venkman, but rather the further developed characterization from **The *Real* Ghostbusters** (ie the sharp minded businessman who has a soft spot for kids and little old ladies who remind him of his mom) and it is extremely important that this is respected — failure to do so will likely result in the interactions being dropped.
+[^3]: Mostly the Marvel Cinematic Universe, prior to Avengers: Infinity War. In terms of *my* portrayal of Tony Stark, his MCU canon *stops* at Captain America: Civil War, where it then goes fully AU with dimensional travel and franchise swap, as he will be written as part of the DC universe, primarily focused on that of Batman: The Animated Series (as well as most of the animated movies), in addition to some fanmade content to be detailed in Tony's info once I'm ready to actually start writing him again.
 
-[^4]: Mostly the Marvel Cinematic Universe, prior to Avengers: Infinity War. In terms of *my* portrayal of Tony Stark, his MCU canon *stops* at Captain America: Civil War, where it then goes fully AU with dimensional travel and franchise swap, as he will be written as part of the DC universe, primarily focused on that of Batman: The Animated Series (as well as most of the animated movies), in addition to some fanmade content to be detailed in Tony's info once I'm ready to actually start writing him again.
