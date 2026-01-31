@@ -113,7 +113,7 @@
 > [!wishlist]-
 > TBA
 ## Mass Effect AUs
-### Mass Effect AUs Wishlists
+### Mercenary Assassin Headcanons
 > [!wishlist]-
 > TBA
 ## Other Fandoms AUs

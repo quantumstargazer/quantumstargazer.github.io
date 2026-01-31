@@ -114,7 +114,7 @@
 > [!headcanon]-
 > TBA
 ## Mass Effect AUs
-### Mass Effect AUs Headcanons
+### Mercenary Assassin Headcanons
 > [!headcanon]-
 > TBA
 ## Other Fandoms AUs
