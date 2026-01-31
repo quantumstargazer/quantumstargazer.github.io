@@ -126,9 +126,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Dragon Age Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Dragon Age Wishlists\|Wishlists]] 
 
 # Canon Divergent AUs
 > [!verse]+ Rook 
@@ -140,9 +140,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Rook Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Rook Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor
 > - *Starts in Inquisition timeline. (9:40 - 9:44 Dragon)*
@@ -153,41 +153,44 @@
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Inquisitor Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor Crow 
 > - *Starts in Inquisition timeline. (9:40 - 9:44 Dragon)*
 > - *Combines Inquisitor + Antivan Crows AUs*
 > 
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Inquisitor Crow Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Crow Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Due 
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
 > 
 > The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Crows' Due Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Due Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Design
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
 > - *Darker branch of Crows' Due AU*
 > 
 > Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Crows' Design Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Design Wishlists\|Wishlists]] 
 
 > [!verse]+ Antivan Crows 
 > - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
@@ -195,11 +198,12 @@
 > Ashina escapes the Arl's Palace with her cousins and the other kidnapped women after she killed the Arl's son, his noble lackies, and all the guards that stood between her and the other elven women who had been taken to Vaughan Kendall's bedroom to be raped and/or killed. The city guard arrive shortly after the elves do, so Ashina claims sole responsibility for the slaughter at the practice and is immediately arrested and thrown into the palace dungeons for the Arl to decide her fate once he returns from Ostagar.
 > 
 > Ashina has no intention of *staying* in the dungeons, waiting to be executed, so she looks for any way she can to escape her cell. When a Crow appears, she takes the offer for assistance getting out of the palace and Denerim in return for service to the Antivan Crows.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Antivan Crows Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Antivan Crows Wishlists\|Wishlists]] 
 
 > [!verse]+ Lyrium Ghost
 > - *CW: Major Character Death (temporary)*
@@ -208,22 +212,25 @@
 > Despite her decades-long search, Ashina eventually succumbs to the blight in her veins, overcome by the Calling she has tried to avoid for so long. Refusing to keep the Warden tradition of fighting in the Deep Roads until her death — *or worse* — she instead turns to the Crows for a final contract to end her life. 
 > 
 > But the world isn't finished with her yet, when she finds herself waking in a pile of shattered lyrium, and she's faced with being changed in a new way — no longer blighted, but now she isn't quite sure *what* she is anymore...
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Lyrium Ghost Headcanons\|Headcanons]]
+>> - Verse
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Lyrium Ghost Wishlists\|Wishlists]] 
+
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#\|Wishlists]] 
 
 > [!verse]- VerseTitle
 > Summary goes here.
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
-
-> [!verse]- VerseTitle
-> Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
@@ -234,19 +241,21 @@
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Scion of the Outer Planes Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Scion of the Outer Planes Wishlists\|Wishlists]] 
 
 > [!verse]- Astral Drifter
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Astral Drifter Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Astral Drifter Wishlists\|Wishlists]] 
 ## Dragon Age AUs
 > [!verse]- VerseTitle
 > Summary goes here.
@@ -261,21 +270,23 @@
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Mercenary Assassin Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Mercenary Assassin Headcanons\|Wishlists]] 
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#In Time & Space Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#In Time & Space Wishlists\|Wishlists]] 
 ### Elder Scrolls AUs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
@@ -284,6 +295,7 @@
 ### Stardew Valley AUs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
@@ -296,11 +308,12 @@
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Absolute Crisis Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Absolute Crisis Wishlists\|Wishlists]] 
 
 > [!verse]- Planar Wanderer
 > Summary goes here.
@@ -312,39 +325,44 @@
 
 > [!verse]- Planar Agent
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Planar Wanderer Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Planar Agent Wishlists\|Wishlists]] 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#This Shit Is Weird Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#This Shit Is Weird Wishlists\|Wishlists]] 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Anomaly Detected Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Anomaly Detected Wishlists\|Wishlists]] 
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Companion Headcanons\|Headcanons]]
 >> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Companion Wishlists\|Wishlists]] 
 ### Elder Scrolls AWs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
@@ -353,6 +371,7 @@
 ### Stardew Valley AWs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
@@ -362,6 +381,7 @@
 # Other Verses & AUs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
