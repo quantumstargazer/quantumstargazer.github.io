@@ -119,6 +119,7 @@
 # Canon Typical
 > [!verse]+ Dragon Age
 > - *Defaults to Veilguard era timelines. (9:45 - 9:54 Dragon)*
+> - *Earlier timelines available on request. (9:30 - 9:44 Dragon)*
 > 
 > **Ashina de Riva** is a Master Assassin of House de Riva of the Antivan Crows, likely serving as the Fifth Talon's Second, and is the Warden-Commander of Antiva. She specialises in contracts for entire noble households, methodically wiping out an entire family line and their house in a single evening.
 > 
@@ -145,7 +146,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Rook Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor
-> - *Starts in Inquisition timeline. (9:40 - 9:44 Dragon)*
+> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > 
 > Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
 > 
@@ -158,7 +159,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor Crow 
-> - *Starts in Inquisition timeline. (9:40 - 9:44 Dragon)*
+> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > - *Combines Inquisitor + Antivan Crows AUs*
 > 
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
