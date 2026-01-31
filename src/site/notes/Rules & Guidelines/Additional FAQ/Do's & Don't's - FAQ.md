@@ -32,8 +32,8 @@
 | Feed my writing into AI          |    No    | **Blocked &/or Reported** |
 | Use AI in our interactions       |    No    | **Dropped &/or Blocked**  |
 | Softblock Me                     |    No    |   ***Hardblock Only***    |
-| Assume canon accurate            |    No    | ***Warned &/or Dropped*** |
-|                                  |          |                           |
+| Assume canon accuracy            |    No    | ***Warned &/or Dropped*** |
+| Ignore canon divergences         |    No    | ***Warned &/or Dropped*** |
 
 
 ---
