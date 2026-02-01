@@ -62,8 +62,8 @@
 > 
 >> [!stats]- Spiritual Beliefs 
 >> - *beliefs:* Faithful
->> - *patron deity:* Corellon
->> - *pantheon:* 
+>> - *patron deity:* Corellon Larethian
+>> - *pantheon:* Seldarine
 > 
 >> [!stats]+ Origin Attributes 
 >> - *class (primary):* Medium - *Investigator*

@@ -53,13 +53,13 @@
 ### Dragon Age
 #### Ashina de Riva née Tabris 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
-	- [ ] Canon Divergent AUs 
+	- [x] Canon Typical  [completion:: 2026-01-31]
+	- [x] Canon Divergent AUs  [completion:: 2026-01-31]
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
 	- [ ] Other Verses & AUs
 	- [ ] Private Verses & AUs
-- [ ] Connections
+- [x] Connections  [completion:: 2026-01-31]
 - [ ] Headcanons
 - [ ] Wishlists
 #### Zaehire de Riva 
