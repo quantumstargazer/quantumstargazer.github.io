@@ -328,7 +328,52 @@
 >> - Wishlist 
 
 # Private Verses & AUs
-## Partner - PartnerMuse
+## corvusrookery - Solas
+> [!verse]- Dragon Age
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
+> [!verse]- Inquisition's Ghost
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
+> [!verse]- Ancient Times 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
+> [!verse]- Rebellion's Ghost
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
+> [!verse]- Spirit of Learning
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
 > [!verse]- VerseTitle
 > Summary goes here.
 > 
@@ -338,4 +383,22 @@
 >> - Verse
 >> - Wishlist 
 
+## Partner - PartnerMuse
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist
 
+## Partner - PartnerMuse
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist
