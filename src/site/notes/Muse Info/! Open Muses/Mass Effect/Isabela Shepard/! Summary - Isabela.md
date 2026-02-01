@@ -385,7 +385,18 @@
 >> - Verse
 >> - Wishlist 
 ## Dragon Age AUs
-> [!verse]- VerseTitle
+> [!verse]- Breaking Quarantine
+> - *Uncharted World AU*
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
+> [!verse]- Artificer Assassin
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -423,6 +434,15 @@
 >> - Wishlist 
 ### Stardew Valley AUs
 > [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+### Star Trek AUs
+> [!verse]- Starfleet
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -507,9 +527,20 @@
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
+### Star Trek AWs
+> [!verse]- Anomaly On Sensors
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
 
 # Other Verses & AUs
-> [!verse]- VerseTitle
+> [!verse]- Crucible BS
+> - *Space Magic Fuckery (Multifandom Displacement)*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

@@ -277,6 +277,15 @@
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
+### Star Trek AUs
+> [!verse]- Starfleet
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
 
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
@@ -284,6 +293,7 @@
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -292,6 +302,7 @@
 
 > [!verse]- Planar Wanderer
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -300,6 +311,7 @@
 
 > [!verse]- Planar Agent
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -308,6 +320,7 @@
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -316,6 +329,7 @@
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -325,6 +339,7 @@
 ### Doctor Who AWs
 > [!verse]- Companion
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -333,6 +348,7 @@
 ### Elder Scrolls AWs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -341,6 +357,16 @@
 ### Stardew Valley AWs
 > [!verse]- VerseTitle
 > Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+### Star Trek AWs
+> [!verse]- Anomaly On Sensors
+> Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -348,8 +374,11 @@
 >> - Wishlist 
 
 # Other Verses & AUs
-> [!verse]- VerseTitle
+> [!verse]- Crucible BS
+> - *Space Magic Fuckery (Multifandom Displacement)*
+> 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
