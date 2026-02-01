@@ -8,7 +8,9 @@
 | Things                          |     | Do Them? |    Restrictions?     |
 | ------------------------------- | --- | :------: | :------------------: |
 | Send unprompted asks            |     |   Yes    |        *None*        |
-| Send memes/prompts              |     |   Yes    | **Mutuals Priority** |
+| Send prompts/memes              |     |   Yes    | **Mutuals Priority** |
+| Add context to prompts/memes    |     |   Yes    |       *None *        |
+| Reverse any prompts/memes       |     |   Yes    |        *None*        |
 | Write me random starters        |     |   Yes    |   **Mutuals Only**   |
 | Reply to my open starters       |     |   Yes    |   **Mutuals Only**   |
 | Fill out interest forms         |     |   Yes    |   **Mutuals Only**   |
@@ -32,14 +34,17 @@
 | Feed my writing into AI          |    No    | **Blocked &/or Reported** |
 | Use AI in our interactions       |    No    | **Dropped &/or Blocked**  |
 | Softblock Me                     |    No    |   ***Hardblock Only***    |
+| Take my blocking you personally  |    No    | ***Reported If Evaded***  |
+| Assume one versewide universe    |    No    | ***Warned &/or Dropped*** |
 | Assume canon accuracy            |    No    | ***Warned &/or Dropped*** |
 | Ignore canon divergences         |    No    | ***Warned &/or Dropped*** |
-
 
 ---
 # Things You Should Do
 - **Send me unexpected IC asks at any time** - No meme prompts necessary! Just send your muses my way!
 - **Send prompts/memes at any time** - Prompts/memes never expire, and the inbox is always open.
+- **Add extra context to any prompts/memes** - If you have thoughts on the context in which the prompts occur, absolutely feel free to add it as a note in the ask when sending it — I answer all asks as text posts for easier continuation as threads, so I can leave any additional notes out of it if requested and/or marked as private for the context.
+- **Reverse any prompts/memes** - Whether the original post suggests it or not, you can *always* request a reverse on a prompt, *including* sentence starters (though I will use my judgement as to whether or not my muse would actually say the line, in that case, but I can usually manage it).
 - **Write me random starters** - So long as we're mutuals, I *want* to write with you. If you're in the mood to write starters, absolutely feel free to write one or more for my muse(s). No need to wait for me to respond to a starter call.
 - **Reply to my open starters** - That's *literally* what they're there for, after all! So long as we're mutuals, you're good to go. They are *not* just for new mutuals and/or people who haven't started interacting yet.
 - **Fill out the interest forms** - This will make interactions go a lot more smoothly all around, truly.
@@ -63,7 +68,7 @@
 - **Don't use AI to write &/or create images for me** - I want to be creative with *people*, not machines.
 - **Don't softblock me — *only hardblock* if you feel the need to block** - If you feel the need to get me off your dash, *outright hardblock me*. My memory cannot be trusted to remember who to avoid refollowing, so it's better to just outright block me and *keep me blocked* instead.
 - **Don't take it personally if I block you** - Again, my memory is absolute shit, so I end up blocking liberally for a wide range of reasons, most of which don't have anything to with with the individuals personally.
-- **Don't assume interactions are in the same universe** - Like, sure, between the same muse pairing with the same mun, a *lot* of them might be, if they're under the same verse tag, at least. But something with Mun A is *always* in a separate universe from anything with Mun B, unless we're mutual mutuals who have plotted a shared universe together, but those are exceptionally rare cases.
+- **Don't assume interactions are in the same universe** - Like, sure, between the same muse pairing with the same mun, a *lot* of them might be, if they're under the same verse tag, at least. But something with Mun A is *always* in a separate universe from anything with Mun B, unless we're mutual mutuals who have plotted a shared universe together, but those are exceptionally rare cases, and honestly not likely to happen.
 - **Don't assume anything &/or everything I write is "*canon accurate*"** - I rely *heavily* on canon divergence, headcanons, mod integration, etc. I enjoy the hell out of a wide range of AUs, crossovers, etc. Canon is my sandbox, and I will destroy and rebuild it as I please.
 - **Don't panic** - And always know where your towel is.
 
