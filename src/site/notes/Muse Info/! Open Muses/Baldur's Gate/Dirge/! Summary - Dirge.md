@@ -1,77 +1,77 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/","tags":["directory","summary","baldurs-gate","muse-dirge","open-muse"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/","tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"]}
 ---
 
 # Dirge
 
-![Dirge temp01.png|250x250](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
+![Dirge temp01.png](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 
-> [!muse]+ Muse Info
+> [!profile]+ Muse Info
 > - *name:* The Dark Urge
-> - *nickname:* Dirge
-> - *alias:* 
+> - *nickname:* Durge
+> - *alias:* — 
 > - *gender:* Nonbinary
 > - *pronouns:* They/Them/Themself
-> 	- She/Her/Herself 
+> 	- She/Her/Herself
 
 > [!profile]- Additional Information
 > 
->> [!muse]+ Age
+>> [!stats]+ Age
 >> - *apparent age:* 30 +/- years
 >> - *date of birth:* YEAR
 >> 	- DAY of MONTH
 >  
->> [!muse]+ Personal Identity 
->> - *sexual orientation:* 
+>> [!stats]+ Personal Identity 
+>> - *sexual orientation:* Panromantic Pansexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* 
 >> - *Enneagram:* 
 > 
->> [!muse]+ Physical Description
+>> [!stats]+ Physical Description
 >> - *species:* Dwarf
 >> - *race:* Gold Dwarf
 >> - *ethnicity:* 
 >> - *additional ethnicities/cultures:* 
->> - *height:*  cm
->> 	-  ft  in
->> - *body shape:* 
+>> - *height:* 120 cm
+>> 	- 3 ft 11.24 in
+>> - *body shape:* — 
 >> - *hair:* 
->> - *eyes:* 
+>> - *eyes:* Sky Blue
 >> - *complexion:* 
 > 
->> [!muse]- Demographics 
+>> [!stats]- Demographics 
 >> - *planet of origin:* Toril
 >> - *place of birth:* 
 >> - *homeworld:* Toril
 >> - *nationality:* 
 >> - *home town:* Baldur's Gate - Storm Coast - Faerûn
 > 
->> [!muse]- Communication 
+>> [!stats]- Communication 
 >> - *known languages:* Common
 > 
->> [!muse]- Social Standing & Affiliations 
+>> [!stats]- Social Standing & Affiliations 
 >> - *affiliated organizations:* 
 >> - *extended affiliations:* 
 >> - *employer(s)/patron(s):* 
 >> - *occupation(s):* 
 >> - *title(s):* 
 > 
->> [!muse]- Spiritual Beliefs 
->> - *beliefs:* Questioning
->> - *patron deity:* 
+>> [!stats]- Spiritual Beliefs 
+>> - *beliefs:* Faithful
+>> - *patron deity:* ~~Bhaal~~
 >> - *pantheon:* 
 > 
->> [!muse]+ Origin Attributes 
->> - *class (primary):* College of Spirits - Bard
->> - *class (secondary):* Way of the Long Death - Monk
->> - *class (tertiary):* 
+>> [!stats]+ Origin Attributes 
+>> - *class (primary):* College of Spirits - *Bard*
+>> - *class (secondary):* Way of the Long Death - *Monk*
+>> - *class (tertiary):* Grim Surgeon - *Rogue*
 >> - *class (additional support):* 
 >> - *fighting style:* 
 > 
->> [!muse]+ Current Status
->> - *current moral alignment:* 
+>> [!stats]+ Current Status
+>> - *current moral alignment:* Neutral Impure
 
-> [!info]- Tumblr Tags
+> [!tags]- Tumblr Tags
 > - ***in character:*** 
 > - ***open starters:*** 
 > - ***headcanons:*** 
@@ -83,8 +83,15 @@
 > - *playlist:* 
 
 # Canon Typical
-> [!summary]+ Wandering Dirge
-> Summary goes here.
+> [!verse]+ Wandering Dirge
+> - *Companion (Non-Party Leader) AU*
+> 
+> '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
+> 
+> ''**Blood**.''
+> 
+> Blood calls to them, despite their disgust with the urges they barely manage to hold in check as they struggle to find not only a cure for their tadpole infection, but to also discover just exactly who they are... and why they think everyone would look better as a corpse...
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -92,20 +99,26 @@
 >> - Wishlist 
 
 # Canon Divergent AUs
-> [!summary]+ Absolute Crisis
-> - *~~Tav~~Durge/Party Leader AU*
+> [!verse]+ Absolute Crisis
+> - *Party Leader (Dark Urge) AU*
 > 
-> Summary goes here.
+> '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
+> 
+> ''**Blood**.''
+> 
+> Blood calls to them, despite their disgust with the urges they barely manage to hold in check as they struggle to find not only a cure for their tadpole infection, but to also discover just exactly who they are... and why they think everyone would look better as a corpse...
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 
-> [!summary]+ Bhaal's Chosen
+> [!verse]+ Bhaal's Chosen
 > - *Embrace Urge AU*
 > 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -114,32 +127,36 @@
 
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!summary]- Scion of the Outer Planes
+> [!verse]- Scion of the Outer Planes
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 
-> [!summary]- Astral Drifter
+> [!verse]- Astral Drifter
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ## Dragon Age AUs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ## Mass Effect AUs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -147,24 +164,27 @@
 >> - Wishlist 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-> [!summary]- In Time & Space
+> [!verse]- In Time & Space
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ### Elder Scrolls AUs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ### Stardew Valley AUs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -173,42 +193,47 @@
 
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-> [!summary]- Absolute Crisis
+> [!verse]- Absolute Crisis
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 
-> [!summary]- Planar Wanderer
+> [!verse]- Planar Wanderer
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 
-> [!summary]- Planar Agent
+> [!verse]- Planar Agent
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ## Dragon Age AWs
-> [!summary]- This Shit Is Weird
+> [!verse]- This Shit Is Weird
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ## Mass Effect AWs
-> [!summary]- Anomaly Detected
+> [!verse]- Anomaly Detected
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -216,24 +241,27 @@
 >> - Wishlist 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-> [!summary]- Companion
+> [!verse]- Companion
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ### Elder Scrolls AWs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
 >> - Verse
 >> - Wishlist 
 ### Stardew Valley AWs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -241,8 +269,9 @@
 >> - Wishlist 
 
 # Other Verses & AUs
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -251,8 +280,9 @@
 
 # Private Verses & AUs
 ## Partner - PartnerMuse
-> [!summary]- VerseTitle
+> [!verse]- VerseTitle
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - Headcanons
@@ -260,7 +290,3 @@
 >> - Wishlist 
 
 
-
-
----
-# Footnotes
