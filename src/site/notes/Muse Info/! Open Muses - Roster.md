@@ -97,7 +97,7 @@
 - Wishlists
 ## Zevran Arainai
 > [!profile]+ Zevran Arainai
-> *City Elf — Antivan Crows — Master Assassin — Eighth Talon of the Antivan Crows* [^2]
+> *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
 > ![zev temp.png|red|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if  they are destroyed completely, or he takes control of them himself.
