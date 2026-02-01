@@ -92,7 +92,7 @@
 > In 9:30 Dragon, Learning *finally* accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.
 
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
-- [[Connections - Ward Ingellvar\|Connections]]
+- Connections
 - Headcanons
 - Wishlists
 ## Zevran Arainai
