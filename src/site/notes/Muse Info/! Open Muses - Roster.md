@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","rosters","open-muses"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","rosters","open-muses","baldurs-gate","dragon-age","mass-effect","muse-ward","muse-dirge","muse-ashina","muse-haleir","muse-nihlus","muse-zevran","muse-isabela","muse-tavares","muse-zaehire","muse-bertrand","muse-faeynore","muse-leonardo"]}
 ---
 
 # Open Muses Roster
