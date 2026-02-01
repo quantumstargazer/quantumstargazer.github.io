@@ -49,10 +49,7 @@
 
 
 ## Dragon Age Muses
-> [!bfc]- Andarateia Cantori — cantorisdiamond
-> - *Ashina de Riva*
-> - *Zevran Arainai*
-> - *Viago de Riva*
+
 
 
 ## Mass Effect Muses
