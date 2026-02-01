@@ -40,7 +40,7 @@
 > - Duncan
 
 # Best Friends Call Members
-> *I **do** interact with duplicates of any of the Best Friends Call muses that follow:*
+> *I **do** interact with duplicates of any of the **Best Friends Call** muses that follow:*
 
 ## All Muses
 
