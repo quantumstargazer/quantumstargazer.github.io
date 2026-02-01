@@ -30,7 +30,7 @@
 >> - *sexual orientation:* Panromantic Pansexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* 
->> - *Enneagram:* 
+>> - *Enneagram:* — 
 > 
 >> [!stats]+ Physical Description
 >> - *species:* Dwarf

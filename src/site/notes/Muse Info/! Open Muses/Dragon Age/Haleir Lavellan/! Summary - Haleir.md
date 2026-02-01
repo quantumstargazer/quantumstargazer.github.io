@@ -31,7 +31,7 @@
 >> - *sexual orientation:* Biromantic Bisexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* 
->> - *Enneagram:* 
+>> - *Enneagram:* — 
 > 
 >> [!stats]+ Physical Description
 >> - *species:* Elf

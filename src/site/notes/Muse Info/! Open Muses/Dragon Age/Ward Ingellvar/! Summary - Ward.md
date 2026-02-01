@@ -30,7 +30,7 @@
 >> - *sexual orientation:* Panromantic Demisexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* ISFP-T
->> - *Enneagram:* 
+>> - *Enneagram:* — 
 > 
 >> [!muse]+ Physical Description
 >> - *species:* ~~Spirit of Learning~~ Elf
