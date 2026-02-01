@@ -34,7 +34,7 @@
 | Feed my writing into AI          |    No    | **Blocked &/or Reported** |
 | Use AI in our interactions       |    No    | **Dropped &/or Blocked**  |
 | Softblock Me                     |    No    |   ***Hardblock Only***    |
-| Take my blocking you personally  |    No    | ***Reported If Evaded***  |
+| Take my blocking you personally  |    No    |  **Reported If Evaded**   |
 | Assume one versewide universe    |    No    | ***Warned &/or Dropped*** |
 | Assume canon accuracy            |    No    | ***Warned &/or Dropped*** |
 | Ignore canon divergences         |    No    | ***Warned &/or Dropped*** |
