@@ -329,7 +329,7 @@
 
 # Private Verses & AUs
 ## corvusrookery - Solas
-> [!verse]- Dragon Age
+> [!verse]- Dragon Age (Solas - corvusrookery)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -338,7 +338,7 @@
 >> - Verse
 >> - Wishlist 
 
-> [!verse]- Inquisition's Ghost
+> [!verse]- Inquisition's Ghost (Solas - corvusrookery)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -347,7 +347,7 @@
 >> - Verse
 >> - Wishlist 
 
-> [!verse]- Ancient Times 
+> [!verse]- Ancient Times (Solas - corvusrookery)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -356,7 +356,7 @@
 >> - Verse
 >> - Wishlist 
 
-> [!verse]- Rebellion's Ghost
+> [!verse]- Rebellion's Ghost (Solas - corvusrookery)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -365,7 +365,7 @@
 >> - Verse
 >> - Wishlist 
 
-> [!verse]- Spirit of Learning
+> [!verse]- Spirit of Learning (Solas - corvusrookery)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
