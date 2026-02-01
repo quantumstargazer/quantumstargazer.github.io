@@ -60,7 +60,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 ## Zaehire de Riva
 > [!profile]+ Zaehire de Riva
-> *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist — Viago's Protégé*
+> *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
 > ![Zae001.png|red|100](/img/user/z%20Assets/Attachments/Zae001.png)
 > 
 > Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow. She would later be freed from House Arainai by the Black Shadow, who would aid her in getting as far as Salle, where she would be taken in by House de Riva.
@@ -71,7 +71,7 @@
 - Wishlists
 ## Leonardo de Riva
 > [!profile]+ Leonardo de Riva
-> *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin — Viago's Protégé*
+> *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin*
 > ![Leo001.png|red|100](/img/user/z%20Assets/Attachments/Leo001.png)
 > 
 > Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers were killed by Antivan Crows, and he was instead taken into House de Riva.
