@@ -3,8 +3,8 @@
 ---
 
 # Open Muses Roster
-> [!rule]- Interested Unless Told Otherwise
-> Unless you tell me you're *not* interested in them by filling out the **(Dis)Interest Tracker** form, then these are the muses who I am more likely to throw your way at random, from any of their canon-based verses and/or fandom matched AUs (*ie I will match your muse's fandom with a verse/AU of my own for that muse, regardless of the muse's origin fandom — so if you write Dragon Age, I may send a Baldur's Gate and/or Mass Effect muse your way, but it will be from one of their corresponding Dragon Age verses/AUs, not their canon-based verses*).
+> [!rule]- Interest Assumed Unless Told Otherwise
+> Unless you tell me you're *not* interested in them by filling out the **(Dis)Interest Tracker** form, then these are the muses who I am more likely to throw your way at random, from ***any*** of their canon-based verses and/or fandom matched AUs (*ie I will match your muse's fandom with a verse/AU of my own for that muse, regardless of the muse's origin fandom — so if you write Dragon Age, I may send a Baldur's Gate and/or Mass Effect muse your way, but it will be from one of their corresponding Dragon Age verses/AUs, not their canon-based verses*).
 
 > [!FAQ]- What Are Open Muses?
 > **Open Muses** are my *primary muses*, though that does *not* mean that they share the same activity level, as I base that off of *fandom* more than individual muse, as it tends to vary drastically, plus all of my muses have AUs for all of my primary fandoms. So while a muse's fandom might be tertiary in terms of activity, their verses/AUs for the primary fandom would likely have higher activity.
@@ -17,7 +17,7 @@
 >  
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 
-- [[! Summary - Tavares Umbrafae\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -28,7 +28,7 @@
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
 
-- [[! Summary - Faeynore Moonstar\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -65,7 +65,7 @@
 > 
 > Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow. She would later be freed from House Arainai by the Black Shadow, who would aid her in getting as far as Salle, where she would be taken in by House de Riva.
 
-- [[! Summary - Zaehire de Riva\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -78,7 +78,7 @@
 > 
 > When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. While he begins training as a mage, he *also* doesn't give up his training as a rogue, and this eventually leads to his being trained as a Spellblade.
 
-- [[! Summary - Leonardo de Riva\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -91,7 +91,7 @@
 > 
 > In 9:30 Dragon, Learning *finally* accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.
 
-- [[! Summary - Ward Ingellvar\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 - [[Connections - Ward Ingellvar\|Connections]]
 - Headcanons
 - Wishlists
@@ -102,7 +102,7 @@
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if  they are destroyed completely, or he takes control of them himself.
 
-- [[! Summary - Zevran Arainai\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -113,7 +113,7 @@
 > 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 
-- [[! Summary - Haleir Lavellan\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -124,7 +124,7 @@
 > 
 > A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
 
-- [[! Summary - Bertrand Ingellvar\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -137,7 +137,7 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- [[! Summary - Isabela Shepard\|Dossiers & Verses]] 
+- [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
@@ -148,7 +148,7 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- [[! Summary - Nihlus Kryik\|Dossiers & Verses]]
+- [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
