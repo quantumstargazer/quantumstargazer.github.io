@@ -52,9 +52,9 @@
 > *City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin*
 > ![Ash001.png|red|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
-> Ashina was conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "*Tathas Arainai*". By 9:31 Dragon, she was notoreous among the Wardens by having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and then letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden had survived the attempt until she was said to have been killed by the Antivan Crows in 9:33 Dragon.
+> Ashina is conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "**Tathas Arainai**". By 9:31 Dragon, she is notorious among the Wardens for having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden has survived the attempt until she is said to have been killed by the Antivan Crows in 9:33 Dragon.
 > 
-> In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows.
+> In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon's Second.
 
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Dossiers & Verses]]
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina\|Connections]]
@@ -65,7 +65,9 @@
 > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
 > ![Zae001.png|red|100](/img/user/z%20Assets/Attachments/Zae001.png)
 > 
-> Purchased by a House Arainai from her noblehunter mother in Orzammar mere days after her birth, Zaehire was raised from infancy to be a Crow. She would later be freed from House Arainai by the Black Shadow, who would aid her in getting as far as Salle, where she would be taken in by House de Riva.
+> Purchased by a House Arainai from her noble hunter mother in Orzammar mere days after her birth, Zaehire is raised from infancy to be a Crow. She is later freed from House Arainai by the Black Shadow, who aids her in getting as far as Salle, where she is taken in by House de Riva.
+> 
+> As a fledgling of House de Riva, Zaehire becomes Viago's protégé, as well as an occasional thorn in his side with her impulsiveness. And yet she often manages to turn those impulsive tendencies into boons for House de Riva, such as when she manages to negotiate her way into acting as a liaison between the House and the Carta, securing a steady supply of lyrium for de Riva's mages, and ensuring Carta assassins don't interfere in de Riva contracts.
 
 - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
 - Connections
@@ -76,9 +78,11 @@
 > *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin*
 > ![Leo001.png|red|100](/img/user/z%20Assets/Attachments/Leo001.png)
 > 
-> Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers were killed by Antivan Crows, and he was instead taken into House de Riva.
+> Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers are killed by Antivan Crows, and he is instead taken into House de Riva.
 > 
-> When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. While he begins training as a mage, he *also* doesn't give up his training as a rogue, and this eventually leads to his being trained as a Spellblade.
+> When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. He doesn't give up on his rogue training, insisting that he can manage both it *and* his magical training, and while many expected him to fail, his sheer determination to prove himself worthy of being a de Riva leads to his eventually studying to be a Spellblade Assassin.
+> 
+> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 - Connections
@@ -92,6 +96,8 @@
 > What started as a curious little wisp with a desperate desire to learn was nurtured and taught by a greater Spirit of Wisdom[^1] until it grew into a Spirit of Learning in time. 
 > 
 > In 9:30 Dragon, Learning *finally* accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.
+> 
+> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 - Connections
