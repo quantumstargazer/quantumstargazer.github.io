@@ -141,10 +141,6 @@
 >> - Verse
 >> - Wishlist 
 
-
-
-
-
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
