@@ -3,14 +3,14 @@
     <title>Quantum Stargazer Wiki</title>
     <link href="https://quantumstargazer.github.io//feed.xml" rel="self" />
     <link href="https://quantumstargazer.github.io/" />
-    <updated>2026-02-02T02:57:39Z</updated>
+    <updated>2026-02-02T03:10:17Z</updated>
     <id>https://quantumstargazer.github.io/</id>
         <entry>
             <title>
                 To Do
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/</id>
             <content type="html">
                 &lt;h1 id=&quot;wiki&quot; tabindex=&quot;-1&quot;&gt;Wiki&lt;/h1&gt;
@@ -20,7 +20,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&quot;layout&quot; tabindex=&quot;-1&quot;&gt;Layout&lt;/h2&gt;
 &lt;ul class=&quot;task-list&quot;&gt;
-&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_1&quot; checked=&quot;true&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_1&quot;&gt; Update templates to work with new theme  [completion:: 2026-01-31]&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_1&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_1&quot;&gt; Update templates to work with new theme&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_2&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_2&quot;&gt; Redo notes with the new templates (this will be hell because there are &lt;em&gt;literal thousands&lt;/em&gt; of notes)&lt;/label&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&quot;muse-info&quot; tabindex=&quot;-1&quot;&gt;Muse Info&lt;/h1&gt;
@@ -233,7 +233,7 @@ I am &lt;em&gt;only&lt;/em&gt; focusing on the Open Muses for now, and prioritis
                 RP FAQ
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/rp-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;frequently-asked-questions&quot; tabindex=&quot;-1&quot;&gt;Frequently Asked Questions&lt;/h1&gt;
@@ -361,7 +361,7 @@ I use a series of userscripts and stylesheets to make the tumblr dashboard acces
                 Guidelines
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/guidelines/</id>
             <content type="html">
                 &lt;h1 id=&quot;guidelines&quot; tabindex=&quot;-1&quot;&gt;Guidelines&lt;/h1&gt;
@@ -494,7 +494,7 @@ This can be done simply my sending a prompt/meme from the ones tagged as &amp;qu
                 Exclusivity - Rules
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/exclusivity-rules/</id>
             <content type="html">
                 &lt;h1 id=&quot;exclusivity&quot; tabindex=&quot;-1&quot;&gt;Exclusivity&lt;/h1&gt;
@@ -516,7 +516,7 @@ This can be done simply my sending a prompt/meme from the ones tagged as &amp;qu
                 Blacklist Tags - Rules
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/blacklist-tags-rules/</id>
             <content type="html">
                 &lt;h1 id=&quot;blacklist-tags-requested&quot; tabindex=&quot;-1&quot;&gt;Blacklist Tags Requested&lt;/h1&gt;
@@ -736,7 +736,7 @@ I am chronically ill and disabled, so blacklisting &lt;em&gt;literal dozens&lt;/
                 Interest Tracking Forms - Guidelines
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interest-tracking-forms-guidelines/</id>
             <content type="html">
                 &lt;h1 id=&quot;interest-tracking-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interest Tracking Forms - Guidelines&lt;/h1&gt;
@@ -807,7 +807,7 @@ If we haven&#39;t even said so much as &amp;quot;hello&amp;quot; to each other y
                 Interaction Forms - Guidelines
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interaction-forms-guidelines/</id>
             <content type="html">
                 &lt;h1 id=&quot;interaction-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interaction Forms - Guidelines&lt;/h1&gt;
@@ -831,7 +831,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
                 Non-Roleplayers - FAQ
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/non-roleplayers-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;non-roleplayers&quot; tabindex=&quot;-1&quot;&gt;Non-Roleplayers&lt;/h1&gt;
@@ -862,7 +862,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
                 Mature Audiences Only - FAQ
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/mature-audiences-only-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;rated-m-for-mature-audiences-only&quot; tabindex=&quot;-1&quot;&gt;Rated M for Mature Audiences Only&lt;/h1&gt;
@@ -937,7 +937,7 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
                 Fellow Stargazers - FAQ
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/fellow-stargazers-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;exclusives&quot; tabindex=&quot;-1&quot;&gt;Exclusives&lt;/h1&gt;
@@ -1032,7 +1032,7 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
                 Do&#39;s &amp; Don&#39;t&#39;s - FAQ
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/do-s-and-don-t-s-faq/</id>
             <content type="html">
                 &lt;h1 id=&quot;do-s-and-amp-don-t-s-of-interacting&quot; tabindex=&quot;-1&quot;&gt;Do&#39;s &amp;amp; Don&#39;t&#39;s of Interacting&lt;/h1&gt;
@@ -1260,7 +1260,7 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
                 Actual Rules
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//rules-and-guidelines/actual-rules/</id>
             <content type="html">
                 &lt;h1 id=&quot;the-actual-rules&quot; tabindex=&quot;-1&quot;&gt;The Actual Rules&lt;/h1&gt;
@@ -1364,7 +1364,7 @@ I do not follow anyone whose only warnings for their blog consists of &amp;quot;
                 Quantum Stargazer Wiki
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//</id>
             <content type="html">
                 &lt;h1 id=&quot;quantum-stargazer-wiki&quot; tabindex=&quot;-1&quot;&gt;Quantum Stargazer Wiki&lt;/h1&gt;
@@ -1515,13 +1515,14 @@ These forms are here to let you request interaction at any time, whether I&#39;m
                 Irregulars - Roster
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/irregulars-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;irregulars-roster&quot; tabindex=&quot;-1&quot;&gt;Irregulars Roster&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!WARNING] Mains &amp;amp; Best Friends Call Members Only&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;baldur-s-gate&quot; tabindex=&quot;-1&quot;&gt;Baldur&#39;s Gate&lt;/h1&gt;
 &lt;h2 id=&quot;gale-dekarios&quot; tabindex=&quot;-1&quot;&gt;Gale Dekarios&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1571,6 +1572,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dragon Age&lt;/h1&gt;
 &lt;h2 id=&quot;marian-hawke&quot; tabindex=&quot;-1&quot;&gt;Marian Hawke&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1912,6 +1914,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;mass-effect&quot; tabindex=&quot;-1&quot;&gt;Mass Effect&lt;/h1&gt;
 &lt;h2 id=&quot;urdnot-wrex&quot; tabindex=&quot;-1&quot;&gt;Urdnot Wrex&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2057,6 +2060,7 @@ These forms are here to let you request interaction at any time, whether I&#39;m
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;other-fandoms&quot; tabindex=&quot;-1&quot;&gt;Other Fandoms&lt;/h1&gt;
 &lt;h2 id=&quot;doctor-who-expanded-universe&quot; tabindex=&quot;-1&quot;&gt;Doctor Who Expanded Universe&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2144,7 +2148,7 @@ I&#39;m not currently writing &lt;em&gt;any&lt;/em&gt; of my Doctor Who muses. I
                 Friends Only - Roster
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/friends-only-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;friends-only-roster&quot; tabindex=&quot;-1&quot;&gt;Friends Only Roster&lt;/h1&gt;
@@ -2152,6 +2156,7 @@ I&#39;m not currently writing &lt;em&gt;any&lt;/em&gt; of my Doctor Who muses. I
 &lt;p&gt;[!WARNING] Not Open For Requests&lt;br /&gt;
 These muses are available for highly selective individuals only, and are not requestable by anyone but them.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;baldur-s-gate&quot; tabindex=&quot;-1&quot;&gt;Baldur&#39;s Gate&lt;/h1&gt;
 &lt;h2 id=&quot;faertorithrue&quot; tabindex=&quot;-1&quot;&gt;Faertorithrue&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2194,6 +2199,7 @@ These muses are available for highly selective individuals only, and are not req
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dragon Age&lt;/h1&gt;
 &lt;h2 id=&quot;musename&quot; tabindex=&quot;-1&quot;&gt;Musename&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2207,6 +2213,7 @@ These muses are available for highly selective individuals only, and are not req
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;mass-effect&quot; tabindex=&quot;-1&quot;&gt;Mass Effect&lt;/h1&gt;
 &lt;h2 id=&quot;avitus-rix&quot; tabindex=&quot;-1&quot;&gt;Avitus Rix&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2220,6 +2227,7 @@ These muses are available for highly selective individuals only, and are not req
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;other-fandoms&quot; tabindex=&quot;-1&quot;&gt;Other Fandoms&lt;/h1&gt;
 &lt;h2 id=&quot;the-elder-scrolls&quot; tabindex=&quot;-1&quot;&gt;The Elder Scrolls&lt;/h2&gt;
 &lt;h3 id=&quot;inigo&quot; tabindex=&quot;-1&quot;&gt;Inigo&lt;/h3&gt;
@@ -2362,7 +2370,7 @@ I&#39;m not currently writing &lt;em&gt;any&lt;/em&gt; of my Doctor Who muses. I
                 By Request Only - Roster
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/by-request-only-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;by-request-only-roster&quot; tabindex=&quot;-1&quot;&gt;By Request Only Roster&lt;/h1&gt;
@@ -2370,6 +2378,7 @@ I&#39;m not currently writing &lt;em&gt;any&lt;/em&gt; of my Doctor Who muses. I
 &lt;p&gt;[!TIP] Available Only If You Ask!&lt;br /&gt;
 I won&#39;t initiate anything with these muses until &lt;em&gt;after&lt;/em&gt; you&#39;ve specifically asked for them.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;baldur-s-gate&quot; tabindex=&quot;-1&quot;&gt;Baldur&#39;s Gate&lt;/h1&gt;
 &lt;h2 id=&quot;astarion-ancunin&quot; tabindex=&quot;-1&quot;&gt;Astarion Ancunín&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2407,6 +2416,7 @@ I won&#39;t initiate anything with these muses until &lt;em&gt;after&lt;/em&gt; 
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dragon Age&lt;/h1&gt;
 &lt;h2 id=&quot;varric-tethras&quot; tabindex=&quot;-1&quot;&gt;Varric Tethras&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2552,6 +2562,7 @@ I won&#39;t initiate anything with these muses until &lt;em&gt;after&lt;/em&gt; 
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;mass-effect&quot; tabindex=&quot;-1&quot;&gt;Mass Effect&lt;/h1&gt;
 &lt;h2 id=&quot;sara-ryder&quot; tabindex=&quot;-1&quot;&gt;Sara Ryder&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2601,6 +2612,7 @@ I won&#39;t initiate anything with these muses until &lt;em&gt;after&lt;/em&gt; 
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;other-fandoms&quot; tabindex=&quot;-1&quot;&gt;Other Fandoms&lt;/h1&gt;
 &lt;h2 id=&quot;doctor-who-expanded-universe&quot; tabindex=&quot;-1&quot;&gt;Doctor Who Expanded Universe&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2652,7 +2664,7 @@ I&#39;m not currently writing &lt;em&gt;any&lt;/em&gt; of my Doctor Who muses. I
                 ! Summary - Nihlus
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/</id>
             <content type="html">
                 &lt;h1 id=&quot;nihlus-kryik&quot; tabindex=&quot;-1&quot;&gt;Nihlus Kryik&lt;/h1&gt;
@@ -3248,7 +3260,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Isabela
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/</id>
             <content type="html">
                 &lt;h1 id=&quot;isabela-shepard&quot; tabindex=&quot;-1&quot;&gt;Isabela Shepard&lt;/h1&gt;
@@ -4070,7 +4082,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Zevran
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/</id>
             <content type="html">
                 &lt;h1 id=&quot;zevran-arainai&quot; tabindex=&quot;-1&quot;&gt;Zevran Arainai&lt;/h1&gt;
@@ -4552,7 +4564,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Zaehire
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/</id>
             <content type="html">
                 &lt;h1 id=&quot;zaehire-de-riva&quot; tabindex=&quot;-1&quot;&gt;Zaehire de Riva&lt;/h1&gt;
@@ -4980,7 +4992,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Ward
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/</id>
             <content type="html">
                 &lt;h1 id=&quot;ward-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Ward Ingellvar&lt;/h1&gt;
@@ -5555,7 +5567,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Leonardo
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/</id>
             <content type="html">
                 &lt;h1 id=&quot;leonardo-de-riva&quot; tabindex=&quot;-1&quot;&gt;Leonardo de Riva&lt;/h1&gt;
@@ -5992,7 +6004,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Haleir
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/</id>
             <content type="html">
                 &lt;h1 id=&quot;haleir-lavellan&quot; tabindex=&quot;-1&quot;&gt;Haleir Lavellan&lt;/h1&gt;
@@ -6418,7 +6430,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Bertrand
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/</id>
             <content type="html">
                 &lt;h1 id=&quot;bertrand-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Bertrand Ingellvar&lt;/h1&gt;
@@ -6841,7 +6853,7 @@ Summary goes here.&lt;/p&gt;
                 Wishlists - Ashina
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/</id>
             <content type="html">
                 &lt;h1 id=&quot;wishlists-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Wishlists - Ashina de Riva née Tabris&lt;/h1&gt;
@@ -7086,7 +7098,7 @@ TBA&lt;/p&gt;
                 Headcanons - Ashina
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/</id>
             <content type="html">
                 &lt;h1 id=&quot;headcanons-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Headcanons - Ashina de Riva née Tabris&lt;/h1&gt;
@@ -7331,7 +7343,7 @@ TBA&lt;/p&gt;
                 Connections - Ashina
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/</id>
             <content type="html">
                 &lt;h1 id=&quot;connections-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Connections - Ashina de Riva née Tabris&lt;/h1&gt;
@@ -7554,7 +7566,7 @@ TBA&lt;/p&gt;
                 ! Summary - Ashina
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
             <content type="html">
                 &lt;h1 id=&quot;ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Ashina de Riva née Tabris&lt;/h1&gt;
@@ -8365,7 +8377,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Tavares
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares/</id>
             <content type="html">
                 &lt;h1 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h1&gt;
@@ -8793,7 +8805,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Faeynore
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/</id>
             <content type="html">
                 &lt;h1 id=&quot;faeynore-moonstar&quot; tabindex=&quot;-1&quot;&gt;Faeynore Moonstar&lt;/h1&gt;
@@ -9214,7 +9226,7 @@ Summary goes here.&lt;/p&gt;
                 ! Summary - Dirge
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/</id>
             <content type="html">
                 &lt;h1 id=&quot;dirge&quot; tabindex=&quot;-1&quot;&gt;Dirge&lt;/h1&gt;
@@ -9638,7 +9650,7 @@ Summary goes here.&lt;/p&gt;
                 ! Open Muses - Roster
                 
             </title>
-            <updated>2026-02-02T02:57:19Z</updated>
+            <updated>2026-02-02T03:10:03Z</updated>
             <id>https://quantumstargazer.github.io//muse-info/open-muses-roster/</id>
             <content type="html">
                 &lt;h1 id=&quot;open-muses-roster&quot; tabindex=&quot;-1&quot;&gt;Open Muses Roster&lt;/h1&gt;
@@ -9650,6 +9662,7 @@ Unless you tell me you&#39;re &lt;em&gt;not&lt;/em&gt; interested in them by fil
 &lt;p&gt;[!FAQ]- What Are Open Muses?&lt;br /&gt;
 &lt;strong&gt;Open Muses&lt;/strong&gt; are my &lt;em&gt;primary muses&lt;/em&gt;, though that does &lt;em&gt;not&lt;/em&gt; mean that they share the same activity level, as I base that off of &lt;em&gt;fandom&lt;/em&gt; more than individual muse, as it tends to vary drastically, plus all of my muses have AUs for all of my primary fandoms. So while a muse&#39;s fandom might be tertiary in terms of activity, their verses/AUs for the primary fandom would likely have higher activity.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;baldur-s-gate&quot; tabindex=&quot;-1&quot;&gt;Baldur&#39;s Gate&lt;/h1&gt;
 &lt;h2 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -9690,6 +9703,7 @@ Unless you tell me you&#39;re &lt;em&gt;not&lt;/em&gt; interested in them by fil
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dragon Age&lt;/h1&gt;
 &lt;h2 id=&quot;ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Ashina de Riva née Tabris&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -9785,6 +9799,7 @@ Unless you tell me you&#39;re &lt;em&gt;not&lt;/em&gt; interested in them by fil
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;mass-effect&quot; tabindex=&quot;-1&quot;&gt;Mass Effect&lt;/h1&gt;
 &lt;h2 id=&quot;isabela-shepard&quot; tabindex=&quot;-1&quot;&gt;Isabela Shepard&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -9812,6 +9827,7 @@ Unless you tell me you&#39;re &lt;em&gt;not&lt;/em&gt; interested in them by fil
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;h1 id=&quot;other-fandoms&quot; tabindex=&quot;-1&quot;&gt;Other Fandoms&lt;/h1&gt;
 &lt;h2 id=&quot;doctor-who-expanded-universe&quot; tabindex=&quot;-1&quot;&gt;Doctor Who Expanded Universe&lt;/h2&gt;
 &lt;blockquote&gt;
