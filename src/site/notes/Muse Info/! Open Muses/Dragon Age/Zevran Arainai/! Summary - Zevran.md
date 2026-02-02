@@ -166,6 +166,18 @@
 >> - Verse
 >> - Wishlist 
 
+> [!verse]+ Crow Takeover
+> - *Restored Epilogues AU*
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - Dossier
+>> - Headcanons
+>> - Verse
+>> - Wishlist 
+
+
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
