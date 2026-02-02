@@ -5,6 +5,8 @@
 # Friends Only Roster 
 > [!WARNING] Not Open For Requests
 > These muses are available for highly selective individuals only, and are not requestable by anyone but them.
+
+---
 # Baldur's Gate
 ## Faertorithrue
 > [!profile]+ Faertorithrue
@@ -40,6 +42,8 @@
 - Connections
 - Headcanons
 - Wishlists
+
+---
 # Dragon Age
 ## Musename
 > [!profile]- Musename
@@ -51,6 +55,8 @@
 - Connections
 - Headcanons
 - Wishlists
+
+---
 # Mass Effect
 ## Avitus Rix
 > [!profile]- Musename
@@ -62,6 +68,8 @@
 - Connections
 - Headcanons
 - Wishlists
+
+---
 # Other Fandoms
 ## The Elder Scrolls
 ### Inigo

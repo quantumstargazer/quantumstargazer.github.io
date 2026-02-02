@@ -9,6 +9,7 @@
 > [!FAQ]- What Are Open Muses?
 > **Open Muses** are my *primary muses*, though that does *not* mean that they share the same activity level, as I base that off of *fandom* more than individual muse, as it tends to vary drastically, plus all of my muses have AUs for all of my primary fandoms. So while a muse's fandom might be tertiary in terms of activity, their verses/AUs for the primary fandom would likely have higher activity.
 
+---
 # Baldur's Gate
 ## Tavares Umbrafae
 > [!profile]+ Tavares Umbrafae
@@ -44,6 +45,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Dragon Age
 ## Ashina de Riva née Tabris
 > [!profile]+ Ashina de Riva
@@ -129,6 +131,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Mass Effect
 ## Isabela Shepard
 > [!profile]+ Isabela Shepard
@@ -153,6 +156,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Other Fandoms
 ## Doctor Who Expanded Universe
 > [!attention] Not Currently Available

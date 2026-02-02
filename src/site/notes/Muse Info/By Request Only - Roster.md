@@ -5,6 +5,8 @@
 # By Request Only Roster
 > [!TIP] Available Only If You Ask!
 > I won't initiate anything with these muses until *after* you've specifically asked for them.
+
+---
 # Baldur's Gate
 ## Astarion Ancunín
 > [!profile]- Musename
@@ -37,6 +39,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Dragon Age
 ## Varric Tethras
 > [!profile]- Musename
@@ -159,6 +162,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Mass Effect
 ## Sara Ryder
 > [!profile]- Musename
@@ -201,6 +205,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Other Fandoms
 ## Doctor Who Expanded Universe
 > [!attention] Not Currently Available

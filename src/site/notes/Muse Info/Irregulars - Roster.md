@@ -4,6 +4,8 @@
 
 # Irregulars Roster
 > [!WARNING] Mains & Best Friends Call Members Only
+
+---
 # Baldur's Gate
 ## Gale Dekarios
 > [!profile]- Musename
@@ -46,6 +48,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Dragon Age
 ## Marian Hawke
 > [!profile]- Musename
@@ -335,6 +338,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Mass Effect
 ## Urdnot Wrex
 > [!profile]- Musename
@@ -457,6 +461,7 @@
 - Headcanons
 - Wishlists
 
+---
 # Other Fandoms
 ## Doctor Who Expanded Universe
 > [!attention] Not Currently Available
