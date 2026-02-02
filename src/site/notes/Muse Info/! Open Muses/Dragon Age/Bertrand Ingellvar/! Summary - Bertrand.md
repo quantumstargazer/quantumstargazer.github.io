@@ -39,7 +39,7 @@
 >> - *additional ethnicities/cultures:* 
 >> - *height:* 234 cm
 >> 	- 7 ft 11.67 in
->> - *body shape:* 
+>> - *body shape:* — 
 >> - *hair:* 
 >> - *eyes:* 
 >> - *complexion:* 

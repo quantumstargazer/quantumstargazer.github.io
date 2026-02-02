@@ -14,8 +14,7 @@
 > - *pronouns:* They/Them
 
 > [!profile]- Additional Information
-> (*verse/timeline dependent*)
-> 
+>
 >> [!stats]+ Age
 >> - *apparent age:* 21 +/- years (*9:51 Dragon*)
 >> 	- 20 +/- years (*9:50 Dragon*)
