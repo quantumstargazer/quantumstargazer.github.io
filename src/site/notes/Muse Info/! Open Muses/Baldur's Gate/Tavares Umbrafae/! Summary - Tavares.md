@@ -95,6 +95,7 @@
 > - *visage:* 
 > - *playlist:* 
 
+---
 # Canon Typical
 > [!verse]+ Absolute Crisis
  > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
@@ -107,6 +108,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Canon Divergent AUs
 > [!verse]+ Callidae Exile 
 > - *Companion (Non-Party Leader) AU*
@@ -130,6 +132,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
@@ -196,6 +199,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
@@ -273,6 +277,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Other Verses & AUs
 > [!verse]- VerseTitle
 > Summary goes here.
@@ -283,6 +288,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
