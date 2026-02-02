@@ -16,7 +16,7 @@
 > [!profile]- Additional Information
 > (*verse/timeline dependent*)
 > 
->> [!muse]+ Age
+>> [!stats]+ Age
 >> - *apparent age:* 21 +/- years (*9:51 Dragon*)
 >> 	- 20 +/- years (*9:50 Dragon*)
 >> 	- 15 +/- years (*9:45 Dragon*)	
@@ -26,13 +26,13 @@
 >> - *date of birth:* 9:30 Dragon
 >> 	- 30th of Harvestmere
 >  
->> [!muse]+ Personal Identity 
+>> [!stats]+ Personal Identity 
 >> - *sexual orientation:* Panromantic Demisexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* ISFP-T
 >> - *Enneagram:* — 
 > 
->> [!muse]+ Physical Description
+>> [!stats]+ Physical Description
 >> - *species:* ~~Spirit of Learning~~ Elf
 >> - *race:* City Elf
 >> - *ethnicity:* Nevarran
@@ -47,19 +47,19 @@
 >> - *complexion:* *TBA*
 >> 	- Ritual Scarification
 > 
->> [!muse]- Demographics 
+>> [!stats]- Demographics 
 >> - *planet of origin:* Thedas (*planet name unknown*)
 >> - *place of birth:* Grand Necropolis - Nevarra
 >> - *homeworld:* Thedas (*planet name unknown*)
 >> - *nationality:* Nevarran
 >> - *home town:* Grand Necropolis - Nevarra
 > 
->> [!muse]- Communication 
+>> [!stats]- Communication 
 >> - *known languages:* Common Trade Tongue
 >> 	- Nevarran
 >> 	- Elvhen (*verse/timeline dependent*)
 > 
->> [!muse]- Social Standing & Affiliations 
+>> [!stats]- Social Standing & Affiliations 
 >> - *affiliated organizations:* Mourn Watch
 >> - *extended affiliations:* —
 >> - *employer(s)/patron(s):* Vorgoth
@@ -67,12 +67,12 @@
 >> - *occupation(s):* Mourn Watch Death Caller
 >> - *title(s):* Mourn Watcher
 > 
->> [!muse]- Spiritual Beliefs 
+>> [!stats]- Spiritual Beliefs 
 >> - *beliefs:* Questioning
 >> - *patron deity:* —
 >> - *pantheon:* —
 > 
->> [!muse]+ Origin Attributes 
+>> [!stats]+ Origin Attributes 
 >> - *class (primary):* Necromancer - *Mage*
 >> 	- Death Caller - *Mourn Watch*
 >> 	- Necromancy
@@ -83,7 +83,7 @@
 >> - *fighting style:* Staff
 >> 	- Spellblade & Orb
 > 
->> [!muse]+ Current Status
+>> [!stats]+ Current Status
 >> - *current moral alignment:* Chaotic Good
 
 > [!tags]- Tumblr Tags
