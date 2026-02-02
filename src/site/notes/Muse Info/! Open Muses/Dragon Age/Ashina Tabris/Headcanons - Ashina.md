@@ -25,6 +25,7 @@
 > - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
 > - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
 
+---
 # Universal Headcanons
 
 > [!headcanon]-
@@ -42,6 +43,7 @@
 > [!headcanon]-
 > TBA
 
+---
 # Canon Typical
 ## Dragon Age Headcanons
 ### Veilguard (9:45 - 9:54 Dragon)
@@ -64,6 +66,7 @@
 > [!headcanon]-
 > TBA
 
+---
 # Canon Divergent AUs
 ## Rook Headcanons
 > [!headcanon]-
@@ -101,6 +104,7 @@
 > [!headcanon]-
 > TBA
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 ### Scion of the Outer Planes Headcanons
@@ -131,6 +135,7 @@
 > [!headcanon]-
 > TBA
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis Headcanons
@@ -164,11 +169,13 @@
 > [!headcanon]-
 > TBA
 
+---
 # Other Verses & AUs
 ## Other Verse Headcanons
 > [!headcanon]-
 > TBA
 
+---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 ### Private Verse Headcanons

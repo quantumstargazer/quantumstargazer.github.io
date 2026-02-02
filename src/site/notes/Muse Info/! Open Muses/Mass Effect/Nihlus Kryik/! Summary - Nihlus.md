@@ -88,6 +88,7 @@
 > - *visage:* 
 > - *playlist:* 
 
+---
 # Canon Typical
 > [!verse]+ Trilogy
 > - *Reaper War (2183 - 21XX CE)*
@@ -118,6 +119,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Canon Divergent AUs
 > [!verse]+ Turian Hierarchy
 > - *Alternate History AU*
@@ -219,6 +221,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
@@ -287,6 +290,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
@@ -373,6 +377,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Other Verses & AUs
 > [!verse]- Crucible BS
 > - *Space Magic Fuckery (Multifandom Displacement)*
@@ -385,6 +390,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle

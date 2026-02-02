@@ -96,6 +96,7 @@
 > - *visage:* 
 > - *playlist:* 
 
+---
 # Canon Typical
 > [!verse]+ Dragon Age
 > - *Eighth Talon of the Antivan Crows (as of 9:45 Dragon)*
@@ -108,6 +109,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Canon Divergent AUs
 > [!verse]+ Black Shadow
 > - *Bane of the Antivan Crows AU*
@@ -164,6 +166,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
@@ -230,6 +233,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
@@ -307,6 +311,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Other Verses & AUs
 > [!verse]- VerseTitle
 > Summary goes here.
@@ -317,6 +322,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle

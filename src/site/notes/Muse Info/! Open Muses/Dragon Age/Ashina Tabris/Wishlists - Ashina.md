@@ -25,6 +25,7 @@
 > - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
 > - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
 
+---
 # Universal Wishlists
 > [!wishlist]-
 > TBA
@@ -41,6 +42,7 @@
 > [!wishlist]-
 > TBA
 
+---
 # Canon Typical
 ## Dragon Age Wishlists
 ### Veilguard (9:45 - 9:54 Dragon)
@@ -63,6 +65,7 @@
 > [!wishlist]-
 > TBA
 
+---
 # Canon Divergent AUs
 ## Rook Wishlists
 > [!wishlist]-
@@ -100,6 +103,7 @@
 > [!wishlist]-
 > TBA
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 ### Scion of the Outer Planes Wishlists
@@ -130,6 +134,7 @@
 > [!wishlist]-
 > TBA
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis Wishlists
@@ -163,11 +168,13 @@
 > [!wishlist]-
 > TBA
 
+---
 # Other Verses & AUs
 ## Other Verse Wishlists
 > [!wishlist]-
 > TBA
 
+---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 ### Private Verse Wishlists

@@ -96,6 +96,7 @@
 > - *visage:* 
 > - *playlist:* 
 
+---
 # Canon Typical
 > [!verse]+ Dragon Age
 > Summary goes here.
@@ -106,6 +107,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Canon Divergent AUs
 > [!verse]+ Talon's Thorn
 > - *Companion (Non-Rook) AU*
@@ -127,6 +129,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
@@ -193,6 +196,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
@@ -270,6 +274,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Other Verses & AUs
 > [!verse]- VerseTitle
 > Summary goes here.
@@ -280,6 +285,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle

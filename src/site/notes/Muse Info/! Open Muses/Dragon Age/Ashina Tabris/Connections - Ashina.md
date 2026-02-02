@@ -25,6 +25,7 @@
 > - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
 > - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
 
+---
 # Mains
 > [!main]- Viago de Riva — corvusrookery
 > - *blog tag(s):* 
@@ -56,18 +57,21 @@
 > 	- Connection ☾⭒ Ashina x Garrus ( lanternlit )
 > - *ship/dyn:*  
 
+---
 # Best Friends Call Members
 > [!bfc]- 
 > - *blog tag(s):* 
 > - *connection:* 
 > - *ship/dyn:*  
 
+---
 # Shipping Partners
 > [!shipdyn]- 
 > - *blog tag(s):* 
 > - *connection:* 
 > - *ship/dyn:* 
 
+---
 # Desired Dynamics
 ## Dragon Age
 > *Sorted by first appearance in series. This is **not** a comprehensive list of who I want to interact with. This is just the muses I have ideas regarding dynamics plotting and/or shipping potential.*

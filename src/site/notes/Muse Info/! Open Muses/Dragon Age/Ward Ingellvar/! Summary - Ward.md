@@ -97,6 +97,7 @@
 > - *visage:* 
 > - *playlist:* 
 
+---
 # Canon Typical
 > [!verse]+ Dragon Age
 > 
@@ -110,6 +111,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Canon Divergent AUs
 > [!verse]+ Ghost of the Necropolis 
 > - *Companion (Non-Rook) AU*
@@ -173,7 +175,7 @@
 >> - Verse
 >> - Wishlist 
 
-
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
@@ -240,6 +242,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
@@ -317,6 +320,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Other Verses & AUs
 > [!verse]- VerseTitle
 > Summary goes here.
@@ -327,6 +331,7 @@
 >> - Verse
 >> - Wishlist 
 
+---
 # Private Verses & AUs
 ## corvusrookery - Solas
 > [!verse]- Dragon Age (Solas - corvusrookery)

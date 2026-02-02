@@ -116,6 +116,7 @@
 > - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
 > - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
 
+---
 # Canon Typical
 > [!verse]+ Dragon Age
 > - *Defaults to Veilguard era timelines. (9:45 - 9:54 Dragon)*
@@ -131,6 +132,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Dragon Age Wishlists\|Wishlists]] 
 
+---
 # Canon Divergent AUs
 > [!verse]+ Rook 
 > - *Defaults to Veilguard timeline. (9:50 - 9:54 Dragon)*
@@ -238,6 +240,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
+---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
@@ -303,6 +306,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
+---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
@@ -379,6 +383,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
+---
 # Other Verses & AUs
 > [!verse]- VerseTitle
 > Summary goes here.
@@ -389,6 +394,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
+---
 # Private Verses & AUs
 ## corvusrookery - Viago de Riva 
 > [!verse]- Dragon Age ( Viago - corvusrookery )
