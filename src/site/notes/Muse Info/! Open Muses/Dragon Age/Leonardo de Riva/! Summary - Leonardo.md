@@ -103,7 +103,9 @@
 
 # Canon Typical
 > [!verse]+ Dragon Age
-> Summary goes here.
+> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
+> 
+> .
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
