@@ -94,7 +94,9 @@
 > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
 > ![Ward temp02.png|red|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
-> Ward Ingellvar is a Mourn Watch necromancer.
+> Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead, who informed Vorgoth of the child's presence where few dared to venture. Sensing the truth of the elven infant's origins, Vorgoth decides to take them as their own ward, especially as superstitions arise from the child's unexplained appearance in the Grand Necropolis. As Vorgoth's ward, the elven child is raised within the Necropolis and the Mourn Watch. They are quiet and often reserved, preferring the company of spirits and the benevolent undead to that of most of the living. 
+> 
+> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 - Connections
