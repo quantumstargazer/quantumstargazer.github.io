@@ -17,6 +17,8 @@
 > ![20250810034220.png|red|100](/img/user/z%20Assets/Attachments/20250810034220.png)
 >  
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
+> 
+> .
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 - Connections
@@ -28,6 +30,8 @@
 > ![20250726145030.png|red|100](/img/user/z%20Assets/Attachments/20250726145030.png)
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
+> 
+> .
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 - Connections
@@ -39,6 +43,8 @@
 > ![Dirge temp01.png|red|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 > 
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
+> 
+> .
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 - Connections
@@ -108,7 +114,9 @@
 > *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
 > ![zev temp.png|red|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
-> In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if  they are destroyed completely, or he takes control of them himself.
+> In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
+> 
+> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 - Connections
@@ -120,6 +128,8 @@
 > ![Haleir Lavellan.png|red|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
+> 
+> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 - Connections
@@ -131,6 +141,8 @@
 > ![bert temp01.png|red|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
 > 
 > A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
+> 
+> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
 - Connections
