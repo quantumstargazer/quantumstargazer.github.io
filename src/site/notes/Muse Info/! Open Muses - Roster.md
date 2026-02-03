@@ -31,7 +31,6 @@
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
 > 
-> .
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 - Connections
@@ -43,8 +42,6 @@
 > ![Dirge temp01.png|red|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 > 
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
-> 
-> .
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 - Connections
@@ -87,8 +84,6 @@
 > Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers are killed by Antivan Crows, and he is instead taken into House de Riva.
 > 
 > When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. He doesn't give up on his rogue training, insisting that he can manage both it *and* his magical training, and while many expected him to fail, his sheer determination to prove himself worthy of being a de Riva leads to his eventually studying to be a Spellblade Assassin.
-> 
-> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 - Connections
@@ -99,11 +94,7 @@
 > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
 > ![Ward temp02.png|red|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
-> What started as a curious little wisp with a desperate desire to learn was nurtured and taught by a greater Spirit of Wisdom[^1] until it grew into a Spirit of Learning in time. 
-> 
-> In 9:30 Dragon, Learning *finally* accomplished their Ages long attempt at finding a way to form a physical body, though as their new form was that of an elven infant, they forgot their previous life in the Fade. A foundling in the Grand Necropolis, it is Vorgoth who took in this infant, recognizing them for what they truly were, and raising them themselves to reduce the risk of their spirit being corrupted.
-> 
-> .
+> Ward Ingellvar is a Mourn Watch necromancer.
 
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 - Connections
@@ -115,8 +106,6 @@
 > ![zev temp.png|red|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
-> 
-> .
 
 - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 - Connections
