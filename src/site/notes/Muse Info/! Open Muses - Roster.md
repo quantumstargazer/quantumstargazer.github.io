@@ -118,7 +118,7 @@
 > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
 > ![Haleir Lavellan.png|red|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > 
-> Haleir was born in Arlathan Forest amidst the ancient elvhen ruins.
+> Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 
