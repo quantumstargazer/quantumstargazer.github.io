@@ -52,7 +52,7 @@
 # Dragon Age
 ## Ashina de Riva née Tabris
 > [!profile]+ Ashina de Riva
-> *City Elf — ~~Grey Wardens~~ (defected) Antivan Crows — Master Assassin*
+> *City Elf — ~~Grey Wardens (defected) Antivan Crows — Master Assassin*
 > ![Ash001.png|red|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
 > Ashina is conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "**Tathas Arainai**". By 9:31 Dragon, she is notorious among the Wardens for having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden has survived the attempt until she is said to have been killed by the Antivan Crows in 9:33 Dragon.
