@@ -78,92 +78,92 @@
 > *Sorted by first appearance in series. This is **not** a comprehensive list of who I want to interact with. This is just the muses I have ideas regarding dynamics plotting and/or shipping potential.*
 ### Origins
 > [!wishlist] Zevran Arainai 
-> 
+> - *LI potential:* yes (**true love path preferred**)
 
 > [!wishlist] Morrigan
-> 
+> - *LI potential:* yes
 
 > [!wishlist] Sten
-> 
+> - *LI potential:* yes
 
 > [!wishlist] Shale
-> 
+> - *LI potential:* no
 
 > [!wishlist] Alistair
-> 
+> - *LI potential:* maybe (*requires plotting*)
 
 > [!wishlist] Oghren
-> 
+> - *LI potential:* no
 
 > [!wishlist] Wynne
-> 
+> - *LI potential:* no
 
 > [!wishlist] Isabela
-> 
+> - *LI potential:* maybe
 
 ### Awakening
 > [!wishlist] Anders
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Justice
-> 
+> - *LI potential:* no
 
 > [!wishlist] Nathaniel Howe
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Sigrun
-> 
+> - *LI potential:* yes
 
 > [!wishlist] Velanna
-> 
+> - *LI potential:* maybe
 
 ### Kirkwall (*DA2*)
 > [!wishlist] Varric Tethras
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Fenris
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Merrill
-> 
+> - *LI potential:* maybe
 
 ### Inquisition
 > [!wishlist] Dorian Pavus
-> 
+> - *LI potential:* no
 
 > [!wishlist] Solas
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Sera
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Blackwall
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Cole
-> 
+> - *LI potential:* no
 
 ### Veilguard
 > [!wishlist] Viago de Riva
-> 
+> - *LI potential:* yes
 
 > [!wishlist] Andarateia Cantori
-> 
+> - *LI potential:* yes
 
 > [!wishlist] Lucanis Dellamorte
-> 
+> - *LI potential:* yes
 
 > [!wishlist] Chance
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Fletcher
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Heir
-> 
+> - *LI potential:* maybe
 
 > [!wishlist] Jacobus
-> 
+> - *LI potential:* no
 
 
 
