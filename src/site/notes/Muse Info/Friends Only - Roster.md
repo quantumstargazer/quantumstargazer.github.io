@@ -45,8 +45,8 @@
 
 ---
 # Dragon Age
-## Musename
-> [!profile]- Musename
+## Bellara Lutare
+> [!profile]- Bellara Lutare
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -59,7 +59,7 @@
 ---
 # Mass Effect
 ## Avitus Rix
-> [!profile]- Musename
+> [!profile]- Avitus Rix
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -73,7 +73,7 @@
 # Other Fandoms
 ## The Elder Scrolls
 ### Inigo
-> [!profile]- Musename
+> [!profile]- Inigo
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -83,7 +83,7 @@
 - Headcanons
 - Wishlists
 ### Courier
-> [!profile]- Musename
+> [!profile]- Courier
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -94,7 +94,7 @@
 - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
-> [!profile]- Musename
+> [!profile]- Magnus Rasmodius
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -104,7 +104,7 @@
 - Headcanons
 - Wishlists
 ### Elliot
-> [!profile]- Musename
+> [!profile]- Elliot
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -114,7 +114,7 @@
 - Headcanons
 - Wishlists
 ### Gunter
-> [!profile]- Musename
+> [!profile]- Gunter
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -127,7 +127,7 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of Tony as I'm working on designing his new AU origin. I just have him included here so as not to forget to add the info here later.
 ### Tony Stark
-> [!profile]- Musename
+> [!profile]- Tony Stark
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -140,7 +140,7 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
 ### Irving Braxiatel
-> [!profile]- Musename
+> [!profile]- Irving Braxiatel
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -150,7 +150,7 @@
 - Headcanons
 - Wishlists
 ### Bernice Summerfield
-> [!profile]- Musename
+> [!profile]- Bernice Summerfield
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -160,7 +160,7 @@
 - Headcanons
 - Wishlists
 ### Leela of the Sevateem
-> [!profile]- Musename
+> [!profile]- Leela of the Sevateem
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -170,7 +170,7 @@
 - Headcanons
 - Wishlists
 ### Narvin
-> [!profile]- Musename
+> [!profile]- Narvin
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
