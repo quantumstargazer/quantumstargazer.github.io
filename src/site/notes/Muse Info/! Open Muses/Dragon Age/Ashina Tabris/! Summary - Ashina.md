@@ -11,6 +11,7 @@
 > 	- ~~Tathas Adaia Arainai~~ (*"deceased" as of 9:33 Dragon*)
 > 	- ~~Ashina Tabris~~
 > - *nickname:* Ash
+> 	- Snapdragon (*Varric only*)
 > - *alias:* The Grey Raven (*Bane of the Antivan Crows - 9:31 to 9:33 Dragon*)
 > 	- The Dark Wolf of Denerim (*9:31 to 9:33 Dragon*)
 > 	- **Warden Tathas Arainai** - The Hero of Ferelden (*"deceased" as of 9:33 Dragon*)
