@@ -120,6 +120,8 @@
 > 
 > Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
+> In 9:41 Dragon, she ends up in the center of the chaos in southern Thedas with the Inquisition, going from being suspected of murder of the Divine to being named the Herald of Andraste in rapid succession. Soon after, she is named the Inquisitor, and leads the Inquisition to victory against Corypheus.
+> 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 
 - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
