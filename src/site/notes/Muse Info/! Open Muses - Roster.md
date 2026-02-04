@@ -118,9 +118,9 @@
 > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
 > ![Haleir Lavellan.png|red|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > 
-> In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
+> Haleir was born in Arlathan Forest amidst the ancient elvhen ruins.
 > 
-> .
+> In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 
 - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 - Connections
