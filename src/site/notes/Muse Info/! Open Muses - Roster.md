@@ -147,7 +147,7 @@
 > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
 > ![20250818152450 (1).png|red|100](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 > 
-> Isabela Shepard 
+> Isabela Shepard is an elite N7 operative, and the first human to be accepted as a Council Spectre. 
 
 - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 - Connections
@@ -158,7 +158,7 @@
 > *Turian — Renegon — Council Spectre — Havoc Soldier*
 > ![nihlus000.png|red|100](/img/user/z%20Assets/Attachments/nihlus000.png)
 > 
-> Nihlus Kryik is one of the Council's most highly decorated Spectres.
+> Nihlus Kryik is one of the Council's most highly decorated Spectres. His once mentor, Saren Arterius, tries to murder him on Eden Prime by shooting at him from point blank range. Nihlus survives the attempt on his life, and joins his own protégé in their hunt to bring Saren to justice for the older Spectre's betrayal of the Council — and to hopefully find answers for himself for why Saren would betray *him*.
 
 - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Dossiers & Verses]]
 - Connections
