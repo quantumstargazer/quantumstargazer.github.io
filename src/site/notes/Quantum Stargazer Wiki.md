@@ -53,7 +53,7 @@
 > Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
 - [(Dis)Interest Tracker](https://tally.so/r/D4p7pb) - *for telling me who you are &/or are **not** interested in interacting with*
-- RP Preferences Tracker - *for telling me your preferences for interactions, plotting, etc. (Coming Soon)*
+- **RP Preferences Tracker (Coming Soon)*** - *for telling me your preferences for interactions, plotting, etc.
 - [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call' with benefits*
 ## Interactions Calls
 > [!guideline]- Request Interaction At Any Time
@@ -61,16 +61,23 @@
 
 - [Starter Call](https://tally.so/r/eqrr8J) - *for requesting that I write a starter for your muse(s)*
 - [Inbox Call](https://tally.so/r/NpXXKl) - *for requesting that I send prompts/memes to your inbox*
+
 ---
 # Rules & Guidelines
 - [[Rules & Guidelines/Actual Rules\|The Actual Rules]] - *must be read before following*
 - [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
 - [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
 # Muse Rosters
+> [!faq]- Activity Levels Based On Fandom - Not Individual Muse
+> - Activity is based on the fandom as opposed to the individual muse.
+> - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
+> - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
+
 - [[Muse Info/! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
 - [[Muse Info/Friends Only - Roster\|Friends Only]] - *by invitation only*
-- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
+- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members
+
 ---
 # About the Mun
 - *name/alias:* Ziggy
