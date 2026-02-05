@@ -37,8 +37,8 @@
 > 	- These posts are *not* actually queued, however, as I *never* queue in character posts. It is just a functional way of setting them aside in the tracker so as not to overwhelm me when I know I'm not going to be replying to that post for a while, and it should automatically release it from being marked as queued when I do eventually get it posted.
 > 	- Likewise, these threads are also *not dropped* — some muses, or even just some verses for that muse, are simply slower than others, and so interactions may go months without being replied to if I have little to no muse for them at the time.
 ## Where You Can See What's Tracked
-- **[Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads)** - *all threads, regardless of whose turn it is*
-- **[Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn)** - *my turns only*
+- [Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads) - *all threads, regardless of whose turn it is*
+- [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) - *my turns only*
 
 > [!guideline]- Regarding Tracking & Dropped Threads
 > I *very rarely* drop threads myself simply due to a lack of interest, so this is *not* something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it *eventually*, or I will reach out and let you know that I need to drop it because I'm unable to find a way to continue it.
