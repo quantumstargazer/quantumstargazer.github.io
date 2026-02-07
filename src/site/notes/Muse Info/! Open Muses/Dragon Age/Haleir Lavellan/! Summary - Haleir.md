@@ -49,7 +49,7 @@
 > 
 >> [!stats]- Demographics 
 >> - *planet of origin:* Thedas (*planet name unknown*)
->> - *place of birth:* Dalish Camp - Elvhen Ruins - Arlathan Forest - Tevinter Imperium
+>> - *place of birth:* Elvhen Ruins - Arlathan Forest - Tevinter Imperium
 >> - *homeworld:* Thedas (*planet name unknown*)
 >> - *nationality:* Free Marcher
 >> - *home town:* Dalish Camp - Free Marches
@@ -78,7 +78,7 @@
 >> - *class (primary):* Arcane Warrior - *Mage* (*taught by Solas*)
 >> - *class (secondary):* Necromancer - *Mage* (*learned in Skyhold*)
 >> - *class (tertiary):* Rift Mage - *Mage* (*taught by Solas*)
->> - *class (additional support):* 
+>> - *class (additional support):* —
 >> - *fighting style:* Spellblade & Orb
 >> 	- Spirit Blade
 >> 	- Staff
@@ -100,7 +100,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
-> Summary goes here.
+> In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas, 
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
