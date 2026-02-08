@@ -21,6 +21,7 @@
 | Ask questions about my stuff    |   Yes    |        *None*        |
 | Ask to start over               |   Yes    |        *None*        |
 | Tell me if you want to ship     |   Yes    |        *None*        |
+| Add me on discord               |   Yes    |   **Mutuals Only**   |
 | Discord message **(Open 24/7)** |   Yes    |   **Mutuals Only**   |
 | Random plot ideas               |   Yes    |        *None*        |
 | Comment on HCs & other posts    |   Yes    |        *None*        |
@@ -58,9 +59,11 @@
 - **Read the muse & verse info** - This is *really important*, since while I say things are "canon-typical", that does *not* mean they're canon-compliant. I don't expect you to remember each and every little detail, but some things are big enough to throw things off course if you assume it's the same as in canon when it's not. A "Quick Guide To Interactions" is added to the bottom of all dossiers and verse details to assist with this.
 - **Ask to start over** - If you're not happy with the direction things are going in within our interactions, feel free to ask to start over. We can plot things out a little to figure out the direction to move things in from there.
 - **Tell me if you want to ship** - I ship with chemistry, but that doesn't mean I can't handle hearing your wants for a future ship and/or dynamic. It just gives us something to build towards if we're both mutually interested in the same thing there.
+- **Add me on discord** - If we are mutuals, you can always add me on discord (*lefae639605*) to chat/plot/whatever.
 - **Scream at me in discord at all ungodly hours** - Seriously, I rarely sleep, so chances are online anyway, regardless of what timezone you're in.
 - **Randomly drop plot ideas on me whenever** - Just be forewarned that I may take them and turn them into a starter with little to no further enabling.
 - **Like and comment ~~and subscribe~~ on headcanons or thoughts about muses** - This will truly make my day.
+
 # Things You Should NOT Do
 - **Don't be a dick** - This is ultimately what all of the rules & guidelines boil down to.
 - **Don't send anonymous hate** - Anon is a *privilege*, not a right. I keep it on for prompts/memes, and the socially anxious. Not for dicks to be assholes. If you send anon hate, know that it will be screencapped and shared and mocked in private among my friends, while the ask itself will be reported to tumblr for harassment.
