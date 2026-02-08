@@ -5,8 +5,6 @@
 # Quantum Stargazer Wiki
 > [!error] Under Emergency Construction
 > Site is under emergency construction after the old wiki decided to start suffering from fatal errors on the host's end, so things are going to be a bit chaotic while I try to salvage the data from the old site to add to this one. Please be patient, as I am chronically ill and unable to always dedicate a lot of time and energy to this effort.
-> 
-> **There is currently an issue with displaying on Chromium mobile browsers.** I'm looking into it, but I don't know if it's something I did or something from one of the plugins or themes, so it may take a while.
 
 > [!WARNING] Testing In Progress
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
