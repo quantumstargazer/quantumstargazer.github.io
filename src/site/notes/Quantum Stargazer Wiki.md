@@ -101,7 +101,7 @@
 >> - Ghostbusters (*focus:* The ***Real*** Ghostbusters)[^2]
 >> - Marvel (*focus:* Iron Man/Tony Stark)[^3]
 >> - Our Flag Means Death
->> - Star Trek
+>> - Star Trek (*focus:* Original Series through Voyager)
 >> - Stardew Valley
 >> - Supernatural
 
