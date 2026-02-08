@@ -8,7 +8,25 @@
 ## Layout
 - [x] Update templates to work with new theme  [completion:: 2026-02-08]
 - [x] Redo notes with the new templates (this will be hell because there are *literal thousands* of notes)  [completion:: 2026-02-08]
-
+## General Info
+- [ ] Fandom Info
+	- [ ] Baldur's Gate
+		- [ ] BG3 Mods
+	- [ ] Dragon Age
+		- [ ] DAO Mods
+		- [ ] DA2 Mods
+		- [ ] DAI Mods
+		- [ ] DAVG Mods
+	- [ ] Mass Effect
+		- [ ] MELE 1 Mods
+		- [ ] MELE 2 Mods
+		- [ ] MELE 3 Mods
+		- [ ] MEA Mods
+- [ ] Tag Directory
+	- [ ] Muse Tags
+	- [ ] Organisational Tags
+	- [ ] Verse Tags
+- [ ] TBA
 # Muse Info
 
 > [!ziggy] A Word From Ziggy
