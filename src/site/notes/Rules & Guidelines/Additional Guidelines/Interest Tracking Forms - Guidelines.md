@@ -49,6 +49,6 @@ Should you choose to join this list, you are helping reduce anxiety to interact 
 The above call extends to all forms of ships, including but not restricted to: friendships, romantic ships, companionships, enemy combatant ships, apprenticeships, worships, and more.
 
 
-[^1]:  As defined by that moment when you think 'Get them to fucking stop, this is too much'.
+[^1]:  As defined by that moment when you think '*Get them to fucking stop, this is too much*'.
 
-[^2]: Members of the Best Friends Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. Just message me before answering anything sexual the first time, since that’s where I’m more highly selective about who I will and won’t write those ships with, yeah? Some on the dash call these "non-negotiable memes", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 
+[^2]: Members of the Best Friends Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. **Just message me before answering anything sexually explicit the first time**, since that’s where I’m more highly selective about who I will and won’t write that with, yeah? Some on the dash call these "*non-negotiable memes*", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 
