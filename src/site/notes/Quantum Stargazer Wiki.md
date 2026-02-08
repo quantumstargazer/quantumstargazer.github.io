@@ -76,7 +76,7 @@
 - [[Muse Info/! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
 - [[Muse Info/Friends Only - Roster\|Friends Only]] - *by invitation only*
-- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members
+- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
 
 ---
 # About the Mun
