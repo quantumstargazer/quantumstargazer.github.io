@@ -5,8 +5,6 @@
 # Quantum Stargazer Wiki
 > [!error] Under Emergency Construction
 > Site is under emergency construction after the old wiki decided to start suffering from fatal errors on the host's end, so things are going to be a bit chaotic while I try to salvage the data from the old site to add to this one. Please be patient, as I am chronically ill and unable to always dedicate a lot of time and energy to this effort.
-> 
-> **The background colour issue is being looked into.** I had to overwrite what I could with custom CSS for the moment, and I've still not figured out what the tag is for the remaining background, but the actual content is being displayed properly at the moment, so that's all I'm concerning myself with for now.
 
 > [!WARNING] Testing In Progress
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
