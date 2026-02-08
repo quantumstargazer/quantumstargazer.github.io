@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"]}
 ---
 
-# The Actual Rules
+****# The Actual Rules
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
@@ -11,7 +11,7 @@ This *should* got without saying, *and yet...*[^1]
 
 # 21+ & Mutuals Only
 > [!caution]- Viewer Discretion Is Advised
-> Most of my fandoms are *literally* rated M for Mature Audiences, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only - FAQ]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
+> Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only - FAQ]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
 
 > [!rule]- Must Be 18+ To Follow
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing with you until you are at least 21.

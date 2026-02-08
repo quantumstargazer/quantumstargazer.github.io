@@ -4,7 +4,7 @@
 
 # Interaction Forms - Guidelines
 > [!info]+ Request Interaction At Any Time
-> These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
+> These forms are here to let you **request interaction at any time**, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
 
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
 
