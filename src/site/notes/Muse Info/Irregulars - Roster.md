@@ -8,7 +8,7 @@
 ---
 # Baldur's Gate
 ## Gale Dekarios
-> [!profile]- Musename
+> [!profile]- Gale Dekarios (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -18,7 +18,7 @@
 - Headcanons
 - Wishlists
 ## Minsc
-> [!profile]- Musename
+> [!profile]- Minsc (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -28,7 +28,7 @@
 - Headcanons
 - Wishlists
 ## Fisk (*The Enigma*)
-> [!profile]- Musename
+> [!profile]- Fisk (they/them)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -38,7 +38,7 @@
 - Headcanons
 - Wishlists
 ## Halima
-> [!profile]- Musename
+> [!profile]- Halima (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -51,7 +51,7 @@
 ---
 # Dragon Age
 ## Marian Hawke
-> [!profile]- Musename
+> [!profile]- Marian Hawke (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -61,7 +61,7 @@
 - Headcanons
 - Wishlists
 ## Garrett Hawke
-> [!profile]- Musename
+> [!profile]- Garrett Hawke (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -71,7 +71,7 @@
 - Headcanons
 - Wishlists
 ## Bethany Hawke
-> [!profile]- Musename
+> [!profile]- Bethany Hawke (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -81,7 +81,7 @@
 - Headcanons
 - Wishlists
 ## Carver Hawke
-> [!profile]- Musename
+> [!profile]- Carver Hawke (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -91,7 +91,7 @@
 - Headcanons
 - Wishlists
 ## Fenris
-> [!profile]- Musename
+> [!profile]- Fenris (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -101,7 +101,7 @@
 - Headcanons
 - Wishlists
 ## Tamlen
-> [!profile]- Musename
+> [!profile]- Tamlen (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -111,7 +111,7 @@
 - Headcanons
 - Wishlists
 ## Orabela Aeducan
-> [!profile]- Musename
+> [!profile]- Orabela Aeducan (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -121,7 +121,7 @@
 - Headcanons
 - Wishlists
 ## Evka Ivo
-> [!profile]- Musename
+> [!profile]- Evka Ivo (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -131,7 +131,7 @@
 - Headcanons
 - Wishlists
 ## Antoine
-> [!profile]- Musename
+> [!profile]- Antoine (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -142,7 +142,7 @@
 - Wishlists
 ## Veterans of the Fifth Blight
 ### Aileas Cousland
-> [!profile]- Musename
+> [!profile]- Aileas Cousland (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -152,7 +152,7 @@
 - Headcanons
 - Wishlists
 ### Bran Cousland
-> [!profile]- Musename
+> [!profile]- Bran Cousland (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -162,7 +162,7 @@
 - Headcanons
 - Wishlists
 ### Isenril Mahariel
-> [!profile]- Musename
+> [!profile]- Isenril Mahariel (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -172,7 +172,7 @@
 - Headcanons
 - Wishlists
 ### Lailani Sabrae
-> [!profile]- Musename
+> [!profile]- Lailani Sabrae (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -182,7 +182,7 @@
 - Headcanons
 - Wishlists
 ### Satu Surana
-> [!profile]- Musename
+> [!profile]- Satu Surana (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -192,7 +192,7 @@
 - Headcanons
 - Wishlists
 ### Selena Amell
-> [!profile]- Musename
+> [!profile]- Selena Amell (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -202,7 +202,7 @@
 - Headcanons
 - Wishlists
 ### Kiran Brosca
-> [!profile]- Musename
+> [!profile]- Kiran Brosca (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -214,7 +214,7 @@
 
 ## Veterans of the Kirkwall Rebellions
 ### Rowan Hawke
-> [!profile]- Musename
+> [!profile]- Rowan Hawke (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -224,7 +224,7 @@
 - Headcanons
 - Wishlists
 ### Quincy Hawke
-> [!profile]- Musename
+> [!profile]- Quincy Hawke (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -236,7 +236,7 @@
 
 ## Veterans of the Inquisition
 ### Garahel Ithalanas Lavellan
-> [!profile]- Musename
+> [!profile]- Garahel Ithalanas (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -246,7 +246,7 @@
 - Headcanons
 - Wishlists
 ### Rubi Cadash
-> [!profile]- Musename
+> [!profile]- Rubi Cadash (she/they)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -256,7 +256,7 @@
 - Headcanons
 - Wishlists
 ### Tamik Adaar
-> [!profile]- Musename
+> [!profile]- Tamika Adaar (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -268,7 +268,7 @@
 
 ## Veterans of the Veilguard
 ### Darcy Mercer
-> [!profile]- Musename
+> [!profile]- Darcy Mercer (they/them)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -278,7 +278,7 @@
 - Headcanons
 - Wishlists
 ### Esha Laidir
-> [!profile]- Musename
+> [!profile]- Esha Laidir (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -288,7 +288,7 @@
 - Headcanons
 - Wishlists
 ### Gertrude Ingellvar
-> [!profile]- Musename
+> [!profile]- Gertrude Ingellvar (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -298,7 +298,7 @@
 - Headcanons
 - Wishlists
 ### Hakiem Aldwir
-> [!profile]- Musename
+> [!profile]- Hakiem Aldwir (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -308,7 +308,7 @@
 - Headcanons
 - Wishlists
 ### Iven Thorne
-> [!profile]- Musename
+> [!profile]- Iven Thorne (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -318,7 +318,7 @@
 - Headcanons
 - Wishlists
 ### Nikolas Mercer
-> [!profile]- Musename
+> [!profile]- Nikolas Mercer (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -328,7 +328,7 @@
 - Headcanons
 - Wishlists
 ### Redmond Thorne
-> [!profile]- Musename
+> [!profile]- Redmond Thorne (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -341,7 +341,7 @@
 ---
 # Mass Effect
 ## Urdnot Wrex
-> [!profile]- Musename
+> [!profile]- Urdnot Wrex (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -351,7 +351,7 @@
 - Headcanons
 - Wishlists
 ## Garrus Vakarian
-> [!profile]- Musename
+> [!profile]- Garrus Vakarian (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -361,7 +361,7 @@
 - Headcanons
 - Wishlists
 ## Tali'Zorah
-> [!profile]- Musename
+> [!profile]- Tali'Zorah (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -371,7 +371,7 @@
 - Headcanons
 - Wishlists
 ## Jeff "Joker" Moreau
-> [!profile]- Musename
+> [!profile]- Jeff "Joker" Moreau (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -381,7 +381,7 @@
 - Headcanons
 - Wishlists
 ## Karin Chakwas
-> [!profile]- Musename
+> [!profile]- Karin Chakwas (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -391,7 +391,7 @@
 - Headcanons
 - Wishlists
 ## Mordin Solus
-> [!profile]- Musename
+> [!profile]- Mordin Solus (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -401,7 +401,7 @@
 - Headcanons
 - Wishlists
 ## Thane Krios
-> [!profile]- Musename
+> [!profile]- Thane Krios (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -411,7 +411,7 @@
 - Headcanons
 - Wishlists
 ## Javik
-> [!profile]- Musename
+> [!profile]- Javik (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -421,7 +421,7 @@
 - Headcanons
 - Wishlists
 ## Jack
-> [!profile]- Musename
+> [!profile]- Jack (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -431,7 +431,7 @@
 - Headcanons
 - Wishlists
 ## James Vega
-> [!profile]- Musename
+> [!profile]- James Vega (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -441,7 +441,7 @@
 - Headcanons
 - Wishlists
 ## Aria T'Loak
-> [!profile]- Musename
+> [!profile]- Aria T'Loak (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -451,7 +451,7 @@
 - Headcanons
 - Wishlists
 ## Aethyta
-> [!profile]- Musename
+> [!profile]- Aethyta (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -467,7 +467,7 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
 ### Osgood
-> [!profile]- Musename
+> [!profile]- Osgood (she/they)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -477,7 +477,7 @@
 - Headcanons
 - Wishlists
 ### Bill Potts
-> [!profile]- Musename
+> [!profile]- Bill Potts (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -487,7 +487,7 @@
 - Headcanons
 - Wishlists
 ### Toshiko Sato
-> [!profile]- Musename
+> [!profile]- Toshiko Sato (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -497,7 +497,7 @@
 - Headcanons
 - Wishlists
 ### Gabby Gonzalez
-> [!profile]- Musename
+> [!profile]- Gabby Gonzalez (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -507,7 +507,7 @@
 - Headcanons
 - Wishlists
 ### Cindy Wu
-> [!profile]- Musename
+> [!profile]- Cindy Wu (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -517,7 +517,7 @@
 - Headcanons
 - Wishlists
 ### Noobis
-> [!profile]- Musename
+> [!profile]- Noobis (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
