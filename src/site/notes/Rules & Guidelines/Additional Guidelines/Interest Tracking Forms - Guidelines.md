@@ -7,7 +7,7 @@
 # (Dis)Interest Tracker
 Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[Muse Info/! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the (Dis)Interest Tracker form. 
 
-> [!rule] Reverse UNO - Interest Assumed Unless Told Otherwise
+> [!rule]+ Reverse UNO - Interest Assumed Unless Told Otherwise
 > Unless you fill out the **(Dis)Interest Tracker** form to explicitly state that you are *not* interested in a muse and/or one or more of their verses/AUs, then I may send any and/or all of my muses your way in any of their canon-based and/or fandom-matched verses and/or AUs.
 > 
 > *Example:* You write a Dragon Age muse. I think Isabela Shepard (*Mass Effect*) might be fun to write against them. Izzy has no less than 3 AUs for Dragon Age for me to choose from, including at least one where she is native to Thedas as an artificer and assassin rather than being her canon-based self from within the Mass Effect setting, so I pick the most suitable verse for the interaction I have in mind and send her your way.
