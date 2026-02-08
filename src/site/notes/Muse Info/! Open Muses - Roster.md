@@ -148,7 +148,9 @@
 > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
 > ![20250818152450 (1).png|red|100](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 > 
-> Isabela Shepard is an elite N7 operative, and the first human to be accepted as a Council Spectre. 
+> Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.
+> 
+> She often defies expectations, as she refuses to kowtow to the Alliance's demands of putting humanity's interests first. Once she is given Spectre status, she stops answering to the Alliance Brass, pushing the fact that she now answers to no one but the Council, and refusing to become the Alliance's puppet Spectre.
 
 - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 - Connections
