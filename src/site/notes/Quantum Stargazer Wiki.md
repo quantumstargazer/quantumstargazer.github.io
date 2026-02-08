@@ -45,7 +45,7 @@
 > 
 > If you lose interest in a thread, *please just let me know* so I can mark it as dropped &/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I'm an avid reader of work-in-progress fics on AO3 — I will wait *literal years* for a continuation. 
 > 
-> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to the far kinder "they're probably just busy/too tired/brainfoggy/etc" side of things rather than "oh, they've lost interest and I should move on from that thread" that most neurotypical people assume.
+> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to the far kinder "they're probably just busy/too tired/brainfoggy/etc" side of things rather than "oh, they've lost interest and I should move on from that thread" that most people seem to assume.
 
 ---
 # Interest Forms
