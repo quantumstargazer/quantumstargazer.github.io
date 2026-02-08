@@ -21,7 +21,7 @@
 > [!ziggy]- Wordy AF - Unapologetically Neurodivergent
 > **AuDHD** means ***infodumping*** is likely to occur, and this means my posts, as well as the notes here, are likely to get *wordy*. I tend to try to be mindful of individual paragraph lengths, but there will often be *a lot* of paragraphs and/or bullet points.
 > 
-> If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering it's collaborative nature, then I'm *probably* not the roleplay partner for you.
+> If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I'm *probably* not the roleplay partner for you.
 
 ---
 # Thread Tracking
@@ -52,8 +52,8 @@
 > [!rule]- Interest Assumed For All Open Muses
 > Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
-- [(Dis)Interest Tracker](https://tally.so/r/D4p7pb) - *for telling me who you are &/or are **not** interested in interacting with*
-- **RP Preferences Tracker (Coming Soon)*** - *for telling me your preferences for interactions, plotting, etc.
+- [(Dis)Interest Tracker](https://tally.so/r/D4p7pb) - *for telling me who you are &/or are* **not** *interested in interacting with*
+- **RP Preferences Tracker (Coming Soon)** - *for telling me your preferences for interactions, plotting, etc.*
 - [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call' with benefits*
 ## Interactions Calls
 > [!guideline]- Request Interaction At Any Time
