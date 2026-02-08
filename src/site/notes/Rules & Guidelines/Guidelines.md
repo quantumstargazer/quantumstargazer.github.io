@@ -23,7 +23,7 @@ You are *always* welcome to add context and/or expand on any meme and/or prompt 
 ### Continue As Threads
 You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 ### Prompts Never Expire
-There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the middle of summer, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
+There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
 
 > [!info] Regarding gazingintoquantumstars
 > **The latter is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
@@ -69,6 +69,11 @@ While I'm *always* willing to test the waters with letting the characters have s
 Platonic dynamics are *still* chemistry based for *progression* — strangers, acquaintances, casual friends, coworkers, family, etc. are all baseline starting points for platonic dynamics, but the deeper the connection, the more important chemistry becomes.
 ### Queerplatonic
 Queerplatonic[^6] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends, and is very much akin to what you'd expect from romantic dynamics, but without the actual romance side of things.
+### Antagonistic
+Antagonistic dynamics (where the intention is for them to *stay* that way for the long term, as with villains and such) are welcome, but may require ooc discussion and plotting to establish boundaries and the like — *especially* if there's any sexual encounters involved in the dynamic.
+### Familial
+Familial dynamics (whether by blood, by choice, by circumstance, found family, team as family, etc.) are welcome, and are chemistry based as everything else is. Non-canon children of any muse will require ooc discussion, though I am *extremely* selective when it comes to interacting with such muses (it's not to say I won't, but I've had some bad experiences with it in the past, so I'm much more picky about it now).
+
 ## Shipping
 ### Romanic Ships
 Romantic ships are *strictly* chemistry based — if the muses don't have chemistry, then a romantic ship isn't likely to develop. At least not without more plotting, and may require a soft reset of their interactions to try again.
