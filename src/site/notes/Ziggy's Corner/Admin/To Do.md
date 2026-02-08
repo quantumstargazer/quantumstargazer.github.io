@@ -4,10 +4,10 @@
 
 # Wiki
 ## Theme
-- [ ] Try to track down "dusty" overlay & get rid of it
+- [x] Try to track down "dusty" overlay & get rid of it  [completion:: 2026-02-08]
 ## Layout
-- [ ] Update templates to work with new theme
-- [ ] Redo notes with the new templates (this will be hell because there are *literal thousands* of notes)
+- [x] Update templates to work with new theme  [completion:: 2026-02-08]
+- [x] Redo notes with the new templates (this will be hell because there are *literal thousands* of notes)  [completion:: 2026-02-08]
 
 # Muse Info
 
