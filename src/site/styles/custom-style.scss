@@ -40,13 +40,13 @@ nav.filetree-sidebar {
   background-color: #121212;
 }
 
-body.theme-dark.markdown-preview-view.markdown-rendered.markdown-preview-section.css-settings-manager.theme-dark.mod-windows.is-frameless.is-hidden-frameless.obsidian-app.styled-scrollbars.show-inline-title.show-ribbon.show-view-header.css-settings-manager.mk-spaces-right.mk-readable-line.mk-folder-lines.mk-spaces-enabled.mk-inline-context-enabled.mk-flow-replace.mk-flow-minimal.folder-note-underline-path.fn-ignore-attachment-folder.version-1-7-2.iconic-clickable-icons.iconic-markdown-tab-icons.rpgm-toggle-full-width-styles.folder-notes-plugin.hide-folder-note.folder-note-underline.fn-whitespace-stop-collapsing.fas-theme-dark-print.fas-art-deco.fas-bg-textures.fas-workspace-foreground-contrast.fas-callout-infobox.fas-headings-rainbow.fas-hr.fas-border-tables.fas-statblocks-complement.fas-skin-art-deco.is-focused {
+body, .content, .workspace, .markdown-preview-view, .markdown-source-view, .sidebar, .theme-dark, .workspace-background, .fas-skin-art-deco, .dg {
     --background-primary: #070918 !important;
 	--background-primary-alt: #070918 !important;
 	--background-secondary: #070918 !important;
 	--background-secondary-alt: #070918 !important;
 	--workspace-background: #070918 !important;
-	background-color: #070918 !important; 
+	background-color: #070918 !important;
 }
 
 
