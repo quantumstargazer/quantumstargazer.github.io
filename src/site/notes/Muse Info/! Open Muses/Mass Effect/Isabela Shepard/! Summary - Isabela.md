@@ -45,8 +45,9 @@
 >> - *complexion:* 
 > 
 >> [!stats]- Demographics 
->> - *planet of origin:* Earth - Sol System - Local Cluster  - Milky Way Galaxy
->> - *place of birth:* New Orleans - Louisiana - United North American States
+>> - *planet of origin:* Earth - Sol - Local  - Milky Way
+>> - *place of birth:* New Orleans - Louisiana - UNAS
+>> 	- United North American States - Earth
 >> - *homeworld:* Earth - Sol - Local  - Milky Way
 >> - *nationality:* United North American
 >> - *home town:* 
