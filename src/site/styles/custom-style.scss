@@ -40,7 +40,7 @@ nav.filetree-sidebar {
   background-color: #121212;
 }
 
-body {
+body, .content, .workspace, .markdown-preview-view, .markdown-source-view {
     --background-primary: #070918 !important;
 	--background-primary-alt: #070918 !important;
 	--background-secondary: #070918 !important;
