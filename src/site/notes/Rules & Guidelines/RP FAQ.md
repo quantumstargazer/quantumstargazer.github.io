@@ -6,12 +6,6 @@
 > [!faq] If You Have Questions, Just Ask!
 > You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr.
 
-# Blocking
-
-
-# Following & Unfollowing
-
-
 # Preferences
 ## Post Formatting
 > [!warning]- Regarding Accessible Formatting
@@ -54,6 +48,14 @@
 - *Includes private Dynamic/Ship Verses & AUs — not limited to romantic shipping*
 - *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
+
+# Following & Unfollowing
+
+
+# Blocking
+
+
+
 
 
 [^1]: That *don't* fall into the realm of "being a dick" — any and all anon hate is screen capped and mocked privately with my friends, while the messages themselves are blocked and/or reported.
