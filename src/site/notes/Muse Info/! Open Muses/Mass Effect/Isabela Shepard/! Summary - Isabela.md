@@ -4,7 +4,7 @@
 
 # Isabela Shepard
 
-![20250818152450 (1).png|center](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
+![20250818152450 (1).png](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 
 > [!profile]+ Muse Info
 > - *name:* Isabela Novalee Shepard
