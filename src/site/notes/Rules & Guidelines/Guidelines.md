@@ -7,6 +7,7 @@
 > [!attention]- Read Rules Before Following
 > 
 > If you haven't done so already, you should read the [[Rules & Guidelines/Actual Rules\|Actual Rules]] before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
+
 # Interactions
 ## Inbox
 You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask)[^1].
@@ -76,7 +77,6 @@ Queerplatonic[^6] dynamics *are welcome*, and are dependent on chemistry in much
 Familial dynamics (whether by blood, by choice, by circumstance, found family, team as family, etc.) are welcome, and are chemistry based as everything else is. Non-canon children of any muse will require ooc discussion, though I am *extremely* selective when it comes to interacting with such muses (it's not to say I won't, but I've had some bad experiences with it in the past, so I'm much more picky about it now).
 ### Antagonistic
 Antagonistic dynamics (where the intention is for them to *stay* that way for the long term, as with villains and such) are welcome, but may require ooc discussion and plotting to establish boundaries and the like — *especially* if there's any sexual encounters involved in the dynamic.
-
 ## Shipping
 ### Romanic Ships
 Romantic ships are *strictly* chemistry based — if the muses don't have chemistry, then a romantic ship isn't likely to develop. At least not without more plotting, and may require a soft reset of their interactions to try again.
