@@ -5,8 +5,6 @@
 # Quantum Stargazer Wiki
 > [!error] Under Emergency Construction
 > Site is under emergency construction after the old wiki decided to start suffering from fatal errors on the host's end, so things are going to be a bit chaotic while I try to salvage the data from the old site to add to this one. Please be patient, as I am chronically ill and unable to always dedicate a lot of time and energy to this effort.
-> 
-> **There is currently an issue with displaying on Chromium mobile browsers.** I'm looking into it, but I don't know if it's something I did or something from one of the plugins or themes, so it may take a while.
 
 > [!WARNING] Testing In Progress
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
@@ -47,7 +45,7 @@
 > 
 > If you lose interest in a thread, *please just let me know* so I can mark it as dropped &/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I'm an avid reader of work-in-progress fics on AO3 — I will wait *literal years* for a continuation. 
 > 
-> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to the far kinder "they're probably just busy/too tired/brainfoggy/etc" side of things rather than "oh, they've lost interest and I should move on from that thread" that most neurotypical people assume.
+> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to the far kinder "they're probably just busy/too tired/brainfoggy/etc" side of things rather than "oh, they've lost interest and I should move on from that thread" that most people seem to assume.
 
 ---
 # Interest Forms
@@ -103,7 +101,7 @@
 >> - Ghostbusters (*focus:* The ***Real*** Ghostbusters)[^2]
 >> - Marvel (*focus:* Iron Man/Tony Stark)[^3]
 >> - Our Flag Means Death
->> - Star Trek
+>> - Star Trek (*focus:* Original Series through Voyager)
 >> - Stardew Valley
 >> - Supernatural
 

@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/ziggy-s-corner/admin/to-do/","tags":["ziggy-pinned","ziggy-to-do"]}
 ---
 
+# TO DO
+> [!ziggy]
+> No, I don't know why this isn't displaying properly, and it's so low priority that I'm not going to worry about it for now. This is just to give others an idea of what I've got planned and what I've finished, though this is by no means a definitive list of the work I'm doing on this project.
+
 # Wiki
 ## Theme
 - [x] Try to track down "dusty" overlay & get rid of it  [completion:: 2026-02-08]

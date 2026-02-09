@@ -9,7 +9,7 @@
 ---
 # Baldur's Gate
 ## Faertorithrue
-> [!profile]+ Faertorithrue
+> [!profile]+ Faertorithrue (she/they)
 > *Fey'ri Tiefling — Witchlight Carnival Hand*
 > ![20250816030845.png|red|100](/img/user/z%20Assets/Attachments/20250816030845.png)
 > 
@@ -20,7 +20,7 @@
 - Headcanons
 - Wishlists
 ## Fenmaer Dawngazer
-> [!profile]+ Fenmaer Dawngazer
+> [!profile]+ Fenmaer Dawngazer (he/him)
 > *Sun Elf — Cleric of Corellon*
 > ![20250729084634.png|red|100](/img/user/z%20Assets/Attachments/20250729084634.png)
 > 
@@ -31,7 +31,7 @@
 - Headcanons
 - Wishlists
 ## Karlach Cliffgate
-> [!profile]+ Karlach Cliffgate
+> [!profile]+ Karlach Cliffgate (she/her)
 > > For [lanternlit](https://lanternlit.tumblr.com) only.
 > 
 > ![[Placeholder_Person.jpg\|red]]
@@ -46,7 +46,7 @@
 ---
 # Dragon Age
 ## Bellara Lutare
-> [!profile]- Bellara Lutare
+> [!profile]- Bellara Lutare (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -59,7 +59,7 @@
 ---
 # Mass Effect
 ## Avitus Rix
-> [!profile]- Avitus Rix
+> [!profile]- Avitus Rix (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -73,7 +73,7 @@
 # Other Fandoms
 ## The Elder Scrolls
 ### Inigo
-> [!profile]- Inigo
+> [!profile]- Inigo (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -83,7 +83,7 @@
 - Headcanons
 - Wishlists
 ### Courier
-> [!profile]- Courier
+> [!profile]- Courier (he/they)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -94,7 +94,7 @@
 - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
-> [!profile]- Magnus Rasmodius
+> [!profile]- Magnus Rasmodius (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -104,7 +104,7 @@
 - Headcanons
 - Wishlists
 ### Elliot
-> [!profile]- Elliot
+> [!profile]- Elliot (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -114,7 +114,7 @@
 - Headcanons
 - Wishlists
 ### Gunter
-> [!profile]- Gunter
+> [!profile]- Gunter (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -127,7 +127,7 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of Tony as I'm working on designing his new AU origin. I just have him included here so as not to forget to add the info here later.
 ### Tony Stark
-> [!profile]- Tony Stark
+> [!profile]- Tony Stark (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -140,7 +140,7 @@
 > [!attention] Not Currently Available
 > I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
 ### Irving Braxiatel
-> [!profile]- Irving Braxiatel
+> [!profile]- Irving Braxiatel (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -150,7 +150,7 @@
 - Headcanons
 - Wishlists
 ### Bernice Summerfield
-> [!profile]- Bernice Summerfield
+> [!profile]- Bernice Summerfield (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -160,7 +160,7 @@
 - Headcanons
 - Wishlists
 ### Leela of the Sevateem
-> [!profile]- Leela of the Sevateem
+> [!profile]- Leela of the Sevateem (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -170,7 +170,7 @@
 - Headcanons
 - Wishlists
 ### Narvin
-> [!profile]- Narvin
+> [!profile]- Narvin (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.

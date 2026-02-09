@@ -12,9 +12,9 @@
 ---
 # Baldur's Gate
 ## Tavares Umbrafae
-> [!profile]+ Tavares Umbrafae
+> [!profile]+ Tavares Umbrafae (she/her)
 > *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
-> ![20250810034220.png|red|100](/img/user/z%20Assets/Attachments/20250810034220.png)
+> ![20250810034220.png|100](/img/user/z%20Assets/Attachments/20250810034220.png)
 >  
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 > 
@@ -25,19 +25,20 @@
 - Headcanons
 - Wishlists
 ## Faeynore Moonstar
-> [!profile]+ Faeynore Moonstar
+> [!profile]+ Faeynore Moonstar (they/she)
 > *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
 > ![20250726145030.png|red|100](/img/user/z%20Assets/Attachments/20250726145030.png)
 > 
-> Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior.
+> Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior. 
 > 
+> They have a specialized interest in Faerie and Infernal contracts, for how often their investigations have turned out to have such contracts involved.
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
 ## Dirge
-> [!profile]+ Dirge
+> [!profile]+ Dirge (they/she)
 > *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk*
 > ![Dirge temp01.png|red|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 > 
@@ -51,7 +52,7 @@
 ---
 # Dragon Age
 ## Ashina de Riva née Tabris
-> [!profile]+ Ashina de Riva
+> [!profile]+ Ashina de Riva (she/her)
 > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
 > ![Ash001.png|red|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
@@ -64,7 +65,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 ## Zaehire de Riva
-> [!profile]+ Zaehire de Riva
+> [!profile]+ Zaehire de Riva (she/they)
 > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
 > ![Zae001.png|red|100](/img/user/z%20Assets/Attachments/Zae001.png)
 > 
@@ -77,7 +78,7 @@
 - Headcanons
 - Wishlists
 ## Leonardo de Riva
-> [!profile]+ Leonardo de Riva
+> [!profile]+ Leonardo de Riva (he/they)
 > *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin*
 > ![Leo001.png|red|100](/img/user/z%20Assets/Attachments/Leo001.png)
 > 
@@ -90,7 +91,7 @@
 - Headcanons
 - Wishlists
 ## Ward Ingellvar
-> [!profile]+ Ward Ingellvar
+> [!profile]+ Ward Ingellvar (they/them)
 > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
 > ![Ward temp02.png|red|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
@@ -103,7 +104,7 @@
 - Headcanons
 - Wishlists
 ## Zevran Arainai
-> [!profile]+ Zevran Arainai
+> [!profile]+ Zevran Arainai (he/him)
 > *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
 > ![zev temp.png|red|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
@@ -114,7 +115,7 @@
 - Headcanons
 - Wishlists
 ## Haleir Lavellan
-> [!profile]+ Haleir Lavellan
+> [!profile]+ Haleir Lavellan (she/her)
 > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
 > ![Haleir Lavellan.png|red|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > 
@@ -129,7 +130,7 @@
 - Headcanons
 - Wishlists
 ## Bertrand Ingellvar
-> [!profile]+ Bertrand Ingellvar
+> [!profile]+ Bertrand Ingellvar (he/him)
 > *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
 > ![bert temp01.png|red|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
 > 
@@ -143,18 +144,20 @@
 ---
 # Mass Effect
 ## Isabela Shepard
-> [!profile]+ Isabela Shepard
+> [!profile]+ Isabela Shepard (she/they)
 > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
 > ![20250818152450 (1).png|red|100](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 > 
-> Isabela Shepard is an elite N7 operative, and the first human to be accepted as a Council Spectre. 
+> Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.
+> 
+> She often defies expectations, as she refuses to kowtow to the Alliance's demands of putting humanity's interests first. Once she is given Spectre status, she stops answering to the Alliance Brass, pushing the fact that she now answers to no one but the Council, and refusing to become the Alliance's puppet Spectre.
 
 - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 - Connections
 - Headcanons
 - Wishlists
 ## Nihlus Kryik
-> [!profile]+ Nihlus Kryik
+> [!profile]+ Nihlus Kryik (he/him)
 > *Turian — Renegon — Council Spectre — Havoc Soldier*
 > ![nihlus000.png|red|100](/img/user/z%20Assets/Attachments/nihlus000.png)
 > 
@@ -172,7 +175,7 @@
 > I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
 
 ### Eighth Doctor
-> [!profile]+ Musename
+> [!profile]+ The Doctor (he/they)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -182,7 +185,7 @@
 - Headcanons
 - Wishlists
 ### Carmen Sandiego 
-> [!profile]+ Musename
+> [!profile]+ Carmen Sandiego (she/they)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.

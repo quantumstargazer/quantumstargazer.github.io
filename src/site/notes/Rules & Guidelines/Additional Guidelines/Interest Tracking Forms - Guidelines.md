@@ -7,7 +7,7 @@
 # (Dis)Interest Tracker
 Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[Muse Info/! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the (Dis)Interest Tracker form. 
 
-> [!rule] Reverse UNO - Assume Interest Unless Told Otherwise
+> [!rule]+ Reverse UNO - Interest Assumed Unless Told Otherwise
 > Unless you fill out the **(Dis)Interest Tracker** form to explicitly state that you are *not* interested in a muse and/or one or more of their verses/AUs, then I may send any and/or all of my muses your way in any of their canon-based and/or fandom-matched verses and/or AUs.
 > 
 > *Example:* You write a Dragon Age muse. I think Isabela Shepard (*Mass Effect*) might be fun to write against them. Izzy has no less than 3 AUs for Dragon Age for me to choose from, including at least one where she is native to Thedas as an artificer and assassin rather than being her canon-based self from within the Mass Effect setting, so I pick the most suitable verse for the interaction I have in mind and send her your way.
@@ -49,6 +49,6 @@ Should you choose to join this list, you are helping reduce anxiety to interact 
 The above call extends to all forms of ships, including but not restricted to: friendships, romantic ships, companionships, enemy combatant ships, apprenticeships, worships, and more.
 
 
-[^1]:  As defined by that moment when you think 'Get them to fucking stop, this is too much'.
+[^1]:  As defined by that moment when you think '*Get them to fucking stop, this is too much*'.
 
-[^2]: Members of the Best Friends Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. Just message me before answering anything sexual the first time, since that’s where I’m more highly selective about who I will and won’t write those ships with, yeah? Some on the dash call these "non-negotiable memes", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 
+[^2]: Members of the Best Friends Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. **Just message me before answering anything sexually explicit the first time**, since that’s where I’m more highly selective about who I will and won’t write that with, yeah? Some on the dash call these "*non-negotiable memes*", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 

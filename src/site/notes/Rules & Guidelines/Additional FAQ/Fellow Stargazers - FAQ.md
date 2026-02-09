@@ -54,8 +54,7 @@
 
 ## Mass Effect Muses
 > [!bfc]- Garrus Vakarian — codenamearchangel
-> - *Isabela Shepard*
-> - *Nihlus Kryik*
+> 
 
 
 ## Other Fandom Muses
