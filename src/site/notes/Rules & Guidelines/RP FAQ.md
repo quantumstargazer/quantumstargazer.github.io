@@ -14,7 +14,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from & in which verse variant(s)
 	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
-- **Inbox Call** (*form*) - available 24/7 to request that I send you memes[^3]
+- **Inbox Call** (*form*) - available 24/7 to request that I send you memes[^2]
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from & in which verse variant(s)
 	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
@@ -41,7 +41,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 ### Other Post Details
 *In terms of icons and graphics, I don't care what others use, unless you make a habit of using flashing gifs, at which point I may not be able to interact with you if it proves to be a problem with my migraines.*
 
-*In terms of the actual text, please be sure to use proper paragraph breaks and sentence case, as the lack of such often makes it impossible for me to read, between the constant low level headaches that I have (not including the migraine spikes), and the ADHD making large single blocks of text often impossible to keep up with where I am in them.*[^2]
+*In terms of the actual text, please be sure to use proper paragraph breaks and sentence case, as the lack of such often makes it impossible for me to read, between the constant low level headaches that I have (not including the migraine spikes), and the ADHD making large single blocks of text often impossible to keep up with where I am in them.*[^3]
 
 | Detail                     | Style Used By Ziggy                            |  Accessibility?   |
 | -------------------------- | ---------------------------------------------- | :---------------: |
@@ -87,6 +87,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 
 [^1]: That *don't* fall into the realm of "being a dick" — any and all anon hate is screen capped and mocked privately with my friends, while the messages themselves are blocked and/or reported.
 
-[^2]: This is made even worse when there is a lack of proper sentence case and punctuation, though I can usually tolerate it so long as paragraph breaks are used properly.
+[^2]: I hold off on filling these until I'm certain I'm not going to be sending any other asks so I may send up to 10 at one time. I do *not* expect you to answer all of them, especially not all at once - I am only trying to provide you with options and variety. Feel free to delete anything you're not interested in doing.
 
-[^3]: I hold off on filling these until I'm certain I'm not going to be sending any other asks so I may send up to 10 at one time. I do *not* expect you to answer all of them, especially not all at once - I am only trying to provide you with options and variety. Feel free to delete anything you're not interested in doing.
+[^3]: This is made even worse when there is a lack of proper sentence case and punctuation, though I can usually tolerate it so long as paragraph breaks are used properly.
+
