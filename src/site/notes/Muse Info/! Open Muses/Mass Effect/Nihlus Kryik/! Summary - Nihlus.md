@@ -9,7 +9,7 @@
 > [!profile]+ Muse Info
 > - *name:* Nihlus Kryik
 > - *nickname:* Nih (*close friends only*)
-> - *alias:* 
+> - *alias:* — 
 > - *gender:* Male
 > - *pronouns:* He/Him/Himself
 

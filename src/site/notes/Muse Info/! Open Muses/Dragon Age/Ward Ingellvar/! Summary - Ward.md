@@ -9,7 +9,7 @@
 > [!profile]+ Muse Info
 > - *name:* Ward Ingellvar 
 > - *nickname:* Ghost
-> - *alias:* Rook (*verse dependent*)
+> - *alias:* Rook (*verse/timeline dependent*)
 > - *gender:* Agender 
 > - *pronouns:* They/Them
 
