@@ -86,15 +86,15 @@
 >> - *current moral alignment:* Rebel Moral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zaehire+de+Riva)
+> - ***open starters:*** [Open Starter ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zaehire+de+Riva)
+> - ***headcanons:*** [Headcanon ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zaehire+de+Riva)
+> - ***wishlist:*** [Wishlist ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Zaehire+de+Riva)
+> - *desires:* [Desires ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Zaehire+de+Riva)
+> - *musings:* [Musings ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Zaehire+de+Riva)
+> - *aesthetics:* [Aesthetics ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Zaehire+de+Riva)
+> - *visage:* [Visage ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Zaehire+de+Riva)
+> - *playlist:* [Playlist ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Zaehire+de+Riva)
 
 ---
 # Canon Typical

@@ -94,15 +94,15 @@
 >> - *current moral alignment:* Rebel Moral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Isabela+Shepard)
+> - ***open starters:*** [Open Starter ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Isabela+Shepard)
+> - ***headcanons:*** [Headcanon ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Isabela+Shepard)
+> - ***wishlist:*** [Wishlist ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Isabela+Shepard)
+> - *desires:* [Desires ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Isabela+Shepard)
+> - *musings:* [Musings ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Isabela+Shepard)
+> - *aesthetics:* [Aesthetics ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Isabela+Shepard)
+> - *visage:* [Visage ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Isabela+Shepard)
+> - *playlist:* [Playlist ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Isabela+Shepard)
 
 ---
 # Canon Typical

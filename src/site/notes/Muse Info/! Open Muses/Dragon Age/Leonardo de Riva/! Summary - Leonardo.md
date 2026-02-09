@@ -91,15 +91,15 @@
 >> - *current moral alignment:* Chaotic Moral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Leonardo+de+Riva)
+> - ***open starters:*** [Open Starter ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Leonardo+de+Riva)
+> - ***headcanons:*** [Headcanon ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Leonardo+de+Riva)
+> - ***wishlist:*** [Wishlist ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Leonardo+de+Riva)
+> - *desires:* [Desires ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Leonardo+de+Riva)
+> - *musings:* [Musings ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Leonardo+de+Riva)
+> - *aesthetics:* [Aesthetics ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Leonardo+de+Riva)
+> - *visage:* [Visage ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Leonardo+de+Riva)
+> - *playlist:* [Playlist ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Leonardo+de+Riva)
 
 ---
 # Canon Typical

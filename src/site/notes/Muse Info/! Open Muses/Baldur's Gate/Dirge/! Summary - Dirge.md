@@ -72,15 +72,15 @@
 >> - *current moral alignment:* Neutral Impure
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Dirge)
+> - ***open starters:*** [Open Starter ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Dirge)
+> - ***headcanons:*** [Headcanon ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Dirge)
+> - ***wishlist:*** [Wishlist ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Dirge)
+> - *desires:* [Desires ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Dirge)
+> - *musings:* [Musings ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Dirge)
+> - *aesthetics:* [Aesthetics ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Dirge)
+> - *visage:* [Visage ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Dirge)
+> - *playlist:* [Playlist ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Dirge)
 
 ---
 # Canon Typical

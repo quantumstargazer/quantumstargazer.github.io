@@ -86,15 +86,15 @@
 >> - *current moral alignment:* Chaotic Neutral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zevran+Arainai)
+> - ***open starters:*** [Open Starter ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zevran+Arainai)
+> - ***headcanons:*** [Headcanon ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zevran+Arainai)
+> - ***wishlist:*** [Wishlist ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Zevran+Arainai)
+> - *desires:* [Desires ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Zevran+Arainai)
+> - *musings:* [Musings ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Zevran+Arainai)
+> - *aesthetics:* [Aesthetics ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Zevran+Arainai)
+> - *visage:* [Visage ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Zevran+Arainai)
+> - *playlist:* [Playlist ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Zevran+Arainai)
 
 ---
 # Canon Typical

@@ -76,15 +76,15 @@
 >> - *current moral alignment:* Chaotic Neutral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Faeynore+Moonstar)
+> - ***open starters:*** [Open Starter ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Faeynore+Moonstar)
+> - ***headcanons:*** [Headcanon ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Faeynore+Moonstar)
+> - ***wishlist:*** [Wishlist ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Faeynore+Moonstar)
+> - *desires:* [Desires ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Faeynore+Moonstar)
+> - *musings:* [Musings ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Faeynore+Moonstar)
+> - *aesthetics:* [Aesthetics ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Faeynore+Moonstar)
+> - *visage:* [Visage ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Faeynore+Moonstar)
+> - *playlist:* [Playlist ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Faeynore+Moonstar)
 
 ---
 # Canon Typical

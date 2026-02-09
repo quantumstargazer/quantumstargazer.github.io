@@ -87,15 +87,15 @@
 >> - *current moral alignment:* Rebel Neutral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Haleir+Lavellan)
+> - ***open starters:*** [Open Starter ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Haleir+Lavellan)
+> - ***headcanons:*** [Headcanon ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Haleir+Lavellan)
+> - ***wishlist:*** [Wishlist ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Haleir+Lavellan)
+> - *desires:* [Desires ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Haleir+Lavellan)
+> - *musings:* [Musings ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Haleir+Lavellan)
+> - *aesthetics:* [Aesthetics ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Haleir+Lavellan)
+> - *visage:* [Visage ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Haleir+Lavellan)
+> - *playlist:* [Playlist ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Haleir+Lavellan)
 
 ---
 # Canon Typical

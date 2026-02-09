@@ -85,15 +85,15 @@
 >> - *current moral alignment:* Rebel Impure
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Tavares+Umbrafae)
+> - ***open starters:*** [Open Starter ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Tavares+Umbrafae)
+> - ***headcanons:*** [Headcanon ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Tavares+Umbrafae)
+> - ***wishlist:*** [Wishlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Tavares+Umbrafae)
+> - *desires:* [Desires ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Tavares+Umbrafae)
+> - *musings:* [Musings ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Tavares+Umbrafae)
+> - *aesthetics:* [Aesthetics ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Tavares+Umbrafae)
+> - *visage:* [Visage ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Tavares+Umbrafae)
+> - *playlist:* [Playlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Tavares+Umbrafae)
 
 ---
 # Canon Typical
