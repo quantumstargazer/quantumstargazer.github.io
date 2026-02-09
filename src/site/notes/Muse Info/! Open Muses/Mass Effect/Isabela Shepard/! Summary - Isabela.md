@@ -109,7 +109,7 @@
 > [!verse]+ Trilogy
 > - *Reaper War (2183 - 21XX CE)*
 > 
-> Summary goes here.
+> When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Isabela Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial. 
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -118,7 +118,7 @@
 >> - Wishlist 
 
 > [!verse]+ Post-Trilogy
-> Summary goes here.
+> With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Isabela Shepard is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -127,7 +127,9 @@
 >> - Wishlist 
 
 > [!verse]+ Pre-Trilogy
-> Summary goes here.
+> Orphaned at the age of six, Isabela Shepard grew up on the streets, where she would eventually join the Tenth Street Reds gang in order to survive. At fourteen, she is exposed to a significant amount of element zero, that leads to her developing powerful, albeit limited, biotic abilities. 
+> 
+> At seventeen, her biotics are detected and she is registered and implanted with an L3 biotic amplifier, with the Alliance keeping her housed until she is of age to enlist to protect her from the Reds' retaliation when she abandons the gang in favour of getting off Earth by joining the marines.
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
