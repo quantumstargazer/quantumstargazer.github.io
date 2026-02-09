@@ -61,7 +61,8 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 # Additional Rules & Guidelines May Apply
 ## Additional Rules
 - [[Rules & Guidelines/Additional Rules/Blacklist Tags - Rules\|Blacklist Tags]] - *content that needs to be tagged*
-- [[Rules & Guidelines/Additional Rules/Exclusivity - Rules\|Exclusivity]] - *important if you practice exclusivity*
+- [[Rules & Guidelines/Additional Rules/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]] - *regarding my own exclusivity*
+- [[Rules & Guidelines/Additional Rules/Exclusivity - Rules#Other People's Exclusivity\|Other People's Exclusivity]] - *important if you practice exclusivity*
 
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
