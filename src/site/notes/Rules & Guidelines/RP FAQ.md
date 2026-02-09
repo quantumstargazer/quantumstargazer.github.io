@@ -7,6 +7,25 @@
 > You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr.
 
 # Preferences
+## Starting Interactions
+If you're looking to start a thread with me, these are the best means to do so: 
+### Request Ziggy Starts
+- **Starter Call** (*form*) - available 24/7 to request that I write you a starter 
+	- *Requirements:* **Mutuals Only**
+	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from & in which verse variant(s)
+	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
+- **Inbox Call** (*form*) - available 24/7 to request that I send you memes[^3]
+	- *Requirements:* **Mutuals Only**
+	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from & in which verse variant(s)
+	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
+### For You To Start
+- **Write Starter(s)** - simply write me starters whenever you want to
+	- *Requirements:* **Mutuals Only**
+- **Send Prompts/Memes** - simply send me prompts whenever you want to
+	- *Requirements:* **Mutuals Only**
+	- *What To Expect:* Prompts has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
+	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
+
 ## Post Formatting
 > [!warning]- Regarding Accessible Formatting
 > I use a series of userscripts and stylesheets to make the tumblr dashboard accessible to me, and without them, I often risk triggering a migraine just by scrolling past certain posts (typically those with double and/or multiple spaced text). These codes will be made available in the near future for everyone else to have access to as well.
@@ -44,14 +63,14 @@
 - These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*)
 ### Fandom Specific AUs 
 - *Includes various crossover AUs*
-- These verses are where my muse's backstory is rewritten to fit them appropriately into another fandom's universe, as if they were *native* to that universe instead of their origin fandom — *in other words: **just like anyone else's Fandom AUs***
+- These verses are where my muse's backstory typically is rewritten to fit them appropriately into another fandom's universe, as if they were *native* to that universe instead of their origin fandom — *in other words: **just like anyone else's Fandom AUs***
 ### Trapped In Another World AUs 
 - *Includes various universe displacement AUs*
 - Typically verses where my muse finds themselves in another fandom's universe by one means or another, and their (likely impossible) mission to find a way back home while trying to survive in an unfamiliar world.
 ### Other Verses & AUs
 - *Mostly future proofing*
 - Occasional verses/AUs that just don't quite fit into the other categories.
-- Includes any purely multifandom verses &/or AUs.
+- May include any purely multifandom verses &/or AUs.
 ### Private Verses & AUs
 - *Includes private Dynamic/Ship Verses & AUs — not limited to romantic shipping*
 - *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
@@ -69,3 +88,5 @@
 [^1]: That *don't* fall into the realm of "being a dick" — any and all anon hate is screen capped and mocked privately with my friends, while the messages themselves are blocked and/or reported.
 
 [^2]: This is made even worse when there is a lack of proper sentence case and punctuation, though I can usually tolerate it so long as paragraph breaks are used properly.
+
+[^3]: I hold off on filling these until I'm certain I'm not going to be sending any other asks so I may send up to 10 at one time. I do *not* expect you to answer all of them, especially not all at once - I am only trying to provide you with options and variety. Feel free to delete anything you're not interested in doing.
