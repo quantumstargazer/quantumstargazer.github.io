@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rules-and-guidelines/additional-rules/exclusivity-rules/","tags":["rules","guidelines","exclusives"]}
 ---
 
-# Exclusivity
+# Mutuals Only Exclusivity
 
 **My blog is *selective* and *21+ & mutuals only*,** meaning I *only* follow blogs that I want to write with, that also meet the criteria of the writer behind it being 21 years or older, with such being stated somewhere on their blog and/or in their rules.
 
