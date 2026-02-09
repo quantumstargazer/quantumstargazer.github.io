@@ -11,9 +11,9 @@ My blogs and everything therein (including this wiki) are intended for mature au
 Explicit mature themes, including sexual content, are marked via the community label system.
 
 Suggestive and explicit sexual content is tagged and/or is placed under a cut. The tags for blacklisting are:
-- usft cw (*general catch-all tag for both suggestive and explicit content*)
-- lemons cw (*sexually explicit content — ie full on sex scenes and the like*)
-- limes cw (*sexually suggestive content — ie things up to and including fades to black*)
+- **usft cw** (*general catch-all tag for both suggestive and explicit content*)
+- **lemons cw** (*sexually explicit content — ie full on sex scenes and the like*)
+- **limes cw** (*sexually suggestive content — ie things up to and including fades to black*)
 
 # Viewer Discretion Is Advised
 > [!warning]
