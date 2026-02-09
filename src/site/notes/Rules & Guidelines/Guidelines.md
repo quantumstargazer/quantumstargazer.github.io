@@ -55,6 +55,9 @@ You can request for me to write starters for your muses from mine *at any time* 
 ### Random Starters
 I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
 
+#### Write Starters For Me Whenever
+This is blanket permission for *you* to write starters for me whenever you're interested in doing so. I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. **So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter.** If you want me to narrow down muses or anything, hit me up on discord or inbox and I'll get back to you as soon as I'm able.
+
 # Ships & Dynamics
 ## Multi-Shipping
 Ships (as well as dynamics) are not Highlanders — there can be more than one. **There is no cheating** (*unless specifically plotted and agreed upon ooc*, and even then it is *strictly* with regards to NPCs and *not* other people's portrayals, as I am *not* interested in interacting in most group verses and/or AU scenarios involving multiple muns in a shared verse setting[^5]).
@@ -69,10 +72,10 @@ While I'm *always* willing to test the waters with letting the characters have s
 Platonic dynamics are *still* chemistry based for *progression* — strangers, acquaintances, casual friends, coworkers, family, etc. are all baseline starting points for platonic dynamics, but the deeper the connection, the more important chemistry becomes.
 ### Queerplatonic
 Queerplatonic[^6] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends, and is very much akin to what you'd expect from romantic dynamics, but without the actual romance side of things.
-### Antagonistic
-Antagonistic dynamics (where the intention is for them to *stay* that way for the long term, as with villains and such) are welcome, but may require ooc discussion and plotting to establish boundaries and the like — *especially* if there's any sexual encounters involved in the dynamic.
 ### Familial
 Familial dynamics (whether by blood, by choice, by circumstance, found family, team as family, etc.) are welcome, and are chemistry based as everything else is. Non-canon children of any muse will require ooc discussion, though I am *extremely* selective when it comes to interacting with such muses (it's not to say I won't, but I've had some bad experiences with it in the past, so I'm much more picky about it now).
+### Antagonistic
+Antagonistic dynamics (where the intention is for them to *stay* that way for the long term, as with villains and such) are welcome, but may require ooc discussion and plotting to establish boundaries and the like — *especially* if there's any sexual encounters involved in the dynamic.
 
 ## Shipping
 ### Romanic Ships
@@ -104,20 +107,23 @@ As such, private verses are most likely available *only* for their intended part
 - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Mass Effect - Guidelines\|Mass Effect - Guidelines]]
 
 > [!example]- Other Fandoms - Guidelines
+> **Secondary Fandoms**
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Doctor Who - Guidelines\|Doctor Who - Guidelines]]
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Elder Scrolls - Guidelines\|Elder Scrolls - Guidelines]]
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Fallout - Guidelines\|Fallout - Guidelines]]
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Stardew Valley - Guidelines\|Stardew Valley - Guidelines]]
+> 
+> **Tertiary Fandoms**
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/DC - Guidelines\|DC - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Ghostbusters - Guidelines\|Ghostbusters - Guidelines]]
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Star Trek - Guidelines\|Star Trek - Guidelines]]
 > 
->> [!example]- Tertiary Fandoms - Guidelines
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/DC - Guidelines\|DC - Guidelines]]
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Detroit Become Human - Guidelines\|Detroit Become Human - Guidelines]]
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Ghostbusters - Guidelines\|Ghostbusters - Guidelines]]
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Good Omens - Guidelines\|Good Omens - Guidelines]]
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Marvel - Guidelines\|Marvel - Guidelines]]
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Our Flag Means Death - Guidelines\|Our Flag Means Death - Guidelines]]
->> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Supernatural - Guidelines\|Supernatural - Guidelines]]
+> **Irregular Fandoms**
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Detroit Become Human - Guidelines\|Detroit Become Human - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Good Omens - Guidelines\|Good Omens - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Marvel - Guidelines\|Marvel - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Our Flag Means Death - Guidelines\|Our Flag Means Death - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Supernatural - Guidelines\|Supernatural - Guidelines]]
 
 
 
