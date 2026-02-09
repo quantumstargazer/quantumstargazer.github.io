@@ -108,8 +108,8 @@
 - [ ] Wishlists
 #### Ward Ingellvar 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
-	- [ ] Canon Divergent AUs 
+	- [x] Canon Typical  [completion:: 2026-02-08]
+	- [x] Canon Divergent AUs  [completion:: 2026-02-08]
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
 	- [ ] Other Verses & AUs
