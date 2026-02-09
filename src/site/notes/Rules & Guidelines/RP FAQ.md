@@ -23,7 +23,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 	- *Requirements:* **Mutuals Only**
 - **Send Prompts/Memes** - simply send me prompts whenever you want to
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Prompts has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
+	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
 	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
 
 ## Post Formatting
