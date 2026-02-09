@@ -18,7 +18,7 @@
 >  
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 > 
-> Exiled from her home in Callidae when she returned decades after her disappearance, her pact to the Pale Prince clear with the binding marks she soon learns to hide with a glamour, she ventures out of the frozen north in search of her Prince's consort and to fulfill her assigned duties.
+> Exiled from her home in Callidae when she returned decades after her disappearance, her pact to the Pale Prince clear with the binding marks she soon learns to hide with a glamour, she ventures out of the frozen north in search of her ~~master's~~ Prince's consort and to fulfill her assigned duties.
 
 - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 - Connections
