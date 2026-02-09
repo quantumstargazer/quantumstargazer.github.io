@@ -5,8 +5,8 @@
 # Blacklist Tags Requested
 ## Tag Format
 Please tag using one or more of the following formats:
-- *content cw* 
-- *content* 
+- **content cw** 
+- **content** 
 
 > [!guideline]- Why only these formats?
 > I am chronically ill and disabled, so blacklisting *literal dozens* of variants for just *one warning* is exhausting, and not something I can do, when people constantly find new ways of making their content/trigger warning tags "unique" to their blog.
