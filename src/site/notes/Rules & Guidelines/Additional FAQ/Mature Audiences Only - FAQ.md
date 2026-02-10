@@ -15,6 +15,7 @@ Suggestive and explicit sexual content is tagged and/or is placed under a cut. T
 - **lemons cw** (*sexually explicit content — ie full on sex scenes and the like*)
 - **limes cw** (*sexually suggestive content — ie things up to and including fades to black*)
 
+---
 # Viewer Discretion Is Advised
 > [!warning]
 > If you are unfamiliar with any of the fandoms I frequently write, please take the time to look through this list to ensure that you are aware of content you may be squicked by and/or potentially find triggering.
