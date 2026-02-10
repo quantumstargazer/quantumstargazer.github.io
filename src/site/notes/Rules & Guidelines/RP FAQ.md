@@ -6,6 +6,7 @@
 > [!faq] If You Have Questions, Just Ask!
 > You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr.
 
+---
 # Preferences
 ## Starting Interactions
 If you're looking to start a thread with me, these are the best means to do so: 
@@ -50,6 +51,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 | Paragraph Length           | Typically 4 to 6 lines, minus inline footnotes |        n/a        |
 | Case (*ie Capitalisation*) | Proper Sentence Case                           | (*working on it*) |
 
+---
 # Verses & AUs
 > [!rule]+ Fandom Matched By Default
 > **I will typically match fandom to fandom**, so whatever fandom your muse is being written in the setting of, I will use my corresponding verse and/or AU that matches that fandom. If I don't have an established verse already, I may create one for your muse's fandom, in either the Fandom Specific AUs and/or Trapped In Another World AUs variants.
@@ -76,10 +78,16 @@ If you're looking to start a thread with me, these are the best means to do so:
 - *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
+---
 # Following & Unfollowing
 
+**TBA**
 
+---
 # Blocking
+
+**TBA**
+
 
 
 
