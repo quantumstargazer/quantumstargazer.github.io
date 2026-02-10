@@ -69,9 +69,9 @@
 > 
 >> [!stats]+ Origin Attributes 
 >> - *class (primary):* Havoc Soldier
->> - *class (secondary):* 
->> - *class (tertiary):* 
->> - *class (additional support):* 
+>> - *class (secondary):* — 
+>> - *class (tertiary):* — 
+>> - *class (additional support):* Infiltrator
 >> - *fighting style:* 
 > 
 >> [!stats]+ Current Status
@@ -93,7 +93,7 @@
 > [!verse]+ Trilogy
 > - *Reaper War (2183 - 21XX CE)*
 > 
-> Summary goes here.
+> When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial.
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -102,7 +102,7 @@
 >> - Wishlist 
 
 > [!verse]+ Post-Trilogy
-> Summary goes here.
+> With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Nihlus Kryik is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -111,7 +111,7 @@
 >> - Wishlist 
 
 > [!verse]+ Pre-Trilogy
-> Summary goes here.
+> Shortly following the death of his father, Nihlus is moved to Palaven with his mother, where he must enlist into the military at the age of 16, a year later than most of his peers. 
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
@@ -121,7 +121,9 @@
 
 ---
 # Canon Divergent AUs
-> [!verse]+ Turian Hierarchy
+
+
+> [!verse]+ Relay 314 Incident
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -132,38 +134,7 @@
 >> - Verse
 >> - Wishlist 
 
-> [!verse]+ Reaper War (Turian Hierarchy)
-> - *Alternate History AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]+ First Contact War (Relay 314)
-> - *Alternate History AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
-
-> [!verse]+ Lost Expedition (Relay 314)
-> - *Alternate History AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
 > [!verse]+ Andromeda Initiative
 > - *"Fuck It, I'm Out!" AU*
@@ -205,21 +176,7 @@
 >> - Verse
 >> - Wishlist 
 
-> [!verse]+ VerseTitle
-> Summary goes here.
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]+ VerseTitle
-> Summary goes here.
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
 ---
 # Fandom Specific AUs
