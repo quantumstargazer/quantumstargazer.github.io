@@ -4,8 +4,7 @@
 
 # Do's & Don't's of Interacting
 ## TL;DR 
-
-## Do
+### Do
 
 | Things                          | Do Them? |    Restrictions?     |
 | ------------------------------- | :------: | :------------------: |
@@ -26,7 +25,7 @@
 | Throw random plot ideas at me   |   Yes    |        *None*        |
 | Comment on HCs & other posts    |   Yes    |        *None*        |
 
-## Don't
+### Don't
 
 | Things                           | Do Them? |       Consequences?       |
 | -------------------------------- | :------: | :-----------------------: |
@@ -64,6 +63,7 @@
 - **Randomly drop plot ideas on me whenever** - Just be forewarned that I may take them and turn them into a starter with little to no further enabling.
 - **Like and comment ~~and subscribe~~ on headcanons or thoughts about muses** - This will truly make my day.
 
+---
 # Things You Should NOT Do
 - **Don't be a dick** - This is ultimately what all of the rules & guidelines boil down to.
 - **Don't send anonymous hate** - Anon is a *privilege*, not a right. I keep it on for prompts/memes, and the socially anxious. Not for dicks to be assholes. If you send anon hate, know that it will be screencapped and shared and mocked in private among my friends, while the ask itself will be reported to tumblr for harassment.
