@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/rules-and-guidelines/additional-faq/fellow-stargazers-faq/","tags":["mains","exclusives","bfc-members","ship-partners","dynamic-partners","faq","rules","guidelines"]}
 ---
 
+# Fellow Stargazers
+These are the people who I interact with the most, and whose interactions have a large impact on the development of my muses within various verses &/or AUs.
+
+---
 # Exclusives
 > *I do **not** interact with duplicates of any of the following exclusive muses:*
 
@@ -9,6 +13,7 @@
 > - Blogwide — *exclusive for all muses in all verses*
 > - **Currently On Hiatus**
 
+---
 # Mains
 > *I **do** interact with duplicates of any of my Mains that follow:*
 
@@ -39,6 +44,7 @@
 > - Andarateia Cantori
 > - Duncan
 
+---
 # Best Friends Call Members
 > *I **do** interact with duplicates of any of the **Best Friends Call** muses that follow:*
 
@@ -61,6 +67,7 @@
 
 
 
+---
 # Ships & Dynamics
 *These are connections with Private Verses & AUs that don't fit into any of the above categories only.*
 > *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow:*
