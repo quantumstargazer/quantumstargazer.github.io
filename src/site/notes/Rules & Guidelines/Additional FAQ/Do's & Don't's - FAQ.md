@@ -23,16 +23,16 @@
 | Tell me if you want to ship     |   Yes    |        *None*        |
 | Add me on discord               |   Yes    |   **Mutuals Only**   |
 | Discord message **(Open 24/7)** |   Yes    |   **Mutuals Only**   |
-| Random plot ideas               |   Yes    |        *None*        |
+| Throw random plot ideas at me   |   Yes    |        *None*        |
 | Comment on HCs & other posts    |   Yes    |        *None*        |
 
 ## Don't
 
 | Things                           | Do Them? |       Consequences?       |
 | -------------------------------- | :------: | :-----------------------: |
-| Be a dick                        |    No    |        **Blocked**        |
+| Be a dick                        |    No    | **Blocked &/or Reported** |
 | Send anonymous hate              |    No    | **Blocked &/or Reported** |
-| Interact without reading rules   |    No    | **Dropped &/or Blocked**  |
+| Interact *without* reading rules |    No    | **Dropped &/or Blocked**  |
 | Assume Muse = Mun                |    No    | **Dropped &/or Blocked**  |
 | Reblog posts that aren't for you |    No    |  **Warned &/or Blocked**  |
 | Use as rp resource blog          |    No    |  **Warned &/or Blocked**  |
