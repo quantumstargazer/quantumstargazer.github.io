@@ -59,6 +59,7 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
 
+---
 # Ships & Dynamics
 ## Multi-Shipping
 Ships (as well as dynamics) are not Highlanders — there can be more than one. **There is no cheating** (*unless specifically plotted and agreed upon ooc*, and even then it is *strictly* with regards to NPCs and *not* other people's portrayals, as I am *not* interested in interacting in most group verses and/or AU scenarios involving multiple muns in a shared verse setting[^5]).
@@ -90,6 +91,7 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 > 
 > **Sending such is *not* considered forced shipping** — if I don't feel we're quite there yet, I will simply let the ask hang out in the inbox until a more suitable time to answer it.
 
+---
 # Verses & AUs
 ## Private Verses & AUs
 Private Verses & AUs are largely reserved for Mains, Best Friends Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
@@ -100,8 +102,12 @@ It is *exceptionally rare* that I am willing to let anyone other than the intend
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
-# Fandom-Specific Rules
-
+---
+# Additional Guidelines
+- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines\|Interaction Forms - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines\|Interest Tracking Forms - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon - Guidelines]]
+## Fandom-Specific Rules
 - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Baldur's Gate - Guidelines\|Baldur's Gate - Guidelines]]
 - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Dragon Age - Guidelines\|Dragon Age - Guidelines]]
 - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Mass Effect - Guidelines\|Mass Effect - Guidelines]]
@@ -124,6 +130,7 @@ As such, private verses are most likely available *only* for their intended part
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Marvel - Guidelines\|Marvel - Guidelines]]
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Our Flag Means Death - Guidelines\|Our Flag Means Death - Guidelines]]
 > - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Supernatural - Guidelines\|Supernatural - Guidelines]]
+
 
 
 
