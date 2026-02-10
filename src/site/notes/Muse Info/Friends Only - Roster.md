@@ -123,61 +123,11 @@
 - Connections
 - Headcanons
 - Wishlists
-## DC *Iron Man* AU
-> [!attention] Not Currently Available
-> I'm not currently writing *any* of Tony as I'm working on designing his new AU origin. I just have him included here so as not to forget to add the info here later.
-### Tony Stark
-> [!profile]- Tony Stark (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-## Doctor Who Expanded Universe
-> [!attention] Not Currently Available
-> I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
-### Irving Braxiatel
-> [!profile]- Irving Braxiatel (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Bernice Summerfield
-> [!profile]- Bernice Summerfield (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Leela of the Sevateem
-> [!profile]- Leela of the Sevateem (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Narvin
-> [!profile]- Narvin (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
+
 
 

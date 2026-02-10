@@ -463,68 +463,11 @@
 
 ---
 # Other Fandoms
-## Doctor Who Expanded Universe
 > [!attention] Not Currently Available
-> I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
-### Osgood
-> [!profile]- Osgood (she/they)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Bill Potts
-> [!profile]- Bill Potts (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Toshiko Sato
-> [!profile]- Toshiko Sato (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Gabby Gonzalez
-> [!profile]- Gabby Gonzalez (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Cindy Wu
-> [!profile]- Cindy Wu (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Noobis
-> [!profile]- Noobis (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
 
 
