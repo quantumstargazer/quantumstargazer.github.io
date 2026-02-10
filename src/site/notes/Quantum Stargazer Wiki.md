@@ -92,6 +92,7 @@
 >> [!todo]- Other Fandoms
 >> *This is not an extensive list of fandoms I'm interested in &/or familiar with enough to roleplay with. Please note: I don't keep up well with modern media, so don't expect me to be familiar with new things as soon as they come out.*
 >> - Addams Family
+>> - BioShock
 >> - DC (*focus:* Batman: The Animated Series)
 >> - Detroit: Become Human
 >> - Doctor Who (*Expanded Universe*)
@@ -102,6 +103,8 @@
 >> - Ghostbusters (*focus:* The ***Real*** Ghostbusters)[^2]
 >> - Marvel (*focus:* Iron Man/Tony Stark)[^3]
 >> - Our Flag Means Death
+>> - Portal
+>> - The Stanley Parable
 >> - Star Trek (*focus:* Original Series through Voyager)
 >> - Stardew Valley
 >> - Supernatural
