@@ -104,10 +104,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -117,10 +117,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Rook
 > - *Defaults to Veilguard timeline. (9:50 - 9:45 Dragon)*
@@ -128,10 +128,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Inquisitor
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
@@ -139,10 +139,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Antivan Crows
 > - *Alternate History AU*
@@ -150,10 +150,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Grey Warden
 > - *Restored Cut Content AU*
@@ -161,10 +161,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Crow Takeover
 > - *Restored Epilogues AU*
@@ -172,10 +172,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 
 ---
@@ -206,9 +206,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -233,9 +233,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 
 
@@ -246,9 +246,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -257,9 +257,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -269,9 +269,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

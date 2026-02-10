@@ -94,10 +94,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -105,21 +105,12 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
-> [!verse]+ Resist The Urge
-> - *Dark Urge AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 
 ---
 # Fandom Specific AUs
@@ -130,9 +121,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Astral Drifter
 > 
@@ -140,9 +131,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Dragon Age AUs
 > [!verse]- Lights of Arlathan
@@ -151,9 +142,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Mass Effect AUs
 > [!attention] Not Currently Available
@@ -169,9 +160,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -195,9 +186,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Planar Agent
 > 
@@ -205,9 +196,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
@@ -216,9 +207,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -227,9 +218,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -239,9 +230,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

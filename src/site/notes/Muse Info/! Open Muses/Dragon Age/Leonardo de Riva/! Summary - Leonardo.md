@@ -109,10 +109,10 @@
 > .
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -122,19 +122,19 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 > [!verse]+ VerseTitle
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ---
 # Fandom Specific AUs
@@ -164,9 +164,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -191,9 +191,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 
 
@@ -204,9 +204,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -215,9 +215,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -227,9 +227,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

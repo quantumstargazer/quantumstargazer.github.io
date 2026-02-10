@@ -94,10 +94,10 @@
 > Blood calls to them, despite their disgust with the urges they barely manage to hold in check as they struggle to find not only a cure for their tadpole infection, but to also discover just exactly who they are... and why they think everyone would look better as a corpse...
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -111,10 +111,10 @@
 > Blood calls to them, despite their disgust with the urges they barely manage to hold in check as they struggle to find not only a cure for their tadpole infection, but to also discover just exactly who they are... and why they think everyone would look better as a corpse...
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]+ Bhaal's Chosen
 > - *Embrace Urge AU*
@@ -122,10 +122,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]] 
 
 ---
 # Fandom Specific AUs
@@ -136,9 +136,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]- Astral Drifter
 > 
@@ -146,9 +146,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Dragon Age AUs
 > [!attention] Not Currently Available
@@ -170,9 +170,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -196,9 +196,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]- Planar Agent
 > 
@@ -206,9 +206,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
@@ -217,9 +217,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -228,9 +228,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -240,9 +240,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

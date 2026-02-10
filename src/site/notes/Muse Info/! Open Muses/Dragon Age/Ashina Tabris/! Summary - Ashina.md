@@ -264,9 +264,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
@@ -276,9 +276,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -303,9 +303,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 
 
@@ -316,9 +316,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -327,9 +327,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -339,9 +339,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

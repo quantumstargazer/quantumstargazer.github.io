@@ -102,10 +102,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -115,19 +115,19 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 > [!verse]+ VerseTitle
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ---
 # Fandom Specific AUs
@@ -157,9 +157,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -184,9 +184,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 
 
@@ -197,9 +197,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -208,9 +208,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -220,9 +220,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

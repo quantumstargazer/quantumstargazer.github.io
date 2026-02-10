@@ -103,10 +103,10 @@
 > In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas, 
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -116,10 +116,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]+ Fen'Harel's Rebellion
 > - *Time Travel AU*
@@ -127,19 +127,19 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]+ VerseTitle
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ---
 # Fandom Specific AUs
@@ -169,9 +169,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -196,9 +196,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 
 
@@ -209,9 +209,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -220,9 +220,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -232,9 +232,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

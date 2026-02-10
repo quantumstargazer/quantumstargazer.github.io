@@ -105,10 +105,10 @@
 > In 9:50 Dragon, when the War of the Banners breaks out within the Necropolis, Ward is surprisingly at the forefront, leading to the destruction of the Baron and the other noble undead that took part in the uprising. With the living nobles up in arms over their tactics, Vorgoth and Myrna encourage Ward to leave the Necropolis for a time and see the world until tempers and minds can be calmed. It's during this time that Ward encounters Varric Tethras, who takes them under his wing as they join him and Harding in their quest to stop the Dread Wolf from destroying the world.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -120,10 +120,10 @@
 > When word reaches the Grand Necropolis of a new Blight plaguing Thedas, and the adventurers seeking to stop what is said to be ancient elven gods from blighting and destroying the world, they make their willingness to provide their own assistance known when Rook seeks to recruit Emmrich Volkarin for the Veilguard.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Inquisition's Ghost
 > - *Time Travel Shenanigans AU*
@@ -134,10 +134,10 @@
 > It is now 9:41 Dragon, Ward is inexplicably their twenty-something year old self's mind in their ten-year-old self's body, and Vorgoth is being as cryptic as always. Despite their unusual circumstances, they are likely the only one in the world who has even a *chance* of convincing Solas to change his plans, and so they are given the nigh impossible task of getting close to the Dread Wolf and try to convince him that *this world* is worth living in.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Ancient Times
 > - *Time Travel AU*
@@ -145,10 +145,10 @@
 > When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and finds themself at the very moment of the Veil's creation, faced with a distraught ancient elf who is not quite so ancient in this time...
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Rebellion's Ghost
 > - *Alternate Origin AU*
@@ -158,10 +158,10 @@
 > They quickly find themself in the midst of Fen'Harel's rebellion against the Evanuris, and little do they know just how precarious their own situation has become since taking on physical form as a result...
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Spirit of Learning
 > - *Pre-Physical Origin AU*
@@ -169,10 +169,10 @@
 > What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. When the Evanuris begin taking on physical form using the stolen blood of the Titans, Learning is among those spirits who are forced to flee lest they are captured and forced to take form against their will.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ---
 # Fandom Specific AUs
@@ -202,9 +202,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -229,9 +229,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 
 
@@ -242,9 +242,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -253,9 +253,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -265,9 +265,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available

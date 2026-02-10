@@ -96,28 +96,28 @@
 > When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
 > With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Nihlus Kryik is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
 > Shortly following the death of his father, Nihlus is moved to Palaven with his mother, where he must enlist into the military at the age of 16, a year later than most of his peers. 
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -129,10 +129,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 
 
@@ -142,28 +142,28 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
 > - *No Reapers AU*
@@ -171,10 +171,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 
 
@@ -189,13 +189,15 @@
 ## Dragon Age AUs
 > [!verse]- Breaking Quarantine
 > 
+> - *Plays off the mutual easter eggs found in both games*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ## Mass Effect AUs
 > [!attention] Not Currently Available
@@ -211,9 +213,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -234,9 +236,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 
 ---
@@ -250,9 +252,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 
 
@@ -263,9 +265,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -274,9 +276,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -286,9 +288,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available
@@ -308,9 +310,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 
 ---
@@ -323,9 +325,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 ---
 # Private Verses & AUs
@@ -333,9 +335,9 @@
 > [!verse]- VerseTitle
 > Summary goes here.
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 

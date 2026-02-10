@@ -99,10 +99,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
@@ -110,19 +110,19 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 > [!verse]+ VerseTitle
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ---
 # Fandom Specific AUs
@@ -152,9 +152,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -179,9 +179,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 
 
@@ -192,9 +192,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
@@ -203,9 +203,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -215,9 +215,9 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available
