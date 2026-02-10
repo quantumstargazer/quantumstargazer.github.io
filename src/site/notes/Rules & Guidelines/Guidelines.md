@@ -9,6 +9,22 @@
 > If you haven't done so already, you should read the [[Rules & Guidelines/Actual Rules\|Actual Rules]] before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 
 # Interactions
+## Starters
+### Random Starters
+I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
+#### Write Starters For Me Whenever
+**This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter. If you want me to narrow down muses or anything, hit me up on discord or in my inbox, and I'll get back to you as soon as I'm able.
+### Requesting Starters
+You can request for me to write starters for your muses from mine *at any time* by filling out the **Starter Call form** linked in the pinned post and/or on the homepage of this site.
+
+> [!guideline] Form Required To Request Starters
+>
+> The form is very minimal, but is easier for me to keep track of what has and has not been filled than posts with "*like this post for a starter*", especially since I prefer it when people actually specify which muses and/or verses they want starters from.
+>
+>
+>
+> The form *does* offer a "*Ziggy's Choice*" option for those who aren't picky and/or are feeling indecisive, though I may be slower to fill such requests if I don't have any direction whatsoever to work from.
+
 ## Inbox
 You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask)[^1].
 ### Reverse Prompts/Memes
@@ -42,22 +58,6 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 **You do not have to wait for me to be active on the dash to send things!** My inbox is always open, unless I have *literally* turned it off.
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
-## Starters
-### Requesting Starters
-You can request for me to write starters for your muses from mine *at any time* by filling out the **Starter Call form** linked in the pinned post and/or on the homepage of this site.
-
-> [!guideline] Form Required To Request Starters
->
-> The form is very minimal, but is easier for me to keep track of what has and has not been filled than posts with "*like this post for a starter*", especially since I prefer it when people actually specify which muses and/or verses they want starters from.
->
->
->
-> The form *does* offer a "*Ziggy's Choice*" option for those who aren't picky and/or are feeling indecisive, though I may be slower to fill such requests if I don't have any direction whatsoever to work from.
-### Random Starters
-I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
-
-#### Write Starters For Me Whenever
-This is blanket permission for *you* to write starters for me whenever you're interested in doing so. I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. **So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter.** If you want me to narrow down muses or anything, hit me up on discord or inbox and I'll get back to you as soon as I'm able.
 
 # Ships & Dynamics
 ## Multi-Shipping
