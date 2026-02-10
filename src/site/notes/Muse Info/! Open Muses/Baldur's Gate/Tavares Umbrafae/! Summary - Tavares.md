@@ -156,10 +156,15 @@
 >> - |Wishlist]] 
 
 ## Dragon Age AUs
-> [!attention] Not Currently Available
+> [!verse]- Lights of Arlathan
 > 
-
-
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
 
 ## Mass Effect AUs
 > [!attention] Not Currently Available
