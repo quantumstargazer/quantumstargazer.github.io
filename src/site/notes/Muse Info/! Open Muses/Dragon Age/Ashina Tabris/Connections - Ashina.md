@@ -29,6 +29,9 @@
 ---
 # Mains
 > [!main]- Viago de Riva — corvusrookery
+> - ***verses:*** 
+> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Viago de Riva\|corvusrookery - Viago de Riva]]
+> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
 > - *blog tag(s):* 
 > 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
 > 	- [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
@@ -39,6 +42,9 @@
 > 	- [Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+To+Dance+Along+The+Edge+Of+A+Knife+(+Ashina+&+Viago+—+corvusrookery+))
 
 > [!main]- Andarateia Cantori — corvusrookery
+>  - ***verses:*** 
+> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Andarateia Cantori\|corvusrookery - Andarateia Cantori]]
+> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
 > - *blog tag(s):* 
 > 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
 > 	- [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
@@ -50,6 +56,8 @@
 
 ## Mass Effect AUs
 > [!main]- Garrus Vakarian — lanternlit
+> - ***verses:***
+> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#lanternlit - Garrus Vakarian\|lanternlit - Garrus Vakarian]]
 > - *blog tag(s):* 
 > 	- lanternlit
 > 	- lanternlit ( Garrus Vakarian )
@@ -78,7 +86,7 @@
 > *Sorted by first appearance in series. This is **not** a comprehensive list of who I want to interact with. This is just the muses I have ideas regarding dynamics plotting and/or shipping potential.*
 ### Origins
 > [!wishlist] Zevran Arainai 
-> - *LI potential:* yes (**true love path preferred**)
+> - *LI potential:* yes — *true love path preferred*
 
 > [!wishlist] Morrigan
 > - *LI potential:* yes
@@ -90,7 +98,7 @@
 > - *LI potential:* no
 
 > [!wishlist] Alistair
-> - *LI potential:* maybe (*requires plotting*)
+> - *LI potential:* maybe — *requires plotting*
 
 > [!wishlist] Oghren
 > - *LI potential:* no
@@ -129,7 +137,7 @@
 
 ### Inquisition
 > [!wishlist] Dorian Pavus
-> - *LI potential:* no
+> - *LI potential:* no — *open to queerplatonic dynamic instead*
 
 > [!wishlist] Solas
 > - *LI potential:* maybe

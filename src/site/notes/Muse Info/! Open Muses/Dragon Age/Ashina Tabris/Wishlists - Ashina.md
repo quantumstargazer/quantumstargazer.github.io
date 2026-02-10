@@ -177,6 +177,97 @@
 
 ---
 # Private Verses & AUs
+## corvusrookery - Viago de Riva
+### Dragon Age Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Rook Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Inquisitor Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Inquisitor Crow Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Crows' Due Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Crows' Design Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Antivan Crows Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Lyrium Ghost Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+
+
+## corvusrookery - 3 Talons & Their Crow
+### Dragon Age Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Rook Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Lyrium Ghost Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Crow Takeover Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+
+
+## corvusrookery - Andarateia Cantori
+### Dragon Age Wishlists (Teia - corvusrookery)
+> [!wishlist]-
+> TBA
+
+
+
+## lanternlit - Garrus Vakarian
+### Mercenary Assassin Wishlists (Garrus - lanternlit)
+> [!wishlist]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Wishlists
+> [!wishlist]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Wishlists
+> [!wishlist]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Wishlists
+> [!wishlist]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Wishlists
+> [!wishlist]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Wishlists
+> [!wishlist]-
+> TBA
+
 ## Partner - PartnerMuse
 ### Private Verse Wishlists
 > [!wishlist]-

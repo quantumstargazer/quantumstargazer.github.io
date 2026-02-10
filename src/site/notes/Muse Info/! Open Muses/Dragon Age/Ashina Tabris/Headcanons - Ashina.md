@@ -178,6 +178,97 @@
 
 ---
 # Private Verses & AUs
+## corvusrookery - Viago de Riva
+### Dragon Age Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Rook Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Inquisitor Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Inquisitor Crow Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Crows' Due Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Crows' Design Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Antivan Crows Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Lyrium Ghost Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+
+
+## corvusrookery - 3 Talons & Their Crow
+### Dragon Age Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Rook Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Lyrium Ghost Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Crow Takeover Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+
+
+## corvusrookery - Andarateia Cantori
+### Dragon Age Headcanons (Teia - corvusrookery)
+> [!headcanon]-
+> TBA
+
+
+
+## lanternlit - Garrus Vakarian
+### Mercenary Assassin Headcanons (Garrus - lanternlit)
+> [!headcanon]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Headcanons
+> [!headcanon]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Headcanons
+> [!headcanon]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Headcanons
+> [!headcanon]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Headcanons
+> [!headcanon]-
+> TBA
+
+## Partner - PartnerMuse
+### Private Verse Headcanons
+> [!headcanon]-
+> TBA
+
 ## Partner - PartnerMuse
 ### Private Verse Headcanons
 > [!headcanon]-
