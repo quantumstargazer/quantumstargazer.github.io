@@ -4,7 +4,7 @@
 
 # Interest Tracking Forms - Guidelines
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
-# (Dis)Interest Tracker
+# DisInterest Tracker
 > [!rule]+ Reverse UNO - Interest Assumed Unless Told Otherwise
 > Unless you fill out the **(Dis)Interest Tracker** form to explicitly state that you are *not* interested in a muse and/or one or more of their verses/AUs, then I may send any and/or all of my muses your way in any of their canon-based and/or fandom-matched verses and/or AUs.
 > 

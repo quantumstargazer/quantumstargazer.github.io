@@ -52,7 +52,7 @@
 > [!rule]- Interest Assumed For All Open Muses
 > Unless you fill out the **(Dis)Interest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
-- [(Dis)Interest Tracker](https://tally.so/r/D4p7pb) - *for telling me who you are &/or are* **not** *interested in interacting with*
+- [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
 - **RP Preferences Tracker (Coming Soon)** - *for telling me your preferences for interactions, plotting, etc.*
 - [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call' with benefits*
 ## Interactions Calls
