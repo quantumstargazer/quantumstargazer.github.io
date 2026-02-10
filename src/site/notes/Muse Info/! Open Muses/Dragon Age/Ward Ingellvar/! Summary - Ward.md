@@ -177,158 +177,115 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!verse]- Scion of the Outer Planes
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Astral Drifter
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ## Dragon Age AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Mass Effect AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
+> 
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
 
-> [!verse]- Planar Wanderer
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Planar Agent
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Other Verses & AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Private Verses & AUs

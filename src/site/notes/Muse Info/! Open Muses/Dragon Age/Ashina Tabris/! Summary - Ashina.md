@@ -244,156 +244,122 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!verse]- Scion of the Outer Planes
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Scion of the Outer Planes Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Scion of the Outer Planes Wishlists\|Wishlists]] 
 
-> [!verse]- Astral Drifter
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Astral Drifter Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Astral Drifter Wishlists\|Wishlists]] 
+
+
 ## Dragon Age AUs
-> [!verse]- VerseTitle
-> Summary goes here.
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Mass Effect AUs
 > [!verse]- Mercenary Assassin
+> 
+> - *Starts around 2184 to 2185 CE*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Mercenary Assassin Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Mercenary Assassin Headcanons\|Wishlists]] 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#In Time & Space Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#In Time & Space Wishlists\|Wishlists]] 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
+> 
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Absolute Crisis Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Absolute Crisis Wishlists\|Wishlists]] 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
 
-> [!verse]- Planar Wanderer
-> Summary goes here.
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
-> [!verse]- Planar Agent
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Planar Wanderer Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Planar Agent Wishlists\|Wishlists]] 
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#This Shit Is Weird Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#This Shit Is Weird Wishlists\|Wishlists]] 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Anomaly Detected Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Anomaly Detected Wishlists\|Wishlists]] 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Companion Headcanons\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Companion Wishlists\|Wishlists]] 
+>> - |Dossier]]
+>> - |Headcanons]]
+>> - |Verse]]
+>> - |Wishlist]] 
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
+
 
 ---
 # Other Verses & AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
+
 
 ---
 # Private Verses & AUs
