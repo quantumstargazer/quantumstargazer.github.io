@@ -166,7 +166,7 @@
 > [!verse]+ Spirit of Learning
 > - *Pre-Physical Origin AU*
 > 
-> What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. 
+> What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. When the Evanuris begin taking on physical form using the stolen blood of the Titans, Learning is among those spirits who are forced to flee lest they are captured and forced to take form against their will.
 > 
 >> [!info]- Verse Navigation 
 >> - Dossier
