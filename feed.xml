@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://quantumstargazer.github.io/">
-    <title>Quantum Stargazer Wiki</title>
-    <link href="https://quantumstargazer.github.io//feed.xml" rel="self" />
-    <link href="https://quantumstargazer.github.io/" />
-    <updated>2026-02-10T22:08:30Z</updated>
-    <id>https://quantumstargazer.github.io/</id>
-        <entry>
-            <title>
-                To Do
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/</id>
-            <content type="html">
-                &lt;h1 id=&quot;to-do&quot; tabindex=&quot;-1&quot;&gt;TO DO&lt;/h1&gt;
+  <title>Quantum Stargazer Wiki</title>
+  <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
+  <link href="https://quantumstargazer.github.io/"/>
+  <updated>2026-02-11T20:54:06Z</updated>
+  <id>https://quantumstargazer.github.io/</id><entry>
+    <title>To Do</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/</id>
+    <content type="html">&lt;h1 id=&quot;to-do&quot; tabindex=&quot;-1&quot;&gt;TO DO&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!ziggy]+ A Word From Ziggy&lt;br /&gt;
 No, I don&#39;t know why this isn&#39;t displaying properly, and it&#39;s so low priority that I&#39;m not going to worry about it for now. This is just to give others an idea of what I&#39;ve got planned and what I&#39;ve finished, though this is by no means a definitive list of the work I&#39;m doing on this project.&lt;/p&gt;
@@ -265,19 +260,13 @@ I am &lt;em&gt;only&lt;/em&gt; focusing on the Open Muses for now, and prioritis
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_139&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_139&quot;&gt; Headcanons&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_140&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_140&quot;&gt; Wishlists&lt;/label&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/" />
-        </entry>
-        <entry>
-            <title>
-                RP FAQ
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/rp-faq/</id>
-            <content type="html">
-                &lt;h1 id=&quot;frequently-asked-questions&quot; tabindex=&quot;-1&quot;&gt;Frequently Asked Questions&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//ziggy-s-corner/admin/to-do/"/>
+  </entry><entry>
+    <title>RP FAQ</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/rp-faq/</id>
+    <content type="html">&lt;h1 id=&quot;frequently-asked-questions&quot; tabindex=&quot;-1&quot;&gt;Frequently Asked Questions&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!faq] If You Have Questions, Just Ask!&lt;br /&gt;
 You&#39;re always welcome to send any questions you might have&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://quantumstargazer.github.io/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; for me to my inbox on tumblr.&lt;/p&gt;
@@ -452,19 +441,13 @@ I use a series of userscripts and stylesheets to make the tumblr dashboard acces
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/rp-faq/" />
-        </entry>
-        <entry>
-            <title>
-                Guidelines
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/guidelines/</id>
-            <content type="html">
-                &lt;h1 id=&quot;guidelines&quot; tabindex=&quot;-1&quot;&gt;Guidelines&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/rp-faq/"/>
+  </entry><entry>
+    <title>Guidelines</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/guidelines/</id>
+    <content type="html">&lt;h1 id=&quot;guidelines&quot; tabindex=&quot;-1&quot;&gt;Guidelines&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!attention]- Read Rules Before Following&lt;/p&gt;
 &lt;p&gt;If you haven&#39;t done so already, you should read the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/rules-and-guidelines/actual-rules/&quot;&gt;Actual Rules&lt;/a&gt; before following. These guidelines are only an expansion of that and may not apply to &lt;em&gt;everyone&lt;/em&gt;, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.&lt;/p&gt;
@@ -603,19 +586,13 @@ This can be done simply my sending a prompt/meme from the ones tagged as &amp;qu
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/guidelines/" />
-        </entry>
-        <entry>
-            <title>
-                Exclusivity - Rules
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/exclusivity-rules/</id>
-            <content type="html">
-                &lt;h1 id=&quot;mutuals-only-exclusivity&quot; tabindex=&quot;-1&quot;&gt;Mutuals Only Exclusivity&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/guidelines/"/>
+  </entry><entry>
+    <title>Exclusivity - Rules</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/exclusivity-rules/</id>
+    <content type="html">&lt;h1 id=&quot;mutuals-only-exclusivity&quot; tabindex=&quot;-1&quot;&gt;Mutuals Only Exclusivity&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;My blog is &lt;em&gt;selective&lt;/em&gt; and &lt;em&gt;21+ &amp;amp; mutuals only&lt;/em&gt;,&lt;/strong&gt; meaning I &lt;em&gt;only&lt;/em&gt; follow blogs that I want to write with, that also meet the criteria of the writer behind it being 21 years or older, with such being stated somewhere on their blog and/or in their rules.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!guideline]- Limited Non-Mutual Interactions Allowed&lt;/p&gt;
@@ -639,19 +616,13 @@ This can be done simply my sending a prompt/meme from the ones tagged as &amp;qu
 &lt;p&gt;&lt;strong&gt;Do not make my muses your exclusives simply based on your following following my blog.&lt;/strong&gt; This makes me extremely uncomfortable when we have not even interacted, especially given how I only choose exclusives from established roleplay partners and do not expect that exclusivity to be mutual unless agreed upon out-of-character.&lt;/p&gt;
 &lt;h2 id=&quot;close-friends-only-for-exclusives&quot; tabindex=&quot;-1&quot;&gt;Close Friends Only For Exclusives&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;If we&#39;re not &lt;em&gt;extremely&lt;/em&gt; close friends out-of-character, my muses are &lt;em&gt;not&lt;/em&gt; available to be your exclusives.&lt;/strong&gt; I am not willing to be near &lt;em&gt;anyone&#39;s&lt;/em&gt; exclusive portrayal of any given canon and/or canon-inspired muse, largely in part due to the fact that my activity is often so sporadic, it would not only be unfair to you to limit yourself in that way, but also unfair to me for you trying to place that expectation of availability on me, which I would not be able to guarantee to be able to maintain.&lt;/p&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/exclusivity-rules/" />
-        </entry>
-        <entry>
-            <title>
-                Blacklist Tags - Rules
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/blacklist-tags-rules/</id>
-            <content type="html">
-                &lt;h1 id=&quot;blacklist-tags-requested&quot; tabindex=&quot;-1&quot;&gt;Blacklist Tags Requested&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/exclusivity-rules/"/>
+  </entry><entry>
+    <title>Blacklist Tags - Rules</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/blacklist-tags-rules/</id>
+    <content type="html">&lt;h1 id=&quot;blacklist-tags-requested&quot; tabindex=&quot;-1&quot;&gt;Blacklist Tags Requested&lt;/h1&gt;
 &lt;h2 id=&quot;tag-format&quot; tabindex=&quot;-1&quot;&gt;Tag Format&lt;/h2&gt;
 &lt;p&gt;Please tag using one or more of the following formats:&lt;/p&gt;
 &lt;ul&gt;
@@ -862,19 +833,13 @@ I am chronically ill and disabled, so blacklisting &lt;em&gt;literal dozens&lt;/
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/blacklist-tags-rules/" />
-        </entry>
-        <entry>
-            <title>
-                Interest Tracking Forms - Guidelines
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interest-tracking-forms-guidelines/</id>
-            <content type="html">
-                &lt;h1 id=&quot;interest-tracking-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interest Tracking Forms - Guidelines&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-rules/blacklist-tags-rules/"/>
+  </entry><entry>
+    <title>Interest Tracking Forms - Guidelines</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interest-tracking-forms-guidelines/</id>
+    <content type="html">&lt;h1 id=&quot;interest-tracking-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interest Tracking Forms - Guidelines&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Links to the forms can be found on the&lt;/em&gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/&quot;&gt;homepage&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -932,19 +897,13 @@ If we haven&#39;t even said so much as &amp;quot;hello&amp;quot; to each other y
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interest-tracking-forms-guidelines/" />
-        </entry>
-        <entry>
-            <title>
-                Interaction Forms - Guidelines
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interaction-forms-guidelines/</id>
-            <content type="html">
-                &lt;h1 id=&quot;interaction-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interaction Forms - Guidelines&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interest-tracking-forms-guidelines/"/>
+  </entry><entry>
+    <title>Interaction Forms - Guidelines</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interaction-forms-guidelines/</id>
+    <content type="html">&lt;h1 id=&quot;interaction-forms-guidelines&quot; tabindex=&quot;-1&quot;&gt;Interaction Forms - Guidelines&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!guideline]+ Request Interaction At Any Time&lt;br /&gt;
 These forms are here to let you &lt;strong&gt;request interaction at any time&lt;/strong&gt;, whether I&#39;m actively on the dash or not (I lurk way more than it appears, since I don&#39;t really post from mobile, but I do read and draft things while afk from my desktop).&lt;/p&gt;
@@ -956,19 +915,13 @@ These forms are here to let you &lt;strong&gt;request interaction at any time&lt
 &lt;p&gt;This is the &lt;em&gt;only&lt;/em&gt; way I accept &lt;em&gt;requests&lt;/em&gt; for me to write starters where you can specify the muse and/or verse, as well as any length preference, and space to also mention any plot ideas that you might have.&lt;/p&gt;
 &lt;h1 id=&quot;inbox-call&quot; tabindex=&quot;-1&quot;&gt;Inbox Call&lt;/h1&gt;
 &lt;p&gt;If you&#39;d like me to send you some prompts &amp;amp;/or memes to your inbox, &lt;em&gt;especially&lt;/em&gt; from specific muses and/or out-of-character stuff. This is especially useful if you don&#39;t reblog memes regularly, and so you can actively request that I come send things from what you&#39;ve reblogged previously.&lt;/p&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interaction-forms-guidelines/" />
-        </entry>
-        <entry>
-            <title>
-                Non-Roleplayers - FAQ
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/non-roleplayers-faq/</id>
-            <content type="html">
-                &lt;h1 id=&quot;non-roleplayers&quot; tabindex=&quot;-1&quot;&gt;Non-Roleplayers&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-guidelines/interaction-forms-guidelines/"/>
+  </entry><entry>
+    <title>Non-Roleplayers - FAQ</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/non-roleplayers-faq/</id>
+    <content type="html">&lt;h1 id=&quot;non-roleplayers&quot; tabindex=&quot;-1&quot;&gt;Non-Roleplayers&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h1 id=&quot;following&quot; tabindex=&quot;-1&quot;&gt;Following&lt;/h1&gt;
 &lt;p&gt;Non-roleplayers &lt;em&gt;are&lt;/em&gt; welcome to follow, if they wish, but I will &lt;em&gt;not&lt;/em&gt; follow back. I only follow other independent roleplay blogs with whom I wish to write with, whose writers are 21+ years old, and whose own rules are compatible with my own.&lt;/p&gt;
@@ -988,19 +941,13 @@ These forms are here to let you &lt;strong&gt;request interaction at any time&lt
 &lt;li&gt;Like (heart) interaction calls (ie posts tagged with &amp;quot;&lt;strong&gt;Interaction Call&lt;/strong&gt; and/or &amp;quot;&lt;strong&gt;Interest Tracker&lt;/strong&gt;&amp;quot; — these posts are for my mutuals only)&lt;/li&gt;
 &lt;li&gt;Reblogging &lt;em&gt;anything&lt;/em&gt; from my blog — reblogging  any in character writing is grounds for &lt;em&gt;immediate blocking&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/non-roleplayers-faq/" />
-        </entry>
-        <entry>
-            <title>
-                Mature Audiences Only - FAQ
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/mature-audiences-only-faq/</id>
-            <content type="html">
-                &lt;h1 id=&quot;rated-m-for-mature-audiences-only&quot; tabindex=&quot;-1&quot;&gt;Rated M for Mature Audiences Only&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/non-roleplayers-faq/"/>
+  </entry><entry>
+    <title>Mature Audiences Only - FAQ</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/mature-audiences-only-faq/</id>
+    <content type="html">&lt;h1 id=&quot;rated-m-for-mature-audiences-only&quot; tabindex=&quot;-1&quot;&gt;Rated M for Mature Audiences Only&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!rule]- Must Be 18+ To Follow&lt;br /&gt;
 I &lt;em&gt;hard block&lt;/em&gt; any minors — as well as any blogs who do not list an age at all — who follow me. I do &lt;em&gt;not&lt;/em&gt; roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will &lt;em&gt;not&lt;/em&gt; be writing any roleplay interactions with you or your muses until you are at least 21.&lt;/p&gt;
@@ -1064,19 +1011,13 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/mature-audiences-only-faq/" />
-        </entry>
-        <entry>
-            <title>
-                Fellow Stargazers - FAQ
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/fellow-stargazers-faq/</id>
-            <content type="html">
-                &lt;h1 id=&quot;fellow-stargazers&quot; tabindex=&quot;-1&quot;&gt;Fellow Stargazers&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/mature-audiences-only-faq/"/>
+  </entry><entry>
+    <title>Fellow Stargazers - FAQ</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/fellow-stargazers-faq/</id>
+    <content type="html">&lt;h1 id=&quot;fellow-stargazers&quot; tabindex=&quot;-1&quot;&gt;Fellow Stargazers&lt;/h1&gt;
 &lt;p&gt;These are the people who I interact with the most, and whose interactions have a large impact on the development of my muses within various verses &amp;amp;/or AUs.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h1 id=&quot;exclusives&quot; tabindex=&quot;-1&quot;&gt;Exclusives&lt;/h1&gt;
@@ -1161,19 +1102,13 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
 &lt;blockquote&gt;
 &lt;p&gt;[!shipdyn]&lt;/p&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/fellow-stargazers-faq/" />
-        </entry>
-        <entry>
-            <title>
-                Do&#39;s &amp; Don&#39;t&#39;s - FAQ
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/do-s-and-don-t-s-faq/</id>
-            <content type="html">
-                &lt;h1 id=&quot;do-s-and-amp-don-t-s-of-interacting&quot; tabindex=&quot;-1&quot;&gt;Do&#39;s &amp;amp; Don&#39;t&#39;s of Interacting&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/fellow-stargazers-faq/"/>
+  </entry><entry>
+    <title>Do&#39;s &amp; Don&#39;t&#39;s - FAQ</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/do-s-and-don-t-s-faq/</id>
+    <content type="html">&lt;h1 id=&quot;do-s-and-amp-don-t-s-of-interacting&quot; tabindex=&quot;-1&quot;&gt;Do&#39;s &amp;amp; Don&#39;t&#39;s of Interacting&lt;/h1&gt;
 &lt;h2 id=&quot;tl-dr&quot; tabindex=&quot;-1&quot;&gt;TL;DR&lt;/h2&gt;
 &lt;h3 id=&quot;do&quot; tabindex=&quot;-1&quot;&gt;Do&lt;/h3&gt;
 &lt;table&gt;
@@ -1388,19 +1323,13 @@ If you are unfamiliar with any of the fandoms I frequently write, please take th
 &lt;li&gt;&lt;strong&gt;Don&#39;t write my muses for me&lt;/strong&gt; - This pertains to &lt;em&gt;their dialogue, thoughts, feelings, introspection, etc.&lt;/em&gt; It is safe to assume that, if I don&#39;t write them resisting an action such as following your muse to another room, being touched, etc., that it is accepted as having occurred without having to explicitly write the action from their point of view. What&#39;s &lt;em&gt;not&lt;/em&gt; accepted is you deciding for me how my muse feels, thinks, react emotionally and/or psychologically, etc.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Don&#39;t panic&lt;/strong&gt; - And always know where your towel is.&lt;/li&gt;
 &lt;/ul&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/do-s-and-don-t-s-faq/" />
-        </entry>
-        <entry>
-            <title>
-                Actual Rules
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//rules-and-guidelines/actual-rules/</id>
-            <content type="html">
-                &lt;h1 id=&quot;the-actual-rules&quot; tabindex=&quot;-1&quot;&gt;The Actual Rules&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/additional-faq/do-s-and-don-t-s-faq/"/>
+  </entry><entry>
+    <title>Actual Rules</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//rules-and-guidelines/actual-rules/</id>
+    <content type="html">&lt;h1 id=&quot;the-actual-rules&quot; tabindex=&quot;-1&quot;&gt;The Actual Rules&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!attention]- Read Rules Before Following&lt;br /&gt;
 I &lt;em&gt;actively block&lt;/em&gt; people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &amp;amp;/or tropes &amp;amp; themes.&lt;/p&gt;
@@ -1504,182 +1433,13 @@ I do not follow anyone whose only warnings for their blog consists of &amp;quot;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//rules-and-guidelines/actual-rules/" />
-        </entry>
-        <entry>
-            <title>
-                Quantum Stargazer Wiki
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//</id>
-            <content type="html">
-                &lt;h1 id=&quot;quantum-stargazer-wiki&quot; tabindex=&quot;-1&quot;&gt;Quantum Stargazer Wiki&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!error] Under Emergency Construction&lt;br /&gt;
-Site is under emergency construction after the old wiki decided to start suffering from fatal errors on the host&#39;s end, so things are going to be a bit chaotic while I try to salvage the data from the old site to add to this one. Please be patient, as I am chronically ill and unable to always dedicate a lot of time and energy to this effort.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!WARNING] Testing In Progress&lt;br /&gt;
-Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&quot;quantum-stargazer&quot; tabindex=&quot;-1&quot;&gt;Quantum Stargazer&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Quantum Stargazer&lt;/a&gt; is an &lt;em&gt;Independent&lt;/em&gt;, &lt;em&gt;Selective&lt;/em&gt;, &lt;em&gt;21+ &amp;amp; Mutuals Only&lt;/em&gt; Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur&#39;s Gate&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://quantumstargazer.github.io/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;, Dragon Age, Mass Effect, &amp;amp; more.&lt;/p&gt;
-&lt;h2 id=&quot;rp-info&quot; tabindex=&quot;-1&quot;&gt;RP Info&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Multi-Ship&lt;/strong&gt; - Ships are not Highlanders — there can be more than one. And there will be. &lt;em&gt;There will be.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-Verse&lt;/strong&gt; - All &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses-roster/&quot;&gt;Open Muses&lt;/a&gt; have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &amp;amp;/or Other Verses &amp;amp; AUs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Extremely Crossover Friendly&lt;/strong&gt; - If a verse &amp;amp;/or doesn&#39;t exist, so long as I&#39;m even &lt;em&gt;remotely&lt;/em&gt; familiar with and interested in the fandom, chances are good that I&#39;ll add a verse to make it happen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Loose Plotting Only&lt;/strong&gt; - Not a heavy or strict planner; if &lt;em&gt;you are&lt;/em&gt;, then I&#39;m probably not who you want to try to plot with.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;In Character Posts Immediately&lt;/strong&gt; - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!ziggy]- Wordy AF - Unapologetically Neurodivergent&lt;br /&gt;
-&lt;strong&gt;AuDHD&lt;/strong&gt; means &lt;em&gt;&lt;strong&gt;infodumping&lt;/strong&gt;&lt;/em&gt; is likely to occur, and this means my posts, as well as the notes here, are likely to get &lt;em&gt;wordy&lt;/em&gt;. I tend to try to be mindful of individual paragraph lengths, but there will often be &lt;em&gt;a lot&lt;/em&gt; of paragraphs and/or bullet points.&lt;/p&gt;
-&lt;p&gt;If, for any reason, you are troubled by being expected to &lt;em&gt;actually read things&lt;/em&gt; in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I&#39;m &lt;em&gt;probably&lt;/em&gt; not the roleplay partner for you.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;h1 id=&quot;thread-tracking&quot; tabindex=&quot;-1&quot;&gt;Thread Tracking&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!tracker]- Important Note About Thread Tracking&lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;I do not use the RP Thread Tracker quite as intended.&lt;/strong&gt;&lt;/em&gt; Most notably where the Archive and Queue is concerned.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Any in character post tagged with &amp;quot;&lt;strong&gt;; partnerurl / partnermuse &amp;amp; my muse / 000&lt;/strong&gt;&amp;quot; is intended to be added to the tracker — Havu (&lt;a href=&quot;https://lanternlit.tumblr.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;lanternlit&lt;/a&gt;) is helping to make sure everything actually gets tracked.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Only active threads are in the front most view&lt;/strong&gt;, so I can keep tabs what I currently have going on — anything else is either marked as Archived or Queued for storage purposes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Threads Inactive For Longer Than 2+ Months&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Threads that have been on &amp;quot;&lt;em&gt;their turn&lt;/em&gt;&amp;quot; for 2+ months are sent to the Archive for storage until it is replied to — these threads are still accessible through the public view&#39;s dropdown menu to access Archived threads.
-&lt;ul&gt;
-&lt;li&gt;I do &lt;em&gt;not&lt;/em&gt; consider these threads dropped &lt;em&gt;unless I have updated the title to mark them as such&lt;/em&gt;. If you have outright dropped a thread, &lt;em&gt;please notify me directly&lt;/em&gt;. This can be done through discord, tumblr IM, and/or the tumblr inbox.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Threads that have been on &lt;em&gt;my turn&lt;/em&gt; for 2+ months are potentially sent to the Queue for storage if they&#39;re stuck in drafts due to low muse activity — again, they&#39;re still accessible through the dropdown menu to access Queued threads.
-&lt;ul&gt;
-&lt;li&gt;These posts are &lt;em&gt;not&lt;/em&gt; actually queued, however, as I &lt;em&gt;never&lt;/em&gt; queue in character posts. It is just a functional way of setting them aside in the tracker so as not to overwhelm me when I know I&#39;m not going to be replying to that post for a while, and it should automatically release it from being marked as queued when I do eventually get it posted.&lt;/li&gt;
-&lt;li&gt;Likewise, these threads are also &lt;em&gt;not dropped&lt;/em&gt; — some muses, or even just some verses for that muse, are simply slower than others, and so interactions may go months without being replied to if I have little to no muse for them at the time.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;where-you-can-see-what-s-tracked&quot; tabindex=&quot;-1&quot;&gt;Where You Can See What&#39;s Tracked&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Thread Tracker&lt;/a&gt; - &lt;em&gt;all threads, regardless of whose turn it is&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Their Turn&lt;/a&gt; - &lt;em&gt;only threads that are on someone else&#39;s turn&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Ziggy’s Turn&lt;/a&gt; - &lt;em&gt;only threads that are on my turn&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!guideline]- Regarding Tracking &amp;amp; Dropped Threads&lt;br /&gt;
-I &lt;em&gt;very rarely&lt;/em&gt; drop threads myself simply due to a lack of interest, so this is &lt;em&gt;not&lt;/em&gt; something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it &lt;em&gt;eventually&lt;/em&gt;, or I will reach out and let you know that I need to drop it because I&#39;m unable to find a way to continue it.&lt;/p&gt;
-&lt;p&gt;If you lose interest in a thread, &lt;em&gt;please just let me know&lt;/em&gt; so I can mark it as dropped &amp;amp;/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I&#39;m an avid reader of work-in-progress fics on AO3 — I will wait &lt;em&gt;literal years&lt;/em&gt; for a continuation.&lt;/p&gt;
-&lt;p&gt;If you&#39;re never going to reply to something, I&#39;d rather just know rather than being expected to &lt;em&gt;assume&lt;/em&gt; — assumptions make asses out of people, more often than not, and again, I&#39;m neurodivergent AF &lt;em&gt;and&lt;/em&gt; disabled, so my assumptions are always going to lean to the far kinder &amp;quot;they&#39;re probably just busy/too tired/brainfoggy/etc&amp;quot; side of things rather than &amp;quot;oh, they&#39;ve lost interest and I should move on from that thread&amp;quot; that most people seem to assume.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;h1 id=&quot;interest-forms&quot; tabindex=&quot;-1&quot;&gt;Interest Forms&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!rule]- Interest Assumed For All Open Muses&lt;br /&gt;
-Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell me otherwise, if we&#39;re mutuals, it&#39;s assumed you&#39;re interested in interacting with any and &lt;em&gt;all&lt;/em&gt; of my &lt;em&gt;&lt;strong&gt;Open Muses&lt;/strong&gt;&lt;/em&gt; in any of their canon-based verses and/or their fandom matched verses &amp;amp; AUs.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://tally.so/r/jaQLWR&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Disinterest Tracker&lt;/a&gt; - &lt;em&gt;for telling me who you are&lt;/em&gt; &lt;strong&gt;not&lt;/strong&gt; &lt;em&gt;interested in interacting with&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RP Preferences Tracker&lt;/strong&gt; - &lt;strong&gt;(Coming Soon)&lt;/strong&gt; &lt;em&gt;for telling me your preferences for interactions, plotting, etc.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tally.so/r/eqraq0&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Best Friends Call&lt;/a&gt; - &lt;em&gt;the closest thing I have to a &#39;permanent starter call&#39; with benefits&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;interactions-calls&quot; tabindex=&quot;-1&quot;&gt;Interactions Calls&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!guideline]- Request Interaction At Any Time&lt;br /&gt;
-These forms are here to let you request interaction at any time, whether I&#39;m actively on the dash or not (I lurk way more than it appears, since I don&#39;t really post from mobile, but I do read and draft things while afk from my desktop).&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://tally.so/r/eqrr8J&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Starter Call&lt;/a&gt; - &lt;em&gt;for requesting that I write a starter for your muse(s)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://tally.so/r/NpXXKl&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Inbox Call&lt;/a&gt; - &lt;em&gt;for requesting that I send prompts/memes to your inbox&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h1 id=&quot;rules-and-amp-guidelines&quot; tabindex=&quot;-1&quot;&gt;Rules &amp;amp; Guidelines&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/rules-and-guidelines/actual-rules/&quot;&gt;The Actual Rules&lt;/a&gt; - &lt;em&gt;must be read before following&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/rules-and-guidelines/guidelines/&quot;&gt;RP Guidelines&lt;/a&gt; - &lt;em&gt;may not apply to everyone&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/rules-and-guidelines/rp-faq/&quot;&gt;Frequently Asked Questions&lt;/a&gt; - &lt;em&gt;answers to common things that have come up over the years&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;muse-rosters&quot; tabindex=&quot;-1&quot;&gt;Muse Rosters&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!faq]- Activity Levels Based On Fandom - Not Individual Muse&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Activity is based on the fandom as opposed to the individual muse.&lt;/li&gt;
-&lt;li&gt;So when Dragon Age is my highest actively, all Dragon Age muses &lt;em&gt;and&lt;/em&gt; the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.&lt;/li&gt;
-&lt;li&gt;I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses-roster/&quot;&gt;Open Muses&lt;/a&gt; - &lt;em&gt;priority muses — available to everyone&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/by-request-only-roster/&quot;&gt;By Request Only&lt;/a&gt; - &lt;em&gt;available only on request&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/friends-only-roster/&quot;&gt;Friends Only&lt;/a&gt; - &lt;em&gt;by invitation only&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/irregulars-roster/&quot;&gt;Irregulars&lt;/a&gt; - &lt;em&gt;available only for Mains &amp;amp; Best Friends Call Members&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h1 id=&quot;about-the-mun&quot; tabindex=&quot;-1&quot;&gt;About the Mun&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;name/alias:&lt;/em&gt; Ziggy&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;pronouns:&lt;/em&gt; they/them&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;age:&lt;/em&gt; 40+&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!example]+ Fandoms&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Baldur&#39;s Gate&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://quantumstargazer.github.io/#fn1&quot; id=&quot;fnref1:1&quot;&gt;[1:1]&lt;/a&gt;&lt;/sup&gt; - &lt;em&gt;secondary — moderate activity&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Dragon Age - &lt;em&gt;primary — high activity&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Mass Effect - &lt;em&gt;tertiary — low activity&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!todo]- Other Fandoms&lt;br /&gt;
-&lt;em&gt;This is not an extensive list of fandoms I&#39;m interested in &amp;amp;/or familiar with enough to roleplay with. Please note: I don&#39;t keep up well with modern media, so don&#39;t expect me to be familiar with new things as soon as they come out.&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Addams Family&lt;/li&gt;
-&lt;li&gt;BioShock&lt;/li&gt;
-&lt;li&gt;DC (&lt;em&gt;focus:&lt;/em&gt; Batman: The Animated Series)&lt;/li&gt;
-&lt;li&gt;Detroit: Become Human&lt;/li&gt;
-&lt;li&gt;Doctor Who (&lt;em&gt;Expanded Universe&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Dungeons &amp;amp; Dragons (&lt;em&gt;tabletop rpg&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Elder Scrolls&lt;/li&gt;
-&lt;li&gt;Fallout&lt;/li&gt;
-&lt;li&gt;Forgotten Realms (&lt;em&gt;D&amp;amp;D setting&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Ghostbusters (&lt;em&gt;focus:&lt;/em&gt; The &lt;em&gt;&lt;strong&gt;Real&lt;/strong&gt;&lt;/em&gt; Ghostbusters)&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://quantumstargazer.github.io/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;Marvel (&lt;em&gt;focus:&lt;/em&gt; Iron Man/Tony Stark)&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://quantumstargazer.github.io/#fn3&quot; id=&quot;fnref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;Our Flag Means Death&lt;/li&gt;
-&lt;li&gt;Portal&lt;/li&gt;
-&lt;li&gt;The Stanley Parable&lt;/li&gt;
-&lt;li&gt;Star Trek (&lt;em&gt;focus:&lt;/em&gt; Original Series through Voyager)&lt;/li&gt;
-&lt;li&gt;Stardew Valley&lt;/li&gt;
-&lt;li&gt;Supernatural&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;hr class=&quot;footnotes-sep&quot; /&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol class=&quot;footnotes-list&quot;&gt;
-&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Incorporates &lt;strong&gt;Forgotten Realms&lt;/strong&gt; and &lt;strong&gt;D&amp;amp;D/AD&amp;amp;D&lt;/strong&gt; lore for individual characters as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters. &lt;a href=&quot;https://quantumstargazer.github.io/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt; &lt;a href=&quot;https://quantumstargazer.github.io/#fnref1:1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;When I am writing Peter Venkman, he is &lt;em&gt;not&lt;/em&gt; the movie-verse Venkman, but rather the further developed characterization from &lt;strong&gt;The &lt;em&gt;Real&lt;/em&gt; Ghostbusters&lt;/strong&gt; (ie the sharp minded businessman who has a soft spot for kids and little old ladies who remind him of his mom) and it is extremely important that this is respected — failure to do so will likely result in the interactions being dropped. &lt;a href=&quot;https://quantumstargazer.github.io/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn3&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Mostly the Marvel Cinematic Universe, prior to Avengers: Infinity War. In terms of &lt;em&gt;my&lt;/em&gt; portrayal of Tony Stark, his MCU canon &lt;em&gt;stops&lt;/em&gt; at Captain America: Civil War, where it then goes fully AU with dimensional travel and franchise swap, as he will be written as part of the DC universe, primarily focused on that of Batman: The Animated Series (as well as most of the animated movies), in addition to some fanmade content to be detailed in Tony&#39;s info once I&#39;m ready to actually start writing him again. &lt;a href=&quot;https://quantumstargazer.github.io/#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//" />
-        </entry>
-        <entry>
-            <title>
-                Irregulars - Roster
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/irregulars-roster/</id>
-            <content type="html">
-                &lt;h1 id=&quot;irregulars-roster&quot; tabindex=&quot;-1&quot;&gt;Irregulars Roster&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//rules-and-guidelines/actual-rules/"/>
+  </entry><entry>
+    <title>Irregulars - Roster</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/irregulars-roster/</id>
+    <content type="html">&lt;h1 id=&quot;irregulars-roster&quot; tabindex=&quot;-1&quot;&gt;Irregulars Roster&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!WARNING] Mains &amp;amp; Best Friends Call Members Only&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2226,19 +1986,13 @@ These forms are here to let you request interaction at any time, whether I&#39;m
 &lt;blockquote&gt;
 &lt;p&gt;[!attention] Not Currently Available&lt;/p&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/irregulars-roster/" />
-        </entry>
-        <entry>
-            <title>
-                Friends Only - Roster
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/friends-only-roster/</id>
-            <content type="html">
-                &lt;h1 id=&quot;friends-only-roster&quot; tabindex=&quot;-1&quot;&gt;Friends Only Roster&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/irregulars-roster/"/>
+  </entry><entry>
+    <title>Friends Only - Roster</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/friends-only-roster/</id>
+    <content type="html">&lt;h1 id=&quot;friends-only-roster&quot; tabindex=&quot;-1&quot;&gt;Friends Only Roster&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!WARNING] Not Open For Requests&lt;br /&gt;
 These muses are available for highly selective individuals only, and are not requestable by anyone but them.&lt;/p&gt;
@@ -2378,19 +2132,13 @@ These muses are available for highly selective individuals only, and are not req
 &lt;li&gt;Headcanons&lt;/li&gt;
 &lt;li&gt;Wishlists&lt;/li&gt;
 &lt;/ul&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/friends-only-roster/" />
-        </entry>
-        <entry>
-            <title>
-                By Request Only - Roster
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/by-request-only-roster/</id>
-            <content type="html">
-                &lt;h1 id=&quot;by-request-only-roster&quot; tabindex=&quot;-1&quot;&gt;By Request Only Roster&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/friends-only-roster/"/>
+  </entry><entry>
+    <title>By Request Only - Roster</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/by-request-only-roster/</id>
+    <content type="html">&lt;h1 id=&quot;by-request-only-roster&quot; tabindex=&quot;-1&quot;&gt;By Request Only Roster&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!TIP] Available Only If You Ask!&lt;br /&gt;
 I won&#39;t initiate anything with these muses until &lt;em&gt;after&lt;/em&gt; you&#39;ve specifically asked for them.&lt;/p&gt;
@@ -2634,19 +2382,13 @@ I won&#39;t initiate anything with these muses until &lt;em&gt;after&lt;/em&gt; 
 &lt;blockquote&gt;
 &lt;p&gt;[!attention] Not Currently Available&lt;/p&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/by-request-only-roster/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Nihlus
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/</id>
-            <content type="html">
-                &lt;h1 id=&quot;nihlus-kryik&quot; tabindex=&quot;-1&quot;&gt;Nihlus Kryik&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/by-request-only-roster/"/>
+  </entry><entry>
+    <title>! Summary - Nihlus</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/</id>
+    <content type="html">&lt;h1 id=&quot;nihlus-kryik&quot; tabindex=&quot;-1&quot;&gt;Nihlus Kryik&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/nihlus000.png&quot; alt=&quot;nihlus000.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -3066,19 +2808,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Isabela
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/</id>
-            <content type="html">
-                &lt;h1 id=&quot;isabela-shepard&quot; tabindex=&quot;-1&quot;&gt;Isabela Shepard&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/"/>
+  </entry><entry>
+    <title>! Summary - Isabela</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/</id>
+    <content type="html">&lt;h1 id=&quot;isabela-shepard&quot; tabindex=&quot;-1&quot;&gt;Isabela Shepard&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/20250818152450%20(1).png&quot; alt=&quot;20250818152450 (1).png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -3797,19 +3533,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Zevran
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/</id>
-            <content type="html">
-                &lt;h1 id=&quot;zevran-arainai&quot; tabindex=&quot;-1&quot;&gt;Zevran Arainai&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/"/>
+  </entry><entry>
+    <title>! Summary - Zevran</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/</id>
+    <content type="html">&lt;h1 id=&quot;zevran-arainai&quot; tabindex=&quot;-1&quot;&gt;Zevran Arainai&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/zev%20temp.png&quot; alt=&quot;zev temp.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -4182,19 +3912,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Zaehire
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/</id>
-            <content type="html">
-                &lt;h1 id=&quot;zaehire-de-riva&quot; tabindex=&quot;-1&quot;&gt;Zaehire de Riva&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/"/>
+  </entry><entry>
+    <title>! Summary - Zaehire</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/</id>
+    <content type="html">&lt;h1 id=&quot;zaehire-de-riva&quot; tabindex=&quot;-1&quot;&gt;Zaehire de Riva&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Zae001.png&quot; alt=&quot;Zae001.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -4497,19 +4221,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Ward
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/</id>
-            <content type="html">
-                &lt;h1 id=&quot;ward-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Ward Ingellvar&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/"/>
+  </entry><entry>
+    <title>! Summary - Ward</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/</id>
+    <content type="html">&lt;h1 id=&quot;ward-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Ward Ingellvar&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Ward%20temp02.png&quot; alt=&quot;Ward temp02.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -4958,19 +4676,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Leonardo
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/</id>
-            <content type="html">
-                &lt;h1 id=&quot;leonardo-de-riva&quot; tabindex=&quot;-1&quot;&gt;Leonardo de Riva&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/"/>
+  </entry><entry>
+    <title>! Summary - Leonardo</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/</id>
+    <content type="html">&lt;h1 id=&quot;leonardo-de-riva&quot; tabindex=&quot;-1&quot;&gt;Leonardo de Riva&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Leo001.png&quot; alt=&quot;Leo001.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -5282,19 +4994,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Haleir
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/</id>
-            <content type="html">
-                &lt;h1 id=&quot;haleir-lavellan&quot; tabindex=&quot;-1&quot;&gt;Haleir Lavellan&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/"/>
+  </entry><entry>
+    <title>! Summary - Haleir</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/</id>
+    <content type="html">&lt;h1 id=&quot;haleir-lavellan&quot; tabindex=&quot;-1&quot;&gt;Haleir Lavellan&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png&quot; alt=&quot;Haleir Lavellan.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -5614,19 +5320,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Bertrand
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/</id>
-            <content type="html">
-                &lt;h1 id=&quot;bertrand-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Bertrand Ingellvar&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/"/>
+  </entry><entry>
+    <title>! Summary - Bertrand</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/</id>
+    <content type="html">&lt;h1 id=&quot;bertrand-ingellvar&quot; tabindex=&quot;-1&quot;&gt;Bertrand Ingellvar&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/bert%20temp01.png&quot; alt=&quot;bert temp01.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -5924,19 +5624,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/" />
-        </entry>
-        <entry>
-            <title>
-                Wishlists - Ashina
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/</id>
-            <content type="html">
-                &lt;h1 id=&quot;wishlists-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Wishlists - Ashina de Riva née Tabris&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/"/>
+  </entry><entry>
+    <title>Wishlists - Ashina</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/</id>
+    <content type="html">&lt;h1 id=&quot;wishlists-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Wishlists - Ashina de Riva née Tabris&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
 &lt;ul&gt;
@@ -6284,19 +5978,13 @@ TBA&lt;/p&gt;
 &lt;p&gt;[!wishlist]-&lt;br /&gt;
 TBA&lt;/p&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/" />
-        </entry>
-        <entry>
-            <title>
-                Headcanons - Ashina
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/</id>
-            <content type="html">
-                &lt;h1 id=&quot;headcanons-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Headcanons - Ashina de Riva née Tabris&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/"/>
+  </entry><entry>
+    <title>Headcanons - Ashina</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/</id>
+    <content type="html">&lt;h1 id=&quot;headcanons-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Headcanons - Ashina de Riva née Tabris&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
 &lt;ul&gt;
@@ -6644,19 +6332,13 @@ TBA&lt;/p&gt;
 &lt;p&gt;[!headcanon]-&lt;br /&gt;
 TBA&lt;/p&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/" />
-        </entry>
-        <entry>
-            <title>
-                Connections - Ashina
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/</id>
-            <content type="html">
-                &lt;h1 id=&quot;connections-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Connections - Ashina de Riva née Tabris&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/"/>
+  </entry><entry>
+    <title>Connections - Ashina</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/</id>
+    <content type="html">&lt;h1 id=&quot;connections-ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Connections - Ashina de Riva née Tabris&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
 &lt;ul&gt;
@@ -6973,19 +6655,13 @@ TBA&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;LI potential:&lt;/em&gt; no&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Ashina
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
-            <content type="html">
-                &lt;h1 id=&quot;ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Ashina de Riva née Tabris&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/"/>
+  </entry><entry>
+    <title>! Summary - Ashina</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
+    <content type="html">&lt;h1 id=&quot;ashina-de-riva-nee-tabris&quot; tabindex=&quot;-1&quot;&gt;Ashina de Riva née Tabris&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Ash001.png&quot; alt=&quot;z Assets/Attachments/Ash001.png|250x250&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -7688,19 +7364,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Tavares
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares/</id>
-            <content type="html">
-                &lt;h1 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
+  </entry><entry>
+    <title>! Summary - Tavares</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares/</id>
+    <content type="html">&lt;h1 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/20250810034220.png&quot; alt=&quot;20250810034220.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -8030,19 +7700,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Faeynore
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/</id>
-            <content type="html">
-                &lt;h1 id=&quot;faeynore-moonstar&quot; tabindex=&quot;-1&quot;&gt;Faeynore Moonstar&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/tavares-umbrafae/summary-tavares/"/>
+  </entry><entry>
+    <title>! Summary - Faeynore</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/</id>
+    <content type="html">&lt;h1 id=&quot;faeynore-moonstar&quot; tabindex=&quot;-1&quot;&gt;Faeynore Moonstar&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/20250726145030.png&quot; alt=&quot;20250726145030.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -8365,19 +8029,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/" />
-        </entry>
-        <entry>
-            <title>
-                ! Summary - Dirge
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/</id>
-            <content type="html">
-                &lt;h1 id=&quot;dirge&quot; tabindex=&quot;-1&quot;&gt;Dirge&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/"/>
+  </entry><entry>
+    <title>! Summary - Dirge</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/</id>
+    <content type="html">&lt;h1 id=&quot;dirge&quot; tabindex=&quot;-1&quot;&gt;Dirge&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Dirge%20temp01.png&quot; alt=&quot;Dirge temp01.png&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!profile]+ Muse Info&lt;/p&gt;
@@ -8709,19 +8367,13 @@ Summary goes here.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/" />
-        </entry>
-        <entry>
-            <title>
-                ! Open Muses - Roster
-                
-            </title>
-            <updated>2026-02-10T22:08:17Z</updated>
-            <id>https://quantumstargazer.github.io//muse-info/open-muses-roster/</id>
-            <content type="html">
-                &lt;h1 id=&quot;open-muses-roster&quot; tabindex=&quot;-1&quot;&gt;Open Muses Roster&lt;/h1&gt;
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/"/>
+  </entry><entry>
+    <title>! Open Muses - Roster</title>
+    <updated>2026-02-11T20:53:52Z</updated>
+    <id>https://quantumstargazer.github.io//muse-info/open-muses-roster/</id>
+    <content type="html">&lt;h1 id=&quot;open-muses-roster&quot; tabindex=&quot;-1&quot;&gt;Open Muses Roster&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!rule]- Interest Assumed Unless Told Otherwise&lt;br /&gt;
 Unless you tell me you&#39;re &lt;em&gt;not&lt;/em&gt; interested in them by filling out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; form, then these are the muses who I am more likely to throw your way at random, from &lt;em&gt;&lt;strong&gt;any&lt;/strong&gt;&lt;/em&gt; of their canon-based verses and/or fandom matched AUs (&lt;em&gt;ie I will match your muse&#39;s fandom with a verse/AU of my own for that muse, regardless of the muse&#39;s origin fandom — so if you write Dragon Age, I may send a Baldur&#39;s Gate and/or Mass Effect muse your way, but it will be from one of their corresponding Dragon Age verses/AUs, not their respective canon-based verses&lt;/em&gt;).&lt;/p&gt;
@@ -8913,9 +8565,7 @@ Unless you tell me you&#39;re &lt;em&gt;not&lt;/em&gt; interested in them by fil
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-
-            </content>
-            <link href="https://quantumstargazer.github.io//muse-info/open-muses-roster/" />
-        </entry>
-</feed>
+</content>
+    <link href="https://quantumstargazer.github.io//muse-info/open-muses-roster/"/>
+  </entry></feed>
 
