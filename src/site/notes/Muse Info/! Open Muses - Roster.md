@@ -108,7 +108,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 - Connections
 - Headcanons
-- Quick Guide
+- [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 - Wishlists
 ## Zevran Arainai
 > [!profile]+ Zevran Arainai (he/him)
