@@ -18,6 +18,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Fenmaer Dawngazer
 > [!profile]+ Fenmaer Dawngazer (he/him)
@@ -29,6 +30,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Karlach Cliffgate
 > [!profile]+ Karlach Cliffgate (she/her)
@@ -41,6 +43,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -54,6 +57,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -67,6 +71,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -81,6 +86,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ### Courier
 > [!profile]- Courier (he/they)
@@ -91,6 +97,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
@@ -102,6 +109,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ### Elliot
 > [!profile]- Elliot (he/him)
@@ -112,6 +120,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ### Gunter
 > [!profile]- Gunter (he/him)
@@ -122,6 +131,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 

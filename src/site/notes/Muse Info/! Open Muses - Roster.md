@@ -23,6 +23,7 @@
 - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Faeynore Moonstar
 > [!profile]+ Faeynore Moonstar (they/she)
@@ -36,6 +37,7 @@
 - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Dirge
 > [!profile]+ Dirge (they/she)
@@ -47,6 +49,7 @@
 - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -63,6 +66,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Dossiers & Verses]]
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina\|Connections]]
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
+- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 ## Zaehire de Riva
 > [!profile]+ Zaehire de Riva (she/they)
@@ -76,6 +80,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Leonardo de Riva
 > [!profile]+ Leonardo de Riva (he/they)
@@ -89,6 +94,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Ward Ingellvar
 > [!profile]+ Ward Ingellvar (they/them)
@@ -102,6 +108,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Zevran Arainai
 > [!profile]+ Zevran Arainai (he/him)
@@ -113,6 +120,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Haleir Lavellan
 > [!profile]+ Haleir Lavellan (she/her)
@@ -128,6 +136,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Bertrand Ingellvar
 > [!profile]+ Bertrand Ingellvar (he/him)
@@ -139,6 +148,7 @@
 - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -155,6 +165,7 @@
 - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Nihlus Kryik
 > [!profile]+ Nihlus Kryik (he/him)
@@ -166,6 +177,7 @@
 - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Dossiers & Verses]]
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
