@@ -33,7 +33,15 @@
 > *Please pay attention to this fact:*
 > - Ashina **NEVER** goes by "***Tabris***" with anyone she's met after becoming a Grey Warden and/or an Antivan Crow (*so anyone met after the events of the Origins prologue*). 
 > - No one who didn't know her prior to one or both of these events should even know her family name *at all* unless she explicitly tells them or it's revealed to them through the story itself (*example: those present during the Fifth Blight when she returns to the Alienage may learn her true identity as a result of her interacting with her family*).
-> - Of those who may know without prior plotting include: Cyrion Tabris, Shianni, Soris, Nelaros, other Denerim Alienage elves from and/or prior to 9:30 Dragon, & Duncan.
+> 
+> **Pre-Approved Exceptions**
+> - *Of those who may know without prior plotting include:* 
+> 	- Cyrion Tabris
+> 	- Shianni
+> 	- Soris
+> 	- Nelaros
+> 	- other Denerim Alienage elves from and/or prior to 9:30 Dragon
+> 	- Duncan
 
 > [!spoiler]- Adaia (mother) was an Antivan Crow of House Arainai
 > - TBA
