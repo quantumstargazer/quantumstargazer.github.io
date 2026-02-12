@@ -6,6 +6,8 @@
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
+**Be sure to check the [[Rules & Guidelines/Additional FAQ/Do's & Don't's - FAQ\|Do's & Don't's of Interacting]] before you actually start interacting.**
+
 ---
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
@@ -74,7 +76,12 @@ Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely unive
 
 That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
 
-
+## Frequently Asked Questions
+- [[Rules & Guidelines/RP FAQ\|RP FAQ]]
+- [[Rules & Guidelines/Additional FAQ/Do's & Don't's - FAQ\|Do's & Don't's - FAQ]] 
+- [[Rules & Guidelines/Additional FAQ/Fellow Stargazers - FAQ\|Fellow Stargazers - FAQ]]
+- [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only - FAQ]]
+- [[Rules & Guidelines/Additional FAQ/Non-Roleplayers - FAQ\|Non-Roleplayers - FAQ]]
 
 
 
