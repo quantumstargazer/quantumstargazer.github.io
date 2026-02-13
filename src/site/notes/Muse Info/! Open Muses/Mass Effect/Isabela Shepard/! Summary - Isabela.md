@@ -309,7 +309,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Earthborn (Shepards)
+> [!verse]- Earthborn (Shepards)
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -320,7 +320,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Colonist (Shepards)
+> [!verse]- Colonist (Shepards)
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -331,7 +331,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Spacer (Shepards)
+> [!verse]- Spacer (Shepards)
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -342,7 +342,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Clone
+> [!verse]- Clone
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -351,7 +351,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Mercenary (Clone)
+> [!verse]- Mercenary (Clone)
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -360,14 +360,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 
 ---
 # Fandom Specific AUs
