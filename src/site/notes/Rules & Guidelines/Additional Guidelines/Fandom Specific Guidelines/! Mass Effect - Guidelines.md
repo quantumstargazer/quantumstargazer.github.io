@@ -7,7 +7,7 @@
 ---
 # Integrating Andromeda
 
-**TBA** 
+**TBA** - *Essentially the Andromeda Initiative and it's respective timeline, NPCs, etc. exist within the greater Mass Effect timeline and universe, and are not ignored within my writing of the setting. Various characters, events, etc. are acknowledged by my Mass Effect muses, even if they are unaware of the events that will occur when the arks reach Andromeda itself.*
 
 ---
 # Unnamed Shepard
