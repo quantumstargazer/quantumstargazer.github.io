@@ -516,7 +516,9 @@
 > 
 > - *Space Magic Fuckery (Multifandom Displacement)*
 > 
-> Summary goes here.
+> When the Crucible is fired, the energy from the blast rocketing out into the relay network destroys the Reapers. 
+> 
+> It also causes a more localized tear in the fabric of space-time, and Isabela finds herself waking up in an unfamiliar world and/or time, with no idea if returning home is even possible.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -527,6 +529,46 @@
 
 ---
 # Private Verses & AUs
+## lanternlit - Garrus Vakarian 
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
+## lanternlit - Wren Shepard
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
+## Partner - PartnerMuse
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
+## Partner - PartnerMuse
+> [!verse]- VerseTitle
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
 > Summary goes here.
