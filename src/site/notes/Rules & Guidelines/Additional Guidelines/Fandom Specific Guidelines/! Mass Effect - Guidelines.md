@@ -5,6 +5,19 @@
 # Mass Effect - Guidelines
 
 ---
+# Integrating Andromeda
+
+**TBA** 
+
+---
+# Unnamed Shepard
+In cases where Shepard is an ambiguous NPC, I default to the following: 
+
+- *pronouns:* She/Her/Herself
+- *class:* Sentinel (*medic*)
+- *morality:* Paragade (*85/15*)
+
+---
 # Destroy Ending Only
 In terms of roleplay, I *only* write with the intention of it being the Destroy Ending (or, theoretically, the Ignore Ending, where the cycle continues because Shepard is no longer in the galaxy to stop the Reapers).
 
