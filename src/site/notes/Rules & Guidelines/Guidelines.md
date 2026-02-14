@@ -108,9 +108,9 @@ As such, private verses are most likely available *only* for their intended part
 - [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines\|Interest Tracking Forms - Guidelines]]
 - [[Rules & Guidelines/Additional Guidelines/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon - Guidelines]]
 ## Fandom-Specific Rules
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Baldur's Gate - Guidelines\|Baldur's Gate - Guidelines]]
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Dragon Age - Guidelines\|Dragon Age - Guidelines]]
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Mass Effect - Guidelines\|Mass Effect - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Baldur's Gate - Guidelines\|! Baldur's Gate - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Dragon Age - Guidelines\|! Dragon Age - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Mass Effect - Guidelines\|! Mass Effect - Guidelines]]
 
 > [!example]- Other Fandoms - Guidelines
 > **Secondary Fandoms**
