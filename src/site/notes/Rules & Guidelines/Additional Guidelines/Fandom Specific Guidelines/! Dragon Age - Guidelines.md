@@ -11,7 +11,18 @@ Zevran can be recruited shortly following leaving Lothering and setting camp, wh
 Zevran's ambush is along the Imperial Highway, so their intended destination after breaking camp doesn't matter, as they'd be traveling the same road regardless in order to get there.
 
 ---
+# Zevran's Romance 
 
+**TBA** 
 
+---
+# Dorian's Personal Quest
 
+**TBA** 
 
+---
+# Antivan Crows
+
+**TBA** 
+
+---
