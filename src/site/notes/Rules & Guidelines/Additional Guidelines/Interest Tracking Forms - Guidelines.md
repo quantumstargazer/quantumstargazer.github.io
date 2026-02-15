@@ -13,7 +13,7 @@
 ## If Not Filled Out, All Open Muses Are Fair Game
 Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[Muse Info/! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the Disinterest Tracker form. 
 ### It's Fine To Only Have Interest In Some Muses
-I would rather know that you're only interested in specific muses than to have things frequently and often silently dropped because you're not actually interested in them. This is what the form is for, so I know not to send you muses you don't want to write with, and/or within which verses.
+I would rather know that you're only interested in specific muses, even if it's just one or two in the whole roster, than to have things frequently and often silently dropped because you're not actually interested in them. This is what the form is for, so I know not to send you muses you don't want to write with, and/or within which verses.
 ### Highly Recommended But Not Required
 This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
