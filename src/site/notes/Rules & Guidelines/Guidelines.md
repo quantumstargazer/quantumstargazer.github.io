@@ -98,6 +98,9 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 
 ---
 # Verses & AUs
+## Specify Verse
+**TBA**
+
 ## Private Verses & AUs
 Private Verses & AUs are largely reserved for Mains, Best Friends Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
 
