@@ -523,7 +523,7 @@
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
->> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Dossiers & Verses/4 Other Verses & AUs/4.0 V Crucible BS - Isabela\|Verse]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
