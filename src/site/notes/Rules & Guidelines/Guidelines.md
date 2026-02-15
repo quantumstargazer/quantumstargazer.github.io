@@ -9,6 +9,11 @@
 > If you haven't done so already, you should read the [[Rules & Guidelines/Actual Rules\|Actual Rules]] before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 
 # Interactions
+## Continuity
+I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term. 
+### Separate Multi-Verse Continuities
+This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag.
+
 ## Starters
 ### Random Starters
 I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
