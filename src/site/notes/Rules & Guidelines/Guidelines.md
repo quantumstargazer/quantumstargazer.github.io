@@ -129,6 +129,18 @@ It is *exceptionally rare* that I am willing to let anyone other than the intend
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
 ---
+# Plotting
+## Improv Roleplay
+**I am very much an improv roleplayer.** While I can handle doing some loose plotting to help guide the overall intended path of a dynamic and/or ship, I work best with minimal prompting and simply letting inspiration lead where it may.
+## Plotting
+### Strict Plottiers
+> [!rule]+ Incompatible Partner for Strict Plotters
+> 
+> Plotting, for me, *cannot* be a strict railroaded outline — doing such means my brain will decide it's already been written, and the only way it can be written *again* is with changes and divergences made to it. 
+> 
+> If you are someone who needs to have strict plotting to know *exactly* where things begin, end, and everything that happens in between, we are *not* going to be compatible with each other.
+
+---
 # Additional Guidelines
 - [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines\|Interaction Forms - Guidelines]]
 - [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines\|Interest Tracking Forms - Guidelines]]
