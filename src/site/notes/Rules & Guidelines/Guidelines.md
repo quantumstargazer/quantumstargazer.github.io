@@ -8,6 +8,21 @@
 > 
 > If you haven't done so already, you should read the [[Rules & Guidelines/Actual Rules\|Actual Rules]] before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 
+# Blanket Permissions
+***Mutuals*** do not have to ask or wait for posts prompting them to do any of the following:
+- **Send Prompts/Memes To Inbox**
+	- *Reverse Prompts/Memes*
+	- *Add Context, Tone Indicators, Etc. To Prompts/Memes*
+	- *Continue Answered Asks As Threads*
+- **Write Starters For My Muses**
+	- *Unprompted Random Starters*
+	- *Fill Starter Calls - Ask To Specify If Needed*
+- **Request That I Send Them Prompts/Memes**
+- **Request That I Write Them Starters**
+- **Ask To Ship, Plot Dynamics, Etc.**
+- **Add As Friend On Discord**
+
+---
 # Interactions
 ## Continuity
 I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term. 
