@@ -11,7 +11,7 @@
 > - *nickname:* Ghost
 > - *alias:* Rook (*verse/timeline dependent*)
 > - *gender:* Agender 
-> - *pronouns:* They/Them
+> - *pronouns:* They/Them/Themself
 
 > [!profile]- Additional Information
 >
@@ -65,6 +65,7 @@
 >> 	- Myrna
 >> - *occupation(s):* Mourn Watch Death Caller
 >> - *title(s):* Mourn Watcher
+>> 	- Death Caller
 > 
 >> [!stats]- Spiritual Beliefs 
 >> - *beliefs:* Questioning
