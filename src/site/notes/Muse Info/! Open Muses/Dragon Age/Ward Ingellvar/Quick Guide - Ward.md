@@ -8,7 +8,7 @@
 > - *nickname:* Ghost
 > - *alias:* Rook (*verse/timeline dependent*)
 > - *gender:* Agender 
-> - *pronouns:* They/Them
+> - *pronouns:* They/Them/Themself 
 
 > [!tags]- Tumblr Tags
 > - ***in character:*** [IC ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Ward+Ingellvar)
