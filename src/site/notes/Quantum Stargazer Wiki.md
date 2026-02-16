@@ -24,7 +24,7 @@
 > If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I'm *probably* not the roleplay partner for you.
 
 ## Blanket Permissions
-Mutuals do not have to ask or wait for posts prompting them to do any of the following:
+***Mutuals*** do not have to ask or wait for posts prompting them to do any of the following:
 - **Send Prompts/Memes To Inbox**
 	- *Reverse Prompts/Memes*
 	- *Add Context, Tone Indicators, Etc. To Prompts/Memes*
