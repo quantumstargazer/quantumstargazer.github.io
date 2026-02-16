@@ -19,6 +19,7 @@
 	- *Fill Starter Calls - Ask To Specify If Needed*
 - **Request That I Send Them Prompts/Memes**
 - **Request That I Write Them Starters**
+- **Ask To Plot For Threads, Verses, AUs, Etc.**
 - **Ask To Ship, Plot Dynamics, Etc.**
 - **Add As Friend On Discord**
 
