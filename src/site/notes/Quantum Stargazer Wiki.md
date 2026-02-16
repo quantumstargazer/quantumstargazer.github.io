@@ -23,6 +23,20 @@
 > 
 > If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I'm *probably* not the roleplay partner for you.
 
+## Blanket Permissions
+Mutuals do not have to ask or wait for posts prompting them to do any of the following:
+- **Send Prompts/Memes To Inbox**
+	- *Reverse Prompts/Memes*
+	- *Add Context, Tone Indicators, Etc. To Prompts/Memes*
+	- *Continue Answered Asks As Threads*
+- **Write Starters For My Muses**
+	- *Unprompted Random Starters*
+	- *Fill Starter Calls - Ask To Specify If Needed*
+- **Request That I Send Them Prompts/Memes**
+- **Request That I Write Them Starters**
+- **Ask To Ship, Plot Dynamics, Etc.**
+- **Add As Friend On Discord**
+
 ---
 # Thread Tracking
 > [!tracker]- Important Note About Thread Tracking
@@ -68,6 +82,8 @@
 - [[Rules & Guidelines/Actual Rules\|The Actual Rules]] - *must be read before following*
 - [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
 - [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
+
+---
 # Muse Rosters
 > [!faq]- Activity Levels Based On Fandom - Not Individual Muse
 > - Activity is based on the fandom as opposed to the individual muse.
