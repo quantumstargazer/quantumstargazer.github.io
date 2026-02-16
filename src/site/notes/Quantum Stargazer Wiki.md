@@ -58,9 +58,9 @@
 > [!guideline]- Regarding Tracking & Dropped Threads
 > I *very rarely* drop threads myself simply due to a lack of interest, so this is *not* something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it *eventually*, or I will reach out and let you know that I need to drop it because I'm unable to find a way to continue it.
 > 
-> If you lose interest in a thread, *please just let me know* so I can mark it as dropped &/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I'm an avid reader of work-in-progress fics on AO3 — I will wait *literal years* for a continuation. 
+> If you lose interest in a thread, I would appreciate it if you would *please just let me know* so I can mark it as dropped &/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I'm an avid reader of work-in-progress fics on AO3 — I will wait *literal years* for a continuation, and that *includes* roleplay threads (it's something I've regularly done in the past on my old blogs).
 > 
-> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to the far kinder "they're probably just busy/too tired/brainfoggy/etc" side of things rather than "oh, they've lost interest and I should move on from that thread" that most people seem to assume.
+> If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to a far kinder **"they're probably just busy/too tired/brainfoggy/etc"** side of things rather than "oh, they've lost interest and I should move on from that thread" that most people seem to assume.
 
 ---
 # Interest Forms
