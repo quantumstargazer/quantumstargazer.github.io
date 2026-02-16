@@ -46,6 +46,8 @@
 >> 	- Mid-Back Length (*when worn down*)
 >> - *eyes:* Golden Brown
 >> - *complexion:* Brown Skin
+>> 	- *vallaslin:* Fen'Harel (*drawn on using kohl - not permanent*)
+>> 		- Mythal (*removed by Solas in 9:42 Dragon*)
 > 
 >> [!stats]- Demographics 
 >> - *planet of origin:* Thedas (*planet name unknown*)
@@ -57,6 +59,7 @@
 >> [!stats]- Communication 
 >> - *known languages:* Common Trade Tongue
 >> 	- Elven
+>> 	- Elvhen (*taught by Solas*)
 > 
 >> [!stats]- Social Standing & Affiliations 
 >> - *affiliated organizations:* Followers of Fen'Harel
@@ -132,14 +135,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
 
 ---
 # Fandom Specific AUs
