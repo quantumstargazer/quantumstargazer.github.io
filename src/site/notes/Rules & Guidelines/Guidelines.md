@@ -39,6 +39,8 @@ We're here to have fun, so if something fits better if it's *my muse* doing or s
 ### Adding Context To Memes/Prompts
 You are *always* welcome to add context and/or expand on any meme and/or prompt (*including sentence starters*). In fact, it helps a great deal whenever someone *does* if they have something in particular in mind. 
 
+This is *especially* true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.
+
 > [!guideline] Answered As Text Posts
 > As I *always* turn asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
 
