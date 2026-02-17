@@ -98,7 +98,6 @@
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
 > - TBA
 
-
 ## Things Your Muse Should *Not* Know
 > [!attention]- Ashina is Warden Tathas Arainai - the Hero of Ferelden
 > (*verse/timeline conditional* - **Ashina must be a Grey Warden & the HoF**)
@@ -127,7 +126,7 @@
 > 	- *COMPANION:* Anders &/or Justice
 > 	- *EVENT:* Deep Roads Expedition
 > 	- *EVENT:* Qunari Invasion of Kirkwall
-> 	- *ENCOUNTER:* Nathanial Howe
+> 	- *ENCOUNTER:* Nathanial Howe &/or Senior Wardens
 > 	- *EVENT:* Fall of the Gallows
 
 
