@@ -148,7 +148,7 @@
 
 ---
 # Canon Divergent AUs
-## Verse AU Guides
+## Rook Guides
 ### Things *You* Should Know
 > [!hint]-
 > 
@@ -160,6 +160,91 @@
 ### Things Your Muse Should *Not* Know
 > [!attention]-
 > 
+
+
+## Inquisitor Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Inquisitor Crow Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Crows' Due Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Crows' Design Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Antivan Crows Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Lyrium Ghost Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
 
 
 ---
