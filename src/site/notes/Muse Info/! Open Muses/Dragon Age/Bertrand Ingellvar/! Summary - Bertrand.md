@@ -94,6 +94,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > - *Companion (Non-Rook) AU*
 > 
 > Summary goes here.
@@ -107,6 +108,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -116,6 +118,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 > [!verse]+ VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -241,12 +244,13 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 

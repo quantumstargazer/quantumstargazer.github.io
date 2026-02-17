@@ -104,6 +104,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
 > 
 > .
@@ -117,6 +118,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Spellblade
+> 
 > - *Companion (Non-Rook) AU*
 > 
 > Summary goes here.
@@ -127,14 +129,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
+
 
 ---
 # Fandom Specific AUs
@@ -256,9 +251,9 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 

@@ -114,6 +114,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Ghost of the Necropolis 
+> 
 > - *Companion (Non-Rook) AU*
 > 
 > Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
@@ -127,6 +128,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Inquisition's Ghost
+> 
 > - *Time Travel Shenanigans AU*
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > 
@@ -141,6 +143,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Ancient Times
+> 
 > - *Time Travel AU*
 > 
 > When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and finds themself at the very moment of the Veil's creation, faced with a distraught ancient elf who is not quite so ancient in this time...
@@ -152,6 +155,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Rebellion's Ghost
+> 
 > - *Alternate Origin AU*
 > 
 > Determined to prove there was another way, a Spirit of Learning — once Wisdom's pupil — seeks to learn how to take on physical form *without* the stolen blood of the titans. When they finally achieve such, the results aren't exactly... *ideal*, given their very obvious physical youth as an elven child — and a *very small one*, at that — but they are now in the material world, *physically*, and can go confront Solas with undeniable proof that they were correct that the Evanuris were not the *'wise and all knowing'* beings they liked to try to portray themselves as.
@@ -165,6 +169,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Spirit of Learning
+> 
 > - *Pre-Physical Origin AU*
 > 
 > What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. When the Evanuris begin taking on physical form using the stolen blood of the Titans, Learning is among those spirits who are forced to flee lest they are captured and forced to take form against their will.
@@ -292,75 +297,75 @@
 # Private Verses & AUs
 ## corvusrookery - Solas
 > [!verse]- Dragon Age (Solas - corvusrookery)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Inquisition's Ghost (Solas - corvusrookery)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Ancient Times (Solas - corvusrookery)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Rebellion's Ghost (Solas - corvusrookery)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Spirit of Learning (Solas - corvusrookery)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
-> [!verse]- VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  

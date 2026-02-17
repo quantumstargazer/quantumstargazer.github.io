@@ -91,227 +91,84 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-### Scion of the Outer Planes Guides
-#### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-#### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-#### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
-
-
-### Astral Drifter Guides
-#### Things *You* Should Know
-> [!hint]-
-> 
-
-#### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-#### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ## Dragon Age AUs
-### Dragon Age AUs Guides
-#### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-#### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-#### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ## Mass Effect AUs
-### Mass Effect AUs Guides
-#### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-#### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-#### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
 #### In Time & Space Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
 
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 ### Elder Scrolls AUs
-#### Elder Scrolls AUs Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ### Stardew Valley AUs
-#### Stardew Valley AUs Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis Guides
-##### Things *You* Should Know
-> [!hint]-
-> 
-
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
+> [!attention] Not Currently Available
 > 
 
 
-### Planar Wanderer Guides
-##### Things *You* Should Know
-> [!hint]-
-> 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
-
-
-### Planar Agent Guides
-##### Things *You* Should Know
-> [!hint]-
-> 
-
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ## Dragon Age AWs
 ### This Shit Is Weird Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ## Mass Effect AWs
 ### Anomaly Detected Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Companion Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ### Elder Scrolls AWs
-#### Elder Scrolls AWs Guides
-##### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ### Stardew Valley AWs
-#### Stardew Valley AWs Guides
-##### Things *You* Should Know
-> [!hint]-
-> 
-
-##### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-##### Things Your Muse Should *Not* Know
-> [!attention]-
+> [!attention] Not Currently Available
 > 
 
 
@@ -319,34 +176,18 @@
 ---
 # Other Verses & AUs
 ## Other Verse Guides
-### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 ---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 ### Private Verse Guides
-#### Things *You* Should Know
-> [!hint]-
+> [!attention] Not Currently Available
 > 
 
-#### Things Your Muse *Could* Know
-> [!hint]-
-> 
-
-#### Things Your Muse Should *Not* Know
-> [!attention]-
-> 
 
 
 

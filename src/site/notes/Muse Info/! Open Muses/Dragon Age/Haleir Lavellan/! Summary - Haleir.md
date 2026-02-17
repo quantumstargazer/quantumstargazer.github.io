@@ -103,6 +103,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas, 
 > 
 >> [!info]- Verse Navigation 
@@ -114,6 +115,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Ancient Times
+> 
 > - *Time Travel AU*
 > 
 > Summary goes here.
@@ -125,6 +127,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]+ Fen'Harel's Rebellion
+> 
 > - *Time Travel AU*
 > 
 > Summary goes here.
@@ -254,12 +257,13 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 
