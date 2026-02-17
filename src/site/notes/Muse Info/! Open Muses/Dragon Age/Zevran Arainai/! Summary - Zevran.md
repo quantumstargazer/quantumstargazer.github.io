@@ -99,6 +99,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > - *Eighth Talon of the Antivan Crows (as of 9:45 Dragon)*
 > 
 > Summary goes here.
@@ -112,6 +113,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Black Shadow
+> 
 > - *Bane of the Antivan Crows AU*
 > 
 > Summary goes here.
@@ -123,6 +125,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Rook
+> 
 > - *Defaults to Veilguard timeline. (9:50 - 9:45 Dragon)*
 > 
 > Summary goes here.
@@ -134,6 +137,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Inquisitor
+> 
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > 
 > Summary goes here.
@@ -145,6 +149,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Antivan Crows
+> 
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -156,6 +161,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Grey Warden
+> 
 > - *Restored Cut Content AU*
 > 
 > Summary goes here.
@@ -167,6 +173,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Crow Takeover
+> 
 > - *Restored Epilogues AU*
 > 
 > Summary goes here.
@@ -299,9 +306,9 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 

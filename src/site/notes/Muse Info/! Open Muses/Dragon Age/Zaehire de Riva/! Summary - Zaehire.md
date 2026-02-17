@@ -99,6 +99,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -110,6 +111,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Thorn
+> 
 > - *Companion (Non-Rook) AU*
 > 
 > Summary goes here.
@@ -120,14 +122,7 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
+
 
 ---
 # Fandom Specific AUs
@@ -249,9 +244,9 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 
