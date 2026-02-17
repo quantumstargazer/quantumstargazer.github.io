@@ -223,23 +223,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Lyrium Ghost Wishlists\|Wishlists]] 
 
-> [!verse]- VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#\|Wishlists]] 
 
-> [!verse]- VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 ---
 # Fandom Specific AUs
@@ -259,8 +243,9 @@
 > [!verse]- Mercenary Assassin
 > 
 > - *Starts around 2184 to 2185 CE*
+> - *Based on City Elf Origin in Dragon Age.*
 > 
-> Summary goes here.
+> TBA 
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -438,14 +423,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
-> [!verse]- VerseTitle ( Viago - corvusrookery )
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
 
 ## corvusrookery - 3 Talons & Their Crow
 > [!verse]- 3 Talons & Their Crow ( 3 Talons - corvusrookery )
@@ -493,7 +471,7 @@
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 
-> [!verse]- VerseTitle ( Teia - corvusrookery )
+> [!verse]- Lyrium Ghost ( Teia - corvusrookery )
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -501,29 +479,12 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
 >> - Verse
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
+
 
 ## lanternlit - Garrus Vakarian 
-> [!verse]- VerseTitle ( Garrus - lanternlit )
+> [!verse]- Mercenary Assassin ( Garrus - lanternlit )
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
-
-## Partner - PartnerMuse
-> [!verse]- VerseTitle
-> Summary goes here.
->> [!info]- Verse Navigation 
->> - Dossier
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
->> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
-
-## Partner - PartnerMuse
-> [!verse]- VerseTitle
-> Summary goes here.
 >> [!info]- Verse Navigation 
 >> - Dossier
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
