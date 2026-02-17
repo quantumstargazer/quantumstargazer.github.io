@@ -107,6 +107,7 @@
 ---
 # Canon Typical
 > [!verse]+ Trilogy
+> 
 > - *Reaper War (2183 - 21XX CE)*
 > 
 > When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Isabela Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial. 
@@ -118,6 +119,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
+> 
 > With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Isabela Shepard is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
 >> [!info]- Verse Navigation 
@@ -127,6 +129,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
+> 
 > Orphaned at the age of six, Isabela Shepard grew up on the streets, where she would eventually join the Tenth Street Reds gang in order to survive. At fourteen, she is exposed to a significant amount of element zero, that leads to her developing powerful, albeit limited, biotic abilities. 
 > 
 > At seventeen, her biotics are detected and she is registered and implanted with an L3 biotic amplifier, with the Alliance keeping her housed until she is of age to enlist to protect her from the Reds' retaliation when she abandons the gang in favour of getting off Earth by joining the marines.
@@ -140,6 +143,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Drell-Hanari Compact
+> 
 > - *Alternate Origin AU*
 > 
 > Summary goes here.
@@ -151,6 +155,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Saboteur (Drell-Hanari Compact)
+> 
 > - *Alternate Origin AU*
 > 
 > Summary goes here.
@@ -162,6 +167,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Turian Hierarchy
+> 
 > - *Alternate History + Origin AU*
 > 
 > Summary goes here.
@@ -173,6 +179,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Reaper War (Turian Hierarchy)
+> 
 > - *Alternate History + Origin AU*
 > 
 > Summary goes here.
@@ -184,6 +191,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ First Contact War (Relay 314)
+> 
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -195,6 +203,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lost Expedition (Relay 314)
+> 
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -206,6 +215,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Andromeda Initiative
+> 
 > - *"Fuck It, I'm Out!" AU*
 > 
 > Summary goes here.
@@ -217,6 +227,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lazarus Project (Andromeda)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -226,6 +237,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -235,6 +247,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -244,6 +257,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
+> 
 > - *No Reapers AU*
 > 
 > Summary goes here.
@@ -255,6 +269,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Vigilante (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -266,6 +281,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Dishonoured Hero (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -277,6 +293,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ C-Sec (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -288,6 +305,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Criminal (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -299,6 +317,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Assassin (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -310,6 +329,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Earthborn (Shepards)
+> 
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -321,6 +341,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Colonist (Shepards)
+> 
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -332,6 +353,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Spacer (Shepards)
+> 
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -343,6 +365,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Clone
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -352,6 +375,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Mercenary (Clone)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -528,7 +552,8 @@
 ---
 # Private Verses & AUs
 ## lanternlit - Garrus Vakarian 
-> [!verse]- VerseTitle
+> [!verse]- VerseTitle ( Garrus — lanternlit )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -538,7 +563,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ## lanternlit - Wren Shepard
-> [!verse]- VerseTitle
+> [!verse]- VerseTitle ( Wren — lanternlit )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

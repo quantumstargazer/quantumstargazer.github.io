@@ -120,6 +120,7 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > - *Defaults to Veilguard era timelines. (9:45 - 9:54 Dragon)*
 > - *Earlier timelines available on request. (9:30 - 9:44 Dragon)*
 > 
@@ -136,6 +137,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Rook 
+> 
 > - *Defaults to Veilguard timeline. (9:50 - 9:54 Dragon)*
 > 
 > One thing Ashina can never turn her back on is slavery, especially after the incident in the Denerim Alienage during the Fifth Blight, so there was simply no way she was going to ignore the Antaam slavers, *especially* when she spotted one of her own friends in their cages — not even to report in to her Talon for instruction.
@@ -149,6 +151,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Rook Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor
+> 
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > 
 > Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
@@ -162,6 +165,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor Crow 
+> 
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > - *Combines Inquisitor + Antivan Crows AUs*
 > 
@@ -174,6 +178,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Crow Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Due 
+> 
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
 > 
 > The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
@@ -185,6 +190,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Due Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Design
+> 
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
 > - *Darker branch of Crows' Due AU*
 > 
@@ -197,6 +203,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Design Wishlists\|Wishlists]] 
 
 > [!verse]+ Antivan Crows 
+> 
 > - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
 > 
 > Ashina escapes the Arl's Palace with her cousins and the other kidnapped women after she killed the Arl's son, his noble lackies, and all the guards that stood between her and the other elven women who had been taken to Vaughan Kendall's bedroom to be raped and/or killed. The city guard arrive shortly after the elves do, so Ashina claims sole responsibility for the slaughter at the practice and is immediately arrested and thrown into the palace dungeons for the Arl to decide her fate once he returns from Ostagar.
@@ -210,6 +217,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Antivan Crows Wishlists\|Wishlists]] 
 
 > [!verse]+ Lyrium Ghost
+> 
 > - *CW: Major Character Death (temporary)*
 > - *Starts in Post-Veilguard timeline. (9:55 - 9:69 Dragon)*
 > 
@@ -350,6 +358,7 @@
 # Private Verses & AUs
 ## corvusrookery - Viago de Riva 
 > [!verse]- Dragon Age ( Viago - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -359,6 +368,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Rook ( Viago - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -368,6 +378,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Inquisitor ( Viago - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -377,6 +388,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Inquisitor Crow ( Viago - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -386,6 +398,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows' Due ( Viago - corvusrookery ) 
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -395,6 +408,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows' Design ( Viago - corvusrookery ) 
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -404,6 +418,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Antivan Crows ( Viago - corvusrookery ) 
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -413,6 +428,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Lyrium Ghost ( Viago - corvusrookery ) 
+> 
 > - *CW: Major Character Death (temporary)*
 > 
 > Summary goes here.
@@ -427,6 +443,7 @@
 
 ## corvusrookery - 3 Talons & Their Crow
 > [!verse]- 3 Talons & Their Crow ( 3 Talons - corvusrookery )
+> 
 > - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
 > - *Multiple variants that mirror other verses.*
 > 
@@ -439,6 +456,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Rook ( 3 Talons - corvusrookery )
+> 
 > - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
 >
 > Summary goes here.
@@ -450,6 +468,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows Takeover ( 3 Talons - corvusrookery )
+> 
 > - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
 > - *Heavily Divergent based on Origins & Awakening epilogue cards.*
 >
@@ -463,6 +482,7 @@
 
 ## corvusrookery - Andarateia Cantori 
 > [!verse]- Dragon Age ( Teia - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -472,6 +492,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 
 > [!verse]- Lyrium Ghost ( Teia - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -483,6 +504,7 @@
 
 ## lanternlit - Garrus Vakarian 
 > [!verse]- Mercenary Assassin ( Garrus - lanternlit )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

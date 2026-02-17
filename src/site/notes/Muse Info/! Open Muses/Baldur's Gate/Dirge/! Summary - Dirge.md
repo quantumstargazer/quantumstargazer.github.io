@@ -85,6 +85,7 @@
 ---
 # Canon Typical
 > [!verse]+ Wandering Dirge
+> 
 > - *Companion (Non-Party Leader) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -102,6 +103,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
+> 
 > - *Party Leader (Dark Urge) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -117,6 +119,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]+ Bhaal's Chosen
+> 
 > - *Embrace Urge AU*
 > 
 > Summary goes here.
@@ -266,6 +269,7 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

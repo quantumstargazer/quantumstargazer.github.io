@@ -91,6 +91,7 @@
 ---
 # Canon Typical
 > [!verse]+ Trilogy
+> 
 > - *Reaper War (2183 - 21XX CE)*
 > 
 > When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial.
@@ -102,6 +103,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
+> 
 > With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Nihlus Kryik is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
 >> [!info]- Verse Navigation 
@@ -111,6 +113,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
+> 
 > Shortly following the death of his father, Nihlus is moved to Palaven with his mother, where he must enlist into the military at the age of 16, a year later than most of his peers. 
 > 
 >> [!info]- Verse Navigation 
@@ -124,6 +127,7 @@
 
 
 > [!verse]+ Relay 314 Incident
+> 
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -137,6 +141,7 @@
 
 
 > [!verse]+ Andromeda Initiative
+> 
 > - *"Fuck It, I'm Out!" AU*
 > 
 > Summary goes here.
@@ -148,6 +153,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -157,6 +163,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -166,6 +173,7 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
+> 
 > - *No Reapers AU*
 > 
 > Summary goes here.
@@ -333,7 +341,9 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
+> 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 

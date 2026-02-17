@@ -54,7 +54,8 @@
 > - *ship/dyn:* 
 > 	- TBA
 
-## Mass Effect AUs
+## Crossover Mains
+### Mass Effect
 > [!main]- Garrus Vakarian — lanternlit
 > - ***verses:***
 > 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#lanternlit - Garrus Vakarian\|lanternlit - Garrus Vakarian]]
@@ -67,6 +68,7 @@
 > - *ship/dyn:*  
 > 	- TBA
 
+
 ---
 # Best Friends Call Members
 > [!bfc]- 
@@ -74,12 +76,14 @@
 > - *connection:* 
 > - *ship/dyn:*  
 
+
 ---
 # Shipping Partners
 > [!shipdyn]- 
 > - *blog tag(s):* 
 > - *connection:* 
 > - *ship/dyn:* 
+
 
 ---
 # Desired Dynamics

@@ -89,6 +89,7 @@
 ---
 # Canon Typical
 > [!verse]+ Private Investigator
+> 
 > - *Companion (Non-Tav/Party Leader) AU*
 > 
 > Summary goes here.
@@ -102,6 +103,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
