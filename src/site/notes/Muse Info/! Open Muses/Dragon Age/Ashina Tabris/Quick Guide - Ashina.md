@@ -30,6 +30,7 @@
 # Universal Guides
 ## Things *You* Should Know
 > [!attention]+ Ashina Tabris is "dead"
+> 
 > *Please pay attention to this fact:*
 > - Ashina **NEVER** goes by "***Tabris***" with anyone she's met after becoming a Grey Warden and/or an Antivan Crow (*so anyone met after the events of the Origins prologue*). 
 > - No one who didn't know her prior to one or both of these events should even know her family name *at all* unless she explicitly tells them or it's revealed to them through the story itself (*example: those present during the Fifth Blight when she returns to the Alienage may learn her true identity as a result of her interacting with her family*).
@@ -39,12 +40,16 @@
 > 	- Cyrion Tabris
 > 	- Shianni
 > 	- Soris
+> 	- Valora
 > 	- Nelaros
 > 	- other Denerim Alienage elves from and/or prior to 9:30 Dragon
 > 	- Duncan
 
 > [!spoiler]- Adaia (mother) was an Antivan Crow of House Arainai
-> - TBA
+> - Adaia is a rank & file Crow of House Arainai, one of many elven *compradi* within the House, having been purchased as a young child and raised as an assassin.
+> - She flees Antiva City and the Crows in 9:06 Dragon, where she makes her way south, into Ferelden.
+> - While in Denerim, she meets Cyrion Tabris — they become engaged and then wed soon after.
+> - Adaia gives birth to Ashina Tabris on the 30th of Harvestmere, 9:06 Dragon.
 
 > [!stats]- Questions of Paternity
 > There were plenty of questions around the Denerim Alienage as to whether Cyrion was truly Ashina's father, given the timing so soon after he and Adaia even meet before she is noticeably pregnant, and with how little Ashina actually favors him, while being *very clearly* Antivan. 
@@ -55,19 +60,29 @@
 >> Even though she might not be his by blood, Ashina *is* Cyrion's daughter. She doesn't know who her biological father is, but it is most likely another elven Crow in House Arainai.
 
 > [!stats]- Warden Ability: Blight Obfuscation
+> 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
-> - TBA
+> 
+> - Ashina is capable of obfuscating the blight in her veins, effectively hiding herself from both darkspawn and other wardens alike when she uses this ability.
+> - Much like slipping into shadows, it takes some degree of focus to initiate and maintain this obfuscation, and is likely to drop when she must commit more focus to another action that renders her unable to maintain focus on suppressing the blight.
+> - When not in combat, Ashina can maintain the obfuscation for long periods of time so long as her attention is not too divided by other tasks, allowing her to stay hidden even while in conversation with another Grey Warden.
+> - When in combat, she will remain hidden for up to 4 seconds after the obfuscation drops before darkspawn and/or wardens may become aware of her blighted presence.
 
-> [!stats]- Warden Ability: Power of Blood
+> [!stats]- Warden Ability: Power of Blood (Rogue)
+> 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
-> - TBA
+> 
+> - *in game:* [Power of Blood (Rogue)](https://dragonage.miraheze.org/wiki/Power_of_Blood#Rogue)
 
 ## Things Your Muse *Could* Know
 > [!hint]- Warden Tathas Arainai is killed by the Crows in 9:33 Dragon
+> 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden & the HoF**)
-> - TBA
+> 
+> - Ashina takes up [Master Ignacio's](https://dragonage.miraheze.org/wiki/Ignacio) [offer to join the Crows](https://dragonage.miraheze.org/wiki/The_Trial_of_Crows) when she tires of being a Warden, entering negotiations with the Fifth Talon of House de Riva in 9:33 Dragon to secure a promise of protection from the Order of the Grey Wardens in return for her service as an Antivan Crow within House de Riva.
 
 > [!hint]- Warden Tathas Arainai is wanted by Weisshaupt
+> 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden & the HoF**)
 > 
 > The First Warden has ordered that "*Warden Tathas Arainai*", also known as the Hero of Ferelden, the Warden-Commander of Ferelden, and *de facto* Arlessa of Amaranthine, be brought in to Weisshaupt for questioning pertaining to her survival after killing the Archdemon Urthemiel, as well as her encounter with the Architect, among many other things he seeks answer to about her activities during the Fifth Blight itself.
@@ -75,8 +90,8 @@
 > **Timeline in effect:**
 > - *Post-Amaranthine Crisis* — 9:31 Dragon onward
 > 
-> **Who should know this fact:**
-> - *Grey Wardens* — most wardens enlisted at the time in and/or after 9:31 Dragon are under orders by the First Warden to bring "Warden Tathas" in by any means necessary for questioning.
+> **Who could know this fact:**
+> - *Grey Wardens* — most wardens enlisted at the time in and/or after 9:31 Dragon are under orders by the First Warden to bring "*Warden Tathas*" in by any means necessary for questioning.
 > - *Antivan Crows* — must be influential enough to have been made aware of any details, but rumours are bound to have spread throughout the Houses, even among the fledglings, when they learn of the de Riva fledgling joining the ranks in 9:31 Dragon who is a Grey Warden and the new Warden-Commander of Antiva.
 
 > [!attention]- Searching for a cure for the blight
