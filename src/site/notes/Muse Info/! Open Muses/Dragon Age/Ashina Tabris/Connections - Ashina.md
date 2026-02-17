@@ -65,6 +65,7 @@
 > 	- Connection ☾⭒ Ashina & Garrus ( lanternlit )
 > 	- Connection ☾⭒ Ashina x Garrus ( lanternlit )
 > - *ship/dyn:*  
+> 	- TBA
 
 ---
 # Best Friends Call Members
@@ -85,92 +86,92 @@
 ## Dragon Age
 > *Sorted by first appearance in series. This is **not** a comprehensive list of who I want to interact with. This is just the muses I have ideas regarding dynamics plotting and/or shipping potential.*
 ### Origins
-> [!wishlist] Zevran Arainai 
+> [!wishlist]- Zevran Arainai 
 > - *LI potential:* yes — *true love path preferred*
 
-> [!wishlist] Morrigan
+> [!wishlist]- Morrigan
 > - *LI potential:* yes
 
-> [!wishlist] Sten
+> [!wishlist]- Sten
 > - *LI potential:* yes
 
-> [!wishlist] Shale
+> [!wishlist]- Shale
 > - *LI potential:* no
 
-> [!wishlist] Alistair
+> [!wishlist]- Alistair
 > - *LI potential:* maybe — *requires plotting*
 
-> [!wishlist] Oghren
+> [!wishlist]- Oghren
 > - *LI potential:* no
 
-> [!wishlist] Wynne
+> [!wishlist]- Wynne
 > - *LI potential:* no
 
-> [!wishlist] Isabela
+> [!wishlist]- Isabela
 > - *LI potential:* maybe
 
 ### Awakening
-> [!wishlist] Anders
+> [!wishlist]- Anders
 > - *LI potential:* maybe
 
-> [!wishlist] Justice
+> [!wishlist]- Justice
 > - *LI potential:* no
 
-> [!wishlist] Nathaniel Howe
+> [!wishlist]- Nathaniel Howe
 > - *LI potential:* maybe
 
-> [!wishlist] Sigrun
+> [!wishlist]- Sigrun
 > - *LI potential:* yes
 
-> [!wishlist] Velanna
+> [!wishlist]- Velanna
 > - *LI potential:* maybe
 
 ### Kirkwall (*DA2*)
-> [!wishlist] Varric Tethras
+> [!wishlist]- Varric Tethras
 > - *LI potential:* maybe
 
-> [!wishlist] Fenris
+> [!wishlist]- Fenris
 > - *LI potential:* maybe
 
-> [!wishlist] Merrill
+> [!wishlist]- Merrill
 > - *LI potential:* maybe
 
 ### Inquisition
-> [!wishlist] Dorian Pavus
+> [!wishlist]- Dorian Pavus
 > - *LI potential:* no — *open to queerplatonic dynamic instead*
 
-> [!wishlist] Solas
+> [!wishlist]- Solas
 > - *LI potential:* maybe
 
-> [!wishlist] Sera
+> [!wishlist]- Sera
 > - *LI potential:* maybe
 
-> [!wishlist] Blackwall
+> [!wishlist]- Blackwall
 > - *LI potential:* maybe
 
-> [!wishlist] Cole
+> [!wishlist]- Cole
 > - *LI potential:* no
 
 ### Veilguard
-> [!wishlist] Viago de Riva
+> [!wishlist]- Viago de Riva
 > - *LI potential:* yes
 
-> [!wishlist] Andarateia Cantori
+> [!wishlist]- Andarateia Cantori
 > - *LI potential:* yes
 
-> [!wishlist] Lucanis Dellamorte
+> [!wishlist]- Lucanis Dellamorte
 > - *LI potential:* yes
 
-> [!wishlist] Chance
+> [!wishlist]- Chance
 > - *LI potential:* maybe
 
-> [!wishlist] Fletcher
+> [!wishlist]- Fletcher
 > - *LI potential:* maybe
 
-> [!wishlist] Heir
+> [!wishlist]- Heir
 > - *LI potential:* maybe
 
-> [!wishlist] Jacobus
+> [!wishlist]- Jacobus
 > - *LI potential:* no
 
 
