@@ -58,7 +58,7 @@
 
 ---
 # Canon Typical
-## Verse Guides
+## Dragon Age Guides
 ### Things *You* Should Know
 > [!hint]-
 > 
@@ -74,7 +74,7 @@
 
 ---
 # Canon Divergent AUs
-## Verse AU Guides
+## Ghost of the Necropolis Guides
 ### Things *You* Should Know
 > [!hint]-
 > 
@@ -86,6 +86,64 @@
 ### Things Your Muse Should *Not* Know
 > [!attention]-
 > 
+
+
+## Inquisition's Ghost Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Ancient Times Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Rebellion's Ghost Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Spirit of Learning Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
 
 
 ---
