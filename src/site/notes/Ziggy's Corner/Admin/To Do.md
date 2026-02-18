@@ -138,7 +138,7 @@
 ### Mass Effect
 #### Isabela Shepard 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
+	- [x] Canon Typical ✅ 2026-02-18
 	- [ ] Canon Divergent AUs 
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
@@ -150,7 +150,7 @@
 - [ ] Wishlists
 #### Nihlus Kryik 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
+	- [x] Canon Typical ✅ 2026-02-18
 	- [ ] Canon Divergent AUs 
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
