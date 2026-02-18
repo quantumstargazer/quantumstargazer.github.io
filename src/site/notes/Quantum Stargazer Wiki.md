@@ -3,11 +3,11 @@
 ---
 
 # Quantum Stargazer Wiki
-> [!error] Under Emergency Construction
-> Site is under emergency construction after the old wiki decided to start suffering from fatal errors on the host's end, so things are going to be a bit chaotic while I try to salvage the data from the old site to add to this one. Please be patient, as I am chronically ill and unable to always dedicate a lot of time and energy to this effort.
-
-> [!WARNING] Testing In Progress
+> [!WARNING]+ Testing In Progress
 > Great work. Because this message is prerecorded, any observations related to your performance are speculation on our part. Please disregard any undeserved compliments.
+> 
+> > [!error]- Under Emergency Construction
+> > Site is under emergency construction after the old wiki decided to start suffering from fatal errors on the host's end, so things are going to be a bit chaotic while I try to salvage the data from the old site to add to this one. Please be patient, as I am chronically ill and unable to always dedicate a lot of time and energy to this effort.
 
 # Quantum Stargazer
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
