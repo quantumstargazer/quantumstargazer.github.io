@@ -18,9 +18,14 @@
 	- *Unprompted Random Starters*
 	- *Fill Starter Calls - Ask To Specify If Needed*
 - **Request That I Send Them Prompts/Memes**
+	- *Use "Inbox Call" form*
 - **Request That I Write Them Starters**
+	- *Use "Starter Call" form*
+	- *Or join the "Best Friends Call" members list by filling out that form*
 - **Ask To Plot For Threads, Verses, AUs, Etc.**
+	- *Message on discord (only place I currently can handle plotting)*
 - **Ask To Ship, Plot Dynamics, Etc.**
+	- *Message on discord &/or via tumblr inbox*
 - **Add As Friend On Discord**
 
 ---
@@ -34,7 +39,11 @@ This continuity is based on an *individual partner basis* — the continuity wit
 ### Random Starters
 I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
 #### Write Starters For Me Whenever
-**This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter. If you want me to narrow down muses or anything, hit me up on discord or in my inbox, and I'll get back to you as soon as I'm able.
+**This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. 
+
+> [!guideline] Automatic Starter Calls
+> **So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter.** If you want me to narrow down muses or anything, hit me up on discord or in my inbox, and I'll get back to you as soon as I'm able.
+
 ### Requesting Starters
 You can request for me to write starters for your muses from mine *at any time* by filling out the **Starter Call form** linked in the pinned post and/or on the homepage of this site.
 
