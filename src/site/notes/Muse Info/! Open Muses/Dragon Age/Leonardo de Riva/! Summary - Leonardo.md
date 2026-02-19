@@ -115,6 +115,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ---
@@ -127,12 +128,13 @@
 > 
 > Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
 >
-> In 9:50 Dragon, Leonardo is among one of many Crows within House de Riva that were chosen to remain by their Talon's side as the Talons organise their combined efforts to free Treviso from the Antaam occupation and stop the invasion of Antiva.
+> In 9:50 Dragon, Leonardo is among one of many Crows within House de Riva that were chosen to remain by their Talon's side as the Talons organise their combined efforts to free Treviso from the Antaam occupation and stop the invasion of Antivan
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 
@@ -167,6 +169,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -194,6 +197,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 
@@ -207,6 +211,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -218,6 +223,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -230,6 +236,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -260,6 +267,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 

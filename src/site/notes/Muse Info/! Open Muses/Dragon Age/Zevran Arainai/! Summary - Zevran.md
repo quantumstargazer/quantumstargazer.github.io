@@ -108,6 +108,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ---
@@ -122,6 +123,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Rook
@@ -134,6 +136,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Inquisitor
@@ -146,6 +149,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Antivan Crows
@@ -158,6 +162,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Grey Warden
@@ -170,6 +175,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Crow Takeover
@@ -182,6 +188,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 
@@ -215,6 +222,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -242,6 +250,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 
@@ -255,6 +264,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -266,6 +276,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -278,6 +289,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -309,6 +321,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 

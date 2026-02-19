@@ -128,10 +128,11 @@
 > 
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Dragon Age Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Dragon Age Wishlists\|Wishlists]] 
 
 ---
@@ -144,10 +145,11 @@
 > 
 > Her actions disrupt the Talons' plans — plans she hadn't been at all aware of — and as a result, she is sent on an extended contract to hunt the Dread Wolf when Varric Tethras shows up requesting her help in stopping Solas from destroying the world.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Rook Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Rook Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor
@@ -158,10 +160,11 @@
 > 
 > When Ashina wakes up in the dungeon under Haven's chantry with now real memory of what happened at the temple, and a magical hole in her hand, she dreads having to send word back to the Talons to provide her report and try to explain how a Master Assassin is being accused of murdering the Divine, and worse still, once the Breach is calmed, is being called the Herald of Andraste.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Inquisitor Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor Crow 
@@ -171,10 +174,11 @@
 > 
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Inquisitor Crow Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Crow Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Due 
@@ -183,10 +187,11 @@
 > 
 > The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Crows' Due Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Due Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Design
@@ -196,10 +201,11 @@
 > 
 > Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Crows' Design Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Design Wishlists\|Wishlists]] 
 
 > [!verse]+ Antivan Crows 
@@ -210,10 +216,11 @@
 > 
 > Ashina has no intention of *staying* in the dungeons, waiting to be executed, so she looks for any way she can to escape her cell. When a Crow appears, she takes the offer for assistance getting out of the palace and Denerim in return for service to the Antivan Crows.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Antivan Crows Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Antivan Crows Wishlists\|Wishlists]] 
 
 > [!verse]+ Lyrium Ghost
@@ -225,10 +232,11 @@
 > 
 > But the world isn't finished with her yet, when she finds herself waking in a pile of shattered lyrium, and she's faced with being changed in a new way — no longer blighted, but now she isn't quite sure *what* she is anymore...
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina#Lyrium Ghost Headcanons\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Lyrium Ghost Wishlists\|Wishlists]] 
 
 
@@ -255,10 +263,11 @@
 > 
 > TBA 
 > 
->> [!info]- Verse Navigation 
+>> [!info]- Verse Navigation
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ## Other Fandoms AUs
@@ -267,10 +276,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
+>> [!info]- Verse Navigation
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -294,10 +304,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
+>> [!info]- Verse Navigation
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 
@@ -307,10 +318,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
+>> [!info]- Verse Navigation
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -318,10 +330,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
+>> [!info]- Verse Navigation
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -330,10 +343,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
+>> [!info]- Verse Navigation
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -361,70 +375,77 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Rook ( Viago - corvusrookery )
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Inquisitor ( Viago - corvusrookery )
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Inquisitor Crow ( Viago - corvusrookery )
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows' Due ( Viago - corvusrookery ) 
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows' Design ( Viago - corvusrookery ) 
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Antivan Crows ( Viago - corvusrookery ) 
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Lyrium Ghost ( Viago - corvusrookery ) 
@@ -433,10 +454,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 
@@ -449,10 +471,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Rook ( 3 Talons - corvusrookery )
@@ -461,10 +484,11 @@
 >
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows Takeover ( 3 Talons - corvusrookery )
@@ -474,10 +498,11 @@
 >
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 ## corvusrookery - Andarateia Cantori 
@@ -485,20 +510,22 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 
 > [!verse]- Lyrium Ghost ( Teia - corvusrookery )
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 
@@ -507,10 +534,11 @@
 > 
 > Summary goes here.
 > 
->> [!info]- Verse Navigation 
->> - Dossier
+>> [!info]- Verse Navigation
+>> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
->> - Verse
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 

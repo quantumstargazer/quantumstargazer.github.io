@@ -109,6 +109,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ---
@@ -125,6 +126,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Inquisition's Ghost
@@ -140,6 +142,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Ancient Times
@@ -152,6 +155,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Rebellion's Ghost
@@ -166,6 +170,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Spirit of Learning
@@ -178,6 +183,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ---
@@ -210,6 +216,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -237,6 +244,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 
@@ -250,6 +258,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -261,6 +270,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -273,6 +283,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -304,6 +315,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Inquisition's Ghost (Solas - corvusrookery)
@@ -314,6 +326,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Ancient Times (Solas - corvusrookery)
@@ -324,6 +337,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Rebellion's Ghost (Solas - corvusrookery)
@@ -334,6 +348,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Spirit of Learning (Solas - corvusrookery)
@@ -344,6 +359,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 
@@ -357,6 +373,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 ## Partner - PartnerMuse
@@ -368,4 +385,5 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  

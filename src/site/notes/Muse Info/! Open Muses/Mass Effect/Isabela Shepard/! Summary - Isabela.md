@@ -116,6 +116,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]] 
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
@@ -126,6 +127,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]] 
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
@@ -138,6 +140,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ---
@@ -152,6 +155,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Saboteur (Drell-Hanari Compact)
@@ -164,6 +168,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Turian Hierarchy
@@ -176,6 +181,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Reaper War (Turian Hierarchy)
@@ -188,6 +194,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ First Contact War (Relay 314)
@@ -200,6 +207,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lost Expedition (Relay 314)
@@ -212,6 +220,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Andromeda Initiative
@@ -224,6 +233,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lazarus Project (Andromeda)
@@ -234,6 +244,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
@@ -244,6 +255,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
@@ -254,6 +266,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
@@ -266,6 +279,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Vigilante (No Reapers)
@@ -278,6 +292,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Dishonoured Hero (No Reapers)
@@ -290,6 +305,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ C-Sec (No Reapers)
@@ -302,6 +318,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Criminal (No Reapers)
@@ -314,6 +331,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Assassin (No Reapers)
@@ -326,6 +344,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Earthborn (Shepards)
@@ -338,6 +357,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Colonist (Shepards)
@@ -350,6 +370,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Spacer (Shepards)
@@ -362,6 +383,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Clone
@@ -372,6 +394,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Mercenary (Clone)
@@ -382,6 +405,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
@@ -405,6 +429,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Artificer Assassin
@@ -415,6 +440,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
@@ -434,6 +460,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -457,6 +484,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
@@ -473,6 +501,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
@@ -486,6 +515,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -497,6 +527,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -509,6 +540,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -531,6 +563,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
@@ -546,6 +579,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Dossiers & Verses/4 Other Verses & AUs/4.0 V Crucible BS - Isabela\|Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 
@@ -560,6 +594,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ## lanternlit - Wren Shepard
@@ -571,6 +606,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 

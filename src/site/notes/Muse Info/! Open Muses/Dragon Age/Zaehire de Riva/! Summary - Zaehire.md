@@ -106,6 +106,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ---
@@ -120,6 +121,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 
@@ -154,6 +156,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -181,6 +184,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 
@@ -194,6 +198,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -205,6 +210,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -217,6 +223,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -247,6 +254,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlist]]  
 
 

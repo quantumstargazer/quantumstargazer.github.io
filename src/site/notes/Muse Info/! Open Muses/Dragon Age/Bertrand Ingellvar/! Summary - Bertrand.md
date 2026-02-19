@@ -103,6 +103,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ---
@@ -115,6 +116,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 > [!verse]+ VerseTitle
@@ -125,6 +127,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ---
@@ -157,6 +160,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -184,6 +188,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 
@@ -197,6 +202,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -208,6 +214,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -220,6 +227,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -251,6 +259,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
 

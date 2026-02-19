@@ -98,6 +98,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ---
@@ -110,6 +111,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 
@@ -125,6 +127,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Astral Drifter
@@ -135,6 +138,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Dragon Age AUs
@@ -146,6 +150,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Mass Effect AUs
@@ -164,6 +169,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ### Elder Scrolls AUs
@@ -190,6 +196,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Planar Agent
@@ -200,6 +207,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Dragon Age AWs
@@ -211,6 +219,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Mass Effect AWs
@@ -222,6 +231,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ## Other Fandoms AWs
@@ -234,6 +244,7 @@
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
 >> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ### Elder Scrolls AWs
@@ -258,12 +269,14 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 
