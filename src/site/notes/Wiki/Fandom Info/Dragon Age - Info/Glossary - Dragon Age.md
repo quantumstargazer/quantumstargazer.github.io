@@ -14,6 +14,7 @@
 - Andarateia Cantori
 - The Anderfells
 - Anders
+- Andruil
 - Antaam
 - Antiva
 - Antiva City
@@ -45,6 +46,7 @@
 - Darkspawn
 - Dellamorte
 - Denerim
+- Dirthamen
 - Dorian Pavus
 - Dwarf
 - Dwarva
@@ -52,19 +54,24 @@
 ---
 # E
 - Elf
+- Elgar'nan
 - Elven
 - Elvhen
+- Elvhenan
 - Emmrich Volkarin
 
 ---
 # F
 - The Fade
+- Falon'Din
+- Fen'Harel
 - Fenris
 - Ferelden
 
 ---
 # G
 - Garrett Hawke
+- Ghilan'nain
 - Grand Necropolis
 
 ---
@@ -80,7 +87,7 @@
 
 ---
 # J
-- 
+- June
 
 ---
 # K
@@ -104,6 +111,7 @@
 - Mourn Watch
 - Morrigan
 - Myrna
+- Mythal
 
 ---
 # N
@@ -116,6 +124,7 @@
 - Oghren
 - Orlais
 - Orzammar
+- Ossuary
 
 ---
 # P
@@ -129,6 +138,7 @@
 
 ---
 # R
+- Rialto Bay
 - Redcliffe
 
 ---
@@ -142,6 +152,7 @@
 - Solas
 - Sten
 - Surana
+- Sylaise
 
 ---
 # T
@@ -159,6 +170,7 @@
 
 ---
 # V
+- Vallaslin
 - Varric Tethras
 - The Veil
 - Veil Jumpers

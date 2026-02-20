@@ -376,6 +376,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
+
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
 > 
