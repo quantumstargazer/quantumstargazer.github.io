@@ -75,7 +75,7 @@
 
 - [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
 - [RP Preferences Tracker](https://tally.so/r/rjOV7N) - *for telling me your preferences for interactions, plotting, etc.* 
-- [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call' with benefits*
+- [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call', with benefits*
 ## Interactions Calls
 > [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
