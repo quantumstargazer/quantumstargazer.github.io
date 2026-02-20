@@ -33,9 +33,14 @@
 	- *Unprompted Random Starters*
 	- *Fill Starter Calls - Ask To Specify If Needed*
 - **Request That I Send Them Prompts/Memes**
+	- *Use "Inbox Call" form*
 - **Request That I Write Them Starters**
+	- *Use "Starter Call" form*
+	- *Or join the "Best Friends Call" members list by filling out that form*
 - **Ask To Plot For Threads, Verses, AUs, Etc.**
+	- *Message on discord (only place I currently can handle plotting)*
 - **Ask To Ship, Plot Dynamics, Etc.**
+	- *Message on discord &/or via tumblr inbox*
 - **Add As Friend On Discord**
 
 ---
