@@ -28,10 +28,12 @@ If you're looking to start a thread with me, these are the best means to do so:
 ### For You To Start
 - **Write Starter(s)** - simply write me starters whenever you want to
 	- *Requirements:* **Mutuals Only**
+- **Reply To Open Starters** - simply reply to any of the open starters whenever you want to
+	- *Requirements:* **Mutuals Only
 - **Send Prompts/Memes** - simply send me prompts whenever you want to
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
-	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
+	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in**
 
 ## Post Formatting
 > [!warning]- Regarding Accessible Formatting
