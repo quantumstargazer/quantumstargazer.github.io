@@ -96,7 +96,9 @@
 
 > [!attention]- Searching for a cure for the blight
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
-> - TBA
+> - Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.
+> - As a master herbalist, Ashina is skilled enough to pull it off, *if* she can find the information and components she needs to do so. 
+> - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
 
 ## Things Your Muse Should *Not* Know
 > [!attention]- Ashina is Warden Tathas Arainai - the Hero of Ferelden
