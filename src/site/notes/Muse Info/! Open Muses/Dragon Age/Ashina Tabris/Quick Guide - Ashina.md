@@ -134,7 +134,7 @@
 > 
 > **Pre-Approved Exceptions**
 > - **Morrigan** - *have the information to Ashina in the first place*
-> - **Zevran Arainai** - *likely helping search while she's a fledgling*
+> - **Zevran Arainai** - *likely helping search while she's a fledgling, and a rank & file Crow, as she's largely restricted to Antiva during this time*
 
 
 ---
