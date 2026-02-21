@@ -32,6 +32,10 @@
 - **Write Starters For My Muses**
 	- *Unprompted Random Starters*
 	- *Fill Starter Calls - Ask To Specify If Needed*
+- **Reply To Open Starters**
+	- *Available to ALL Mutuals*
+	- *Can adjust to fit most of the muse's verses &/or AUs*
+	- *Will create custom closed starters based on any upon request
 - **Request That I Send Them Prompts/Memes**
 	- *Use "Inbox Call" form*
 - **Request That I Write Them Starters**
