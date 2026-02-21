@@ -23,7 +23,7 @@
 - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 - Connections
 - Headcanons
-- Quick Guide
+- [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
 - Wishlists
 ## Faeynore Moonstar
 > [!profile]+ Faeynore Moonstar (they/she)
@@ -37,7 +37,7 @@
 - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 - Connections
 - Headcanons
-- Quick Guide
+- [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
 - Wishlists
 ## Dirge
 > [!profile]+ Dirge (they/she)
@@ -49,7 +49,7 @@
 - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 - Connections
 - Headcanons
-- Quick Guide
+- [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
 - Wishlists
 
 ---
