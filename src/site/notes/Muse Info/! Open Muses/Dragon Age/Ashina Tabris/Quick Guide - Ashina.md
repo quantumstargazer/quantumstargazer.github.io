@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/quick-guide-ashina/","tags":[" ","quick-guide","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/quick-guide-ashina/","tags":[" ","quick-guide","dragon-age","muse-ashina"]}
 ---
 
 # Guides - Ashina de Riva née Tabris
@@ -94,12 +94,6 @@
 > - *Grey Wardens* — most wardens enlisted at the time in and/or after 9:31 Dragon are under orders by the First Warden to bring "*Warden Tathas*" in by any means necessary for questioning.
 > - *Antivan Crows* — must be influential enough to have been made aware of any details, but rumours are bound to have spread throughout the Houses, even among the fledglings, when they learn of the de Riva fledgling joining the ranks in 9:31 Dragon who is a Grey Warden and the new Warden-Commander of Antiva.
 
-> [!attention]- Searching for a cure for the blight
-> (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
-> - Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.
-> - As a master herbalist, Ashina is skilled enough to pull it off, *if* she can find the information and components she needs to do so. 
-> - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
-
 ## Things Your Muse Should *Not* Know
 > [!attention]- Ashina is Warden Tathas Arainai - the Hero of Ferelden
 > (*verse/timeline conditional* - **Ashina must be a Grey Warden & the HoF**)
@@ -130,6 +124,17 @@
 > 	- *EVENT:* Qunari Invasion of Kirkwall
 > 	- *ENCOUNTER:* Nathanial Howe &/or Senior Wardens
 > 	- *EVENT:* Fall of the Gallows
+
+> [!attention]- Searching for a cure for the blight
+> (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
+> - Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.
+> - As a master herbalist, Ashina is skilled enough to pull it off, *if* she can find the information and components she needs to do so. 
+> - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
+> - Ashina does not immediately involve many people in her search, in part because of the conditions of her contract with House de Riva and the Crows that ensures the contracts that were taken out against "*Tathas Arainai*" are considered complete now that "Warden Tathas" is dead and *she* is a de Riva.
+> 
+> **Pre-Approved Exceptions**
+> - **Morrigan** - *have the information to Ashina in the first place*
+> - **Zevran Arainai** - *likely helping search while she's a fledgling*
 
 
 ---
