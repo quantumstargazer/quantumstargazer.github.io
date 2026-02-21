@@ -160,6 +160,7 @@
 - Taash
 - Tethras
 - Tevinter
+- Tevinter Imperium
 - Thedas
 - Thorne
 - Trian Aeducan
