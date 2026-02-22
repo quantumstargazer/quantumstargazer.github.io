@@ -54,6 +54,17 @@
 > - *ship/dyn:* 
 > 	- TBA
 
+> [!main]- Solas — corvusrookery
+>  - ***verses:*** 
+> 	- TBA
+> - *blog tag(s):* 
+> 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> 	- [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+> - *connection:* 
+> 	- TBA
+> - *ship/dyn:* 
+> 	- TBA
+
 ## Crossover Mains
 ### Mass Effect
 > [!main]- Garrus Vakarian — lanternlit
@@ -71,18 +82,16 @@
 
 ---
 # Best Friends Call Members
-> [!bfc]- 
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:*  
+> [!attention] Not Currently Available
+> 
+
 
 
 ---
 # Shipping Partners
-> [!shipdyn]- 
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> [!attention] Not Currently Available
+> 
+
 
 
 ---
@@ -92,91 +101,119 @@
 ### Origins
 > [!wishlist]- Zevran Arainai 
 > - *LI potential:* yes — *true love path preferred*
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Morrigan
 > - *LI potential:* yes
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Sten
 > - *LI potential:* yes
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Shale
 > - *LI potential:* no
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Alistair
 > - *LI potential:* maybe — *requires plotting*
+> - *Approval:* Hostile to Neutral (-99 to 25) — *requires plotting*
 
 > [!wishlist]- Oghren
 > - *LI potential:* no
+> - *Approval:* Friendly (80)
 
 > [!wishlist]- Wynne
 > - *LI potential:* no
+> - *Approval:* Warm (70)
 
 > [!wishlist]- Isabela
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 ### Awakening
 > [!wishlist]- Anders
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 > [!wishlist]- Justice
 > - *LI potential:* no
+> - *Approval:* Warm (75)
 
 > [!wishlist]- Nathaniel Howe
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 > [!wishlist]- Sigrun
 > - *LI potential:* yes
+> - *Approval:* Friendly (80)
 
 > [!wishlist]- Velanna
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 ### Kirkwall (*DA2*)
 > [!wishlist]- Varric Tethras
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 > [!wishlist]- Fenris
 > - *LI potential:* maybe
+> - *Approval:* Warm (75)
 
 > [!wishlist]- Merrill
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 ### Inquisition
 > [!wishlist]- Dorian Pavus
-> - *LI potential:* no — *open to queerplatonic dynamic instead*
+> - *LI potential:* no — *open to queerplatonic dynamic with plotting*
+> - *Approval:* Friendly (90)
 
 > [!wishlist]- Solas
 > - *LI potential:* maybe
+> - *Approval:* Warm (50)
 
 > [!wishlist]- Sera
 > - *LI potential:* maybe
+> - *Approval:* Friendly (80)
 
 > [!wishlist]- Blackwall
 > - *LI potential:* maybe
+> - *Approval:* Neutral (25)
 
 > [!wishlist]- Cole
 > - *LI potential:* no
+> - *Approval:* Friendly (90)
 
 ### Veilguard
 > [!wishlist]- Viago de Riva
 > - *LI potential:* yes
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Andarateia Cantori
 > - *LI potential:* yes
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Lucanis Dellamorte
 > - *LI potential:* yes
+> - *Approval:* Friendly (100)
 
-> [!wishlist]- Chance
+> [!wishlist]- Chance Candide
 > - *LI potential:* maybe
+> - *Approval:* Friendly (90)
 
 > [!wishlist]- Fletcher
 > - *LI potential:* maybe
+> - *Approval:* Friendly (90)
 
 > [!wishlist]- Heir
 > - *LI potential:* maybe
+> - *Approval:* Friendly (100)
 
 > [!wishlist]- Jacobus
 > - *LI potential:* no
+> - *Approval:* Friendly (100)
 
 
 
