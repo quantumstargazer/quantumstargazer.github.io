@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/quick-guide-ashina/","tags":[" ","quick-guide","dragon-age","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/quick-guide-ashina/","tags":["quick-guide","dragon-age","muse-ashina"]}
 ---
 
 # Guides - Ashina de Riva née Tabris
