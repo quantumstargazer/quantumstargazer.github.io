@@ -46,7 +46,8 @@ This is *not* a comprehensive list of what you might find on my blogs, though it
 - underground
 - caves
 - magic
-- PTSD / C-PTSD
+- PTSD
+- C-PTSD
 - mental health issues
 - chronic illnesses
 - medical experimentation
