@@ -24,6 +24,7 @@
 | Discord message **(Open 24/7)** |   Yes    |   **Mutuals Only**   |
 | Throw random plot ideas at me   |   Yes    |        *None*        |
 | Comment on HCs & other posts    |   Yes    |        *None*        |
+| Leave ❤️ in the comments        |   Yes    |        *None*        |
 
 ### Don't
 
@@ -61,7 +62,7 @@
 - **Add me on discord** - If we are mutuals, you can always add me on discord (*lefae639605*) to chat/plot/whatever.
 - **Scream at me in discord at all ungodly hours** - Seriously, I rarely sleep, so chances are online anyway, regardless of what timezone you're in.
 - **Randomly drop plot ideas on me whenever** - Just be forewarned that I may take them and turn them into a starter with little to no further enabling.
-- **Like and comment ~~and subscribe~~ on headcanons or thoughts about muses** - This will truly make my day.
+- **Like and comment ~~and subscribe~~ on headcanons or thoughts about muses** - This will truly make my day. It's also okay to simply leave a "❤️" (of whatever colour preference you might have for the heart) in the comments rather than liking the post itself if you don't want to have it in your likes for whatever reason.
 
 ---
 # Things You Should NOT Do
