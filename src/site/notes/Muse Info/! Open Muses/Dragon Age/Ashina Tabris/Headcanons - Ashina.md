@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/","tags":["headcanons","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/","tags":["headcanons","dragon-age","muse-ashina"]}
 ---
 
 # Headcanons - Ashina de Riva née Tabris
