@@ -12,7 +12,7 @@
 # Quantum Stargazer
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
 ## RP Info
-- **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*
+- **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*[^4]
 - **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
 - **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
 - **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
@@ -143,3 +143,4 @@
 
 [^3]: Mostly the Marvel Cinematic Universe, prior to Avengers: Infinity War. In terms of *my* portrayal of Tony Stark, his MCU canon *stops* at Captain America: Civil War, where it then goes fully AU with dimensional travel and franchise swap, as he will be written as part of the DC universe, primarily focused on that of Batman: The Animated Series (as well as most of the animated movies), in addition to some fanmade content to be detailed in Tony's info once I'm ready to actually start writing him again.
 
+[^4]: Ships with chemistry only

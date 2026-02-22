@@ -4,6 +4,8 @@
 
 # Interest Tracking Forms - Guidelines
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
+
+---
 # DisInterest Tracker
 > [!rule]+ Reverse UNO - Interest Assumed Unless Told Otherwise
 > Unless you fill out the **Disinterest Tracker** form to explicitly state that you are *not* interested in a muse and/or one or more of their verses/AUs, then I may send any and/or all of my muses your way in any of their canon-based and/or fandom-matched verses and/or AUs.
@@ -17,6 +19,7 @@ I would rather know that you're only interested in specific muses, even if it's 
 ### Highly Recommended But Not Required
 This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
+---
 # RP Preference Tracker
 > [!help] Not Yet Implemented
 > 
@@ -25,6 +28,7 @@ Not everyone in the rpc operates in the same way, and interests can be wide and 
 ## Optional But Recommended
 This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
 
+---
 # Best Friends Call
 > [!info]- Intended For Mutuals Who Have Already Started Interacting
 > If we haven't even said so much as "hello" to each other yet, chances are it's too soon to fill this form out. This is effectively a *permanent starter call*, and if we've yet to start writing &/or plotting together, I'm not going to add you to the members list until we are.

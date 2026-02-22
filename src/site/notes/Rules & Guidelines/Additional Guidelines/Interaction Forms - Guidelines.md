@@ -8,9 +8,11 @@
 
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
 
+---
 # Starter Call
 This is the *only* way I accept *requests* for me to write starters where you can specify the muse and/or verse, as well as any length preference, and space to also mention any plot ideas that you might have.
 
+---
 # Inbox Call
 If you'd like me to send you some prompts &/or memes to your inbox, *especially* from specific muses and/or out-of-character stuff. This is especially useful if you don't reblog memes regularly, and so you can actively request that I come send things from what you've reblogged previously.
 
