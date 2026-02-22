@@ -25,7 +25,69 @@
 
 ---
 # Mains
-> [!attention] Not Currently Available
+> [!main]- Viago de Riva — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Leonardo & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Leonardo+&+Viago+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Andarateia Cantori — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Leonardo & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Leonardo+&+Teia+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Issala de Riva — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Issala de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Issala+de+Riva+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Leonardo & Issala ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Leonardo+&+Issala+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Solas — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Leonardo & Solas ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Leonardo+&+Solas+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
 
 
 
@@ -45,7 +107,7 @@
 
 ---
 # Desired Dynamics
-## CanonFandom
+## Dragon Age
 > [!attention] Not Currently Available
 > 
 

@@ -23,14 +23,90 @@
 
 ---
 # Mains
-> [!attention] Not Currently Available
+> [!main]- Wren Shepard — lanternlit
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Wren Shepard )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Wren+Shepard+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Nihlus & Wren ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+&+Wren+(+lanternlit+))
+> - [Connection ☾⭒ Nihlus x Wren ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+x+Wren+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Garrus Vakarian — lanternlit
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Garrus Vakarian )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Garrus+Vakarian+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Nihlus & Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+&+Garrus+(+lanternlit+))
+> - [Connection ☾⭒ Nihlus x Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+x+Garrus+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Tali'Zorah — lanternlit
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Tali'Zorah )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Tali'Zorah+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Nihlus & Tali ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+&+Tali+(+lanternlit+))
+> - [Connection ☾⭒ Nihlus x Tali ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+x+Tali+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- EDI — lanternlit
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( EDI )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+EDI+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Nihlus & EDI ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+&+EDI+(+lanternlit+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
 
 
 
 ---
 # Best Friends Call Members
-> [!attention] Not Currently Available
+> [!bfc]- Garrus Vakarian — codenamearchangel
 > 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [codenamearchangel](https://quantumstargazer.tumblr.com/tagged/codenamearchangel)
+>
+>
+> *connection(s):*
+> - [Connection ☾⭒ Nihlus & Garrus ( codenamearchangel )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Nihlus+&+Garrus+(+codenamearchangel+))
+> 
+>
+> *ship/dyn:*
+> - TBA
 
 
 

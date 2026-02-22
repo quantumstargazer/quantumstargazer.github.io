@@ -27,38 +27,93 @@
 ---
 # Mains
 > [!main]- Wren Shepard — lanternlit
-> - ***verse:***
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Wren Shepard )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Wren+Shepard+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Isabela & Wren ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+&+Wren+(+lanternlit+))
+> 
+>
+> *ship/dyn:*
+> - TBA
 
 > [!main]- Garrus Vakarian — lanternlit
-> - ***verse:***
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Garrus Vakarian )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Garrus+Vakarian+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Isabela & Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+&+Garrus+(+lanternlit+))
+> - [Connection ☾⭒ Isabela x Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+x+Garrus+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
 
 > [!main]- Tali'Zorah — lanternlit
-> - ***verse:***
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Tali'Zorah )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Tali'Zorah+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Isabela & Tali ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+&+Tali+(+lanternlit+))
+> - [Connection ☾⭒ Isabela x Tali ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+x+Tali+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
 
 > [!main]- EDI — lanternlit
-> - ***verse:***
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( EDI )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+EDI+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Isabela & EDI ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+&+EDI+(+lanternlit+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+
+
 
 
 
 ---
 # Best Friends Call Members
 > [!bfc]- Garrus Vakarian — codenamearchangel
-> - ***verse:***
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:*  
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [codenamearchangel](https://quantumstargazer.tumblr.com/tagged/codenamearchangel)
+>
+>
+> *connection(s):*
+> - [Connection ☾⭒ Isabela & Garrus ( codenamearchangel )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+&+Garrus+(+codenamearchangel+))
+> - [Connection ☾⭒ Isabela x Garrus ( codenamearchangel )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+x+Garrus+(+codenamearchangel+))
+>
+> *ship/dyn:*
+> - TBA
+
+
 
 
 ---

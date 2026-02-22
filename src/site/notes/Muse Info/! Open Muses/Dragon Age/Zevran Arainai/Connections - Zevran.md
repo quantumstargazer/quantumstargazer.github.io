@@ -24,7 +24,86 @@
 
 ---
 # Mains
-> [!attention] Not Currently Available
+> [!main]- Alissa Cousland — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Alissa Cousland )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Alissa+Cousland+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Zevran & Alissa ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+&+Alissa+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Viago de Riva — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Zevran & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+&+Viago+(+corvusrookery+))
+> - [Connection ☾⭒ Zevran x Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+x+Viago+(+corvusrookery+))
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Andarateia Cantori — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Zevran & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+&+Teia+(+corvusrookery+))
+> - [Connection ☾⭒ Zevran x Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+x+Teia+(+corvusrookery+))
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Issala de Riva — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Issala de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Issala+de+Riva+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Zevran & Issala ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+&+Issala+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Vilma Ingellvar — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Vilma Ingellvar )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Vilma+Ingellvar+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Zevran & Vilma ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Zevran+&+Vilma+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
 
 
 

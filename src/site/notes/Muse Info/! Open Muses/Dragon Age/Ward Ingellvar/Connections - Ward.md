@@ -24,19 +24,70 @@
 ---
 # Mains
 > [!main]- Solas — corvusrookery
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ward & Solas ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ward+&+Solas+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
 
 > [!main]- Vilma Ingellvar — corvusrookery
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Vilma Ingellvar )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Vilma+Ingellvar+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ward & Vilma ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ward+&+Vilma+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
 
 > [!main]- Viago de Riva — corvusrookery
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ward & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ward+&+Viago+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+> [!main]- Andarateia Cantori — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ward & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ward+&+Teia+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+
 
 ---
 # Best Friends Call Members
@@ -51,26 +102,12 @@
 > 
 
 
+
 ---
 # Desired Dynamics
 ## Dragon Age
-> [!wishlist]- Solas
-> TBA
-
-> [!wishlist]- Vorgoth
-> TBA
-
-> [!wishlist]- Myrna
-> TBA
-
-> [!wishlist]- Varric Tethras
-> TBA
-
-> [!wishlist]- Emmrich Volkarin
-> TBA
-
-> [!wishlist]- Lucanis Dellamorte
-> TBA
+> [!attention] Not Currently Available
+> 
 
 
 
