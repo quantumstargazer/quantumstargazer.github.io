@@ -50,6 +50,9 @@ This is *not* a comprehensive list of what you might find on my blogs, though it
 - mental health issues
 - chronic illnesses
 - medical experimentation
+- child abuse
+- child neglect
+- child soldiers
 - rape (*mentions only — nothing roleplayed*)
 - sexual assault (*mentions only — nothing roleplayed*)
 - sexual violence (*mentions only — nothing roleplayed*)
