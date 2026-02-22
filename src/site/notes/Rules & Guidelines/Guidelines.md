@@ -153,8 +153,8 @@ As such, private verses are most likely available *only* for their intended part
 # Plotting
 ## Improv Roleplay
 **I am very much an improv roleplayer.** While I can handle doing some loose plotting to help guide the overall intended path of a dynamic and/or ship, I work best with minimal prompting and simply letting inspiration lead where it may.
-## Plotting
-### Strict Plottiers
+## Plotting Dynamics, Ships, Verses, &/or AUs
+### Strict Plotters
 > [!rule]+ Incompatible Partner for Strict Plotters
 > 
 > Plotting, for me, *cannot* be a strict railroaded outline — doing such means my brain will decide it's already been written, and the only way it can be written *again* is with changes and divergences made to it. 
@@ -163,32 +163,32 @@ As such, private verses are most likely available *only* for their intended part
 
 ---
 # Additional Guidelines
-- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines\|Interaction Forms - Guidelines]]
-- [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines\|Interest Tracking Forms - Guidelines]]
-- [[Rules & Guidelines/Additional Guidelines/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines\|Interaction Forms]]
+- [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+- [[Rules & Guidelines/Additional Guidelines/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
 ## Fandom-Specific Rules
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Baldur's Gate - Guidelines\|! Baldur's Gate - Guidelines]]
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Dragon Age - Guidelines\|! Dragon Age - Guidelines]]
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Mass Effect - Guidelines\|! Mass Effect - Guidelines]]
+- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Baldur's Gate - Guidelines\|Baldur's Gate]]
+- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Dragon Age - Guidelines\|Dragon Age]]
+- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Mass Effect - Guidelines\|Mass Effect]]
 
 > [!example]- Other Fandoms - Guidelines
 > **Secondary Fandoms**
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Doctor Who - Guidelines\|Doctor Who - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Elder Scrolls - Guidelines\|Elder Scrolls - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Fallout - Guidelines\|Fallout - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Stardew Valley - Guidelines\|Stardew Valley - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Doctor Who - Guidelines\|Doctor Who]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Elder Scrolls - Guidelines\|Elder Scrolls]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Fallout - Guidelines\|Fallout]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Stardew Valley - Guidelines\|Stardew Valley]]
 > 
 > **Tertiary Fandoms**
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/DC - Guidelines\|DC - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Ghostbusters - Guidelines\|Ghostbusters - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Star Trek - Guidelines\|Star Trek - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/DC - Guidelines\|DC Comics]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Ghostbusters - Guidelines\|Ghostbusters]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Star Trek - Guidelines\|Star Trek]]
 > 
 > **Irregular Fandoms**
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Detroit Become Human - Guidelines\|Detroit Become Human - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Good Omens - Guidelines\|Good Omens - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Marvel - Guidelines\|Marvel - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Our Flag Means Death - Guidelines\|Our Flag Means Death - Guidelines]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Supernatural - Guidelines\|Supernatural - Guidelines]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Detroit Become Human - Guidelines\|Detroit: Become Human]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Good Omens - Guidelines\|Good Omens]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Marvel - Guidelines\|Marvel]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Our Flag Means Death - Guidelines\|Our Flag Means Death]]
+> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Supernatural - Guidelines\|Supernatural]]
 
 
 
