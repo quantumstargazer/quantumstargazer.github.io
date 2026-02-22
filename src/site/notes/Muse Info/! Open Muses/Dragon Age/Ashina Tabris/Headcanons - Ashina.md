@@ -32,17 +32,7 @@
 > [!headcanon]-
 > TBA
 
-> [!headcanon]-
-> TBA
 
-> [!headcanon]-
-> TBA
-
-> [!headcanon]-
-> TBA
-
-> [!headcanon]-
-> TBA
 
 ---
 # Canon Typical
@@ -102,33 +92,40 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-### Scion of the Outer Planes Headcanons
-> [!headcanon]-
-> TBA
-### Astral Drifter Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+
+
+
 ## Dragon Age AUs
-### Dragon Age AUs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Mass Effect AUs
 ### Mercenary Assassin Headcanons
 > [!headcanon]-
 > TBA
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 #### In Time & Space Headcanons
 > [!headcanon]-
 > TBA
+
+
 ### Elder Scrolls AUs
-#### Elder Scrolls AUs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+
+
+
 ### Stardew Valley AUs
-#### Stardew Valley AUs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 
 ---
 # Trapped In Another World AUs
@@ -136,39 +133,42 @@
 ### Absolute Crisis Headcanons
 > [!headcanon]-
 > TBA
-### Planar Wanderer Headcanons
-> [!headcanon]-
-> TBA
-### Planar Agent Headcanons
-> [!headcanon]-
-> TBA
+
+
+
 ## Dragon Age AWs
 ### This Shit Is Weird Headcanons
 > [!headcanon]-
 > TBA
+
 ## Mass Effect AWs
 ### Anomaly Detected Headcanons
 > [!headcanon]-
 > TBA
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Companion Headcanons
 > [!headcanon]-
 > TBA
+
 ### Elder Scrolls AWs
-#### Elder Scrolls AWs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ### Stardew Valley AWs
-#### Stardew Valley AWs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+
+
 
 ---
 # Other Verses & AUs
-## Other Verse Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Private Verses & AUs
