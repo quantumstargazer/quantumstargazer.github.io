@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/quick-guide-ward/","tags":[" ","quick-guide","dragon-age","muse-ward"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/quick-guide-ward/","tags":["quick-guide","dragon-age","muse-ward"]}
 ---
 
 # Guides - Ward Ingellvar 
