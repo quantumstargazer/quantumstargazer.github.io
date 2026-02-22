@@ -263,8 +263,8 @@
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-> [!verse]- VerseTitle
+## corvusrookery - Solas
+> [!verse]- Dragon Age ( Solas - corvusrookery )
 > 
 > Summary goes here.
 > 
@@ -274,5 +274,33 @@
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+> [!verse]- Ancient Times ( Solas - corvusrookery )
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+> [!verse]- Fen'Harel's Rebellion ( Solas - corvusrookery )
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+
+
+
+
+
 
 
