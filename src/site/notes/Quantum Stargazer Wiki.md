@@ -137,7 +137,7 @@
 
 
 
-[^1]: Incorporates **Forgotten Realms** and **D&D/AD&D** lore for individual characters as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters.
+[^1]: Incorporates **Forgotten Realms** and **D&D/AD&D** lore for individual characters and/or specific verses (some of which are based on **Planescape** and/or **Spelljammer** mechanics) as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters.
 
 [^2]: When I am writing Peter Venkman, he is *not* the movie-verse Venkman, but rather the further developed characterization from **The *Real* Ghostbusters** (ie the sharp minded businessman who has a soft spot for kids and little old ladies who remind him of his mom) and it is extremely important that this is respected — failure to do so will likely result in the interactions being dropped.
 
