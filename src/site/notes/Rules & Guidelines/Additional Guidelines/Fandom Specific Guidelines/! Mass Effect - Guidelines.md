@@ -19,7 +19,7 @@ In cases where Shepard is an ambiguous NPC, I default to the following:
 
 ---
 # Destroy Ending Only
-In terms of roleplay, I *only* write with the intention of it being the Destroy Ending (or, theoretically, the Ignore Ending, where the cycle continues because Shepard is no longer in the galaxy to stop the Reapers).
+In terms of roleplay, I *only* write with the intention of it being the Destroy Ending (or, theoretically, the Ignore Ending, where the cycle continues because Shepard is no longer in the galaxy to stop the Reapers, as would be the result of the Trapped In Another World AUs).
 
 However, I rely heavily on canon-divergence where the ending is concerned, much like those found in the Happy Ending mods. So while the Reapers are destroyed, the following is also true: 
 ## Ending Divergences
