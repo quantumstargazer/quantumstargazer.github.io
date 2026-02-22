@@ -29,55 +29,71 @@
 ---
 # Mains
 > [!main]- Viago de Riva — corvusrookery
-> - ***verses:*** 
-> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Viago de Riva\|corvusrookery - Viago de Riva]]
-> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
-> - *blog tag(s):* 
-> 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
-> 	- [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
-> - *connection:* 
-> 	- [Connection ☾⭒ Ashina & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Viago+(+corvusrookery+))
-> 	- [Connection ☾⭒ Ashina x Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Viago+(+corvusrookery+))
-> - *ship/dyn:* 
-> 	- [Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+To+Dance+Along+The+Edge+Of+A+Knife+(+Ashina+&+Viago+—+corvusrookery+))
+> 
+> ***verses:*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Viago de Riva\|corvusrookery - Viago de Riva]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
+> 
+> *blog tag(s):* 
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
+> 
+> *connection:* 
+> - [Connection ☾⭒ Ashina & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Viago+(+corvusrookery+))
+> - [Connection ☾⭒ Ashina x Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Viago+(+corvusrookery+))
+> 
+> *ship/dyn:* 
+> - [Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+To+Dance+Along+The+Edge+Of+A+Knife+(+Ashina+&+Viago+—+corvusrookery+))
 
 > [!main]- Andarateia Cantori — corvusrookery
->  - ***verses:*** 
-> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Andarateia Cantori\|corvusrookery - Andarateia Cantori]]
-> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
-> - *blog tag(s):* 
-> 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
-> 	- [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
-> - *connection:* 
-> 	- [Connection ☾⭒ Ashina & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Teia+(+corvusrookery+))
-> 	- [Connection ☾⭒ Ashina x Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Teia+(+corvusrookery+))
-> - *ship/dyn:* 
-> 	- TBA
+> 
+> ***verses:*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Andarateia Cantori\|corvusrookery - Andarateia Cantori]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
+> 
+> *blog tag(s):* 
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
+> 
+> *connection:* 
+> - [Connection ☾⭒ Ashina & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Teia+(+corvusrookery+))
+> - [Connection ☾⭒ Ashina x Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Teia+(+corvusrookery+))
+> 
+> *ship/dyn:* 
+> - TBA
 
 > [!main]- Solas — corvusrookery
->  - ***verses:*** 
-> 	- TBA
-> - *blog tag(s):* 
-> 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
-> 	- [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
-> - *connection:* 
-> 	- TBA
-> - *ship/dyn:* 
-> 	- TBA
+>  
+>  ***verses:*** 
+> - TBA
+> 
+> *blog tag(s):* 
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+> 
+> *connection:* 
+> - TBA
+> 
+> *ship/dyn:* 
+> - TBA
 
 ## Crossover Mains
 ### Mass Effect
 > [!main]- Garrus Vakarian — lanternlit
-> - ***verses:***
-> 	- [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#lanternlit - Garrus Vakarian\|lanternlit - Garrus Vakarian]]
-> - *blog tag(s):* 
-> 	- lanternlit
-> 	- lanternlit ( Garrus Vakarian )
-> - *connection:* 
-> 	- Connection ☾⭒ Ashina & Garrus ( lanternlit )
-> 	- Connection ☾⭒ Ashina x Garrus ( lanternlit )
-> - *ship/dyn:*  
-> 	- TBA
+> 
+> ***verse(s):*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#lanternlit - Garrus Vakarian\|lanternlit - Garrus Vakarian]]
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Garrus Vakarian )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Garrus+Vakarian+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Garrus+(+lanternlit+))
+> - [Connection ☾⭒ Ashina x Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Garrus+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
 
 
 ---
