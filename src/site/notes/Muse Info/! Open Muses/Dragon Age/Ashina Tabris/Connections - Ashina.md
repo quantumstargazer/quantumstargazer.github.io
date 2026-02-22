@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/","tags":["connections","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/","tags":["connections","dragon-age","muse-ashina"]}
 ---
 
 # Connections - Ashina de Riva née Tabris
