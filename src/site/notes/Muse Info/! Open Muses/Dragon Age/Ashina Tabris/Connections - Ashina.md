@@ -98,6 +98,7 @@
 > - TBA
 
 
+
 ---
 # Best Friends Call Members
 > [!attention] Not Currently Available
@@ -115,123 +116,11 @@
 ---
 # Desired Dynamics
 ## Dragon Age
-> *Sorted by first appearance in series. This is **not** a comprehensive list of who I want to interact with. This is just the muses I have ideas regarding dynamics plotting and/or shipping potential.*
-### Origins
-> [!wishlist]- Zevran Arainai 
-> - *LI potential:* yes — *true love path preferred*
-> - *Approval:* Friendly (100)
+> [!attention] Not Currently Available
+> 
 
-> [!wishlist]- Morrigan
-> - *LI potential:* yes
-> - *Approval:* Friendly (100)
 
-> [!wishlist]- Sten
-> - *LI potential:* yes
-> - *Approval:* Friendly (100)
 
-> [!wishlist]- Shale
-> - *LI potential:* no
-> - *Approval:* Friendly (100)
-
-> [!wishlist]- Alistair
-> - *LI potential:* maybe — *requires plotting*
-> - *Approval:* Hostile to Neutral (-99 to 25) — *requires plotting*
-
-> [!wishlist]- Oghren
-> - *LI potential:* no
-> - *Approval:* Friendly (80)
-
-> [!wishlist]- Wynne
-> - *LI potential:* no
-> - *Approval:* Warm (70)
-
-> [!wishlist]- Isabela
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-### Awakening
-> [!wishlist]- Anders
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-> [!wishlist]- Justice
-> - *LI potential:* no
-> - *Approval:* Warm (75)
-
-> [!wishlist]- Nathaniel Howe
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-> [!wishlist]- Sigrun
-> - *LI potential:* yes
-> - *Approval:* Friendly (80)
-
-> [!wishlist]- Velanna
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-### Kirkwall (*DA2*)
-> [!wishlist]- Varric Tethras
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-> [!wishlist]- Fenris
-> - *LI potential:* maybe
-> - *Approval:* Warm (75)
-
-> [!wishlist]- Merrill
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-### Inquisition
-> [!wishlist]- Dorian Pavus
-> - *LI potential:* no — *open to queerplatonic dynamic with plotting*
-> - *Approval:* Friendly (90)
-
-> [!wishlist]- Solas
-> - *LI potential:* maybe
-> - *Approval:* Warm (50)
-
-> [!wishlist]- Sera
-> - *LI potential:* maybe
-> - *Approval:* Friendly (80)
-
-> [!wishlist]- Blackwall
-> - *LI potential:* maybe
-> - *Approval:* Neutral (25)
-
-> [!wishlist]- Cole
-> - *LI potential:* no
-> - *Approval:* Friendly (90)
-
-### Veilguard
-> [!wishlist]- Viago de Riva
-> - *LI potential:* yes
-> - *Approval:* Friendly (100)
-
-> [!wishlist]- Andarateia Cantori
-> - *LI potential:* yes
-> - *Approval:* Friendly (100)
-
-> [!wishlist]- Lucanis Dellamorte
-> - *LI potential:* yes
-> - *Approval:* Friendly (100)
-
-> [!wishlist]- Chance Candide
-> - *LI potential:* maybe
-> - *Approval:* Friendly (90)
-
-> [!wishlist]- Fletcher
-> - *LI potential:* maybe
-> - *Approval:* Friendly (90)
-
-> [!wishlist]- Heir
-> - *LI potential:* maybe
-> - *Approval:* Friendly (100)
-
-> [!wishlist]- Jacobus
-> - *LI potential:* no
-> - *Approval:* Friendly (100)
 
 
 
