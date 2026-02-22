@@ -97,13 +97,7 @@
 > [!headcanon]-
 > TBA
 
-## VerseAU Headcanons
-> [!headcanon]-
-> TBA
 
-## VerseAU Headcanons
-> [!headcanon]-
-> TBA
 
 ---
 # Fandom Specific AUs
@@ -237,40 +231,14 @@
 > [!headcanon]-
 > TBA
 
+### Lyrium Ghost Headcanons (Teia - corvusrookery)
+> [!headcanon]-
+> TBA
+
 
 
 ## lanternlit - Garrus Vakarian
 ### Mercenary Assassin Headcanons (Garrus - lanternlit)
-> [!headcanon]-
-> TBA
-
-## Partner - PartnerMuse
-### Private Verse Headcanons
-> [!headcanon]-
-> TBA
-
-## Partner - PartnerMuse
-### Private Verse Headcanons
-> [!headcanon]-
-> TBA
-
-## Partner - PartnerMuse
-### Private Verse Headcanons
-> [!headcanon]-
-> TBA
-
-## Partner - PartnerMuse
-### Private Verse Headcanons
-> [!headcanon]-
-> TBA
-
-## Partner - PartnerMuse
-### Private Verse Headcanons
-> [!headcanon]-
-> TBA
-
-## Partner - PartnerMuse
-### Private Verse Headcanons
 > [!headcanon]-
 > TBA
 
