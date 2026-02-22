@@ -63,19 +63,21 @@
 > - TBA
 
 > [!main]- Solas — corvusrookery
->  
->  ***verses:*** 
-> - TBA
 > 
-> *blog tag(s):* 
-> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
 > - [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & Solas ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Solas+(+corvusrookery+))
 > 
-> *connection:* 
+>
+> *ship/dyn:*
 > - TBA
-> 
-> *ship/dyn:* 
-> - TBA
+
 
 ## Crossover Mains
 ### Mass Effect
