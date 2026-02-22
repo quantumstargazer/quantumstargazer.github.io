@@ -31,7 +31,7 @@
 
 ---
 # Canon Typical
-## Verse Wishlists
+## Dragon Age Wishlists
 > [!attention] Not Currently Available
 > 
 
