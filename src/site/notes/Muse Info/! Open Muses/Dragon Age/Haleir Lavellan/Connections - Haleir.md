@@ -26,9 +26,22 @@
 ---
 # Mains
 > [!main]- Solas — corvusrookery
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> 
+> ***verse(s):*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir#corvusrookery - Solas\|corvusrookery - Solas]]
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Haleir & Solas ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Haleir+&+Solas+(+corvusrookery+))
+> - [Connection ☾⭒ Haleir x Solas ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Haleir+x+Solas+(+corvusrookery+))
+>
+> *ship/dyn:*
+> - TBA
+
+
 
 ---
 # Best Friends Call Members
