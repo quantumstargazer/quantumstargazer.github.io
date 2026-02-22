@@ -143,4 +143,4 @@
 
 [^3]: Mostly the Marvel Cinematic Universe, prior to Avengers: Infinity War. In terms of *my* portrayal of Tony Stark, his MCU canon *stops* at Captain America: Civil War, where it then goes fully AU with dimensional travel and franchise swap, as he will be written as part of the DC universe, primarily focused on that of Batman: The Animated Series (as well as most of the animated movies), in addition to some fanmade content to be detailed in Tony's info once I'm ready to actually start writing him again.
 
-[^4]: Ships with chemistry only
+[^4]: **Ships with chemistry only.** 
