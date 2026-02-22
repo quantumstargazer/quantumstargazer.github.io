@@ -199,17 +199,6 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 
-> [!verse]- Planar Wanderer
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
-
 > [!verse]- Planar Agent
 > 
 > Summary goes here.

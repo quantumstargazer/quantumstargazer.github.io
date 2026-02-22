@@ -88,7 +88,7 @@
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-### Absolute Crisis Wishlists
+### Planar Agent Wishlists
 > [!attention] Not Currently Available
 > 
 
@@ -132,7 +132,6 @@
 
 ---
 # Other Verses & AUs
-## Other Verse Wishlists
 > [!attention] Not Currently Available
 > 
 

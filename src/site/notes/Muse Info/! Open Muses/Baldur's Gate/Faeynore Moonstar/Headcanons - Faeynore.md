@@ -90,7 +90,7 @@
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-### Absolute Crisis Headcanons
+### Planar Agent Headcanons
 > [!attention] Not Currently Available
 > 
 
@@ -134,7 +134,6 @@
 
 ---
 # Other Verses & AUs
-## Other Verse Headcanons
 > [!attention] Not Currently Available
 > 
 

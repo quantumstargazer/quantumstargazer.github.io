@@ -111,7 +111,7 @@
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-### Absolute Crisis Guides
+### Planar Agent Guides
 > [!attention] Not Currently Available
 > 
 
@@ -155,9 +155,10 @@
 
 ---
 # Other Verses & AUs
-## Other Verse Guides
 > [!attention] Not Currently Available
 > 
+
+
 
 
 

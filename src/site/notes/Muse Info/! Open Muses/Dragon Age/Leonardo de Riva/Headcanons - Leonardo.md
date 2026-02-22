@@ -135,7 +135,6 @@
 
 ---
 # Other Verses & AUs
-## Other Verse Headcanons
 > [!attention] Not Currently Available
 > 
 

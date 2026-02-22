@@ -199,17 +199,6 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 
-> [!verse]- Planar Wanderer
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
-
 > [!verse]- Planar Agent
 > 
 > Summary goes here.
