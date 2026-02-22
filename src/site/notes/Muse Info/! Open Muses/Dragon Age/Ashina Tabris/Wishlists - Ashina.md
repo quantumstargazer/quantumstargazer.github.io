@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/","tags":["wishlists","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/","tags":["wishlists","dragon-age","muse-ashina"]}
 ---
 
 # Wishlists - Ashina de Riva née Tabris
