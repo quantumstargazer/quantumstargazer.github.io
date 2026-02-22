@@ -25,9 +25,10 @@ If you don't have an age range that actively states you are *at least **21+*** l
 ---
 # Curate Your Own Dash
 > [!fail]- Regarding Others' "Dead Dove: Do Not Eat" Warnings
-> I do not follow anyone whose only warnings for their blog consists of "*Dead Dove*" without covering *what* topics, themes, tropes, etc. are likely to be found on the blog. And given that I typically *block* blogs with explicit roleplayed scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., if "*Dead Dove: Do Not Eat*" is the only warning you provide, then I'm going to assume that's what you write, and will proceed to curate my own dash accordingly.
 > 
-> Without any explanation, it's as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor.
+> I do not follow anyone whose only warnings for their blog consists of "*Dead Dove*" without covering *what* topics, themes, tropes, etc. are likely to be found on the blog. And given that I typically *block* blogs with explicit roleplayed scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., if "*Dead Dove: Do Not Eat*" is the only warning you provide, then I'm going to assume those things are exactly what you write, and will proceed to curate my own dash accordingly by blocking you.
+> 
+> Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "don't blame me if you find content here you didn't like because you didn't read the warning labels provided" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
 
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
