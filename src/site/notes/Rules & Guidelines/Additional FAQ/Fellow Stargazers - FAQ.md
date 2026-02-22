@@ -13,6 +13,8 @@ These are the people who I interact with the most, and whose interactions have a
 > - Blogwide — *exclusive for all muses in all verses*
 > - **Currently On Hiatus**
 
+
+
 ---
 # Mains
 > *I **do** interact with duplicates of any of my Mains that follow:*
@@ -44,17 +46,26 @@ These are the people who I interact with the most, and whose interactions have a
 > - Andarateia Cantori
 > - Duncan
 
+
+
 ---
 # Best Friends Call Members
 > *I **do** interact with duplicates of any of the **Best Friends Call** muses that follow:*
-
 ## All Muses
+> [!attention] Not Currently Available
+> 
+
 
 
 ## Baldur's Gate Muses
+> [!attention] Not Currently Available
+> 
+
 
 
 ## Dragon Age Muses
+> [!attention] Not Currently Available
+> 
 
 
 
@@ -62,8 +73,9 @@ These are the people who I interact with the most, and whose interactions have a
 > [!bfc]- Garrus Vakarian — codenamearchangel
 > 
 
-
 ## Other Fandom Muses
+> [!attention] Not Currently Available
+> 
 
 
 
@@ -72,7 +84,7 @@ These are the people who I interact with the most, and whose interactions have a
 *These are connections with Private Verses & AUs that don't fit into any of the above categories only.*
 > *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow:*
 
-> [!shipdyn] 
+> [!attention] Not Currently Available
 > 
 
 
