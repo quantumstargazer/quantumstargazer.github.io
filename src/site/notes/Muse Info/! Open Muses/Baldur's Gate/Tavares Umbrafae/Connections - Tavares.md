@@ -43,7 +43,7 @@
 
 ---
 # Desired Dynamics
-## CanonFandom
+## Baldur's Gate
 > [!attention] Not Currently Available
 > 
 
