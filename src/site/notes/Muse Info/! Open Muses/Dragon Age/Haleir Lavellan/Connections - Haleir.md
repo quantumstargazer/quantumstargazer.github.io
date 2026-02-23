@@ -60,8 +60,31 @@
 ---
 # Desired Dynamics
 ## Dragon Age
-> [!attention] Not Currently Available
+> [!wishlist]+ Solas
 > 
+> ***LI potential:*** **Yes** (*default if not otherwise romanced*)
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* TBA
+
+> [!wishlist]- Dorian Pavus
+> 
+> ***LI potential:*** No (*open to queerplatonic dynamic &/or flirtationship as is possible in canon*)
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* TBA
+
+> [!wishlist]- Varric Tethras
+> 
+> ***LI potential:*** Yes
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* TBA
+
+
 
 
 
