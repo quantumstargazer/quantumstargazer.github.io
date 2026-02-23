@@ -29,7 +29,9 @@
 > [!hint]- Solas Romance - Default Unless Romanced in RP
 > 
 > **Defaults to romancing Solas if not romanced through roleplay.**
+> This is largely due to the nature of her canon-divergence from typical Lavellan gameplay. When interacting with someone who writes Solas, I will defer to their preference regarding how to approach any potential ship. 
 > 
+> Regardless, unless agreed upon ooc, I always start everything with the intention of being platonic, even if I hold a ship bias, so I won't randomly be throwing shippy things from Haleir at Solas roleplayers without their prior consent, *especially* since I do not intend for her storyline to be that of canon Lavellan's.
 
 ## Things Your Muse *Could* Know
 > [!hint]- 
