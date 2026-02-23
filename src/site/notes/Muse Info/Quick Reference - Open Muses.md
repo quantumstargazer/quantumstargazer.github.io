@@ -29,10 +29,10 @@
 ---
 # Mass Effect
 
-| Name                                     | Pronouns |        Height         |           Race           |     Age      |
-| ---------------------------------------- | :------: | :-------------------: | :----------------------: | :----------: |
-| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] | she/they | 170 cm / 5 ft 6.93 in | Human Biotic (Earthborn) | 32 +/- years |
-| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]     |  he/him  | 215 cm / 7 ft 0.65 in |    Turian (Colonist)     | 40 +/- years |
+| Name                                     | Pronouns |        Height         |             Race             |     Age      |
+| ---------------------------------------- | :------: | :-------------------: | :--------------------------: | :----------: |
+| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] | she/they | 170 cm / 5 ft 6.93 in | Human ~~Biotic~~ (Earthborn) | 32 +/- years |
+| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]     |  he/him  | 215 cm / 7 ft 0.65 in |      Turian (Colonist)       | 40 +/- years |
 
 ---
 
