@@ -26,7 +26,9 @@
 ---
 # Universal Guides
 ## Things *You* Should Know
-> [!hint]-
+> [!hint]- Solas Romance - Default Unless Romanced in RP
+> 
+> **Defaults to romancing Solas if not romanced through roleplay.**
 > 
 
 ## Things Your Muse *Could* Know
@@ -56,7 +58,21 @@
 
 ---
 # Canon Divergent AUs
-## VerseAU Guides
+## Ancient Times Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+> 
+
+
+## Fen'Harel's Rebellion Guides
 ### Things *You* Should Know
 > [!hint]-
 > 
