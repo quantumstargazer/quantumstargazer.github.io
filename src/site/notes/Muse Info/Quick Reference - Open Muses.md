@@ -21,7 +21,7 @@
 | Name                                         | Pronouns  |         Height         |           Race            |     Age      |
 | :------------------------------------------- | :-------: | :--------------------: | :-----------------------: | :----------: |
 | [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina de Riva]]       |  she/her  | 157 cm / 5 ft 1.81 in  |    City Elf (Antivan)     | 45 +/- years |
-| [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Zaehire de Riva]]     | she/they  | 132 cm / 4 ft 3.97 in  | CastelessDwarf (Antivan)  | 21 +/- years |
+| [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Zaehire de Riva]]     | she/they  | 132 cm / 4 ft 3.97 in  | Casteless Dwarf (Antivan) | 21 +/- years |
 | [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Leonardo de Riva]]   |  he/they  | 180 cm / 5 ft 10.87 in |   Human Mage (Antivan)    | 24 +/- years |
 | [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Ward Ingellvar]]         | they/them | 147 cm / 4 ft 9.87 in  | ~~Spirit~~ Elf (Nevarran) | 21 +/- years |
 | [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Zevran Arainai]]       |  he/him   | 169 cm / 5 ft 6.54 in  |    City Elf (Antivan)     | 47 +/- years |
