@@ -6,6 +6,7 @@
 
 ---
 # Baldur's Gate
+*Current ages are estimated for 1492 DR.*
 
 | Name                                        | Pronouns |         Height         |            Race            |      Age      |
 | ------------------------------------------- | :------: | :--------------------: | :------------------------: | :-----------: |
@@ -15,6 +16,7 @@
 
 ---
 # Dragon Age
+*Current ages are estimated for 9:51 Dragon.*
 
 | Name                                         | Pronouns  |         Height         |           Race            |     Age      |
 | :------------------------------------------- | :-------: | :--------------------: | :-----------------------: | :----------: |
@@ -28,6 +30,7 @@
 
 ---
 # Mass Effect
+*Current ages are estimated for 2186 CE.*
 
 | Name                                     | Pronouns |        Height         |             Race             |     Age      |
 | ---------------------------------------- | :------: | :-------------------: | :--------------------------: | :----------: |
