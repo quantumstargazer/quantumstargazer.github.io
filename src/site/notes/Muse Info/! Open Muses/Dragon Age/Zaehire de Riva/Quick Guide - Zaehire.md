@@ -33,7 +33,17 @@
 > 
 
 ## Things Your Muse Should *Not* Know
-> [!attention]-
+> [!attention]- Purchased in Orzammar by House Arainai
+> 
+> ***Exception:*** **Antivan Crows**
+> - *House Arainai*
+> - *House de Riva*
+
+> [!attention]- Bastard Child of Prince Trian Aeducan 
+> 
+> ***Exception:*** **Antivan Crows**
+> - *House Arainai*
+> - *House de Riva*
 > 
 
 
