@@ -9,6 +9,11 @@
 > [!FAQ]- What Are Open Muses?
 > **Open Muses** are my *primary muses*, though that does *not* mean that they share the same activity level, as I base that off of *fandom* more than individual muse, as it tends to vary drastically, plus all of my muses have AUs for all of my primary fandoms. So while a muse's fandom might be tertiary in terms of activity, their verses/AUs for the primary fandom would likely have higher activity.
 
+> [!attention]+
+> **Many pages are still under construction at this time.** If there's any specific information you're looking for, please feel free to ask, and I'll prioritise getting that filled in ASAP.
+> 
+> - [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] *is available for Open Muses if you're just needing pronouns, height, race, & age info for a reply.*
+
 ---
 # Baldur's Gate
 ## Tavares Umbrafae
