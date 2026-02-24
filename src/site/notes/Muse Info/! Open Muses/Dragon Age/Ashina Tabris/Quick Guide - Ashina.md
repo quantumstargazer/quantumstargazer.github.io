@@ -159,15 +159,33 @@
 # Canon Typical
 ## Dragon Age Guides
 ### Things *You* Should Know
-> [!hint]-
+> [!hint]- Not exactly "Hero" material
+> 
+> Ashina cares very little about the fate of Ferelden *as a whole* — her only real concern is protecting her family back in the Denerim Alienage. She certainly doesn't care about protecting the lives of the nobles or pretty much any other human in the process. 
+> 
 > 
 
 ### Things Your Muse *Could* Know
-> [!hint]-
+> [!hint]- Conscripted into the Grey Wardens against her will
+> 
 > 
 
 ### Things Your Muse Should *Not* Know
-> [!attention]-
+> [!attention]- Arranged marriage wedding disaster
+> 
+> Ashina did *not* want to get married, and had managed to avoid such ever since her mother was killed in 9:24 Dragon. But with her approaching the age of 25, her father was pressured into arranging something for her lest the Alienage's *hahren* do so himself, as he did for Soris.
+> 
+> **Pre-Approved Exceptions**
+> - *Of those who may know without prior plotting include:* 
+> 	- Cyrion Tabris
+> 	- Shianni
+> 	- Soris
+> 	- Valora
+> 	- Nelaros
+> 	- other Denerim Alienage elves from and/or prior to 9:30 Dragon
+> 	- Duncan
+
+> [!attention]- First kills
 > 
 
 
