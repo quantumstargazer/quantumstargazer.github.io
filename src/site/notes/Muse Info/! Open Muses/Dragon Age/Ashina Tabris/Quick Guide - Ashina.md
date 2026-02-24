@@ -74,6 +74,12 @@
 > 
 > - *in game:* [Power of Blood (Rogue)](https://dragonage.miraheze.org/wiki/Power_of_Blood#Rogue)
 
+> [!stats]- Language Learned: Qunlat
+> 
+>  (*verse/timeline dependent* - **must have traveled with Sten**)
+>  
+>  Ashina learns to speak, read, and write Qunlat from Sten during the course of the Fifth Blight, gaining fluency through continued correspondence with him in the years following ending the Blight.
+
 ## Things Your Muse *Could* Know
 > [!hint]- Warden Tathas Arainai is killed by the Crows in 9:33 Dragon
 > 
@@ -96,7 +102,9 @@
 
 ## Things Your Muse Should *Not* Know
 > [!attention]- Ashina is Warden Tathas Arainai - the Hero of Ferelden
+> 
 > (*verse/timeline conditional* - **Ashina must be a Grey Warden & the HoF**)
+> 
 > - When Ashina is conscripted into the Grey Wardens, she *insists* that she not be enlisted under her real name, for her family's protection.
 > - The name in the recruit roster lists her as "*Tathas Adaia Arainai*" — named such after the story she tells the kids playing in the alley about the elven hero-thief, and her mother.
 > - Once she leaves Denerim, only Duncan knows her true identity, but only refers to her as Tathas, per her request — it is this name that she uses to introduce herself throughout the course of the Fifth Blight, and throughout the Amaranthine Crisis.
@@ -126,7 +134,9 @@
 > 	- *EVENT:* Fall of the Gallows
 
 > [!attention]- Searching for a cure for the blight
+> 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
+> 
 > - Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.
 > - As a master herbalist, Ashina is skilled enough to pull it off, *if* she can find the information and components she needs to do so. 
 > - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
@@ -135,6 +145,14 @@
 > **Pre-Approved Exceptions**
 > - **Morrigan** - *have the information to Ashina in the first place*
 > - **Zevran Arainai** - *likely helping search while she's a fledgling, and a rank & file Crow, as she's largely restricted to Antiva during this time*
+
+> [!stats]- Language Learned: Elvhen
+> 
+>  (*verse/timeline dependent* - **must have been to Brecillian Forest**)
+>  
+>  Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, as well as the elvhen language from its memories that it shares with her.
+>  
+>  She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly *how* she learned it in the first place.
 
 
 ---
