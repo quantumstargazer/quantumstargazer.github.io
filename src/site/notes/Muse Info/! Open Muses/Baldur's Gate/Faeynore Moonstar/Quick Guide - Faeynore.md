@@ -29,12 +29,19 @@
 > 
 
 ## Things Your Muse *Could* Know
-> [!hint]-
+> [!hint]- Private Investigator in Baldur's Gate for over 200 years
 > 
+> **Pre-Approved Established Connection**
+> - Astarion Ancunín 
+> - Jaheira 
+> - Minsc
 
 ## Things Your Muse Should *Not* Know
-> [!attention]-
+> [!attention]- Questionable Ties to Faerie
 > 
+> > [!spoiler]- 
+> > **Favored by the Raven Queen**
+> > -  Faeynore does not know this themself
 
 
 ---
