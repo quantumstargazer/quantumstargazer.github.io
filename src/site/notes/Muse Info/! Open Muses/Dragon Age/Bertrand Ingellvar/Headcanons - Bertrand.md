@@ -24,7 +24,7 @@
 
 ---
 # Universal Headcanons
-> [!headcanon]-
+> [!headcanon]- Necropolis Foundling
 > TBA
 
 
@@ -39,7 +39,6 @@
 
 ---
 # Canon Divergent AUs
-## VerseAU Headcanons
 > [!attention] Not Currently Available
 > 
 
