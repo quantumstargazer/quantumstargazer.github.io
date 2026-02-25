@@ -187,6 +187,9 @@
 
 > [!attention]- First kills
 > 
+> Ashina has never killed anyone before she is kidnapped by Vaughan Kendall in 9:30 Dragon alongside a half dozen or so other women from the Denerim Alienage. 
+> 
+> The massacre that follows in the Arl of Denerim's palace as she leaves a trail of blood and death in her wake is the first time she has ever killed anyone at all, and she kills dozens of guards and nobles alike in order to free herself and the other women.
 
 
 ---
