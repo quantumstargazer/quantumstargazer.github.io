@@ -28,8 +28,11 @@
 
 ---
 # Universal Wishlists
-> [!wishlist]-
-> TBA
+> [!wishlist]- Secrets Revealed
+>
+>- (*verse/timeline dependent* — **Ashina must be Hero of Ferelden**)
+>
+> While most muses should not know Ashina is the Hero of Ferelden right away, I am open to plotting when exactly this secret is revealed to those who aren't already aware.
 
 
 
