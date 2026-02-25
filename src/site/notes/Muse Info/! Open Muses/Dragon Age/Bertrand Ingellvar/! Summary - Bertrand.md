@@ -108,27 +108,10 @@
 
 ---
 # Canon Divergent AUs
-> [!verse]+ VerseTitle
+> [!attention] Not Currently Available
 > 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlist]]  
+
 
 ---
 # Fandom Specific AUs
