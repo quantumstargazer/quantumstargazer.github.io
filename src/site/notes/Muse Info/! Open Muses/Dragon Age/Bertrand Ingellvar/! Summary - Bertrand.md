@@ -97,7 +97,7 @@
 > 
 > - *Companion (Non-Rook) AU*
 > 
-> Summary goes here.
+> Bertrand is a Reaper Guard of the Grand Necropolis in Nevarra, having served as such as soon as he was old enough to join the Mourn Watch.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
