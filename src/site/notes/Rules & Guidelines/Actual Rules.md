@@ -33,7 +33,7 @@ If you don't have an age range that actively states you are *at least **21+*** l
 > Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "don't blame me if you find content here you didn't like because you didn't read the warning labels provided" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
 
 ## Rated for Mature Audiences Only
-My blog is intended for [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18. All three of my primary fandoms are *similarly rated* — Baldur's Gate, Dragon Age, and Mass Effect are *all* **ESRB Rated M for Mature (17+)**. Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged unless they go into explicit graphic detail. [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
+**My blog is intended for [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** All three of my primary fandoms are *similarly rated* — Baldur's Gate, Dragon Age, and Mass Effect are *all* **ESRB Rated M for Mature**. Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
@@ -41,12 +41,13 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 
 ---
 # Banned & Restricted Content
+These are banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — no exceptions will be made.
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
 > - sexual content with any muse &/or faceclaim under the age of 18
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
-> - anything involving Alpha/Beta/Omega (Omegaverse) dynamics &/or settings
+> - anything involving Alpha/Beta/Omega (*Omegaverse*) dynamics &/or settings
 
 > [!warning]+ Restricted Tropes & Themes
 > - magic anons of any kind
@@ -56,6 +57,12 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > [!danger]+ Banned Fandoms — No Follow &/or Interaction
 > - Harry Potter & Related Fandoms (JK Rowling)  [^4]
 > - The Boys (2019)
+
+> [!warning]+ Restricted Fandoms
+> - KPop Demon Hunters (2025)
+> - Alien: Earth (2025)
+> - *Modern AUs set on modern everyday Earth for any sci-fi and/or fantasy fandoms*
+> - *"No Magic"/"All Human"/etc. AUs for any sci-fi and/or fantasy fandoms*
 ## Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
 > - Alexandra Daddario
@@ -64,11 +71,11 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > - Kayla Scodelario
 > - Eline Powell
 > - Jessica Chastain
-> - Models
+> - *Models*
 
 > [!warning]+ Restricted Faceclaims
-> - Musicians [^5]
-> - Youtubers [^5]
+> - *Musicians* [^5]
+> - *Youtubers* [^5]
 
 ---
 # Additional Rules & Guidelines May Apply
