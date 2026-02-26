@@ -25,7 +25,7 @@
 ---
 # Universal Headcanons
 > [!headcanon]- Necropolis Foundling
-> TBA
+> Bertrand is found as a toddler abandoned in the Necropolis, and is taken in by the Mourn Watch as one of their foundlings.
 
 
 
