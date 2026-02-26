@@ -118,8 +118,13 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 ---
 # Verses & AUs
 ## Specify Verse
-**TBA**
+**I strongly prefer when you choose which variant of my muse you wish to interact with.** This largely stems from experience with people frequently dropping interactions without saying a word about doing so because they're not *actually* interested in that muse and/or verse, and rather than just *saying so*, they run the risk of my eventually refusing to interact with them anymore when everything is frequently dropped instead.
 
+**If you're not interested in a verse/AU, you need to fill out the Disinterest Tracker and *let me know*.** I won't send anything your way that you actively state you're not interested in, but if you don't *tell me*, and it's not stated in your rules either, then how can I possibly know? I honestly don't have the energy to spare for this kind of behavior. If you can't be upfront about your disinterest in something when I have actively provided a means for you to do so, then we're probably not compatible roleplay partners.
+### Default Verses/AUs
+I typically default to a muse's canon-based verses and/or their fandom-matched to your muse's verse AUs (ie if your muse is from Baldur's Gate and you're interacting with Isabela Shepard, I will typically use one of her Baldur's Gate AUs unless the interaction is actually set within the Mass Effect universe).
+### If Not Specified
+In the event that you *don't* specify a verse, I will most likely fall back on one of my muse's default verses. In some cases, I may reach out and specifically request that you specify a verse, if I'm not certain where to go with an interaction otherwise (often as a result of indecision lock where there's too many possibilities).
 ## Private Verses & AUs
 Private Verses & AUs are largely reserved for Mains, Best Friends Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
 
