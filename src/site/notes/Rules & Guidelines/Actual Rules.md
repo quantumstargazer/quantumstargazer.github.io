@@ -41,7 +41,7 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 
 ---
 # Banned & Restricted Content
-These are banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — no exceptions will be made.
+The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for exceptions to be made.
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
 > - sexual content with any muse &/or faceclaim under the age of 18
@@ -55,16 +55,25 @@ These are banned or restricted due to *personal reasons*. All banned content lis
 > - scenes involving active labor and/or childbirth [^3]
 ## Fandoms
 > [!danger]+ Banned Fandoms — No Follow &/or Interaction
+> 
+> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
+> 
 > - Harry Potter & Related Fandoms (JK Rowling)  [^4]
 > - The Boys (2019)
 
 > [!warning]+ Restricted Fandoms
+> 
+> **While not outright banned, I have no interest in interacting with muses from and/or within AUs for any of the following:**
+> 
 > - KPop Demon Hunters (2025)
 > - Alien: Earth (2025)
 > - *Modern AUs set on modern everyday Earth for any sci-fi and/or fantasy fandoms*
 > - *"No Magic"/"All Human"/etc. AUs for any sci-fi and/or fantasy fandoms*
 ## Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
+> 
+> **I will not follow blogs (*including* multimuse blogs, *regardless* of their potential tagging system)[^6] and/or interact with muses who use any of the following for faceclaims:**
+> 
 > - Alexandra Daddario
 > - Anna Speckhart
 > - Anya Taylor-Joy
@@ -72,6 +81,7 @@ These are banned or restricted due to *personal reasons*. All banned content lis
 > - Eline Powell
 > - Jessica Chastain
 > - *Models*
+> - *Online Influencers and/or Content Creators*
 
 > [!warning]+ Restricted Faceclaims
 > - *Musicians* [^5]
@@ -106,3 +116,5 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 [^4]: I don't care *how anti-JK Rowling* you are — I will *not* follow or interact with you if you have any Harry Potter muses or verses/AUs on your blog. If we are mutuals, and you add such muses and/or verses/AUs in the future, I will break mutual status by hard blocking you. There will be *no exceptions* to this rule.
 
 [^5]: If they have *genuine face acting roles*, such as would be the case with someone like David Bowie in Labyrinth (1986), then they're fine. Cameos *do not count*, especially in the case of Youtubers.
+
+[^6]: If you use any of these faceclaims and follow me first, I will immediately outright block you — not simply to keep these faceclaims off my dash, but because at that point it is quite obvious that you didn't even bother reading my rules at all.
