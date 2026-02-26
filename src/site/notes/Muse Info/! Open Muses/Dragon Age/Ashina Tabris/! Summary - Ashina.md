@@ -19,7 +19,6 @@
 > - *pronouns:* She/Her/Herself
 
 > [!profile]- Additional Information
-> (*verse/timeline dependent*)
 > 
 >> [!stats]+ Age
 >> - *apparent age:* 45 +/- years (*9:51 Dragon*)
