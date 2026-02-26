@@ -5,21 +5,21 @@
 # Blanket Permissions
 ***Mutuals*** do not have to ask or wait for posts prompting them to do any of the following:
 - **Send Prompts/Memes To Inbox**
-	- Reverse Prompts/Memes
-	- Add Context, Tone Indicators, Etc. To Prompts/Memes
-	- Continue Answered Asks As Threads
+	- [[Rules & Guidelines/Guidelines#Reverse Prompts/Memes\|Reverse Prompts/Memes]]
+	- [[Rules & Guidelines/Guidelines#Adding Context To Memes/Prompts\|Add Context, Tone Indicators, Etc. To Prompts/Memes]]
+	- [[Rules & Guidelines/Guidelines#Continue As Threads\|Continue Answered Asks As Threads]]
 - **Write Starters For My Muses**
-	- Unprompted Random Starters
-	- Fill Starter Calls - Ask To Specify If Needed
+	- [[Rules & Guidelines/Guidelines#Write Starters For Me Whenever\|Unprompted Random Starters]]
+	- [[Rules & Guidelines/Guidelines#Write Starters For Me Whenever\|Fill Starter Calls - Ask To Specify If Needed]]
 - **Reply To Open Starters**
-	- Available to ALL Mutuals
+	- [[Rules & Guidelines/Guidelines#For Mutuals Only\|Available to ALL Mutuals]]
 	- Can adjust to fit most of the muse's verses &/or AUs
-	- Will create custom closed starters based on any upon request
+	- [[Rules & Guidelines/Guidelines#Customized Upon Request\|Will create custom closed starters based on any upon request]]
 - **Request That I Send Them Prompts/Memes**
-	- Use "Inbox Call" form
+	- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines#Inbox Call\|Use "Inbox Call" form]]
 - **Request That I Write Them Starters**
-	- Use "Starter Call" form
-	- Or join the "Best Friends Call" members list by filling out that form
+	- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines#Starter Call\|Use "Starter Call" form]]
+	- [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines#Best Friends Call\|Or join the "Best Friends Call" members list by filling out that form]]
 - **Ask To Plot For Threads, Verses, AUs, Etc.**
 	- Message on discord (only place I currently can handle plotting)
 - **Ask To Ship, Plot Dynamics, Etc.**
