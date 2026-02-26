@@ -18,35 +18,15 @@
 - **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
 - **In Character Posts Immediately** - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.
 
+> [!guideline] Blanket Permissions
+> 
+> See [[Rules & Guidelines/Additional Guidelines/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
+
 > [!ziggy]- Wordy AF - Unapologetically Neurodivergent
 > **AuDHD** means ***infodumping*** is likely to occur, and this means my posts, as well as the notes here, are likely to get *wordy*. I tend to try to be mindful of individual paragraph lengths, but there will often be *a lot* of paragraphs and/or bullet points.
 > 
 > If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I'm *probably* not the roleplay partner for you.
 
-## Blanket Permissions
-***Mutuals*** do not have to ask or wait for posts prompting them to do any of the following:
-- **Send Prompts/Memes To Inbox**
-	- *Reverse Prompts/Memes*
-	- *Add Context, Tone Indicators, Etc. To Prompts/Memes*
-	- *Continue Answered Asks As Threads*
-- **Write Starters For My Muses**
-	- *Unprompted Random Starters*
-	- *Fill Starter Calls - Ask To Specify If Needed*
-- **Reply To Open Starters**
-	- *Available to ALL Mutuals*
-	- *Can adjust to fit most of the muse's verses &/or AUs*
-	- *Will create custom closed starters based on any upon request
-- **Request That I Send Them Prompts/Memes**
-	- *Use "Inbox Call" form*
-- **Request That I Write Them Starters**
-	- *Use "Starter Call" form*
-	- *Or join the "Best Friends Call" members list by filling out that form*
-- **Ask To Plot For Threads, Verses, AUs, Etc.**
-	- *Message on discord (only place I currently can handle plotting)*
-- **Ask To Ship, Plot Dynamics, Etc.**
-	- *Message on discord &/or via tumblr inbox*
-- **Add As Friend On Discord**
-	- *Mutuals Only — info is in the pinned post*
 
 ---
 # Thread Tracking
@@ -111,6 +91,7 @@
 - *name/alias:* Ziggy
 - *pronouns:* they/them
 - *age:* 40+
+
 > [!example]+ Fandoms
 > - Baldur's Gate[^1] - *secondary — moderate activity*
 > - Dragon Age - *primary — high activity*
