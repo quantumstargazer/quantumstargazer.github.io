@@ -8,6 +8,9 @@
 > 
 > If you haven't done so already, you should read the [[Rules & Guidelines/Actual Rules\|Actual Rules]] before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 
+> [!guideline] Blanket Permissions
+> 
+> See [[Rules & Guidelines/Additional Guidelines/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
 ---
 # Interactions
@@ -66,14 +69,14 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > **The archive, gazingintoquantumstars, is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
 > 
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
-
+**
 ### Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself so I can find it later for the context).
 
 > [!guideline] Repeated Emojis & Mistaken Prompts For Sentence Starters
 > This is *especially* true for **emoji memes**[^4], as well as anything along the lines of **"*Send 'This is an example' for a starter about whatever the prompt is for*" style memes**, which are often easily confused for sentence starters if the full prompt isn't included.
 > 
-> When the meme is along the lines of ***"Send ♥️ for whatever the prompt is for"***, please send the *whole line of the prompt*, as any emoji meme is impossible to track down which one it's for unless received immediately after it posts, and even then, things can easily get mixed up with another recently reblogged prompt.
+> When the meme is along the lines of **"Send ♥️ for whatever the prompt is for"**, please send the *whole line of the prompt*, as any emoji meme is impossible to track down which one it's for unless received immediately after it posts, and even then, things can easily get mixed up with another recently reblogged prompt.
 
 ### Send Any Time
 **You do not have to wait for me to be active on the dash to send things!** My inbox is always open, unless I have *literally* turned it off.
