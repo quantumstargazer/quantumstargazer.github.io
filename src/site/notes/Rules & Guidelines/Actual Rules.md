@@ -24,12 +24,16 @@ If you don't have an age range that actively states you are *at least **21+*** l
 
 ---
 # Curate Your Own Dash
-> [!fail]- Regarding Others' "Dead Dove: Do Not Eat" Warnings
+> [!rule]- Regarding Others' "Dead Dove: Do Not Eat" Content Warnings
 > 
-> I do not follow anyone whose only warnings for their blog consists of "*Dead Dove*" without covering *what* topics, themes, tropes, etc. are likely to be found on the blog. And given that I typically *block* blogs with explicit roleplayed scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., if "*Dead Dove: Do Not Eat*" is the only warning you provide, then I'm going to assume those things are exactly what you write, and will proceed to curate my own dash accordingly by blocking you.
+> **I do *not* follow anyone whose *only* warning for their blog consists of "*Dead Dove: Do Not Eat*" without covering *what* topics, themes, tropes, etc. are likely to be found on their blog.** 
+> 
+> If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then I am going to assume that you write the content that I refuse to engage with at all and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
 > 
 > Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "don't blame me if you find content here you didn't like because you didn't read the warning labels provided" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
 
+## Rated for Mature Audiences Only
+My blog is intended for [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18. All three of my primary fandoms are *similarly rated* — Baldur's Gate, Dragon Age, and Mass Effect are *all* **ESRB Rated M for Mature (17+)**. Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged unless they go into explicit graphic detail. [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
