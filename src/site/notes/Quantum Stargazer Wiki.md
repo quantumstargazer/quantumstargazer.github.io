@@ -91,6 +91,10 @@
 - *name/alias:* Ziggy
 - *pronouns:* they/them
 - *age:* 40+
+- *rp & related blogs:* [quantumstargazer](https://quantumstargazer.tumblr.com/) - *Multifandom Multimuse (PRIMARY & MAIN BLOG)*
+	
+	- [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
+	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
 > [!example]+ Fandoms
 > - Baldur's Gate[^1] - *secondary — moderate activity*
