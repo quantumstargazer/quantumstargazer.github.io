@@ -56,12 +56,12 @@ We're here to have fun, so if something fits better if it's *my muse* doing or s
 You are *always* welcome to add context and/or expand on any meme and/or prompt (*including sentence starters*). In fact, it helps a great deal whenever someone *does* if they have something in particular in mind. 
 
 This is *especially* true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.
+### Continue As Threads
+You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 
 > [!guideline] Answered As Text Posts
 > As I *always* turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
 
-### Continue As Threads
-You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 ### Prompts Never Expire
 There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
 
@@ -119,7 +119,7 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 # Verses & AUs
 ## Specify Verse
 **I strongly prefer when *you* choose which variant of my muse you wish to interact with.** This largely stems from experience with people frequently dropping interactions without saying a word about doing so because they're not *actually* interested in that muse and/or verse, and rather than just *saying so*, they run the risk of my eventually refusing to interact with them anymore when everything is frequently dropped instead.
-
+### Disinterest Tracker
 **If you're not interested in a verse/AU, you need to fill out the Disinterest Tracker and *let me know*.** I won't send anything your way that you actively state you're not interested in, but if you don't *tell me*, and it's not stated in your rules either, then how can I possibly know? I honestly don't have the energy to spare for this kind of behavior. If you can't be upfront about your disinterest in something when I have actively provided a means for you to do so, then we're probably not compatible roleplay partners.
 ### Default Verses/AUs
 I typically default to a muse's canon-based verses and/or their fandom-matched to your muse's verse AUs (ie if your muse is from Baldur's Gate and you're interacting with Isabela Shepard, I will typically use one of her Baldur's Gate AUs unless the interaction is actually set within the Mass Effect universe).
