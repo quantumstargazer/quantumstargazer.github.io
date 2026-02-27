@@ -113,7 +113,7 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 
 [^3]: If pregnancy becomes a part of any interaction, the active labor and childbirth will be time skipped to when the baby has arrived and has been cleaned up — *no exceptions*.
 
-[^4]: I don't care *how anti-JK Rowling* you are — I will *not* follow or interact with you if you have any Harry Potter muses or verses/AUs on your blog. If we are mutuals, and you add such muses and/or verses/AUs in the future, I will break mutual status by hard blocking you. There will be *no exceptions* to this rule.
+[^4]: I don't care *how anti-JK Rowling* you are and/or claim to be — I will *not* follow or interact with you if you have any Harry Potter muses or verses/AUs on your blog. If we are mutuals, and you add such muses and/or verses/AUs in the future, I will break mutual status by hard blocking you. There will be *no exceptions* to this rule.
 
 [^5]: If they have *genuine face acting roles*, such as would be the case with someone like David Bowie in Labyrinth (1986), then they're fine. Cameos *do not count*, especially in the case of Youtubers.
 
