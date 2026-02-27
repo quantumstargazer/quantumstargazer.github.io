@@ -86,6 +86,10 @@
 ## Additional Guidelines
 - [[Rules & Guidelines/Additional Guidelines/Blanket Permissions - Guidelines\|Blanket Permissions]]
 - [[Rules & Guidelines/Additional Guidelines/Communications - Guidelines\|Communications]]
+	- [[Rules & Guidelines/Additional Guidelines/Communications - Guidelines#Discord\|Discord]]
+		- [[Rules & Guidelines/Additional Guidelines/Communications - Guidelines#Private Server Available Upon Request\|Private Server Available Upon Request]]
+	- [[Rules & Guidelines/Additional Guidelines/Communications - Guidelines#Tumblr Inbox\|Tumblr Inbox]]
+	- [[Rules & Guidelines/Additional Guidelines/Communications - Guidelines#Tumblr IMs\|Tumblr IMs]]
 - [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines\|Interaction Forms]]
 	- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines#Starter Call\|Starter Call]]
 	- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines#Inbox Call\|Inbox Call]]
