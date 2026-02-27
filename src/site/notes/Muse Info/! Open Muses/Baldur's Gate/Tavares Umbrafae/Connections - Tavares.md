@@ -23,7 +23,21 @@
 
 ---
 # Mains
-> [!attention] Not Currently Available
+> [!main]- Astarion Ancunín — lanternlit
+> 
+> ***verse(s):*** 
+> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares#lanternlit - Astarion Ancunín\|lanternlit - Astarion Ancunín]]
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Astarion Ancunín )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Astarion+Ancunín+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Tavares & Astarion ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Tavares+&+Astarion+(+lanternlit+))
+> - [Connection ☾⭒ Tavares x Astarion ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Tavares+x+Astarion+(+lanternlit+))
+>
+> *ship/dyn:*
+> - [Ship ☾⭒ Frost Bitten ( Tavares & Astarion — lanternlit )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+Frost+Bitten+(+Tavares+&+Astarion+—+lanternlit+))
 
 
 

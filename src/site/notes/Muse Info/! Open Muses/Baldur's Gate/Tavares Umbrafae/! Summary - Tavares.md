@@ -267,6 +267,18 @@
 
 ---
 # Private Verses & AUs
+## lanternlit - Astarion Ancunín
+> [!verse]- Absolute Crisis
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
 > 
