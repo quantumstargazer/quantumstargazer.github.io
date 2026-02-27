@@ -4,7 +4,7 @@
 
 # Frequently Asked Questions
 > [!faq] If You Have Questions, Just Ask!
-> You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr.
+> You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr or via discord.
 
 - [[Rules & Guidelines/Additional FAQ/Do's & Don't's - FAQ\|Do's & Don't's - FAQ]]
 - [[Rules & Guidelines/Additional FAQ/Fellow Stargazers - FAQ\|Fellow Stargazers - FAQ]]
@@ -33,7 +33,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 - **Send Prompts/Memes** - simply send me prompts whenever you want to
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
-	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in**
+	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
 
 ## Post Formatting
 > [!warning]- Regarding Accessible Formatting
@@ -80,7 +80,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 ### Other Verses & AUs
 - *Mostly future proofing*
 - Occasional verses/AUs that just don't quite fit into the other categories.
-- May include any purely multifandom verses &/or AUs.
+- May also include any purely multifandom verses &/or AUs.
 ### Private Verses & AUs
 - *Includes private Dynamic/Ship Verses & AUs — not limited to romantic shipping*
 - *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
@@ -90,7 +90,6 @@ If you're looking to start a thread with me, these are the best means to do so:
 # Following & Unfollowing
 ## Following
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
-
 ## Unfollowing
 ### No Interactions
 If my attempts at initiating interaction go ignored for an excessively extended period of time, I may choose to break mutual status and unfollow. I'm patient, but when 6+ months passes and I've been ignored that whole time after repeated attempted to start ic and/or ooc interactions, it is usually at that point that I will assume you're not likely to ever respond and I will stop trying, choosing to focus my attention and energy elsewhere.

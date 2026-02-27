@@ -118,7 +118,7 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 ---
 # Verses & AUs
 ## Specify Verse
-**I strongly prefer when you choose which variant of my muse you wish to interact with.** This largely stems from experience with people frequently dropping interactions without saying a word about doing so because they're not *actually* interested in that muse and/or verse, and rather than just *saying so*, they run the risk of my eventually refusing to interact with them anymore when everything is frequently dropped instead.
+**I strongly prefer when *you* choose which variant of my muse you wish to interact with.** This largely stems from experience with people frequently dropping interactions without saying a word about doing so because they're not *actually* interested in that muse and/or verse, and rather than just *saying so*, they run the risk of my eventually refusing to interact with them anymore when everything is frequently dropped instead.
 
 **If you're not interested in a verse/AU, you need to fill out the Disinterest Tracker and *let me know*.** I won't send anything your way that you actively state you're not interested in, but if you don't *tell me*, and it's not stated in your rules either, then how can I possibly know? I honestly don't have the energy to spare for this kind of behavior. If you can't be upfront about your disinterest in something when I have actively provided a means for you to do so, then we're probably not compatible roleplay partners.
 ### Default Verses/AUs
