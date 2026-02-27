@@ -10,6 +10,7 @@
 - [[Rules & Guidelines/Actual Rules#Don't Be A Dick\|Don't Be A Dick]]
 - [[Rules & Guidelines/Actual Rules#21+ & Mutuals Only\|21+ & Mutuals Only]]
 - [[Rules & Guidelines/Actual Rules#Curate Your Own Dash\|Curate Your Own Dash]]
+	- [[Rules & Guidelines/Actual Rules#Rated for Mature Audiences Only\|Rated for Mature Audiences Only]]
 	- [[Rules & Guidelines/Actual Rules#Don't Like? Don't Follow.\|Don't Like? Don't Follow.]]
 	- [[Rules & Guidelines/Actual Rules#Hard Block Only - No Soft Block\|Hard Block Only - No Soft Block]]
 - [[Rules & Guidelines/Actual Rules#Banned & Restricted Content\|Banned & Restricted Content]]
