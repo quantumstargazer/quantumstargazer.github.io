@@ -104,7 +104,9 @@
 # Canon Typical
 > [!verse]+ Dragon Age
 > 
-> In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas, 
+> Haleir is the First of Clan Lavellan, sent to spy on the Conclave for the Dalish clan in 9:41 Dragon, only to find herself in the midst of a conspiracy when the Temple of Sacred Ashes is destroyed and the Breach has torn open the Veil into the Fade.
+> 
+> In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas and his cause, leaving with him through the eluvian.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
