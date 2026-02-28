@@ -48,6 +48,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
 > - anything involving Alpha/Beta/Omega (*Omegaverse*) dynamics &/or settings
+> - anything involving Real Person Fiction (*RPF*)[^7]
 
 > [!warning]+ Restricted Tropes & Themes
 > - magic anons of any kind
@@ -118,3 +119,5 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 [^5]: If they have *genuine face acting roles*, such as would be the case with someone like David Bowie in Labyrinth (1986), then they're fine. Cameos *do not count*, especially in the case of Youtubers.
 
 [^6]: If you use any of these faceclaims and follow me first, I will immediately outright block you — not simply to keep these faceclaims off my dash, but because at that point it is quite obvious that you didn't even bother reading my rules at all.
+
+[^7]: ie roleplaying as *actual people*, living or dead, *not* fictional versions of them from movies, television shows, games, fictional novels, etc.
