@@ -35,22 +35,23 @@
 - 
 
 # H
-- 
+- Halsin
 
 # I
 - 
 
 # J
-- 
+- Jaheira
 
 # K
-- 
+- Karlach Cliffgate
 
 # L
-- 
+- Lae'zel
 
 # M
-- 
+- Minsc
+- Minthara Baenre 
 
 # N
 - 
@@ -65,10 +66,10 @@
 - 
 
 # R
-- 
+- Raphael
 
 # S
-- 
+- Shadowheart
 
 # T
 - Tiefling

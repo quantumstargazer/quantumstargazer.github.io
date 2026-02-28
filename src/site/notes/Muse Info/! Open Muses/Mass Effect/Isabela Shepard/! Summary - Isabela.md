@@ -66,12 +66,13 @@
 >> 	- Palaven Standard (*Turian — non-fluent*)
 > 
 >> [!stats]- Social Standing & Affiliations 
->> - *affiliated organizations:* Special tactics & Reconnaissance
+>> - *affiliated organizations:* Special Tactics & Reconnaissance
 >> - *extended affiliations:* Human Systems Alliance
 >> - *employer(s)/patron(s):* Citadel Council
 >> - *occupation(s):* Council Spectre
->> - *title(s):* Spectre
 >> 	- N7 Operative
+>> - *title(s):* Spectre
+>> 	- Commander
 > 
 >> [!stats]- Spiritual Beliefs 
 >> - *beliefs:* Faithless
