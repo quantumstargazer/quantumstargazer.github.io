@@ -92,7 +92,7 @@
 > 
 > - *Companion (Non-Tav/Party Leader) AU*
 > 
-> Summary goes here.
+> Faeynore Moonstar is a private investigator out of Baldur's Gate. They are investigating a case when the nautiloid attacks the city, and whether they are abducted themself, or simply follow the trail of missing persons to try to find the source of disappearances, they are caught up in the conspiracy involving cults, mind flayer parasites, and other machinations taking place throughout Faerûn.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -105,7 +105,7 @@
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
 > 
-> Summary goes here.
+> Faeynore Moonstar is a private investigator out of Baldur's Gate. They are investigating a case when the nautiloid attacks the city, and are among the many who are picked up and subsequently infected with a mind flayer parasite.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
