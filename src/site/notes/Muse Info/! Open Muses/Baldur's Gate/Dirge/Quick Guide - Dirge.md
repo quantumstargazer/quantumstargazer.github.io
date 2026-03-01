@@ -69,6 +69,19 @@
 > 
 
 
+## Bhaal's Chosen Guides
+### Things *You* Should Know
+> [!hint]-
+> 
+
+### Things Your Muse *Could* Know
+> [!hint]-
+> 
+
+### Things Your Muse Should *Not* Know
+> [!attention]-
+
+
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
