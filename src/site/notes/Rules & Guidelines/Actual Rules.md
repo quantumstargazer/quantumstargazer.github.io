@@ -59,15 +59,16 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > 
 > **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
 > 
-> - Harry Potter & Related Fandoms (JK Rowling)  [^4]
-> - The Boys (2019)
+> - Harry Potter & Related Fandoms (*JK Rowling*)  [^4]
+> - The Boys (*2019*)
+> - Heated Rivalry (*2026*)
 
 > [!warning]+ Restricted Fandoms
 > 
 > **While not outright banned, I have no interest in interacting with muses from and/or within AUs for any of the following:**
 > 
-> - KPop Demon Hunters (2025)
-> - Alien: Earth (2025)
+> - KPop Demon Hunters (*2025*)
+> - Alien: Earth (*2025*)[^8]
 > - *Modern AUs set on modern everyday Earth for any sci-fi and/or fantasy fandoms*
 > - *"No Magic"/"All Human"/etc. AUs for any sci-fi and/or fantasy fandoms*
 ## Faceclaims
@@ -121,3 +122,5 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 [^6]: If you use any of these faceclaims and follow me first, I will immediately outright block you — not simply to keep these faceclaims off my dash, but because at that point it is quite obvious that you didn't even bother reading my rules at all.
 
 [^7]: ie roleplaying as *actual people*, living or dead, *not* fictional versions of them from movies, television shows, games, fictional novels, etc.
+
+[^8]: The original Alien and Aliens, and the video game tie-ins for them, are fine.
