@@ -77,7 +77,7 @@
 ---
 # Muse Rosters
 > [!faq]- Activity Levels Based On Fandom - Not Individual Muse
-> - Activity is based on the fandom as opposed to the individual muse.
+> - **Activity is based on the fandom as opposed to the individual muse.**
 > - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
 > - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
 
