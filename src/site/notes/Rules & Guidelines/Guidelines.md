@@ -71,7 +71,7 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
 **
 ### Include Full Prompt When Sending
-I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself so I can find it later for the context).
+I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
 
 > [!guideline] Repeated Emojis & Mistaken Prompts For Sentence Starters
 > This is *especially* true for **emoji memes**[^4], as well as anything along the lines of **"*Send 'This is an example' for a starter about whatever the prompt is for*" style memes**, which are often easily confused for sentence starters if the full prompt isn't included.
