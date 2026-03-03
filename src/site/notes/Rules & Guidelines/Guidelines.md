@@ -14,6 +14,14 @@
 
 ---
 # Interactions
+## Best Ways To Interact
+### Prompts/Memes 
+This is by far the easiest way for me to interact initially — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
+### Discord
+Discord — whether DMs and/or private 1-on-1 servers for organizing plotting — is by far my preferred method for direct chatting/plotting/etc. 
+#### Why Not Tumblr IMs?
+Tumblr IMs are inaccessible for me. Also, the notifications for them are broken for me, more often than not, thanks to my having no less than 2 tumblr tabs open at all times, plus multiple mobile devices logged in as well. So nothing time sensitive should ever be sent via IMs, as I may not see it for days or even weeks, if ever, since I never actually use them myself beyond very quick one off messages.
+
 ## Continuity
 I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term, allowing dynamics to build over time through in-character interactions and out-of-character plotting.
 ### Separate Multi-Verse Continuities
