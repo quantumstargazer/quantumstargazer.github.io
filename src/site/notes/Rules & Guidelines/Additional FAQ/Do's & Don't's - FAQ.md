@@ -68,7 +68,7 @@
 # Things You Should NOT Do
 - **Don't be a dick** - This is ultimately what all of the rules & guidelines boil down to.
 - **Don't send anonymous hate** - Anon is a *privilege*, not a right. I keep it on for prompts/memes, and the socially anxious. Not for dicks to be assholes. If you send anon hate, know that it will be screencapped and shared and mocked in private among my friends, while the ask itself will be reported to tumblr for harassment.
-- **Don't follow without at least reading the [[Rules & Guidelines/Actual Rules\|Actual Rules]] bits** - Seriously, this has become *that much* of an issue...
+- **Don't follow without at least reading the [[Rules & Guidelines/Actual Rules\|Rules & Guidelines/Actual Rules]] bits** - Seriously, this has become *that much* of an issue...
 - **Don't interact without reading the rules & guidelines** - It will inevitably become obvious you didn't read them, and chances are that I will likely simply block you, depending on the severity of the lines crossed as a result.
 - **Don't assume I am my muses** - Honestly, [just read this psa](https://gazingintoquantumstars.tumblr.com/post/795869211991900160) for more on this one.
 - **Don't reblog things you're not a part of** - This *especially* goes for roleplay threads, "missing scenes" (ficlets that are tied to specific ships &/or dynamics), headcanons, verse details, etc. If you're not *actively tagged in them*, they are not for you to reblog without my express permission.

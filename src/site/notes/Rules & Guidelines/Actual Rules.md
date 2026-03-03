@@ -14,13 +14,15 @@ This *should* got without saying, *and yet...*[^1]
 
 ---
 # 21+ & Mutuals Only
-> [!caution]- Viewer Discretion Is Advised
-> Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
-
 > [!rule]- Must Be 18+ To Follow
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing with you until you are at least 21.
-
+## Only Interacts With 21+
 If you don't have an age range that actively states you are *at least **21+*** listed on your blog and/or in your rules, I *will not* follow you, nor will I write roleplay with you. I am in my early 40s, and just simply do not wish to write with anyone younger than US drinking age at this point.
+## Rated for Mature Audiences Only
+**My blog is intended for [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** All three of my primary fandoms are *similarly rated* — Baldur's Gate, Dragon Age, and Mass Effect are *all* **ESRB Rated M for Mature**. Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
+
+> [!caution]- Viewer Discretion Is Advised
+> Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
 
 ---
 # Curate Your Own Dash
@@ -31,9 +33,6 @@ If you don't have an age range that actively states you are *at least **21+*** l
 > If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then I am going to assume that you write the content that I refuse to engage with at all and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
 > 
 > Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "don't blame me if you find content here you didn't like because you didn't read the warning labels provided" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
-
-## Rated for Mature Audiences Only
-**My blog is intended for [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** All three of my primary fandoms are *similarly rated* — Baldur's Gate, Dragon Age, and Mass Effect are *all* **ESRB Rated M for Mature**. Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/Additional FAQ/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
@@ -42,6 +41,10 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 ---
 # Banned & Restricted Content
 The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for exceptions to be made.
+## AI Generated Content
+> [!rule]+ DNI If You Use AI In Your Writing &/or Graphics
+> 
+> **If you use AI in your roleplaying, you *will* be blocked on sight.** I am not interested in interacting with anyone who outsources their creativity to a machine, nor do I consent to any of my writing, artwork, graphics, etc. being fed into any LLM for content generation.
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
 > - sexual content with any muse &/or faceclaim under the age of 18
