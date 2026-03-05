@@ -28,7 +28,7 @@
 
 ---
 # Universal Wishlists
-> [!wishlist]- Secrets Revealed
+> [!wishlist]+ Secrets Revealed
 >
 >- (*verse/timeline dependent* — **Ashina must be Hero of Ferelden**)
 >
