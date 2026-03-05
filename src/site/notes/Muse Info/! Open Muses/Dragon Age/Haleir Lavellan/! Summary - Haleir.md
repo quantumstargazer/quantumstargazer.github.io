@@ -117,6 +117,17 @@
 
 ---
 # Canon Divergent AUs
+> [!verse]+ Wolf's Halla
+> 
+> Haleir has always had a fascination with Fen'Harel, seeing the god in a much more favorable light than most Dalish. For most of her life, this has led to her being seen as an outcast, as many feared her interest in the god would draw his attention to the clans.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]
+
 > [!verse]+ Ancient Times
 > 
 > - *Time Travel AU*
@@ -133,6 +144,19 @@
 > [!verse]+ Fen'Harel's Rebellion
 > 
 > - *Time Travel AU*
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+> [!verse]+ Elvhenan
+> 
+> - *Ancient Elf AU*
 > 
 > Summary goes here.
 > 
