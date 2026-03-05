@@ -10,7 +10,7 @@
 
 > [!guideline] Blanket Permissions
 > 
-> See [[Rules & Guidelines/Additional Guidelines/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
+> See [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
 ---
 # Interactions
@@ -156,32 +156,32 @@ As such, private verses are most likely available *only* for their intended part
 
 ---
 # Additional Guidelines
-- [[Rules & Guidelines/Additional Guidelines/Interaction Forms - Guidelines\|Interaction Forms]]
-- [[Rules & Guidelines/Additional Guidelines/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
-- [[Rules & Guidelines/Additional Guidelines/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+- [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+- [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+- [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
 ## Fandom-Specific Rules
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Baldur's Gate - Guidelines\|Baldur's Gate]]
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Dragon Age - Guidelines\|Dragon Age]]
-- [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/! Mass Effect - Guidelines\|Mass Effect]]
+- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
+- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Dragon Age - Rules\|Dragon Age]]
+- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Mass Effect - Rules\|Mass Effect]]
 
 > [!example]- Other Fandoms - Guidelines
 > **Secondary Fandoms**
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Doctor Who - Guidelines\|Doctor Who]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Elder Scrolls - Guidelines\|Elder Scrolls]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Fallout - Guidelines\|Fallout]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Stardew Valley - Guidelines\|Stardew Valley]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Doctor Who - Rules\|Doctor Who]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Elder Scrolls - Rules\|Elder Scrolls]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Fallout - Rules\|Fallout]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Stardew Valley - Rules\|Stardew Valley]]
 > 
 > **Tertiary Fandoms**
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/DC - Guidelines\|DC Comics]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Ghostbusters - Guidelines\|Ghostbusters]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Star Trek - Guidelines\|Star Trek]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/DC - Rules\|DC Comics]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Ghostbusters - Rules\|Ghostbusters]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Star Trek - Rules\|Star Trek]]
 > 
 > **Irregular Fandoms**
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Detroit Become Human - Guidelines\|Detroit: Become Human]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Good Omens - Guidelines\|Good Omens]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Marvel - Guidelines\|Marvel]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Our Flag Means Death - Guidelines\|Our Flag Means Death]]
-> - [[Rules & Guidelines/Additional Guidelines/Fandom Specific Guidelines/Supernatural - Guidelines\|Supernatural]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Detroit Become Human - Rules\|Detroit: Become Human]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Good Omens - Rules\|Good Omens]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Marvel - Rules\|Marvel]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Our Flag Means Death - Rules\|Our Flag Means Death]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Supernatural - Rules\|Supernatural]]
 
 
 

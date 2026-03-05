@@ -168,9 +168,9 @@
 
 > [!verse]+ Inquisitor Crow 
 > 
+> - **Combines Inquisitor + Antivan Crows AUs**
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
-> - *Combines Inquisitor + Antivan Crows AUs*
-> 
+>  
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
 > 
 >> [!info]- Verse Navigation
@@ -195,8 +195,8 @@
 
 > [!verse]+ Crows' Design
 > 
+> - **Darker branch of Crows' Due AU**
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
-> - *Darker branch of Crows' Due AU*
 > 
 > Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
 > 
@@ -224,7 +224,7 @@
 
 > [!verse]+ Lyrium Ghost
 > 
-> - *CW: Major Character Death (temporary)*
+> - **CW: Major Character Death (temporary)**
 > - *Starts in Post-Veilguard timeline. (9:55 - 9:69 Dragon)*
 > 
 > Despite her decades-long search, Ashina eventually succumbs to the blight in her veins, overcome by the Calling she has tried to avoid for so long. Refusing to keep the Warden tradition of fighting in the Deep Roads until her death — *or worse* — she instead turns to the Crows for a final contract to end her life. 
