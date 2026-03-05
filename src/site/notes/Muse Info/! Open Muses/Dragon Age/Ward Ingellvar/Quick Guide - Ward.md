@@ -32,21 +32,34 @@
 > - Depending on *when* and how they are at risk of corruption, they could also became a spirit of Spite, for their desperation to learn one specific thing is fueled by spite to prove someone wrong.
 
 ## Things Your Muse *Could* Know
+> [!hint]- Vorgoth's Ward
+> 
+> Ward is raised from infancy by Vorgoth within the Grand Necropolis. This contributes to many of their... eccentricities that they possess, including their being able to speak in the same manner as their guardian (ie they are able to use "THE VOICE LIKE THIS" when they wish to, and it is as startling as you can imagine for most people to experience).
+
 > [!hint]- Ghost of the Necropolis
+> 
 > Ward acquired this moniker as a child for the way they move through the Necropolis so quietly and often unseen, besides maybe tiny barely there glimpses of a flash of shock white hair or deathly silver-white eyes peeking out from behind a pillar, or from behind Vorgoth.
 > 
 > As they continue this behavior even after they graduate as an apprentice and become a proper Watcher, they never quite leave this moniker behind.
 
+> [!attention]- Ward can likely see & hear Spite
+> 
+> - **Open To Plotting** — *Spite &/or Lucanis roleplayers only*
+
+> [!attention]- Ward can likely understand Manfred
+> 
+> - **Open To Plotting** — *Manfred &/or Emmrich roleplayers only*
+
 ## Things Your Muse Should *Not* Know
 > [!attention]- Spirit turned Elf
-> (*verse/timeline dependent*)
 > 
-> - **With very few exceptions**, no one should be able to recognize Ward for being a spirit turned elf, *especially* once they are past their newborn infancy state.
+> - **With very few exceptions**, no one should be able to recognize Ward for being a spirit turned elf, *especially* once they are past their newborn infancy state. (*verse/timeline dependent*)
 > 
 > **Pre-Approved Exceptions**
 > - *Exceptions may be made for the following:* 
 > 	- Vorgoth
-> 	- Spite (*and by extension, potentially Lucanis*)
+> 	- Spite (*and, by extension, potentially Lucanis if it's revealed by Spite*)
+> 	- Manfred
 > 	- Solas
 > 	- Felassan
 > 	- The Evanuris
