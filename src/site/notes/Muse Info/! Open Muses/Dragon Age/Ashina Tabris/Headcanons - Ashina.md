@@ -54,7 +54,11 @@
 > TBA
 
 ### Pre-Origins (9:05 - 9:29 Dragon)
-> [!headcanon]-
+> [!headcanon]- Adaia's Death (9:24 Dragon)
+> 
+> - **CW: Minor Character Death, Parental Death, Murder (Assassination)**
+> - *Takes place shortly after the events of Leliana's Song (DLC).*
+> 
 > TBA
 
 ---
