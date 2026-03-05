@@ -116,8 +116,54 @@
 ---
 # Desired Dynamics
 ## Dragon Age
-> [!attention] Not Currently Available
+> [!wishlist]- Adaia Tabris (*née Arainai*)
 > 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Mother
+> 
+> TBA 
+> 
+> > [!spoiler]- Background: Runaway Crow
+> > 
+> > TBA 
+
+> [!wishlist]- Cyrion Tabris 
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Father
+> 
+> TBA 
+> 
+> > [!spoiler]- Background: Adaia Tabris née Arainai
+> > 
+> > TBA  
+
+> [!wishlist]- Soris
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Cousins
+> 
+> TBA 
+
+> [!wishlist]- Shianni
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Cousins
+> 
+> TBA 
+
 
 
 
