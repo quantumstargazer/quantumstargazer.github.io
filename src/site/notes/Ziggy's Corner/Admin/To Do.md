@@ -120,8 +120,8 @@
 - [ ] Wishlists
 #### Haleir Lavellan 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
-	- [ ] Canon Divergent AUs 
+	- [x] Canon Typical ✅ 2026-03-06
+	- [x] Canon Divergent AUs ✅ 2026-03-06
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
 	- [ ] Other Verses & AUs
@@ -131,8 +131,8 @@
 - [ ] Wishlists
 #### Bertrand Ingellvar 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
-	- [ ] Canon Divergent AUs 
+	- [x] Canon Typical ✅ 2026-03-06
+	- [x] Canon Divergent AUs ✅ 2026-03-06
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
 	- [ ] Other Verses & AUs
