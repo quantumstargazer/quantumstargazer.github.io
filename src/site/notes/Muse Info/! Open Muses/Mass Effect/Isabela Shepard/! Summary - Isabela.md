@@ -495,8 +495,12 @@
 > [!verse]- Absolute Crisis
 > 
 > - *Abducted By Nautiloid AU*
+> - *Set after returning from the galactic core (ME2)*
+> - *Starts during the nautiloid abductions (BG3)*
 > 
-> Summary goes here.
+> Isabela receives word about more colonies going dark after the Normandy's return from the galactic core when she and the crew took on the Collectors and destroyed their base. With the majority of the crew either returned to their lives or gone to their homeworlds to try to get support against the reaper threat, she investigates the colony on her own while the Normandy remains in orbit. When an unknown alien ship suddenly appears in low atmo, Isabela doesn't even have time to open comms to the Normandy before the strange tentacles reach her and she falls unconscious.
+> 
+> Waking up in a pod way too similar for comfort to those of the Collectors, Isabela soon finds herself infected with an alien parasite.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
