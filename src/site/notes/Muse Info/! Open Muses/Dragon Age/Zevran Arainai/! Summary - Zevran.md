@@ -102,7 +102,11 @@
 > 
 > - *Eighth Talon of the Antivan Crows (as of 9:45 Dragon)*
 > 
-> Summary goes here.
+> **Zevran Arainai** is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
+> 
+> After the Blight, he turns his attention to his personal fight for survival against House Arainai of the Antivan Crows, which eventually extends to the other houses as well, earning him the moniker of the Black Shadow after the deaths of several Talons, Guildmasters, and many Crows over the years. 
+> 
+> In 9:45 Dragon, Zevran takes advantage of the chaotic state of the Houses with the death of four Talons, sending warnings to Houses de Riva, Cantori, and Dellamorte to not intervene before he takes control of House Arainai and the seat of the Eighth Talon himself.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -117,7 +121,9 @@
 > 
 > - *Bane of the Antivan Crows AU*
 > 
-> Summary goes here.
+> **Zevran Arainai** is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
+> 
+> After the Blight, he turns his attention to his personal fight for survival against House Arainai of the Antivan Crows, which eventually extends to the other houses as well, earning him the moniker of the Black Shadow after the deaths of several Talons, Guildmasters, and many Crows over the years. 
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
