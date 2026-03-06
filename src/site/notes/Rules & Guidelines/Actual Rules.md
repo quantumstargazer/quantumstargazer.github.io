@@ -12,6 +12,10 @@
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
 
+> [!rule]+ Don't Misgender Muses
+> 
+> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
+
 ---
 # 21+ & Mutuals Only
 > [!rule]- Must Be 18+ To Follow
