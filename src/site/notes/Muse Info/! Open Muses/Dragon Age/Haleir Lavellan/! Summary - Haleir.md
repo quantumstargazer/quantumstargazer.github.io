@@ -119,6 +119,8 @@
 # Canon Divergent AUs
 > [!verse]+ Wolf's Halla
 > 
+> - *Devoted of Fen'Harel AU*
+> 
 > Haleir has always had a fascination with Fen'Harel, seeing the god in a much more favorable light than most Dalish. For most of her life, this has led to her being seen as an outcast, as many feared her interest in the god would draw his attention to the clans.
 > 
 >> [!info]- Verse Navigation 
@@ -132,7 +134,7 @@
 > 
 > - *Time Travel AU*
 > 
-> Summary goes here.
+> When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, long before the formation of the Veil.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -145,7 +147,7 @@
 > 
 > - *Time Travel AU*
 > 
-> Summary goes here.
+> When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, right in the midst of Fen'Harel's rebellion against the Evanuris.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -158,7 +160,7 @@
 > 
 > - *Ancient Elf AU*
 > 
-> Summary goes here.
+> Haleir is a servant of Mythal, bound to the All Mother by her vallaslin.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
