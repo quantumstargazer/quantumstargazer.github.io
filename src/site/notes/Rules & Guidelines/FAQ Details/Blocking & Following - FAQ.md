@@ -31,7 +31,7 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > - Non-Roleplayer (Personal) blogs
 > - Smut/fetish only roleplay blogs
 > - Lack of rules anywhere on blog, carrd, doc, site, etc.
-> - Incompatible rules with my own rules
+> - Incompatible rules with my own rules where no compromise can be made
 > - 
 
 ---
