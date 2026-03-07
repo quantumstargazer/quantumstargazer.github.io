@@ -170,6 +170,7 @@
 > 
 > - **Combines Inquisitor + Antivan Crows AUs**
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
+> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
 >  
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
 > 
@@ -183,6 +184,7 @@
 > [!verse]+ Crows' Due 
 > 
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
+> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
 > 
 > The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
 > 
@@ -197,6 +199,7 @@
 > 
 > - **Darker branch of Crows' Due AU**
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
+> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
 > 
 > Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
 > 
@@ -210,6 +213,7 @@
 > [!verse]+ Antivan Crows 
 > 
 > - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
+> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
 > 
 > Ashina escapes the Arl's Palace with her cousins and the other kidnapped women after she killed the Arl's son, his noble lackies, and all the guards that stood between her and the other elven women who had been taken to Vaughan Kendall's bedroom to be raped and/or killed. The city guard arrive shortly after the elves do, so Ashina claims sole responsibility for the slaughter at the practice and is immediately arrested and thrown into the palace dungeons for the Arl to decide her fate once he returns from Ostagar.
 > 
