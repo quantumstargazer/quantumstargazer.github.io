@@ -47,6 +47,8 @@
 | Assume canon accuracy            |    No    | ***Warned &/or Dropped*** |
 | Ignore canon divergences         |    No    | ***Warned &/or Dropped*** |
 | Write my muses for me            |    No    | ***Warned &/or Dropped*** |
+| Godmod (major)                   |    No    | ***Warned &/or Dropped*** |
+| Metagame                         |    No    | ***Warned &/or Dropped*** |
 
 ---
 # Things You Should Do
@@ -69,7 +71,7 @@
 
 - **Ask questions about my muses, their verses, &/or AUs** - I'm always happy to ramble about things to satisfy others' curiosity about these things.
 
-- **Read the muse & verse info** - This is *really important*, since while I say things are "canon-typical", that does *not* mean they're canon-compliant. I don't expect you to remember each and every little detail, but some things are big enough to throw things off course if you assume it's the same as in canon when it's not. A "Quick Guide To Interactions" is added to the bottom of all dossiers and verse details to assist with this.
+- **Read the muse & verse info** - This is *really important*, since while I say things are "canon-typical", that does *not* mean they're canon-compliant. I don't expect you to remember each and every little detail, but some things are big enough to throw things off course if you assume it's the same as in canon when it's not. 
 
 - **Ask to start over** - I default to trying to maintain some sense of continuity between interactions with the same muse pairings within the same verse (*ie the events of one thread may actively affect the events of another, if they take place with the same verse between the same muses written with the same partner*). If you're not happy with the direction things are going in within our interactions, feel free to ask to start over. We can plot things out a little to figure out the direction to move things in from there.
 
@@ -113,6 +115,10 @@
 - **Don't assume anything &/or everything I write is "*canon accurate*"** - I rely *heavily* on canon divergence, headcanons, mod integration, etc. I enjoy the hell out of a wide range of AUs, crossovers, etc. Canon is my sandbox, and I will destroy and rebuild it as I please.
 
 - **Don't write my muses for me** - This pertains to *their dialogue, thoughts, feelings, introspection, etc.* It is safe to assume that, if I don't write them resisting an action such as following your muse to another room, being touched, etc., that it is accepted as having occurred without having to explicitly write the action from their point of view. What's *not* accepted is you deciding for me how my muse feels, thinks, react emotionally and/or psychologically, etc.
+
+- **No major godmodding** - TBA
+
+- **No metagaming** - TBA
 
 - **Don't panic** - And always know where your towel is.
 
