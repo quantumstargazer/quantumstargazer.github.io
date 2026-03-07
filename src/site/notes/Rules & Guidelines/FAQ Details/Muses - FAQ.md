@@ -6,7 +6,6 @@
 > [!guideline]+ Availability Based On Fandom
 > 
 
-
 ---
 # Open Muses 
 > [!FAQ]+ What Are Open Muses?
@@ -17,15 +16,18 @@
 
 ---
 # By Request Only 
-
+> [!TIP]+ Available Only If You Ask!
+> I won't initiate anything with these muses until *after* you've specifically asked for them.
 
 ---
 # Friends Only 
-
+> [!WARNING]+ Not Open For Requests
+> These muses are available for highly selective individuals only, and are not requestable by anyone but them.
 
 ---
 # Irregulars 
-
+> [!WARNING]+ Mains & Best Friends Call Members Only
+> 
 
 ---
 
