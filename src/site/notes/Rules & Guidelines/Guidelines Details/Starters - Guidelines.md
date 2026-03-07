@@ -28,9 +28,9 @@ You can request for me to write starters for your muses from mine *at any time* 
 ---
 # Open Starters 
 I have dozens of open starters available, which can be replied to at any time, regardless of how long ago I posted it, and/or if it already has replies to it. I try to remember to move each reply to a new text post for thread tracking purposes (or may just repost the starter if I forget so I can carry on the thread to the original post).
-## For Mutuals Only
+## Opens For Mutuals Only
 Open Starters are for *mutuals only*, as is indicated in the starter post itself. Beyond that, they are rarely limited in any other way, but please be sure to read the tags before replying if there are any limits or restrictions mentioned. 
-## Customized Upon Request
+## Customized Opens Upon Request
 If the starter doesn't *quite* fit for your muse, verse, etc., I am more than happy to rewrite it as a closed starter for you instead. All you have to do is ask (either through discord, tumblr IMs, or the inbox) — just be sure to include the link to the original starter so I know which one it is you want me to base a closed starter on for you. 
 
 ---
