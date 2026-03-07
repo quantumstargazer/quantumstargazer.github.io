@@ -118,6 +118,33 @@ The following content is banned or restricted due to *personal reasons*. All ban
 - [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]] - *regarding my own exclusivity*
 - [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Other People's Exclusivity\|Other People's Exclusivity]] - *important if you practice exclusivity*
 - [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] - *important if you wish to write sexually explicit roleplay with me*
+### Fandom-Specific Rules
+- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
+- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Dragon Age - Rules\|Dragon Age]]
+- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Mass Effect - Rules\|Mass Effect]]
+
+> [!example]- Other Fandoms - Rules
+> 
+> *This is not a definitive list of fandoms that I am roleplay in and/or with. Fandoms may be added and/or removed at my digression as personal interest fluctuates.*
+> 
+> **Secondary Fandoms**
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Elder Scrolls - Rules\|Elder Scrolls]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Fallout - Rules\|Fallout]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Stardew Valley - Rules\|Stardew Valley]]
+> 
+> **Tertiary Fandoms**
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/DC - Rules\|DC Comics]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Doctor Who - Rules\|Doctor Who]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Ghostbusters - Rules\|Ghostbusters]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Star Trek - Rules\|Star Trek]]
+> 
+> **Irregular Fandoms**
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Detroit Become Human - Rules\|Detroit: Become Human]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Good Omens - Rules\|Good Omens]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Marvel - Rules\|Marvel]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Our Flag Means Death - Rules\|Our Flag Means Death]]
+> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Supernatural - Rules\|Supernatural]]
+
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
