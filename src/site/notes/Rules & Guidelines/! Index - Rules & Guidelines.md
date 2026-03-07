@@ -6,7 +6,7 @@
 **This page is simply an index of where to find specific rules, guidelines, and answers to frequently asked questions.** It is *not* a substitute for reading the [[Rules & Guidelines/Actual Rules\|Actual Rules]], as well as the rules and/or guidelines that are relevant to how you wish to interact.
 
 > [!attention] Sublinks Broken 
-> The current coding for the links doesn't work on the published page, so I have to go through and convert all the links on this page to a more web friendly markup. It will take me some time to do so, but the links to the pages themselves work & there are heading links in the right sidebar of each page for fast navigation.
+> The current coding for the indented section links doesn't work on the published page, so I have to go through and convert all the links on this page to a more web friendly markup. It will take me some time to do so, but the links to the pages themselves work & there are heading links in the right sidebar of each page for fast navigation.
 
 
 ---
