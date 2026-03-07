@@ -16,17 +16,28 @@ This *should* got without saying, *and yet...*[^1]
 > 
 > **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
 
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
+
 ---
 # 21+ & Mutuals Only
 > [!rule]- Must Be 18+ To Follow
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing with you until you are at least 21.
 ## Only Interacts With 21+
-If you don't have an age range that actively states you are *at least **21+*** listed on your blog and/or in your rules, I *will not* follow you, nor will I write roleplay with you. I am in my early 40s, and just simply do not wish to write with anyone younger than US drinking age at this point.
+I *will not* follow and/or roleplay with you if:
+- You don't have an age range listed on your blog &/or in your rules
+- You are under the age of 21
 ## Rated for Mature Audiences Only
-**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** All three of my primary fandoms are *similarly rated* — Baldur's Gate, Dragon Age, and Mass Effect are *all* **ESRB Rated M for Mature**. Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
+**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
+
+**The following fandoms are ESRB Rated M for Mature:**
+- Baldur's Gate
+- Dragon Age
+- Mass Effect
 
 > [!caution]- Viewer Discretion Is Advised
 > Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]]
 
 ---
 # Curate Your Own Dash
@@ -41,6 +52,8 @@ If you don't have an age range that actively states you are *at least **21+*** l
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
 If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^2]
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]]
 
 ---
 # Banned & Restricted Content
@@ -96,23 +109,23 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - *Musicians* [^5]
 > - *Youtubers* [^5]
 
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
+
 ---
 # Additional Rules & Guidelines May Apply
 ## Additional Rules
 - [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]] - *content that needs to be tagged*
 - [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]] - *regarding my own exclusivity*
 - [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Other People's Exclusivity\|Other People's Exclusivity]] - *important if you practice exclusivity*
+- [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] - *important if you wish to write sexually explicit roleplay with me*
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
 That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
 
-## Frequently Asked Questions
-- [[Rules & Guidelines/RP FAQ\|RP FAQ]]
-- [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts - FAQ]] 
-- [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ\|Fellow Stargazers - FAQ]]
-- [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only - FAQ]]
-- [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ\|Non-Roleplayers - FAQ]]
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] &/or [[Rules & Guidelines/! Index - Rules & Guidelines\|Index - Rules & Guidelines]]
+
+---
 
 
 
