@@ -9,13 +9,30 @@
 **I make liberal use of the block button.** In most cases, it is nothing personal — I am simply using the feature to its fullest to curate my dash as I see fit.
 ## Hard Block - Never Soft Block
 I have severe memory issues, so I do *not* soft block, even if that is *your* preference. My memory is not reliable enough to ensure I don't attempt to refollow anyone who isn't hard blocked, so I will *always* outright hard block anyone I do not wish to see on my dash at all. If you are bothered by people hard blocking you, then I may not be a suitable roleplay partner for you, in the event that blocking is ever needed in the future, because I will *not* be making exceptions to this for *anyone*.
+## Block On Sight - Hard Limits
+> [!rule]- What Would Cause Me To Block On Sight
+> 
+> **I block on sight for any of the following:**
+> - Age stated as being a minor (under 18)
+> - No age stated at all anywhere on your blog, carrd, doc, site, etc.
+> - Only content warning consists of "Dead Dove: Do Not Eat" without context
+> - Roleplaying acts of rape/non-consent, sexual assault, sexual violence, etc. on tumblr
+> - Roleplaying Alpha/Beta/Omega dynamics and/or settings on tumblr
+> - 
 
 ---
 # Following
 ## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
-
-
+## No Follow - Dealbreakers
+> [!guideline]- What Would Keep Me From Following
+> 
+> **I do not follow blogs for any of the following:**
+> - Non-Roleplayer (Personal) blogs
+> - Smut/fetish only roleplay blogs
+> - Lack of rules anywhere on blog, carrd, doc, site, etc.
+> - Incompatible rules with my own rules
+> - 
 
 ---
 # Unfollowing
