@@ -3,8 +3,9 @@
 ---
 
 # Inbox
-You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask)[^1].
-
+**You can send asks/prompts/memes/etc. to the inbox on the following blogs:**
+- [quantumstargazer](https://quantumstargazer.tumblr.com/ask) — *primary roleplay blog*
+- [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask) — *prompt/meme archive sideblog*[^1]
 ---
 # Reverse Prompts/Memes
 You are *always* welcome to reverse any meme and/or prompts (*including sentence starters*), simply by stating that you want it *reversed*, whether the original meme/prompt mentions the option in it or not. 
