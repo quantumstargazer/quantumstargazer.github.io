@@ -7,7 +7,7 @@
 > **I use a series of userscripts and stylesheets to make the tumblr dashboard accessible to me**, and without them, I often risk triggering a migraine just by scrolling past certain posts (typically those with double and/or multiple spaced text). These codes will be made available in the near future for everyone else to have access to as well.
 
 ---
-# Text Formatting
+# Accessible Text Formatting
 *What I use for formatting versus what I actually see on my display is not always the same thing, thanks to the stylesheets and userscripts I use. Tumblr's default font sizes for both regular and small text are uncomfortable for me to read, so I have made adjustments to both via stylesheets.*
 
 | Formatting | Style Used By Ziggy                               | Accessibility? |
