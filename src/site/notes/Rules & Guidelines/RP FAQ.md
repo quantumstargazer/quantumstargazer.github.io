@@ -10,9 +10,11 @@
 
 ---
 # Preferences
-## Starting Interactions
+
+---
+# Starting Interactions
 If you're looking to start a thread with me, these are the best means to do so: 
-### Request Ziggy Starts
+## Request Ziggy Starts
 - **Starter Call** (*form*) - available 24/7 to request that I write you a starter 
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from & in which verse variant(s)
@@ -21,7 +23,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from & in which verse variant(s)
 	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
-### For You To Start
+## For You To Start
 - **Write Starter(s)** - simply write me starters whenever you want to
 	- *Requirements:* **Mutuals Only**
 - **Reply To Open Starters** - simply reply to any of the open starters whenever you want to
@@ -33,10 +35,11 @@ If you're looking to start a thread with me, these are the best means to do so:
 
 > *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Starting Interactions - FAQ\|Starting Interactions]]
 
-## Post Formatting
+---
+# Post Formatting
 > [!warning]- Regarding Accessible Formatting
 > I use a series of userscripts and stylesheets to make the tumblr dashboard accessible to me, and without them, I often risk triggering a migraine just by scrolling past certain posts (typically those with double and/or multiple spaced text). These codes will be made available in the near future for everyone else to have access to as well.
-### Text Formatting
+## Text Formatting
 *What I use for formatting versus what I actually see on my display is not always the same thing, thanks to the stylesheets and userscripts I use. Tumblr's default font sizes for both regular and small text are uncomfortable for me to read, so I have made adjustments to both via stylesheets.*
 
 | Formatting | Style Used By Ziggy                               | Accessibility? |
@@ -45,7 +48,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 | Text Size  | Tumblr Default + Small Text for inline footnotes. |   Stylesheet   |
 | Font Style | Tumblr Default                                    |   Stylesheet   |
 | Font Color | Tumblr Default                                    |   Stylesheet   |
-### Other Post Details
+## Other Post Details
 *In terms of icons and graphics, I don't care what others use, unless you make a habit of using flashing gifs, at which point I may not be able to interact with you if it proves to be a problem with my migraines.*
 
 *In terms of the actual text, please be sure to use proper paragraph breaks and sentence case, as the lack of such often makes it impossible for me to read, between the constant low level headaches that I have (not including the migraine spikes), and the ADHD making large single blocks of text often impossible to keep up with where I am in them.*[^3]
@@ -89,16 +92,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 > *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ\|Verses & AUs]]
 
 ---
-# Following & Unfollowing
-## Following = Want To Write With You
-**I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
-## Unfollowing
-### No Interactions
-If my attempts at initiating interaction go ignored for an excessively extended period of time, I may choose to break mutual status and unfollow. I'm patient, but when 6+ months passes and I've been ignored that whole time after repeated attempted to start ic and/or ooc interactions, it is usually at that point that I will assume you're not likely to ever respond and I will stop trying, choosing to focus my attention and energy elsewhere.
-### Archived Blogs
-I will typically unfollow any archived blogs whenever I notice the announcement that it's being moved to a new blog. If we haven't been actively writing with each other, I typically *won't* follow the new blog first, and will leave it to you to decide whether or not you wish to continue being mutuals.
-### Sudden Incompatibility
-If your rules change and suddenly become incompatible with my own, or your entire blogs changes to the point that I'm no longer comfortable following you for whatever reason, I will typically unfollow and likely block in the process as well, where such incompatibility issues are concerned so as not to accidentally refollow again in the future.
+# Blocking & Following
 
 > *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
 
@@ -111,7 +105,24 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
 
 ---
+# Following
+## Following = Want To Write With You
+**I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
 
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+
+---
+# Unfollowing
+## No Interactions
+If my attempts at initiating interaction go ignored for an excessively extended period of time, I may choose to break mutual status and unfollow. I'm patient, but when 6+ months passes and I've been ignored that whole time after repeated attempted to start ic and/or ooc interactions, it is usually at that point that I will assume you're not likely to ever respond and I will stop trying, choosing to focus my attention and energy elsewhere.
+## Archived Blogs
+I will typically unfollow any archived blogs whenever I notice the announcement that it's being moved to a new blog. If we haven't been actively writing with each other, I typically *won't* follow the new blog first, and will leave it to you to decide whether or not you wish to continue being mutuals.
+## Sudden Incompatibility
+If your rules change and suddenly become incompatible with my own, or your entire blogs changes to the point that I'm no longer comfortable following you for whatever reason, I will typically unfollow and likely block in the process as well, where such incompatibility issues are concerned so as not to accidentally refollow again in the future.
+
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+
+---
 
 
 [^1]: That *don't* fall into the realm of "being a dick" — any and all anon hate is screen capped and mocked privately with my friends, while the messages themselves are blocked and/or reported.
