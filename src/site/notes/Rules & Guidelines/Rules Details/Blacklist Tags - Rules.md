@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/blacklist-tags-rules/","tags":["rules","guidelines","blacklist"]}
 ---
 
-# Blacklist Tags Requested
+# Blacklist Tags
 ## Tag Format
 Please tag using one or more of the following formats:
 - **content cw** 
