@@ -6,6 +6,8 @@
 > [!faq] If You Have Questions, Just Ask!
 > You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr or via discord.
 
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ\|Answered FAQs]]
+
 ---
 # Preferences
 ## Starting Interactions
@@ -28,6 +30,8 @@ If you're looking to start a thread with me, these are the best means to do so:
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
 	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
+
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Starting Interactions - FAQ\|Starting Interactions]]
 
 ## Post Formatting
 > [!warning]- Regarding Accessible Formatting
@@ -52,6 +56,8 @@ If you're looking to start a thread with me, these are the best means to do so:
 | Graphics                   | Banners & Dividers                             |        n/a        |
 | Paragraph Length           | Typically 4 to 6 lines, minus inline footnotes |        n/a        |
 | Case (*ie Capitalisation*) | Proper Sentence Case                           | (*working on it*) |
+
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Post Formatting - FAQ\|Post Formatting]]
 
 ---
 # Verses & AUs
@@ -80,6 +86,8 @@ If you're looking to start a thread with me, these are the best means to do so:
 - *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ\|Verses & AUs]]
+
 ---
 # Following & Unfollowing
 ## Following = Want To Write With You
@@ -92,20 +100,17 @@ I will typically unfollow any archived blogs whenever I notice the announcement 
 ### Sudden Incompatibility
 If your rules change and suddenly become incompatible with my own, or your entire blogs changes to the point that I'm no longer comfortable following you for whatever reason, I will typically unfollow and likely block in the process as well, where such incompatibility issues are concerned so as not to accidentally refollow again in the future.
 
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+
 ---
 # Blocking
 **I make liberal use of the block button.** In most cases, it is nothing personal — I am simply using the feature to its fullest to curate my dash as I see fit.
 ## Hard Block - Never Soft Block
 I have severe memory issues, so I do *not* soft block, even if that is *your* preference. My memory is not reliable enough to ensure I don't attempt to refollow anyone who isn't hard blocked, so I will *always* outright hard block anyone I do not wish to see on my dash at all. If you are bothered by people hard blocking you, then I may not be a suitable roleplay partner for you, in the event that blocking is ever needed in the future, because I will *not* be making exceptions to this for *anyone*.
 
----
-# Random Vaguely Related Things
-## Corrections Welcome
-**If you notice broken links, typos, grammar mistakes, etc., *absolutely* let me know!** I run on a perpetual *negative spoons* in terms of energy available, so it can take me hours, days, or even months to notice something is off. I will *not* be upset with you for telling me that there is a technical issue that is in need of being fixed — just be polite about it.
-## Lack Of Information
-**If there's a muse/verse/etc. you want more info on, *tell me***. I struggle to find focus where getting everything filled in is concerned, when the only thing I have to go by is how much interaction any given character is getting and in what verse(s). So those things inadvertently get prioritised, while everything else is sidelined initially, which I am aware can lead to people being hesitant to interact with it then.
+> *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
 
-But if I don't know there's any active interest in it, I don't know to actually try to focus on it. So ask questions. Request that I get the info up here on the site. I *want* to get everything available, but I'm already working at a disadvantage thanks to AuDHD and my chronic illnesses, so knowing there's interest will help give me direction when I actually feel up to working on things.
+---
 
 
 
