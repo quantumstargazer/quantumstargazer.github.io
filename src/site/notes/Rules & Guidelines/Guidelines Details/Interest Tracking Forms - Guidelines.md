@@ -6,7 +6,7 @@
 > *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
 
 ---
-# DisInterest Tracker
+# Disinterest Tracker
 > [!rule]+ Reverse UNO - Interest Assumed Unless Told Otherwise
 > Unless you fill out the **Disinterest Tracker** form to explicitly state that you are *not* interested in a muse and/or one or more of their verses/AUs, then I may send any and/or all of my muses your way in any of their canon-based and/or fandom-matched verses and/or AUs.
 > 
@@ -21,8 +21,6 @@ This form is *technically* optional, but if I start sending you muses and/or ver
 
 ---
 # RP Preference Tracker
-> [!help] Not Yet Implemented
-> 
 
 Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover as least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes post or a reblogged PSA.
 ## Optional But Recommended
@@ -54,7 +52,7 @@ Should you choose to join this list, you are helping reduce anxiety to interact 
 
 The above call extends to all forms of ships, including but not restricted to: friendships, romantic ships, companionships, enemy combatant ships, apprenticeships, worships, and more.
 
-
+---
 
 
 
