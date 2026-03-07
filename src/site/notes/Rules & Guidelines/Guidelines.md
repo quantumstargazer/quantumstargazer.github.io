@@ -16,31 +16,37 @@
 
 ---
 # Interactions
-## Best Ways To Interact
-### Prompts/Memes 
+
+---
+# Best Ways To Interact
+## Prompts/Memes 
 **This is by far the easiest way for me to interact initially** — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
-### Discord
+## Discord
 Discord — whether DMs and/or private 1-on-1 servers for organizing plotting — is by far my preferred method for direct chatting/plotting/etc. 
-#### Why Not Tumblr IMs?
+### Why Not Tumblr IMs?
 Tumblr IMs are inaccessible for me. Also, the notifications for them are broken for me, more often than not, thanks to my having no less than 2 tumblr tabs open at all times, plus multiple mobile devices logged in as well. So nothing time sensitive should ever be sent via IMs, as I may not see it for days or even weeks, if ever, since I never actually use them myself beyond very quick one off messages.
 
-## Continuity
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+
+---
+# Continuity
 I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term, allowing dynamics to build over time through in-character interactions and out-of-character plotting.
-### Separate Multi-Verse Continuities
+## Separate Multi-Verse Continuities
 This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag.
 
 > *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
 
-## Starters
-### Random Starters
+---
+# Starters
+## Random Starters
 I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
-#### Write Starters For Me Whenever
+### Write Starters For Me Whenever
 **This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. 
 
 > [!guideline] Automatic Starter Calls
 > **So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter.** If you want me to narrow down muses or anything, hit me up on discord or in my inbox, and I'll get back to you as soon as I'm able.
 
-### Requesting Starters
+## Requesting Starters
 You can request for me to write starters for your muses from mine *at any time* by filling out the **Starter Call form** linked in the pinned post and/or on the homepage of this site.
 
 > [!guideline] Form Required To Request Starters
@@ -51,32 +57,33 @@ You can request for me to write starters for your muses from mine *at any time* 
 >
 > The form *does* offer a "*Ziggy's Choice*" option for those who aren't picky and/or are feeling indecisive, though I may be slower to fill such requests if I don't have any direction whatsoever to work from.
 
-### Open Starters 
+## Open Starters 
 I have dozens of open starters available, which can be replied to at any time, regardless of how long ago I posted it, and/or if it already has replies to it. I try to remember to move each reply to a new text post for thread tracking purposes (or may just repost the starter if I forget so I can carry on the thread to the original post).
-#### For Mutuals Only
+### For Mutuals Only
 Open Starters are for *mutuals only*, as is indicated in the starter post itself. Beyond that, they are rarely limited in any other way, but please be sure to read the tags before replying if there are any limits or restrictions mentioned. 
-#### Customized Upon Request
+### Customized Upon Request
 If the starter doesn't *quite* fit for your muse, verse, etc., I am more than happy to rewrite it as a closed starter for you instead. All you have to do is ask (either through discord, tumblr IMs, or the inbox) — just be sure to include the link to the original starter so I know which one it is you want me to base a closed starter on for you. 
 
 > *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Starters - Guidelines\|Starters]]
 
-## Inbox
+---
+# Inbox
 You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask)[^1].
-### Reverse Prompts/Memes
+## Reverse Prompts/Memes
 You are *always* welcome to reverse any meme and/or prompts (*including sentence starters*), simply by stating that you want it *reversed*, whether the original meme/prompt mentions the option in it or not. 
 
 We're here to have fun, so if something fits better if it's *my muse* doing or saying the thing instead of yours (or vise versa, depending on the meme/prompt), then I'm game for flipping the script regardless of what the original meme/prompt poster intended.
-### Adding Context To Memes/Prompts
+## Adding Context To Memes/Prompts
 You are *always* welcome to add context and/or expand on any meme and/or prompt (*including sentence starters*). In fact, it helps a great deal whenever someone *does* if they have something in particular in mind. 
 
 This is *especially* true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.
-### Continue As Threads
+## Continue As Threads
 You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 
 > [!guideline] Answered As Text Posts
 > As I *always* turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
 
-### Prompts Never Expire
+## Prompts Never Expire
 There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
 
 > [!info] Regarding gazingintoquantumstars
@@ -84,7 +91,7 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > 
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
 **
-### Include Full Prompt When Sending
+## Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
 
 > [!guideline] Send Full Prompt For Anything NOT A Sentence Starter
@@ -98,7 +105,7 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 > 
 > **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
-### Send Any Time
+## Send Any Time
 **You do not have to wait for me to be active on the dash to send things!** My inbox is always open, unless I have *literally* turned it off.
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
