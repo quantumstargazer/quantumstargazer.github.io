@@ -88,7 +88,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 
 ---
 # Following & Unfollowing
-## Following
+## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
 ## Unfollowing
 ### No Interactions
