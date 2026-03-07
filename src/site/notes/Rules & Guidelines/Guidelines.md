@@ -12,6 +12,8 @@
 > 
 > See [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
+> *For Further Details, See:* [[Rules & Guidelines/Actual Rules\|The Actual Rules]] &/or [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
+
 ---
 # Interactions
 ## Best Ways To Interact
@@ -26,6 +28,8 @@ Tumblr IMs are inaccessible for me. Also, the notifications for them are broken 
 I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term, allowing dynamics to build over time through in-character interactions and out-of-character plotting.
 ### Separate Multi-Verse Continuities
 This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag.
+
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
 
 ## Starters
 ### Random Starters
@@ -53,6 +57,8 @@ I have dozens of open starters available, which can be replied to at any time, r
 Open Starters are for *mutuals only*, as is indicated in the starter post itself. Beyond that, they are rarely limited in any other way, but please be sure to read the tags before replying if there are any limits or restrictions mentioned. 
 #### Customized Upon Request
 If the starter doesn't *quite* fit for your muse, verse, etc., I am more than happy to rewrite it as a closed starter for you instead. All you have to do is ask (either through discord, tumblr IMs, or the inbox) — just be sure to include the link to the original starter so I know which one it is you want me to base a closed starter on for you. 
+
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Starters - Guidelines\|Starters]]
 
 ## Inbox
 You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask)[^1].
@@ -97,6 +103,8 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
 
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+
 ---
 # Ships & Dynamics
 ## Multi-Shipping
@@ -129,6 +137,8 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 > 
 > **Sending such is *not* considered forced shipping** — if I don't feel we're quite there yet, I will simply let the ask hang out in the inbox until a more suitable time to answer it.
 
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines\|Ships & Dynamics]]
+
 ---
 # Verses & AUs
 ## Specify Verse
@@ -148,6 +158,8 @@ It is *exceptionally rare* that I am willing to let anyone other than the intend
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines\|Verses & AUs]]
+
 ---
 # Plotting
 ## Improv Roleplay
@@ -160,36 +172,15 @@ As such, private verses are most likely available *only* for their intended part
 > 
 > If you are someone who needs to have strict plotting to know *exactly* where things begin, end, and everything that happens in between, we are *not* going to be compatible with each other.
 
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+
 ---
 # Additional Guidelines
 - [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
 - [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
 - [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
-## Fandom-Specific Rules
-- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
-- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Dragon Age - Rules\|Dragon Age]]
-- [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Mass Effect - Rules\|Mass Effect]]
 
-> [!example]- Other Fandoms - Guidelines
-> **Secondary Fandoms**
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Doctor Who - Rules\|Doctor Who]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Elder Scrolls - Rules\|Elder Scrolls]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Fallout - Rules\|Fallout]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Stardew Valley - Rules\|Stardew Valley]]
-> 
-> **Tertiary Fandoms**
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/DC - Rules\|DC Comics]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Ghostbusters - Rules\|Ghostbusters]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Star Trek - Rules\|Star Trek]]
-> 
-> **Irregular Fandoms**
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Detroit Become Human - Rules\|Detroit: Become Human]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Good Omens - Rules\|Good Omens]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Marvel - Rules\|Marvel]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Our Flag Means Death - Rules\|Our Flag Means Death]]
-> - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Supernatural - Rules\|Supernatural]]
-
-
+> *For Further Details, See:* [[Rules & Guidelines/! Index - Rules & Guidelines\|Index - Rules & Guidelines]]
 
 
 
