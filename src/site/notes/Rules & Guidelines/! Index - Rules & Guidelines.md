@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rules-and-guidelines/index-rules-and-guidelines/","tags":["rules","guidelines","faq","directory"]}
 ---
 
-# Rules & Guidelines
+# Index - Rules & Guidelines
 **This page is simply an index of where to find specific rules, guidelines, and answers to frequently asked questions.** It is *not* a substitute for reading the [[Rules & Guidelines/Actual Rules\|Actual Rules]], as well as the rules and/or guidelines that are relevant to how you wish to interact.
 
 ---
