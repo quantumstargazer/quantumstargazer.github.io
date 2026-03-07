@@ -16,7 +16,7 @@
 # Interactions
 ## Best Ways To Interact
 ### Prompts/Memes 
-This is by far the easiest way for me to interact initially — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
+**This is by far the easiest way for me to interact initially** — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
 ### Discord
 Discord — whether DMs and/or private 1-on-1 servers for organizing plotting — is by far my preferred method for direct chatting/plotting/etc. 
 #### Why Not Tumblr IMs?
