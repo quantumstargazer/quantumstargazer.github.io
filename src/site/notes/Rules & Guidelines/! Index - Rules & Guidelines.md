@@ -107,7 +107,7 @@
 
 ---
 # Frequently Asked Questions
-- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]]
+- [[Rules & Guidelines/RP FAQ\|RP FAQ]]
 ## FAQ Details
 1. [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ\|Answered FAQs]]
 2. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
