@@ -27,6 +27,7 @@
 	1. [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules#Don't Like? Don't Follow.\|Don't Like? Don't Follow.]]
 	2. [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules#Hard Block Only - No Soft Block\|Hard Block Only - No Soft Block]]
 5. [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
+	1. [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules#Misgendered Muses\|Misgendered Muses]]
 6. [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]]
 	1. [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Close Friends Only For Exclusives\|Close Friends Only For Exclusives]]
 	2. [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]]
