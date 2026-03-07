@@ -6,12 +6,6 @@
 > [!faq] If You Have Questions, Just Ask!
 > You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr or via discord.
 
-- [[Rules & Guidelines/FAQ Details/Do's & Don't's - FAQ\|Do's & Don't's - FAQ]]
-- [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ\|Fellow Stargazers - FAQ]]
-- [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only - FAQ]]
-- [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ\|Non-Roleplayers - FAQ]]
-- [[Rules & Guidelines/FAQ Details/This Site - FAQ\|This Site - FAQ]]
-
 ---
 # Preferences
 ## Starting Interactions
