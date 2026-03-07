@@ -81,10 +81,16 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 ### Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
 
-> [!guideline] Repeated Emojis & Mistaken Prompts For Sentence Starters
-> This is *especially* true for **emoji memes**[^4], as well as anything along the lines of **"*Send 'This is an example' for a starter about whatever the prompt is for*" style memes**, which are often easily confused for sentence starters if the full prompt isn't included.
+> [!guideline] Send Full Prompt For Anything NOT A Sentence Starter
 > 
-> When the meme is along the lines of **"Send ♥️ for whatever the prompt is for"**, please send the *whole line of the prompt*, as any emoji meme is impossible to track down which one it's for unless received immediately after it posts, and even then, things can easily get mixed up with another recently reblogged prompt.
+> **This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.**, but is *especially* important for anything involving emojis, as these are often repeated throughout many memes and are *impossible* to track down after a certain point.
+> 
+> Examples of what should be sent in the inbox include:
+> - "Send 'This is an example' for a starter about *whatever the prompt is*."
+> - "Send ♥️ for *whatever the prompt is*."
+> - "`[prompt]` for *whatever the prompt is*"
+> 
+> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
 ### Send Any Time
 **You do not have to wait for me to be active on the dash to send things!** My inbox is always open, unless I have *literally* turned it off.
