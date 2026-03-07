@@ -3,8 +3,11 @@
 ---
 
 # Do's & Don't's of Interacting
-## TL;DR 
-### Do
+
+
+---
+# TL;DR 
+## Do
 
 | Things                          | Do Them? |    Restrictions?     |
 | ------------------------------- | :------: | :------------------: |
@@ -26,7 +29,7 @@
 | Comment on HCs & other posts    |   Yes    |        *None*        |
 | Leave ❤️ in the comments        |   Yes    |        *None*        |
 
-### Don't
+## Don't
 
 | Things                           | Do Them? |       Consequences?       |
 | -------------------------------- | :------: | :-----------------------: |
