@@ -80,11 +80,11 @@ These are the people who I interact with the most, and whose interactions have a
 
 
 ---
-# Ships & Dynamics
-*These are connections with Private Verses & AUs that don't fit into any of the above categories only.*
+# Ships & Dynamics Partners
+*These are connections with ships and/or Private Verses & AUs that don't fit into any of the above categories only.*
 > *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow:*
 
-> [!attention] Not Currently Available
+> [!shipdyn]- Artis — luctumvigilanties
 > 
 
 
