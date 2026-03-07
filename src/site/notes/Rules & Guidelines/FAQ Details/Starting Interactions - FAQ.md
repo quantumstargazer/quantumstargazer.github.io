@@ -3,7 +3,7 @@
 ---
 
 # Starting Interactions
-If you're looking to start a thread with me, these are the best means to do so: 
+If you're looking to start a thread with me, these are the best means to do so.
 
 ---
 # Request Ziggy Starts
