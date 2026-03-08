@@ -43,6 +43,8 @@ This is *not* a comprehensive list of what you might find on my blogs, though it
 - monsters
 - aliens
 - outer space
+- cosmic horror 
+- eldritch horror 
 - underground
 - caves
 - magic
