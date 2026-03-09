@@ -3,6 +3,10 @@
 ---
 
 # Blocking & Following
+> [!attention]+ Selective & Mutuals Only
+> 
+> **I *am* selective and mutuals only**, but I also do follow back the *majority* of people who follow me first. Usually, the ones I *don't* follow back are the ones who clearly ignored everything regarding my clearly stated boundaries — my selectivity is more that someone has actually read my rules above anything else.
+
 
 ---
 # Blocking
