@@ -6,7 +6,7 @@
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
-**Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.**
+**Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
 
 ---
 # Don't Be A Dick
