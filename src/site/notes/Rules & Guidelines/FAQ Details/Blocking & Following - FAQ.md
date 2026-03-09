@@ -19,7 +19,6 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > **I block on sight for any of the following:**
 > - Age stated as being a minor (under 18)
 > - No age stated at all anywhere on your blog, carrd, doc, site, etc.
-> - Only content warning consists of "Dead Dove: Do Not Eat" without context
 > - Roleplaying acts of rape/non-consent, sexual assault, sexual violence, etc. on tumblr
 > - Roleplaying Alpha/Beta/Omega dynamics and/or settings on tumblr
 > - 
@@ -34,6 +33,7 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > **I do not follow blogs for any of the following:**
 > - Non-Roleplayer (Personal) blogs
 > - Smut/fetish only roleplay blogs
+> - Only content warning consists of "Dead Dove: Do Not Eat" without context
 > - Lack of rules anywhere on blog, carrd, doc, site, etc.
 > - Incompatible rules with my own rules where no compromise can be made
 > - 
