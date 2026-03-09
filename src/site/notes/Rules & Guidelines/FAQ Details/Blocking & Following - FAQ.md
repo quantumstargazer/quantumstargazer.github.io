@@ -35,7 +35,7 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > - Smut/fetish only roleplay blogs
 > - Only content warning consists of "Dead Dove: Do Not Eat" without context
 > - Lack of rules anywhere on blog, carrd, doc, site, etc.
-> - Incompatible rules with my own rules where no compromise can be made
+> - Incompatible rules with my own rules where no compromise &/or exception can reasonably be made (ie use of banned faceclaims, fandoms, &/or other content listed in [[Rules & Guidelines/Actual Rules\|the rules]]).
 > - 
 
 ---
