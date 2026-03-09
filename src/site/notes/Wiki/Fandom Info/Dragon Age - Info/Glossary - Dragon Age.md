@@ -172,6 +172,7 @@
 
 ---
 # V
+- Val Royeaux
 - Vallaslin
 - Varric Tethras
 - The Veil
