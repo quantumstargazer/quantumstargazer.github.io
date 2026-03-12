@@ -9,8 +9,32 @@ This *should* got without saying, *and yet...*[^1]
 # Misgendered Muses
 > [!rule]+ Don't Misgender Muses
 > 
-> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
+> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, *and* on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes. There is *no excuse* for not knowing each muse's pronouns.
 
 ---
+# Do Not Follow or Interact
+**You are not welcome on any of my blogs if *you* exhibit:** 
+- homophobia
+- biphobia
+- panphobia
+- aphobia
+- transphobia
+- LGBTQIA+ phobia of any kind
+- asexual exclusionism
+- aromantic exclusionism
+- transmedicalism
+- ableism
+- sexism
+- racism
+- nazism
+- fascism
+- rape supporter &/or apologist
+- JK Rowling supporter &/or apologist
+- Trump supporter &/or apologist
+- MAGA and other far right political affiliations
+- any other bigoted behaviour and beliefs
+
+
+
 
 [^1]: Given that I only write with those who are 21 years or older, if you've reached *that point* of your life and *still* don't know how to be a decent human being, then I truly would rather you go elsewhere, because I don't have the time nor the energy to deal with that kind of bullshit.
