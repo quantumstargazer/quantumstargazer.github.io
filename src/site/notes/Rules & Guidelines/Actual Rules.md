@@ -153,7 +153,10 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 > *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] &/or [[Rules & Guidelines/! Index - Rules & Guidelines\|Index - Rules & Guidelines]]
 
 ---
+# Rules Passwords
+**I do not send rules passwords.** In fact, I will not follow first if your rules have a password *to* send. If you follow *me* first, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception.
 
+---
 
 
 [^1]: Given that I only write with those who are 21 years or older, if you've reached *that point* of your life and *still* don't know how to be a decent human being, then I truly would rather you go elsewhere, because I don't have the time nor the energy to deal with that kind of bullshit.
