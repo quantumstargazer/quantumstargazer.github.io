@@ -6,6 +6,10 @@
 This *should* got without saying, *and yet...*[^1]
 
 ---
+# Muse ≠ Mun
+**I am not my muses and my muses are not me.** Do not make assumptions about what I do or do not condone based on my muses' actions and dialogue.
+
+---
 # Misgendered Muses
 > [!rule]+ Don't Misgender Muses
 > 
