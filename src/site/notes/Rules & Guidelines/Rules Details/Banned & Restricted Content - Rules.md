@@ -24,6 +24,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
 > - scenes involving active labor and/or childbirth [^3]
+> - ***Modern AUs*** set on modern everyday Earth for any sci-fi and/or fantasy fandoms
+> - ***"No Magic"/"All Human"/etc. AUs*** for any sci-fi and/or fantasy fandoms
 
 ---
 ## Fandoms
@@ -41,8 +43,6 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > 
 > - KPop Demon Hunters (*2025*)
 > - Alien: Earth (*2025*)[^8]
-> - *Modern AUs set on modern everyday Earth for any sci-fi and/or fantasy fandoms*
-> - *"No Magic"/"All Human"/etc. AUs for any sci-fi and/or fantasy fandoms*
 
 ---
 ## Faceclaims
