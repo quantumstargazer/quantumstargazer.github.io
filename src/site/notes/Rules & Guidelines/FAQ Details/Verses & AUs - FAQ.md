@@ -15,9 +15,11 @@
 - *Includes **Canon Typical** & **Canon Divergent AUs***
 - These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*)
 ## Fandom Specific AUs 
+- **Secondary option for most crossover interactions**
 - *Includes various crossover AUs*
 - These verses are where my muse's backstory typically is rewritten to fit them appropriately into another fandom's universe, as if they were *native* to that universe instead of their origin fandom — *in other words: **just like anyone else's Fandom AUs***
 ## Trapped In Another World AUs 
+- **Preferred default for most crossover interactions**
 - *Includes various universe displacement AUs*
 - Typically verses where my muse finds themselves in another fandom's universe by one means or another, and their (likely impossible) mission to find a way back home while trying to survive in an unfamiliar world.
 ## Other Verses & AUs
