@@ -44,6 +44,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - KPop Demon Hunters (*2025*)
 > - Alien: Earth (*2025*)[^8]
 > - Hazbin Hotel (*2019*)
+> - Helluva Boss
+> - Hellaverse & Related Fandoms
 
 ---
 ## Faceclaims
