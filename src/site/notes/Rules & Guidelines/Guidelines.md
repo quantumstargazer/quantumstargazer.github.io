@@ -6,13 +6,13 @@
 
 > [!attention]- Read Rules Before Following
 > 
-> If you haven't done so already, you should read the [[Rules & Guidelines/Actual Rules\|Actual Rules]] before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
+> If you haven't done so already, you should read the [Actual Rules](Rules%20&%20Guidelines/Actual%20Rules%5C) before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 
 > [!guideline] Blanket Permissions
 > 
-> See [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
+> See [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines.md) for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
-> *For Further Details, See:* [[Rules & Guidelines/Actual Rules\|The Actual Rules]] &/or [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
+> *For Further Details, See:* [The Actual Rules](Actual%20Rules.md) &/or [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines.md)
 
 ---
 # Interactions
@@ -26,7 +26,7 @@ Discord — whether DMs and/or private 1-on-1 servers for organizing plotting �
 ### Why Not Tumblr IMs?
 Tumblr IMs are inaccessible for me. Also, the notifications for them are broken for me, more often than not, thanks to my having no less than 2 tumblr tabs open at all times, plus multiple mobile devices logged in as well. So nothing time sensitive should ever be sent via IMs, as I may not see it for days or even weeks, if ever, since I never actually use them myself beyond very quick one off messages.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+> *For Further Details, See:* [Interactions](Interactions%20-%20Guidelines.md)
 
 ---
 # Continuity
@@ -34,7 +34,7 @@ I prefer to have a sense of continuity in the majority of my in character intera
 ## Separate Multi-Verse Continuities
 This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+> *For Further Details, See:* [Interactions](Interactions%20-%20Guidelines.md)
 
 ---
 # Starters
@@ -64,7 +64,7 @@ Open Starters are for *mutuals only*, as is indicated in the starter post itself
 ### Customized Upon Request
 If the starter doesn't *quite* fit for your muse, verse, etc., I am more than happy to rewrite it as a closed starter for you instead. All you have to do is ask (either through discord, tumblr IMs, or the inbox) — just be sure to include the link to the original starter so I know which one it is you want me to base a closed starter on for you. 
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Starters - Guidelines\|Starters]]
+> *For Further Details, See:* [Starters](Starters%20-%20Guidelines.md)
 
 ---
 # Inbox
@@ -110,7 +110,7 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+> *For Further Details, See:* [Inbox](Inbox%20-%20Guidelines.md)
 
 ---
 # Ships & Dynamics
@@ -144,7 +144,7 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 > 
 > **Sending such is *not* considered forced shipping** — if I don't feel we're quite there yet, I will simply let the ask hang out in the inbox until a more suitable time to answer it.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines\|Ships & Dynamics]]
+> *For Further Details, See:* [Ships & Dynamics](Ships%20&%20Dynamics%20-%20Guidelines.md)
 
 ---
 # Verses & AUs
@@ -165,7 +165,7 @@ It is *exceptionally rare* that I am willing to let anyone other than the intend
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines\|Verses & AUs]]
+> *For Further Details, See:* [Verses & AUs](Verses%20&%20AUs%20-%20Guidelines.md)
 
 ---
 # Plotting
@@ -179,15 +179,15 @@ As such, private verses are most likely available *only* for their intended part
 > 
 > If you are someone who needs to have strict plotting to know *exactly* where things begin, end, and everything that happens in between, we are *not* going to be compatible with each other.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+> *For Further Details, See:* [Interactions](Interactions%20-%20Guidelines.md)
 
 ---
 # Additional Guidelines
-- [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
-- [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
-- [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+- [Interaction Forms](Interaction%20Forms%20-%20Guidelines.md)
+- [Interest Tracking Forms](Interest%20Tracking%20Forms%20-%20Guidelines.md)
+- [Mods & Expanded Canon](Mods%20&%20Expanded%20Canon%20-%20Guidelines.md)
 
-> *For Further Details, See:* [[Rules & Guidelines/! Index - Rules & Guidelines\|Index - Rules & Guidelines]]
+> *For Further Details, See:* [Index - Rules & Guidelines](!%20Index%20-%20Rules%20&%20Guidelines.md)
 
 
 

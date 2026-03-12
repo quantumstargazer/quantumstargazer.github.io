@@ -25,7 +25,7 @@
 ---
 # Universal Guides
 ## Things *You* Should Know
-> [!hint]-
+> [!hint]- 
 > 
 
 ## Things Your Muse *Could* Know
@@ -41,7 +41,7 @@
 > 
 > > [!spoiler]- 
 > > **Favored by the Raven Queen**
-> > -  Faeynore does not know this themself
+> > -  Faeynore does not know this themself.
 
 
 ---

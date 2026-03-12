@@ -7,7 +7,6 @@
 > 
 > **I *am* selective and mutuals only**, but I also do follow back the *majority* of people who follow me first. Usually, the ones I *don't* follow back are the ones who clearly ignored everything regarding my clearly stated boundaries — my selectivity is more that someone has actually read my rules above anything else.
 
-
 ---
 # Blocking
 **I make liberal use of the block button.** In most cases, it is nothing personal — I am simply using the feature to its fullest to curate my dash as I see fit.
@@ -34,7 +33,7 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > - Non-Roleplayer (Personal) blogs
 > - Smut/fetish only roleplay blogs
 > - Only content warning consists of "Dead Dove: Do Not Eat" without context
-> - Lack of rules anywhere on blog, carrd, doc, site, etc.
+> - Lack of rules anywhere on blog, carrd, doc, site, etc. 
 > - Incompatible rules with my own rules where no compromise &/or exception can reasonably be made (ie use of banned faceclaims, fandoms, &/or other content listed in [[Rules & Guidelines/Actual Rules\|the rules]]).
 > - 
 
