@@ -4,11 +4,11 @@
 
 # Communications
 
-| Method           |            Accepted             |   Conditions   |
-| ---------------- | :-----------------------------: | :------------: |
-| **Discord**      |               Yes               | *Mutuals Only* |
-| **Tumblr Inbox** |               Yes               |      n/a       |
-| ***Tumblr IMs*** | **No**  — *Quick Messages Only* | *Mutuals Only* |
+| Method           |             Accepted             |   Conditions   |
+| ---------------- | :------------------------------: | :------------: |
+| **Discord**      |               Yes                | *Mutuals Only* |
+| **Tumblr Inbox** |               Yes                |      n/a       |
+| ***Tumblr IMs*** | **No** <br>*Quick Messages Only* | *Mutuals Only* |
 
 ---
 # Discord
