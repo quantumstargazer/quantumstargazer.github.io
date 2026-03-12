@@ -22,16 +22,22 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > - Roleplaying Alpha/Beta/Omega dynamics and/or settings on tumblr
 > - 
 
+## Constantly Dropped Interactions
+If you are constantly dropping our interactions, with or without notification of doing so, I may eventually lose interest in trying to interact with you any further and will likely proceed to block you so that I do not accidentally refollow again in the future. This is *not personal* — it is just immensely frustrating to try to build up stories and dynamics only for them to be discarded constantly, often without any actual communication. I am extremely patient, but even I have my limits when it comes to certain behaviors, and this is one of them.
+
 ---
 # Following
 ## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
+## Rules Passwords
+**I do not send rules passwords.** In fact, I will not follow first if your rules have a password *to* send. If you follow *me* first, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception.
 ## No Follow - Dealbreakers
 > [!guideline]- What Would Keep Me From Following
 > 
 > **I do not follow blogs for any of the following:**
 > - Non-Roleplayer (Personal) blogs
 > - Smut/fetish only roleplay blogs
+> - Group &/or discord roleplay blogs
 > - Only content warning consists of "Dead Dove: Do Not Eat" without context
 > - Lack of rules anywhere on blog, carrd, doc, site, etc. 
 > - Incompatible rules with my own rules where no compromise &/or exception can reasonably be made (ie use of banned faceclaims, fandoms, &/or other content listed in [[Rules & Guidelines/Actual Rules\|the rules]]).
