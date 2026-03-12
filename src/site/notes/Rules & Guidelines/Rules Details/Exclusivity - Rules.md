@@ -26,6 +26,6 @@
 
 ## No Exclusives On Follow
 **Do not make my muses your exclusives simply based on your following following my blog.** This makes me extremely uncomfortable when we have not even interacted, especially given how I only choose exclusives from established roleplay partners and do not expect that exclusivity to be mutual unless agreed upon out-of-character.
-## Close Friends Only For Exclusives
+## No Forced Exclusivity Of Any Kind
 **If we're not *extremely* close friends out-of-character, my muses are *not* available to be your exclusives in *any* way, *including* ship exclusives.** I am not willing to be near *anyone's* exclusive portrayal of any given canon and/or canon-inspired muse, largely in part due to the fact that my activity is often so sporadic, it would not only be unfair to you to limit yourself in that way, but also unfair to me for you trying to place that expectation of availability on me, which I would not be able to guarantee to be able to maintain.
 
