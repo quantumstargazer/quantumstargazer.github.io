@@ -23,7 +23,9 @@ I have severe memory issues, so I do *not* soft block, even if that is *your* pr
 > - 
 
 ## Constantly Dropped Interactions
-If you are constantly dropping our interactions, with or without notification of doing so, I may eventually lose interest in trying to interact with you any further and will likely proceed to block you so that I do not accidentally refollow again in the future. This is *not personal* — it is just immensely frustrating to try to build up stories and dynamics only for them to be discarded constantly, often without any actual communication. I am extremely patient, but even I have my limits when it comes to certain behaviors, and this is one of them.
+If you are constantly dropping our interactions, with or without notification of doing so, I may eventually lose interest in trying to interact with you any further and will likely proceed to block you so that I do not accidentally refollow again in the future. 
+
+This is *not personal* — it is just immensely frustrating to try to build up stories and dynamics only for them to be discarded constantly, often without any actual communication, and since I cannot simply unfollow and move on, due to my memory problems putting me at risk of accidentally following again in the future, blocking is the safer bet. I am extremely patient, but even I have my limits when it comes to certain behaviors, and this is one of them.
 
 ---
 # Following
