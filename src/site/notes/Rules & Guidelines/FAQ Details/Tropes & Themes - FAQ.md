@@ -6,8 +6,8 @@
 
 ---
 # Soulmates (subverted)
-*Those whose very being resonates with another — not through fate or destiny or "One True Love" — but simply that they are undeniably each other's Person(s), that their connection to one another may be beyond definition, etc.*
+- Those whose very being resonates with another — not through fate or destiny or "One True Love" — but simply that they are undeniably each other's Person(s), that their connection to one another may be beyond definition, etc.
 
-
+---
 
 
