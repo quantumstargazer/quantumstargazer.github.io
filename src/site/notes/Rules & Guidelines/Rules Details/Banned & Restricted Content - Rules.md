@@ -59,6 +59,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - Jessica Chastain
 > - *Models*
 > - *Online Influencers and/or Content Creators*
+> 
+> **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
 > [!warning]+ Restricted Faceclaims
 > - *Musicians* [^5]
