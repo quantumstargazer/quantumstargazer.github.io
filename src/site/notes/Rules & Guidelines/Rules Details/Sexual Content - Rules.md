@@ -8,9 +8,7 @@
 ---
 # Smut - 21+ & Mutuals Only
 ## No Anonymous NSFW
-**I will *not* answer anything NSFW sent anonymously.** If you do not want your username attached, that's fine — just tell me in the same ask and I will remove the note and post it as though it *was* sent anonymously.
-
-This is in part due to the risk of people under the age of 21 trying to bypass the rules by taking advantage of my inbox having anonymous sending turned on.
+**I will *not* answer anything NSFW sent anonymously.** If you do not want your username attached, that's fine — just tell me in the same ask and I will remove the note and post it as though it *was* sent anonymously. This is in part due to the risk of people under the age of 21 trying to bypass the rules by taking advantage of my inbox having anonymous sending turned on.
 
 ---
 # No Ship/Dynamic Required To Start
