@@ -16,14 +16,14 @@
 - **Hawke & Varric Tethras** - Dragon Age 2
 - **(female) Inquisitor & Dorian Pavus** - Dragon Age: Inquisition 
 - **Shepard & Garrus Vakarian** - Mass Effect
-- **Shepard & Jeff "Joker" Moreau** - Mass Effect 
+- **Shepard & Jeff "Joker" Moreau** - Mass Effect
+- **Eighth Doctor & Josie Day** - Doctor Who 
+- **Tenth Doctor & Donna Noble** - Doctor Who
+- **Irving Braxiatel & Bernice Summerfield** - Doctor Who
 - **Crowley & Aziraphale** - Good Omens
 - **Sherlock Holmes & Dr. John Watson** - Sherlock Holmes
 - **Link & Zelda** - Legend of Zelda
 - **Jessie & James** - Pokemon
-- **Eighth Doctor & Josie Day** - Doctor Who 
-- **Tenth Doctor & Donna Noble** - Doctor Who
-- **Irving Braxiatel & Bernice Summerfield** - Doctor Who
 
 ---
 # Reporting Corrections
