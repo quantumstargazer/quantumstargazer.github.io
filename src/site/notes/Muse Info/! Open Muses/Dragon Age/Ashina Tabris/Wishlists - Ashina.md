@@ -52,8 +52,13 @@
 > TBA
 
 ### Origins (9:30 - 9:34 Dragon)
-> [!wishlist]-
-> TBA
+> [!wishlist]- Crow Negotiations 
+> 
+> - **For Antivan Crows Talons Only.**
+> - *Set in 9:33 Dragon after she's fled Ferelden for Antiva.*
+> 
+> 
+
 
 ### Pre-Origins (9:05 - 9:29 Dragon)
 > [!wishlist]-
