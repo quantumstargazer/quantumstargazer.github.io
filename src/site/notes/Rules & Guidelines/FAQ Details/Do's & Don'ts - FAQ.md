@@ -3,7 +3,7 @@
 ---
 
 # Do's & Don'ts of Interacting
-
+> See also: [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
 
 ---
 # TL;DR 
