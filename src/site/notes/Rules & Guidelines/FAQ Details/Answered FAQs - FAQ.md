@@ -13,7 +13,8 @@
 
 ## Fictional Examples
 - **Shaun & Ed** - Shaun of the Dead
-- **Varric & Hawke** - Dragon Age 2
+- **Hawke & Varric Tethras** - Dragon Age 2
+- **(female) Inquisitor & Dorian Pavus** - Dragon Age: Inquisition 
 - **Shepard & Garrus Vakarian** - Mass Effect
 - **Shepard & Jeff "Joker" Moreau** - Mass Effect 
 - **Crowley & Aziraphale** - Good Omens
