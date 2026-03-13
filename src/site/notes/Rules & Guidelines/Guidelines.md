@@ -94,7 +94,7 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 ## Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
 
-> [!guideline] Send Full Prompt For Anything NOT A Sentence Starter
+> [!guideline]+ Send Full Prompt For Anything NOT A Sentence Starter
 > 
 > **This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.**, but is *especially* important for anything involving emojis, as these are often repeated throughout many memes and are *impossible* to track down after a certain point.
 > 
@@ -102,6 +102,7 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 > - "Send 'This is an example' for a starter about *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
 > - "`[prompt]` for *whatever the prompt is*"
+> - "PROMPT for `[link to meme on gazingintoquantumstars]`"[^7]
 > 
 > **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
@@ -206,3 +207,5 @@ As such, private verses are most likely available *only* for their intended part
 
 [^6]: A **queerplatonic relationship** is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
 	*source:* **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
+
+[^7]: As I regularly delete prompts reblogged onto quantumstargazer, please link to where I reblogged it from gazingintoquantumstars instead, so that I can still find it at a later date if necessary.
