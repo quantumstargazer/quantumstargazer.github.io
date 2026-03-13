@@ -11,6 +11,10 @@
 # Queerplatonic Dynamics
 ***TBA***
 
+## Fictional Examples
+- **Shaun & Ed** - Shaun of the Dead
+- **Varric & Hawke** - Dragon Age 2
+
 ---
 # Reporting Corrections
 **If you notice broken links, typos, grammar mistakes, etc., *absolutely* let me know!** I run on a perpetual *negative spoons* in terms of energy available, so it can take me hours, days, or even months to notice something is off. I will *not* be upset with you for telling me that there is a technical issue that is in need of being fixed — just be polite about it.
