@@ -14,6 +14,15 @@
 ## Fictional Examples
 - **Shaun & Ed** - Shaun of the Dead
 - **Varric & Hawke** - Dragon Age 2
+- **Shepard & Garrus Vakarian** - Mass Effect
+- **Shepard & Jeff "Joker" Moreau** - Mass Effect 
+- **Crowley & Aziraphale** - Good Omens
+- **Sherlock Holmes & Dr. John Watson** - Sherlock Holmes
+- **Link & Zelda** - Legend of Zelda
+- **Jessie & James** - Pokemon
+- **Eighth Doctor & Josie Day** - Doctor Who 
+- **Tenth Doctor & Donna Noble** - Doctor Who
+- **Irving Braxiatel & Bernice Summerfield** - Doctor Who
 
 ---
 # Reporting Corrections
