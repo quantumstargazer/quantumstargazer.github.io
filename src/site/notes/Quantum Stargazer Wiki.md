@@ -106,18 +106,20 @@
 >> [!todo]- Other Fandoms
 >> *This is not an extensive list of fandoms I'm interested in &/or familiar with enough to roleplay with. Please note: I don't keep up well with modern media, so don't expect me to be familiar with new things as soon as they come out.*
 >> - Addams Family
+>> - Battlestar Galactica
 >> - BioShock
 >> - DC (*focus:* Batman: The Animated Series)
 >> - Detroit: Become Human
 >> - Doctor Who (*Expanded Universe*)
 >> - Dungeons & Dragons (*tabletop rpg*)
->> - Elder Scrolls
+>> - Elder Scrolls (*focus:* Skyrim & ESO)
 >> - Fallout
 >> - Forgotten Realms (*D&D setting*)
 >> - Ghostbusters (*focus:* The ***Real*** Ghostbusters)[^3]
 >> - Marvel (*focus:* Iron Man/Tony Stark)[^4]
 >> - Our Flag Means Death
 >> - Portal
+>> - Quantum Leap
 >> - The Stanley Parable
 >> - Star Trek (*focus:* Original Series through Voyager)
 >> - Stardew Valley
