@@ -24,6 +24,13 @@
 - **Sherlock Holmes & Dr. John Watson** - Sherlock Holmes
 - **Link & Zelda** - Legend of Zelda
 - **Jessie & James** - Pokemon
+- **Tony Stark & James "Rhodey" Rhodes & Virginia "Pepper" Potts** - Marvel
+- **John Shepard & Rodney McCay** - Stargate
+- **Yami & Yugi Moto** - Yu-Gi-Oh
+- **Batman & Superman** - DCU
+- **Gale & Tara** - Baldur's Gate 
+- **Jaheira & Minsc (& Boo)** - Baldur's Gate 
+- 
 
 ---
 # Reporting Corrections
