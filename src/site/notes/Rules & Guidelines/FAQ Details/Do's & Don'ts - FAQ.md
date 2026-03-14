@@ -26,7 +26,7 @@
 | Add me on discord               |  ✅ Yes   |   **Mutuals Only**   |
 | Discord message **(Open 24/7)** |  ✅ Yes   |   **Mutuals Only**   |
 | Throw random plot ideas at me   |  ✅ Yes   |        *None*        |
-| Comment on HCs & other posts    |  ✅ Yes   |        *None*        |
+| Like & comment on HCs           |  ✅ Yes   |        *None*        |
 | Leave ❤️ in the comments        |  ✅ Yes   |        *None*        |
 
 ## Don't
