@@ -11,44 +11,44 @@
 
 | Things                          | Do Them? |    Restrictions?     |
 | ------------------------------- | :------: | :------------------: |
-| Send unprompted asks            |   Yes    |        *None*        |
-| Send prompts/memes              |   Yes    | **Mutuals Priority** |
-| Add context to prompts/memes    |   Yes    |       *None *        |
-| Reverse any prompts/memes       |   Yes    |        *None*        |
-| Write me random starters        |   Yes    |   **Mutuals Only**   |
-| Reply to my open starters       |   Yes    |   **Mutuals Only**   |
-| Fill out interest forms         |   Yes    |   **Mutuals Only**   |
-| Read my stuff                   |   Yes    |        *None*        |
-| Take inspiration from my stuff  |   Yes    |        *None*        |
-| Ask questions about my stuff    |   Yes    |        *None*        |
-| Ask to start over               |   Yes    |        *None*        |
-| Tell me if you want to ship     |   Yes    |        *None*        |
-| Add me on discord               |   Yes    |   **Mutuals Only**   |
-| Discord message **(Open 24/7)** |   Yes    |   **Mutuals Only**   |
-| Throw random plot ideas at me   |   Yes    |        *None*        |
-| Comment on HCs & other posts    |   Yes    |        *None*        |
-| Leave ❤️ in the comments        |   Yes    |        *None*        |
+| Send unprompted asks            |  ✅ Yes   |        *None*        |
+| Send prompts/memes              |  ✅ Yes   | **Mutuals Priority** |
+| Add context to prompts/memes    |  ✅ Yes   |       *None *        |
+| Reverse any prompts/memes       |  ✅ Yes   |        *None*        |
+| Write me random starters        |  ✅ Yes   |   **Mutuals Only**   |
+| Reply to my open starters       |  ✅ Yes   |   **Mutuals Only**   |
+| Fill out interest forms         |  ✅ Yes   |   **Mutuals Only**   |
+| Read my stuff                   |  ✅ Yes   |        *None*        |
+| Take inspiration from my stuff  |  ✅ Yes   |        *None*        |
+| Ask questions about my stuff    |  ✅ Yes   |        *None*        |
+| Ask to start over               |  ✅ Yes   |        *None*        |
+| Tell me if you want to ship     |  ✅ Yes   |        *None*        |
+| Add me on discord               |  ✅ Yes   |   **Mutuals Only**   |
+| Discord message **(Open 24/7)** |  ✅ Yes   |   **Mutuals Only**   |
+| Throw random plot ideas at me   |  ✅ Yes   |        *None*        |
+| Comment on HCs & other posts    |  ✅ Yes   |        *None*        |
+| Leave ❤️ in the comments        |  ✅ Yes   |        *None*        |
 
 ## Don't
 
 | Things                           | Do Them? |       Consequences?       |
 | -------------------------------- | :------: | :-----------------------: |
-| Be a dick                        |    No    | **Blocked &/or Reported** |
-| Send anonymous hate              |    No    | **Blocked &/or Reported** |
-| Interact *without* reading rules |    No    | **Dropped &/or Blocked**  |
-| Assume Muse = Mun                |    No    | **Dropped &/or Blocked**  |
-| Reblog posts that aren't for you |    No    |  **Warned &/or Blocked**  |
-| Use as rp resource blog          |    No    |  **Warned &/or Blocked**  |
-| Feed my writing into AI          |    No    | **Blocked &/or Reported** |
-| Use AI in our interactions       |    No    | **Dropped &/or Blocked**  |
-| Take my blocking you personally  |    No    |  **Reported If Evaded**   |
-| Softblock Me                     |    No    |   ***Hardblock Only***    |
-| Assume one versewide universe    |    No    | ***Warned &/or Dropped*** |
-| Assume canon accuracy            |    No    | ***Warned &/or Dropped*** |
-| Ignore canon divergences         |    No    | ***Warned &/or Dropped*** |
-| Write my muses for me            |    No    | ***Warned &/or Dropped*** |
-| Godmod (major)                   |    No    | ***Warned &/or Dropped*** |
-| Metagame                         |    No    | ***Warned &/or Dropped*** |
+| Be a dick                        |  🚫 No   | **Blocked &/or Reported** |
+| Send anonymous hate              |  🚫 No   | **Blocked &/or Reported** |
+| Interact *without* reading rules |  🚫 No   | **Dropped &/or Blocked**  |
+| Assume Muse = Mun                |  🚫 No   | **Dropped &/or Blocked**  |
+| Reblog posts that aren't for you |  🚫 No   |  **Warned &/or Blocked**  |
+| Use as rp resource blog          |  🚫 No   |  **Warned &/or Blocked**  |
+| Feed my writing into AI          |  🚫 No   | **Blocked &/or Reported** |
+| Use AI in our interactions       |  🚫 No   | **Dropped &/or Blocked**  |
+| Take my blocking you personally  |  🚫 No   |  **Reported If Evaded**   |
+| Softblock Me                     |  🚫 No   |   ***Hardblock Only***    |
+| Assume one versewide universe    |  🚫 No   | ***Warned &/or Dropped*** |
+| Assume canon accuracy            |  🚫 No   | ***Warned &/or Dropped*** |
+| Ignore canon divergences         |  🚫 No   | ***Warned &/or Dropped*** |
+| Write my muses for me            |  🚫 No   | ***Warned &/or Dropped*** |
+| Godmod (major)                   |  🚫 No   | ***Warned &/or Dropped*** |
+| Metagame                         |  🚫 No   | ***Warned &/or Dropped*** |
 
 ---
 # Things You Should Do
