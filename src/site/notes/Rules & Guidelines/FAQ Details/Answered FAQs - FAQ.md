@@ -12,24 +12,25 @@
 ***TBA***
 
 ## Fictional Examples
-- **Shaun & Ed** - Shaun of the Dead
+*These are just some examples of canon dynamics that can be read as queerplatonic:*
+- **Gale & Tara** - Baldur's Gate 
+- **Jaheira & Minsc (& Boo)** - Baldur's Gate 
 - **Hawke & Varric Tethras** - Dragon Age 2
-- **(female) Inquisitor & Dorian Pavus** - Dragon Age: Inquisition 
+- **Inquisitor (female) & Dorian Pavus** - Dragon Age: Inquisition 
 - **Shepard & Garrus Vakarian** - Mass Effect
-- **Shepard & Jeff "Joker" Moreau** - Mass Effect
+- **Shepard & Jeff "Joker" Moreau** - Mass Effect 
 - **Eighth Doctor & Josie Day** - Doctor Who 
 - **Tenth Doctor & Donna Noble** - Doctor Who
 - **Irving Braxiatel & Bernice Summerfield** - Doctor Who
+- **Tony Stark & James "Rhodey" Rhodes & Virginia "Pepper" Potts** - Marvel
+- **John Shepard & Rodney McCay** - Stargate
+- **Shaun & Ed** - Shaun of the Dead
+- **Batman & Superman** - DCU
 - **Crowley & Aziraphale** - Good Omens
 - **Sherlock Holmes & Dr. John Watson** - Sherlock Holmes
 - **Link & Zelda** - Legend of Zelda
 - **Jessie & James** - Pokemon
-- **Tony Stark & James "Rhodey" Rhodes & Virginia "Pepper" Potts** - Marvel
-- **John Shepard & Rodney McCay** - Stargate
 - **Yami & Yugi Moto** - Yu-Gi-Oh
-- **Batman & Superman** - DCU
-- **Gale & Tara** - Baldur's Gate 
-- **Jaheira & Minsc (& Boo)** - Baldur's Gate 
 - 
 
 ---
