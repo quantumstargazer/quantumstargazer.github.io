@@ -165,6 +165,15 @@
 > 
 > TBA 
 
+> [!wishlist]- Nelaros
+> 
+> ***LI potential:*** Yes
+> 
+> *Approval:* Neutral (25) to Friendly (100)
+> 
+> *Dynamic:* Romantic - Arranged Marriage
+> 
+> Ashina doesn't want to get married at all, and isn't shy about bluntly revealing this even to her betrothed upon finally meeting him. His reaction, however, has her quickly backtracking, trying to play it off as a joke (despite it being very much the truth), yet his teasing her about her being a "*wild one*" — something her father has always called her mother — leads to her slowly beginning to warm to him and the possibility that they *might* actually be a genuinely good match.
 
 
 
