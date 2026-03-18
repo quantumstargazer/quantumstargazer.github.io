@@ -19,16 +19,21 @@
 
 # C
 - Callidae
+- 
 
 # D
 - Drow
 
 # E
+- Eladrin
 - Elf
 - Elves
 
 # F
+- Faerie
 - Faerûn
+- Fey
+- Feywild
 - Fiend
 
 # G
@@ -60,7 +65,8 @@
 - 
 
 # P
-- 
+- Pale Prince
+- Prince of Frost
 
 # Q
 - 

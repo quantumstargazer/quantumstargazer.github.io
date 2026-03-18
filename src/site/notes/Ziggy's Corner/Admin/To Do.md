@@ -34,8 +34,8 @@
 - [ ] Wishlists
 #### Faeynore Moonstar 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
-	- [ ] Canon Divergent AUs 
+	- [x] Canon Typical ✅ 2026-03-15
+	- [x] Canon Divergent AUs ✅ 2026-03-15
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 
 	- [ ] Other Verses & AUs
@@ -108,7 +108,7 @@
 - [ ] Wishlists
 #### Zevran Arainai 
 - [ ] Summary - Dossiers & Verses
-	- [ ] Canon Typical 
+	- [x] Canon Typical ✅ 2026-03-15
 	- [ ] Canon Divergent AUs 
 	- [ ] Fandom Specific AUs 
 	- [ ] Trapped In Another World AUs 

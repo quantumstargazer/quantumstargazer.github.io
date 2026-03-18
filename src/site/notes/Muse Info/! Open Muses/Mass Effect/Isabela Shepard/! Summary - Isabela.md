@@ -150,7 +150,9 @@
 > 
 > - *Alternate Origin AU*
 > 
-> Summary goes here.
+> Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
+> 
+> Trained from the age of six as an assassin alongside the drell children in the Compact, Isabela is sent back to Earth ten years later to reintegrate into human society in order to infiltrate the Alliance.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
