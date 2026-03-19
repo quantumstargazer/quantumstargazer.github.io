@@ -164,8 +164,11 @@
 > [!verse]+ Saboteur (Drell-Hanari Compact)
 > 
 > - *Alternate Origin AU*
+> - *Never part of the Alliance*
 > 
-> Summary goes here.
+> Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
+> 
+> Trained from the age of six as an assassin alongside the drell children in the Compact, Isabela is often assigned as support for drell assassins, handling diversions and sabotage during contracts, though she is capable of handling assassinations on her own as well when necessary.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
@@ -176,7 +179,8 @@
 
 > [!verse]+ Turian Hierarchy
 > 
-> - *Alternate History + Origin AU*
+> - **Humanity lost the First Contact War**
+> - *Alternate History + Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
