@@ -180,6 +180,7 @@
 > [!verse]+ Turian Hierarchy
 > 
 > - **Humanity lost the First Contact War**
+> - *Humans as a Turian Client Race*
 > - *Alternate History + Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -193,6 +194,8 @@
 
 > [!verse]+ Reaper War (Turian Hierarchy)
 > 
+> - **Humanity lost the First Contact War**
+> - *Humans as a Turian Client Race*
 > - *Alternate History + Origin AU*
 > 
 > Summary goes here.
@@ -245,6 +248,8 @@
 
 > [!verse]+ Lazarus Project (Andromeda)
 > 
+> - *Set after Shepard's body is recovered by Cerberus*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -256,6 +261,8 @@
 
 > [!verse]+ Galactic Evacuation (Andromeda)
 > 
+> - *Set during the Reaper Invasion in the Milky Way*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -266,6 +273,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
+> 
+> - *Set after the Reapers are destroyed*
 > 
 > Summary goes here.
 > 
