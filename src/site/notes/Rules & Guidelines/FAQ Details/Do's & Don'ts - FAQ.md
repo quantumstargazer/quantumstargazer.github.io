@@ -31,24 +31,25 @@
 
 ## Don't
 
-| Things                           | Do Them? |       Consequences?       |
-| -------------------------------- | :------: | :-----------------------: |
-| Be a dick                        |  🚫 No   | **Blocked &/or Reported** |
-| Send anonymous hate              |  🚫 No   | **Blocked &/or Reported** |
-| Interact *without* reading rules |  🚫 No   | **Dropped &/or Blocked**  |
-| Assume Muse = Mun                |  🚫 No   | **Dropped &/or Blocked**  |
-| Reblog posts that aren't for you |  🚫 No   |  **Warned &/or Blocked**  |
-| Use as rp resource blog          |  🚫 No   |  **Warned &/or Blocked**  |
-| Feed my writing into AI          |  🚫 No   | **Blocked &/or Reported** |
-| Use AI in our interactions       |  🚫 No   | **Dropped &/or Blocked**  |
-| Take my blocking you personally  |  🚫 No   |  **Reported If Evaded**   |
-| Softblock Me                     |  🚫 No   |   ***Hardblock Only***    |
-| Assume one versewide universe    |  🚫 No   | ***Warned &/or Dropped*** |
-| Assume canon accuracy            |  🚫 No   | ***Warned &/or Dropped*** |
-| Ignore canon divergences         |  🚫 No   | ***Warned &/or Dropped*** |
-| Write my muses for me            |  🚫 No   | ***Warned &/or Dropped*** |
-| Godmod (major)                   |  🚫 No   | ***Warned &/or Dropped*** |
-| Metagame                         |  🚫 No   | ***Warned &/or Dropped*** |
+| Things                           | Do Them? |                 Consequences?                 |
+| -------------------------------- | :------: | :-------------------------------------------: |
+| Be a dick                        |  🚫 No   |           **Blocked &/or Reported**           |
+| Send anonymous hate              |  🚫 No   |           **Blocked &/or Reported**           |
+| Interact *without* reading rules |  🚫 No   |           **Dropped &/or Blocked**            |
+| Assume Muse = Mun                |  🚫 No   |           **Dropped &/or Blocked**            |
+| Reblog posts that aren't for you |  🚫 No   |            **Warned &/or Blocked**            |
+| Use as rp resource blog          |  🚫 No   |            **Warned &/or Blocked**            |
+| Feed my writing into AI          |  🚫 No   |           **Blocked &/or Reported**           |
+| Use AI in our interactions       |  🚫 No   |           **Dropped &/or Blocked**            |
+| Take my blocking you personally  |  🚫 No   |            **Reported If Evaded**             |
+| Softblock Me                     |  🚫 No   |             ***Hardblock Only***              |
+| Assume one versewide universe    |  🚫 No   |           ***Warned &/or Dropped***           |
+| Assume canon accuracy            |  🚫 No   |           ***Warned &/or Dropped***           |
+| Ignore canon divergences         |  🚫 No   |           ***Warned &/or Dropped***           |
+| Write my muses for me            |  🚫 No   |           ***Warned &/or Dropped***           |
+| Godmod (major)                   |  🚫 No   |           ***Warned &/or Dropped***           |
+| Metagame                         |  🚫 No   |           ***Warned &/or Dropped***           |
+| Send only the symbol for prompts |  🚫 No   | ***Prompt May Be Deleted Instead Of Filled*** |
 
 ---
 # Things You Should Do
@@ -119,6 +120,8 @@
 - **No major godmodding** - TBA
 
 - **No metagaming** - TBA
+
+- **Send only the symbol/emoji/phrase for prompts** - I rarely answer prompts/memes right away, and many of these reuse the same symbols, emojis, or even phrases. It is better to copypaste the full prompt instruction (ie "Send \[Example] for a starter based on example", "⭐ - sender finds receiver stargazing", etc.) instead of just the symbol (ie "\[Example]", "⭐", etc.). I can't fill prompts if I can't figure out which meme they're from, and I regularly delete the ones reblogged directly to **quantumstargazer** — if you are going to link to it, please do so from where I reblogged it from **gazingintoquantumstars** (my own sideblog for archiving memes & prompts that I like, that can be sent in just like any reblogged to the rp blog).
 
 - **Don't panic** - And always know where your towel is.
 
