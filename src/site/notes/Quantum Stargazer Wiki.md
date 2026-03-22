@@ -99,8 +99,8 @@
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
 > [!example]+ Fandoms
-> - Baldur's Gate[^1] - *secondary — moderate activity*
-> - Dragon Age - *primary — high activity*
+> - Baldur's Gate[^1] - ***secondary — moderate activity***
+> - Dragon Age - **primary — high activity**
 > - Mass Effect - *tertiary — low activity*
 >
 >> [!todo]- Other Fandoms
