@@ -158,6 +158,8 @@
 > [!profile]- Aileas Cousland (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
+> - *Defaults to Political Marriage with Alistair (platonic or queerplatonic)*
+> 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
@@ -221,7 +223,7 @@
 - Quick Guide
 - Wishlists
 ### Kiran Brosca
-> [!profile]- Kiran Brosca (she/her)
+> [!profile]- Kiran Brosca (she/they)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
