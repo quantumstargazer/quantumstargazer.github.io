@@ -101,8 +101,8 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 > Examples of what should be sent in the inbox include:
 > - "Send 'This is an example' for a starter about *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
-> - "`[prompt]` for *whatever the prompt is*"
-> - "PROMPT for `[link to meme on gazingintoquantumstars]`"[^7]
+> - "\[prompt] for *whatever the prompt is*"
+> - "PROMPT for \[link to meme on gazingintoquantumstars]"[^7]
 > 
 > **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
