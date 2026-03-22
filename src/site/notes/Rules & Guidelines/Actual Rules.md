@@ -16,7 +16,9 @@ This *should* got without saying, *and yet...*[^1]
 > 
 > **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
 
-> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
+**[[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tagging]] is expected.** I *will* break mutual status if your tagging (or the lack there of) becomes a negative impact on my dash.
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]] & [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
 
 ---
 # 21+ & Mutuals Only
@@ -154,7 +156,7 @@ That said, when the guidelines *do* apply to you, they *are* considered rules *f
 
 ---
 # Rules Passwords
-**I do not send rules passwords.** In fact, I will not follow first if your rules have a password *to* send. If you follow *me* first, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception.
+**I do not send rules passwords.** In fact, **I will not follow first if your rules have a password *to* send**. If you follow *me* first, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules.
 
 ---
 
