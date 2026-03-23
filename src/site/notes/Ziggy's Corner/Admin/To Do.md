@@ -9,6 +9,9 @@
 ---
 # Misc Projects
 ## Additional Support Forms
+- [ ] Multimuse Interest Tracker (*for multimuse blogs only*)
+- [ ] Shipping & Dynamics Call
+- [ ] Plotting Call
 - [ ] Custom Worldstate Builder (DA)
 - [ ] Custom Galaxystate Builder (ME)
 
