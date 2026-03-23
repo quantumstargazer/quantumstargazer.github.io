@@ -35,7 +35,7 @@
 > Ward is written as being AuDHD (autism + ADHD). They *will* ramble about topics that interest them — *especially* spirits, the Fade, necromancy, etc. — and they will get distracted and go off on side tangents while doing so. Their dialogue can get *very wordy* when this happens, but please understand:
 > 
 > **I do not expect you to respond to every bit of dialogue.** Rhetorical questions will be asked, or even questions they know the person they're talking to likely doesn't know the answer to — they work out a lot of their own thoughts through talking this way, and them being willing *to let you see this* of them is a fair sign that you've gained at least a little of their trust, as they typically present themself as being extremely quiet and reserved.
-
+****
 ## Things Your Muse *Could* Know
 > [!hint]- Vorgoth's Ward
 > 
@@ -62,7 +62,7 @@
 > 
 > **Pre-Approved Exceptions**
 > - *Exceptions may be made for the following:* 
-> 	- Vorgoth
+> 	- **Vorgoth**
 > 	- Spite (*and, by extension, potentially Lucanis if it's revealed by Spite*)
 > 	- Manfred
 > 	- Solas
