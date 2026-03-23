@@ -39,7 +39,7 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 | major character death                                     | **yes** — *if warned about*                             |          **maybe** — *if warned about*          |
 | tobacco (*cigarettes, cigars, chewing tobacco, etc.*)[^3] | **maybe** — *if warned about*                           |           **yes** — *if warned about*           |
 ## Real Life Events
-This is my *escapism* blog — I have a separate account for things involving politics and whatnot, and for the most part, am more on bluesky and reddit than on tumblr for such — so I don't wish to see politics and the world being its dumpster fire self when I'm just trying to focus on playing dolls in order to forget about it all for a little while.
+**This is my *escapism* blog** — I have a separate account for things involving politics and whatnot, and for the most part, am more on bluesky and reddit than on tumblr for such — so I don't wish to see politics and the world being its dumpster fire self when I'm just trying to focus on playing dolls in order to forget about it all for a little while.
 
 | content to be tagged                   | will follow/interact if<br>posted regularly |
 | -------------------------------------- | :-----------------------------------------: |
