@@ -18,26 +18,26 @@ Please tag using one or more of the following formats:
 In cases where it's requested to be *at least warned about*, so long as you state in your rules and/or pinned post that the content may occur on your blog, then that's fine — it's just not something I want to effectively be jumpscared with without any form of warning whatsoever.
 ## Themes & Tropes
 
-| content to be tagged                                  | will follow/interact if<br>only mentioned in posts      | will follow/interact<br>if roleplayed on tumblr |
-| :---------------------------------------------------- | :------------------------------------------------------ | :---------------------------------------------: |
-| Alpha/Beta/Omega (*Omegaverse*)                       | **no** — *no exceptions*                                |            **no** — *no exceptions*             |
-| rape (*noncon*)                                       | **yes** — *if warned about*<br>*re: mostly backstory*   |            **no** — *no exceptions*             |
-| incest                                                | **maybe** — *if warned about*<br>*re: mostly backstory* |             **maybe** — *if tagged*             |
-| sexual assault                                        | **maybe** — *if tagged*                                 |             **maybe** — *if tagged*             |
-| sexual abuse                                          | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
-| sexual violence                                       | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
-| sexual torture                                        | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
-| dubcon                                                | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
-| pregnancy                                             | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
-| pregnancy complications                               | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
-| childbirth                                            | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
-| miscarriage                                           | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
-| abortion                                              | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
-| infant death                                          | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
-| child death                                           | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
-| child abuse                                           | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
-| major character death                                 | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
-| tobacco (*cigarettes, cigars, chewing tobacco, etc.*)[^3] | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
+| content to be tagged                                      | will follow/interact if<br>only mentioned in posts      | will follow/interact<br>if roleplayed on tumblr |
+| :-------------------------------------------------------- | :------------------------------------------------------ | :---------------------------------------------: |
+| Alpha/Beta/Omega (*Omegaverse*)                           | **no** — *no exceptions*                                |            **no** — *no exceptions*             |
+| rape (*noncon*)                                           | **yes** — *if warned about*<br>*re: mostly backstory*   |            **no** — *no exceptions*             |
+| incest                                                    | **maybe** — *if warned about*<br>*re: mostly backstory* |             **maybe** — *if tagged*             |
+| sexual assault                                            | **maybe** — *if tagged*                                 |             **maybe** — *if tagged*             |
+| sexual abuse                                              | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
+| sexual violence                                           | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
+| sexual torture                                            | **maybe** — *if warned about*                           |             **maybe** — *if tagged*             |
+| dubcon                                                    | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
+| pregnancy                                                 | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
+| pregnancy complications                                   | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
+| childbirth                                                | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
+| miscarriage                                               | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
+| abortion                                                  | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
+| infant death                                              | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
+| child death                                               | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
+| child abuse                                               | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
+| major character death                                     | **yes** — *if warned about*                             |          **maybe** — *if warned about*          |
+| tobacco (*cigarettes, cigars, chewing tobacco, etc.*)[^3] | **maybe** — *if warned about*                           |           **yes** — *if warned about*           |
 ## Real Life Events
 This is my *escapism* blog — I have a separate account for things involving politics and whatnot, and for the most part, am more on bluesky and reddit than on tumblr for such — so I don't wish to see politics and the world being its dumpster fire self when I'm just trying to focus on playing dolls in order to forget about it all for a little while.
 
