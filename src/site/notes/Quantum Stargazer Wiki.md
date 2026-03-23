@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quantum-stargazer-wiki/","tags":["directory","homepage","gardenEntry"]}
+{"dg-publish":true,"permalink":"/quantum-stargazer-wiki/","tags":["directory","homepage","gardenEntry"],"dg-note-properties":{"tags":["directory","homepage","gardenEntry"],"aliases":["QS Wiki"]}}
 ---
 
 # Quantum Stargazer Wiki

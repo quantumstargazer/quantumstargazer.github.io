@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/","tags":["directory","summary","open-muses","dragon-age","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/","tags":["directory","summary","open-muses","dragon-age","muse-leonardo"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-leonardo"],"aliases":["Dossiers & Verses","Leonardo de Riva"]}}
 ---
 
 # Leonardo de Riva

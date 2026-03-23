@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/","tags":["directory","summary","open-muses","dragon-age","muse-bertrand"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/summary-bertrand/","tags":["directory","summary","open-muses","dragon-age","muse-bertrand"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-bertrand"],"aliases":["Dossiers & Verses","Bertrand Ingellvar"]}}
 ---
 
 # Bertrand Ingellvar

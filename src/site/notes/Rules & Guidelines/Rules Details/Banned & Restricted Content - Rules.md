@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/banned-and-restricted-content-rules/","tags":["rules"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/banned-and-restricted-content-rules/","tags":["rules"],"dg-note-properties":{"tags":["rules"],"aliases":["Banned & Restricted Content"]}}
 ---
 
 # Banned & Restricted Content

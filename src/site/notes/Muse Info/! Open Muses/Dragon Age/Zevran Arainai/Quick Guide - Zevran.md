@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/quick-guide-zevran/","tags":["quick-guide","dragon-age","muse-zevran"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/quick-guide-zevran/","tags":["quick-guide","dragon-age","muse-zevran"],"dg-note-properties":{"tags":["quick-guide","dragon-age","muse-zevran"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Zevran Arainai

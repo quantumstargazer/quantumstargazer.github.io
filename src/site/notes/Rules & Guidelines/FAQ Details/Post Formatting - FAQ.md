@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/post-formatting-faq/","tags":["faq"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/post-formatting-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Post Formatting"]}}
 ---
 
 # Post Formatting

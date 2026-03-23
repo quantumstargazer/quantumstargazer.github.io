@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/connections-haleir/","tags":["connections","dragon-age","muse-haleir"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/connections-haleir/","tags":["connections","dragon-age","muse-haleir"],"dg-note-properties":{"tags":["connections","dragon-age","muse-haleir"],"aliases":["Connections"]}}
 ---
 
 # Connections - Haleir Lavellan

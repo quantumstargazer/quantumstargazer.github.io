@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/answered-fa-qs-faq/","tags":["faq"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/answered-fa-qs-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Answered FAQs"]}}
 ---
 
 # Answered FAQs 

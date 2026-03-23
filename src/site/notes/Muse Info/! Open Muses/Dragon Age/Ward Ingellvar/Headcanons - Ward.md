@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/headcanons-ward/","tags":["headcanons","dragon-age","muse-ward"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/headcanons-ward/","tags":["headcanons","dragon-age","muse-ward"],"dg-note-properties":{"tags":["headcanons","dragon-age","muse-ward"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Ward Ingellvar 

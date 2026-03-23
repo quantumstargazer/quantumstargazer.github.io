@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/wishlists-haleir/","tags":["wishlists","dragon-age","muse-haleir"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/wishlists-haleir/","tags":["wishlists","dragon-age","muse-haleir"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-haleir"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Haleir Lavellan

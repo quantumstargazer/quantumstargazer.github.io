@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/quick-guide-isabela/","tags":["quick-guide","mass-effect","muse-isabela"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/quick-guide-isabela/","tags":["quick-guide","mass-effect","muse-isabela"],"dg-note-properties":{"tags":["quick-guide","mass-effect","muse-isabela"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Isabela Shepard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ziggy-s-corner/admin/to-do/","tags":["ziggy-pinned","ziggy-to-do"]}
+{"dg-publish":true,"permalink":"/ziggy-s-corner/admin/to-do/","tags":["ziggy-pinned","ziggy-to-do"],"dg-note-properties":{"tags":["ziggy-pinned","ziggy-to-do"],"banner_y":"40.5"}}
 ---
 
 # TO DO

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/quick-guide-haleir/","tags":["quick-guide","dragon-age","muse-haleir"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/quick-guide-haleir/","tags":["quick-guide","dragon-age","muse-haleir"],"dg-note-properties":{"tags":["quick-guide","dragon-age","muse-haleir"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Haleir Lavellan

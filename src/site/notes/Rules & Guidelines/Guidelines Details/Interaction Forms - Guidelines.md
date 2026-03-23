@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interaction-forms-guidelines/","tags":["guidelines","forms","interaction-call","starter-call","inbox-call"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interaction-forms-guidelines/","tags":["guidelines","forms","interaction-call","starter-call","inbox-call"],"dg-note-properties":{"tags":["guidelines","forms","interaction-call","starter-call","inbox-call"],"aliases":["Interaction Forms"]}}
 ---
 
 # Interaction Forms - Guidelines

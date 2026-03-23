@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/quick-guide-dirge/","tags":["quick-guide","baldurs-gate","muse-dirge"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/quick-guide-dirge/","tags":["quick-guide","baldurs-gate","muse-dirge"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","muse-dirge"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Dirge

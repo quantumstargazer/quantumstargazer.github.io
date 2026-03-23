@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/","tags":["directory","summary","open-muses","mass-effect","muse-nihlus"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/summary-nihlus/","tags":["directory","summary","open-muses","mass-effect","muse-nihlus"],"dg-note-properties":{"tags":["directory","summary","open-muses","mass-effect","muse-nihlus"],"aliases":["Dossiers & Verses","Nihlus Kryik"]}}
 ---
 
 # Nihlus Kryik

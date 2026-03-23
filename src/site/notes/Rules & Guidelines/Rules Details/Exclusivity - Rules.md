@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/exclusivity-rules/","tags":["rules","guidelines","exclusives"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/exclusivity-rules/","tags":["rules","guidelines","exclusives"],"dg-note-properties":{"tags":["rules","guidelines","exclusives"],"aliases":["Exclusivity"]}}
 ---
 
 # Mutuals Only Exclusivity

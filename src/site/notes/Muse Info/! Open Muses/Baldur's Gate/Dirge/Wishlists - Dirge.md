@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/wishlists-dirge/","tags":["wishlists","baldurs-gate","muse-dirge"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/wishlists-dirge/","tags":["wishlists","baldurs-gate","muse-dirge"],"dg-note-properties":{"tags":["wishlists","baldurs-gate","muse-dirge"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Dirge

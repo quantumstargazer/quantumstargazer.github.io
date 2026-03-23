@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/headcanons-dirge/","tags":["headcanons","baldurs-gate","muse-dirge"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/headcanons-dirge/","tags":["headcanons","baldurs-gate","muse-dirge"],"dg-note-properties":{"tags":["headcanons","baldurs-gate","muse-dirge"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Dirge

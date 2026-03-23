@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/fandom-info/mass-effect-info/glossary-mass-effect/","tags":["glossary","mass-effect"]}
+{"dg-publish":true,"permalink":"/wiki/fandom-info/mass-effect-info/glossary-mass-effect/","tags":["glossary","mass-effect"],"dg-note-properties":{"tags":["glossary","mass-effect"],"aliases":["Mass Effect","Mass Effect (glossary)"]}}
 ---
 
 # Mass Effect

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/verses-and-a-us-faq/","tags":["faq"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/verses-and-a-us-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Verses & AUs"]}}
 ---
 
 # Verses & AUs

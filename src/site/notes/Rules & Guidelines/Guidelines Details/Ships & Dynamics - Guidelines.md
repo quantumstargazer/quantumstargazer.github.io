@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/ships-and-dynamics-guidelines/","tags":["guidelines"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/ships-and-dynamics-guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":["Ships & Dynamics"]}}
 ---
 
 # Ships & Dynamics

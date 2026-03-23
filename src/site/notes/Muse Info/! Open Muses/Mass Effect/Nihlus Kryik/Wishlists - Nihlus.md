@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/wishlists-nihlus/","tags":["wishlists","mass-effect","muse-nihlus"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/wishlists-nihlus/","tags":["wishlists","mass-effect","muse-nihlus"],"dg-note-properties":{"tags":["wishlists","mass-effect","muse-nihlus"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Nihlus Kryik

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interest-tracking-forms-guidelines/","tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interest-tracking-forms-guidelines/","tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"],"dg-note-properties":{"tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"],"aliases":["Interest Tracking Forms"]}}
 ---
 
 # Interest Tracking Forms - Guidelines

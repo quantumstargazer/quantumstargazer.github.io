@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/connections-isabela/","tags":["connections","mass-effect","muse-isabela"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/connections-isabela/","tags":["connections","mass-effect","muse-isabela"],"dg-note-properties":{"tags":["connections","mass-effect","muse-isabela"],"aliases":["Connections"]}}
 ---
 
 # Connections - Isabela Shepard

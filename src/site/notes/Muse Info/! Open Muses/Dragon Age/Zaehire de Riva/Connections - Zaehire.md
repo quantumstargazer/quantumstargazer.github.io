@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/connections-zaehire/","tags":["connections","dragon-age","muse-zaehire"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/connections-zaehire/","tags":["connections","dragon-age","muse-zaehire"],"dg-note-properties":{"tags":["connections","dragon-age","muse-zaehire"],"aliases":["Connections"]}}
 ---
 
 # Connections - Zaehire de Riva

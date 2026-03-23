@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/wishlists-bertrand/","tags":["wishlists","dragon-age","muse-bertrand"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/wishlists-bertrand/","tags":["wishlists","dragon-age","muse-bertrand"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-bertrand"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Bertrand Ingellvar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/fandom-specific-rules/baldur-s-gate-rules/","tags":["rules","rules-fandom-specific","baldurs-gate"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/fandom-specific-rules/baldur-s-gate-rules/","tags":["rules","rules-fandom-specific","baldurs-gate"],"dg-note-properties":{"tags":["rules","rules-fandom-specific","baldurs-gate"],"aliases":["Baldur's Gate","Baldur's Gate - Rules"]}}
 ---
 
 # Baldur's Gate - Rules

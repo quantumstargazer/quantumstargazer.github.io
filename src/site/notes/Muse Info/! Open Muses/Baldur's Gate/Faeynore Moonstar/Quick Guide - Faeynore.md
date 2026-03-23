@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/quick-guide-faeynore/","tags":["quick-guide","baldurs-gate","muse-faeynore"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/quick-guide-faeynore/","tags":["quick-guide","baldurs-gate","muse-faeynore"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","muse-faeynore"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Faeynore Moonstar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/mature-audiences-only-faq/","tags":["faq","guidelines","rules"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/mature-audiences-only-faq/","tags":["faq","guidelines","rules"],"dg-note-properties":{"tags":["faq","guidelines","rules"],"aliases":["Mature Audiences Only","Content Warnings","Viewer Discretion Is Advised","Rated M For Mature"]}}
 ---
 
 # Rated M for Mature Audiences Only

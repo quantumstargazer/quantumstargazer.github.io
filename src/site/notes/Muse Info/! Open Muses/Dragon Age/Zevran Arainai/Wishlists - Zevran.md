@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/wishlists-zevran/","tags":["wishlists","dragon-age","muse-zevran"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/wishlists-zevran/","tags":["wishlists","dragon-age","muse-zevran"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-zevran"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Zevran Arainai

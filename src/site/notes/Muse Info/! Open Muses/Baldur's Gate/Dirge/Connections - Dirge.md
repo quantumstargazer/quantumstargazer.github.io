@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/connections-dirge/","tags":["connections","baldurs-gate","muse-dirge"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/connections-dirge/","tags":["connections","baldurs-gate","muse-dirge"],"dg-note-properties":{"tags":["connections","baldurs-gate","muse-dirge"],"aliases":["Connections"]}}
 ---
 
 # Connections - Dirge

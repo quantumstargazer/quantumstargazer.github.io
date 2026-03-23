@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/headcanons-isabela/","tags":["headcanons","mass-effect","muse-isabela"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/headcanons-isabela/","tags":["headcanons","mass-effect","muse-isabela"],"dg-note-properties":{"tags":["headcanons","mass-effect","muse-isabela"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Isabela Shepard

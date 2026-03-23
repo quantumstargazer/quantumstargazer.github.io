@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary","dragon-age","open-muses","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary","dragon-age","open-muses","muse-ashina"],"dg-note-properties":{"tags":["directory","summary","dragon-age","open-muses","muse-ashina"],"aliases":["Dossiers & Verses","Ashina de Riva née Tabris","Ashina de Riva","Ashina Tabris","Tathas Arainai"]}}
 ---
 
 # Ashina de Riva née Tabris
 
-![z Assets/Attachments/Ash001.png|250x250](/img/user/z%20Assets/Attachments/Ash001.png)
+![z Assets/Attachments/Ash001.png\|250x250](/img/user/z%20Assets/Attachments/Ash001.png)
 
 > [!profile]+ Muse Info
 > - *name:* Ashina de Riva

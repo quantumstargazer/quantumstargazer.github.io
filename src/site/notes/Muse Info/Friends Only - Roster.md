@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","rosters","friends-only-muses"]}
+{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","rosters","friends-only-muses"],"dg-note-properties":{"tags":["directory","rosters","friends-only-muses"],"aliases":["Friends Only Muses"]}}
 ---
 
 # Friends Only Roster 
@@ -11,7 +11,7 @@
 ## Faertorithrue
 > [!profile]+ Faertorithrue (she/they)
 > *Fey'ri Tiefling — Witchlight Carnival Hand*
-> ![20250816030845.png|red|100](/img/user/z%20Assets/Attachments/20250816030845.png)
+> ![20250816030845.png\|red\|100](/img/user/z%20Assets/Attachments/20250816030845.png)
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
@@ -23,7 +23,7 @@
 ## Fenmaer Dawngazer
 > [!profile]+ Fenmaer Dawngazer (he/him)
 > *Sun Elf — Cleric of Corellon*
-> ![20250729084634.png|red|100](/img/user/z%20Assets/Attachments/20250729084634.png)
+> ![20250729084634.png\|red\|100](/img/user/z%20Assets/Attachments/20250729084634.png)
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 

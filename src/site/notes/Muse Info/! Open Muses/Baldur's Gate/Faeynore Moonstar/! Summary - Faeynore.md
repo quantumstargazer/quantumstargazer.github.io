@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/","tags":["directory","summary","open-muses","baldurs-gate","muse-faeynore"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/","tags":["directory","summary","open-muses","baldurs-gate","muse-faeynore"],"dg-note-properties":{"tags":["directory","summary","open-muses","baldurs-gate","muse-faeynore"],"aliases":["Dossiers & Verses","Faeynore Moonstar"]}}
 ---
 
 # Faeynore Moonstar

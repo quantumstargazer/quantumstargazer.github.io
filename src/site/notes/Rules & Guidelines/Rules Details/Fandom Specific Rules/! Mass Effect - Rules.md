@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/fandom-specific-rules/mass-effect-rules/","tags":["rules","rules-fandom-specific","mass-effect"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/fandom-specific-rules/mass-effect-rules/","tags":["rules","rules-fandom-specific","mass-effect"],"dg-note-properties":{"tags":["rules","rules-fandom-specific","mass-effect"],"aliases":["Mass Effect","Mass Effect - Rules"]}}
 ---
 
 # Mass Effect - Rules 

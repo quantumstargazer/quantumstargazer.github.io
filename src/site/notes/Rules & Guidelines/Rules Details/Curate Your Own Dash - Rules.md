@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/curate-your-own-dash-rules/","tags":["rules"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/curate-your-own-dash-rules/","tags":["rules"],"dg-note-properties":{"tags":["rules"],"aliases":["Curate Your Own Dash"]}}
 ---
 
 # Curate Your Own Dash

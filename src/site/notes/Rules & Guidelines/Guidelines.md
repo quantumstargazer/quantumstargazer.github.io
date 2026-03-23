@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines/","tags":["guidelines"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":null}}
 ---
 
 # Guidelines

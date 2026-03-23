@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/connections-leonardo/","tags":["connections","dragon-age","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/connections-leonardo/","tags":["connections","dragon-age","muse-leonardo"],"dg-note-properties":{"tags":["connections","dragon-age","muse-leonardo"],"aliases":["Connections"]}}
 ---
 
 # Connections - Leonardo de Riva

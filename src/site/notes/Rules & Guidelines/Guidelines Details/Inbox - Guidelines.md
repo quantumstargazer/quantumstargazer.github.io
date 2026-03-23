@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/inbox-guidelines/","tags":["guidelines"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/inbox-guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":["Inbox"]}}
 ---
 
 # Inbox

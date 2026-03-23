@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/headcanons-tavares/","tags":["headcanons","baldurs-gate","muse-tavares"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/headcanons-tavares/","tags":["headcanons","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["headcanons","baldurs-gate","muse-tavares"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Tavares Umbrafae

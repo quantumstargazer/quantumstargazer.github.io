@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/headcanons-zevran/","tags":["headcanons","dragon-age","muse-zevran"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/headcanons-zevran/","tags":["headcanons","dragon-age","muse-zevran"],"dg-note-properties":{"tags":["headcanons","dragon-age","muse-zevran"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Zevran Arainai

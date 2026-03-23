@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/headcanons-haleir/","tags":["headcanons","dragon-age","muse-haleir"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/headcanons-haleir/","tags":["headcanons","dragon-age","muse-haleir"],"dg-note-properties":{"tags":["headcanons","dragon-age","muse-haleir"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Haleir Lavellan

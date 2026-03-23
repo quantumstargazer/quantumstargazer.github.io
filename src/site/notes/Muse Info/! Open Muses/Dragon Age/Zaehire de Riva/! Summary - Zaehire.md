@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/","tags":["directory","summary","open-muses","dragon-age","muse-zaehire"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/summary-zaehire/","tags":["directory","summary","open-muses","dragon-age","muse-zaehire"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-zaehire"],"aliases":["Dossiers & Verses","Zaehire de Riva"]}}
 ---
 
 # Zaehire de Riva

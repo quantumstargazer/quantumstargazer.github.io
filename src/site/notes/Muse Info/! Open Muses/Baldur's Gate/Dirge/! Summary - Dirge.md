@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/","tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/","tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"],"dg-note-properties":{"tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"],"aliases":["Dossiers & Verses","Dirge"]}}
 ---
 
 # Dirge

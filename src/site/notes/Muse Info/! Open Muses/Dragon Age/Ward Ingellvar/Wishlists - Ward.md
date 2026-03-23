@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/wishlists-ward/","tags":["wishlists","dragon-age","muse-ward"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/wishlists-ward/","tags":["wishlists","dragon-age","muse-ward"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-ward"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Ward Ingellvar 

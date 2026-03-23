@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/wishlists-isabela/","tags":["wishlists","mass-effect","muse-isabela"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/wishlists-isabela/","tags":["wishlists","mass-effect","muse-isabela"],"dg-note-properties":{"tags":["wishlists","mass-effect","muse-isabela"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Isabela Shepard

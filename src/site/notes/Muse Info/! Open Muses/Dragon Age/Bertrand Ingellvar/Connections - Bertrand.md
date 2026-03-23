@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/connections-bertrand/","tags":["connections","dragon-age","muse-bertrand"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/connections-bertrand/","tags":["connections","dragon-age","muse-bertrand"],"dg-note-properties":{"tags":["connections","dragon-age","muse-bertrand"],"aliases":["Connections"]}}
 ---
 
 # Connections - Bertrand Ingellvar

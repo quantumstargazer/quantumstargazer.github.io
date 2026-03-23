@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/blocking-and-following-faq/","tags":["faq"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/blocking-and-following-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Blocking & Following"]}}
 ---
 
 # Blocking & Following

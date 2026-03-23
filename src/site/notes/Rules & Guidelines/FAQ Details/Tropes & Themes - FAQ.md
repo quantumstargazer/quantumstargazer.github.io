@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/tropes-and-themes-faq/","tags":["faq"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/tropes-and-themes-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Tropes & Themes"]}}
 ---
 
 # Tropes & Themes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/blacklist-tags-rules/","tags":["rules","guidelines","blacklist"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/blacklist-tags-rules/","tags":["rules","guidelines","blacklist"],"dg-note-properties":{"tags":["rules","guidelines","blacklist"],"aliases":["Blacklist Tags","Blacklist Tagging"]}}
 ---
 
 # Blacklist Tags

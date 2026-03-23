@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/quick-guide-leonardo/","tags":["quick-guide","dragon-age","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/quick-guide-leonardo/","tags":["quick-guide","dragon-age","muse-leonardo"],"dg-note-properties":{"tags":["quick-guide","dragon-age","muse-leonardo"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Leonardo de Riva

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/index-rules-and-guidelines/","tags":["rules","guidelines","faq","directory"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/index-rules-and-guidelines/","tags":["rules","guidelines","faq","directory"],"dg-note-properties":{"tags":["rules","guidelines","faq","directory"],"aliases":["Rules & Guidelines","Rules & Guidelines - Index","Index - Rules & Guidelines"]}}
 ---
 
 # Index - Rules & Guidelines

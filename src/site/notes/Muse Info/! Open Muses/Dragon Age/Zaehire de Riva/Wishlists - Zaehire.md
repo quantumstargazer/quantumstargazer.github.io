@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/wishlists-zaehire/","tags":["wishlists","dragon-age","muse-zaehire"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/wishlists-zaehire/","tags":["wishlists","dragon-age","muse-zaehire"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-zaehire"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Zaehire de Riva

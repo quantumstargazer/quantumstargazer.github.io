@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/quick-guide-zaehire/","tags":["quick-guide","dragon-age","muse-zaehire"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/quick-guide-zaehire/","tags":["quick-guide","dragon-age","muse-zaehire"],"dg-note-properties":{"tags":["quick-guide","dragon-age","muse-zaehire"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Zaehire de Riva

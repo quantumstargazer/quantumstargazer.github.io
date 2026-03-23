@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/non-roleplayers-faq/","tags":["faq","non-roleplayers"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/non-roleplayers-faq/","tags":["faq","non-roleplayers"],"dg-note-properties":{"tags":["faq","non-roleplayers"],"aliases":["Non-Roleplayers"]}}
 ---
 
 # Non-Roleplayers

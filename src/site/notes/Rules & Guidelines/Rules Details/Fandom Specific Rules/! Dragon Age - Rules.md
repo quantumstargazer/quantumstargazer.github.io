@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/fandom-specific-rules/dragon-age-rules/","tags":["rules","rules-fandom-specific","dragon-age"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/fandom-specific-rules/dragon-age-rules/","tags":["rules","rules-fandom-specific","dragon-age"],"dg-note-properties":{"tags":["rules","rules-fandom-specific","dragon-age"],"aliases":["Dragon Age","Dragon Age - Rules"]}}
 ---
 
 # Dragon Age - Rules

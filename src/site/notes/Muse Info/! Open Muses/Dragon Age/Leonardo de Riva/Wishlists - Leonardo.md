@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/wishlists-leonardo/","tags":["wishlists","dragon-age","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/wishlists-leonardo/","tags":["wishlists","dragon-age","muse-leonardo"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-leonardo"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Leonardo de Riva

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/quick-guide-nihlus/","tags":["quick-guide","mass-effect","muse-nihlus"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/quick-guide-nihlus/","tags":["quick-guide","mass-effect","muse-nihlus"],"dg-note-properties":{"tags":["quick-guide","mass-effect","muse-nihlus"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Nihlus Kryik

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/","tags":["directory","summary","open-muses","dragon-age","muse-ward"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/summary-ward/","tags":["directory","summary","open-muses","dragon-age","muse-ward"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-ward"],"aliases":["Dossiers & Verses","Ward Ingellvar","Spirit of Learning"]}}
 ---
 
 # Ward Ingellvar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/","tags":["directory","summary","open-muses","dragon-age","muse-zevran"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/summary-zevran/","tags":["directory","summary","open-muses","dragon-age","muse-zevran"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-zevran"],"aliases":["Dossiers & Verses","Zevran Arainai"]}}
 ---
 
 # Zevran Arainai

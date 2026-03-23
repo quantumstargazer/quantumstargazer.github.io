@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/headcanons-faeynore/","tags":["headcanons","baldurs-gate","muse-faeynore"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/headcanons-faeynore/","tags":["headcanons","baldurs-gate","muse-faeynore"],"dg-note-properties":{"tags":["headcanons","baldurs-gate","muse-faeynore"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Faeynore Moonstar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/quick-guide-bertrand/","tags":["quick-guide","dragon-age","muse-bertrand"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/bertrand-ingellvar/quick-guide-bertrand/","tags":["quick-guide","dragon-age","muse-bertrand"],"dg-note-properties":{"tags":["quick-guide","dragon-age","muse-bertrand"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Bertrand Ingellvar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/headcanons-nihlus/","tags":["headcanons","mass-effect","muse-nihlus"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/headcanons-nihlus/","tags":["headcanons","mass-effect","muse-nihlus"],"dg-note-properties":{"tags":["headcanons","mass-effect","muse-nihlus"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Nihlus Kryik

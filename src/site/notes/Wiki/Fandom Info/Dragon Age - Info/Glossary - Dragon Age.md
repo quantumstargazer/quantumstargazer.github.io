@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/fandom-info/dragon-age-info/glossary-dragon-age/","tags":["glossary","dragon-age"]}
+{"dg-publish":true,"permalink":"/wiki/fandom-info/dragon-age-info/glossary-dragon-age/","tags":["glossary","dragon-age"],"dg-note-properties":{"tags":["glossary","dragon-age"],"aliases":["Dragon Age","Dragon Age (glossary)"]}}
 ---
 
 # Dragon Age

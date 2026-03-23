@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/sexual-content-rules/","tags":["rules"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/sexual-content-rules/","tags":["rules"],"dg-note-properties":{"tags":["rules"],"aliases":["Sexual Content"]}}
 ---
 
 # Sexual Content

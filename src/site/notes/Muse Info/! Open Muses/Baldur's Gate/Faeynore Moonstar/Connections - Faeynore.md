@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/connections-faeynore/","tags":["connections","baldurs-gate","muse-faeynore"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/connections-faeynore/","tags":["connections","baldurs-gate","muse-faeynore"],"dg-note-properties":{"tags":["connections","baldurs-gate","muse-faeynore"],"aliases":["Connections"]}}
 ---
 
 # Connections - Faeynore Moonstar

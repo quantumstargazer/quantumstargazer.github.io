@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","rosters","open-muses","baldurs-gate","dragon-age","mass-effect","muse-ward","muse-dirge","muse-ashina","muse-haleir","muse-nihlus","muse-zevran","muse-isabela","muse-tavares","muse-zaehire","muse-bertrand","muse-faeynore","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses-roster/","tags":["directory","rosters","open-muses","baldurs-gate","dragon-age","mass-effect","muse-ward","muse-dirge","muse-ashina","muse-haleir","muse-nihlus","muse-zevran","muse-isabela","muse-tavares","muse-zaehire","muse-bertrand","muse-faeynore","muse-leonardo"],"dg-note-properties":{"tags":["directory","rosters","open-muses","baldurs-gate","dragon-age","mass-effect","muse-ward","muse-dirge","muse-ashina","muse-haleir","muse-nihlus","muse-zevran","muse-isabela","muse-tavares","muse-zaehire","muse-bertrand","muse-faeynore","muse-leonardo"],"aliases":["Open Muses - Roster","Open Muses"]}}
 ---
 
 # Open Muses Roster
@@ -19,7 +19,7 @@
 ## Tavares Umbrafae
 > [!profile]+ Tavares Umbrafae (she/her)
 > *Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer*
-> ![20250810034220.png|red|100](/img/user/z%20Assets/Attachments/20250810034220.png)
+> ![20250810034220.png\|red\|100](/img/user/z%20Assets/Attachments/20250810034220.png)
 >  
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 > 
@@ -33,7 +33,7 @@
 ## Faeynore Moonstar
 > [!profile]+ Faeynore Moonstar (they/she)
 > *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
-> ![20250726145030.png|red|100](/img/user/z%20Assets/Attachments/20250726145030.png)
+> ![20250726145030.png\|red\|100](/img/user/z%20Assets/Attachments/20250726145030.png)
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior. 
 > 
@@ -47,7 +47,7 @@
 ## Dirge
 > [!profile]+ Dirge (they/she)
 > *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk*
-> ![Dirge temp01.png|red|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
+> ![Dirge temp01.png\|red\|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 > 
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
 
@@ -62,7 +62,7 @@
 ## Ashina de Riva née Tabris
 > [!profile]+ Ashina de Riva (she/her)
 > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
-> ![Ash001.png|red|100](/img/user/z%20Assets/Attachments/Ash001.png)
+> ![Ash001.png\|red\|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
 > Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the *de facto* Commander herself during the course of the Fifth Blight.
 > 
@@ -78,7 +78,7 @@
 ## Zaehire de Riva
 > [!profile]+ Zaehire de Riva (she/they)
 > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
-> ![Zae001.png|red|100](/img/user/z%20Assets/Attachments/Zae001.png)
+> ![Zae001.png\|red\|100](/img/user/z%20Assets/Attachments/Zae001.png)
 > 
 > Purchased by a House Arainai from her noble hunter mother in Orzammar mere days after her birth, Zaehire is raised from infancy to be a Crow. She is later freed from House Arainai by the Black Shadow, who aids her in getting as far as Salle, where she is taken in by House de Riva.
 > 
@@ -92,7 +92,7 @@
 ## Leonardo de Riva
 > [!profile]+ Leonardo de Riva (he/they)
 > *Human ~~Noble Orphan~~ Mage — Antivan Crows — Spellblade Assassin*
-> ![Leo001.png|red|100](/img/user/z%20Assets/Attachments/Leo001.png)
+> ![Leo001.png\|red\|100](/img/user/z%20Assets/Attachments/Leo001.png)
 > 
 > Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers are killed by Antivan Crows, and he is instead taken into House de Riva.
 > 
@@ -106,7 +106,7 @@
 ## Ward Ingellvar
 > [!profile]+ Ward Ingellvar (they/them)
 > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
-> ![Ward temp02.png|red|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
+> ![Ward temp02.png\|red\|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
 > Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead. As Vorgoth's ward, the elven child is raised within the Necropolis and the Mourn Watch. Their magic is awakened by the instability rippling through the Fade when the Breach opens in the south in 9:41 Dragon.
 > 
@@ -120,7 +120,7 @@
 ## Zevran Arainai
 > [!profile]+ Zevran Arainai (he/him)
 > *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
-> ![zev temp.png|red|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
+> ![zev temp.png\|red\|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 
@@ -132,7 +132,7 @@
 ## Haleir Lavellan
 > [!profile]+ Haleir Lavellan (she/her)
 > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
-> ![Haleir Lavellan.png|red|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
+> ![Haleir Lavellan.png\|red\|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > 
 > Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
@@ -148,7 +148,7 @@
 ## Bertrand Ingellvar
 > [!profile]+ Bertrand Ingellvar (he/him)
 > *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
-> ![bert temp01.png|red|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
+> ![bert temp01.png\|red\|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
 > 
 > A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
 
@@ -163,7 +163,7 @@
 ## Isabela Shepard
 > [!profile]+ Isabela Shepard (she/they)
 > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
-> ![20250818152450 (1).png|red|100](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
+> ![20250818152450 (1).png\|red\|100](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 > 
 > Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.
 > 
@@ -177,7 +177,7 @@
 ## Nihlus Kryik
 > [!profile]+ Nihlus Kryik (he/him)
 > *Turian — Renegon — Council Spectre — Havoc Soldier*
-> ![nihlus000.png|red|100](/img/user/z%20Assets/Attachments/nihlus000.png)
+> ![nihlus000.png\|red\|100](/img/user/z%20Assets/Attachments/nihlus000.png)
 > 
 > Nihlus Kryik is one of the Council's most highly decorated Spectres. His once mentor, Saren Arterius, tries to murder him on Eden Prime by shooting at him from point blank range. Nihlus survives the attempt on his life, and joins his own protégé in their hunt to bring Saren to justice for the older Spectre's betrayal of the Council — and to hopefully find answers for himself for why Saren would betray *him*.
 

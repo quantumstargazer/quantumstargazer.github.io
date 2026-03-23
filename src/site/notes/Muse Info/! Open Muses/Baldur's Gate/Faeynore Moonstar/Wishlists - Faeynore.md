@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/wishlists-faeynore/","tags":["wishlists","baldurs-gate","muse-faeynore"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/wishlists-faeynore/","tags":["wishlists","baldurs-gate","muse-faeynore"],"dg-note-properties":{"tags":["wishlists","baldurs-gate","muse-faeynore"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Faeynore Moonstar

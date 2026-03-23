@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/wishlists-tavares/","tags":["wishlists","baldurs-gate","muse-tavares"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/wishlists-tavares/","tags":["wishlists","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["wishlists","baldurs-gate","muse-tavares"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Tavares Umbrafae

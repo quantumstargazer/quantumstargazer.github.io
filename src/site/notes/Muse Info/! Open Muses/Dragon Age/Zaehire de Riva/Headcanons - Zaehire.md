@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/headcanons-zaehire/","tags":["headcanons","dragon-age","muse-zaehire"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zaehire-de-riva/headcanons-zaehire/","tags":["headcanons","dragon-age","muse-zaehire"],"dg-note-properties":{"tags":["headcanons","dragon-age","muse-zaehire"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Zaehire de Riva

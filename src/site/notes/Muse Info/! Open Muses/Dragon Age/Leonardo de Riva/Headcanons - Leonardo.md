@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/headcanons-leonardo/","tags":["headcanons","dragon-age","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/headcanons-leonardo/","tags":["headcanons","dragon-age","muse-leonardo"],"dg-note-properties":{"tags":["headcanons","dragon-age","muse-leonardo"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Leonardo de Riva

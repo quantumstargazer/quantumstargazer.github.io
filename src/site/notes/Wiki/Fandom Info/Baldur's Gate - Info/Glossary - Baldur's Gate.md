@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/fandom-info/baldur-s-gate-info/glossary-baldur-s-gate/","tags":["glossary","baldurs-gate"]}
+{"dg-publish":true,"permalink":"/wiki/fandom-info/baldur-s-gate-info/glossary-baldur-s-gate/","tags":["glossary","baldurs-gate"],"dg-note-properties":{"tags":["glossary","baldurs-gate"],"aliases":["Baldur's Gate (glossary)"]}}
 ---
 
 # Baldur's Gate

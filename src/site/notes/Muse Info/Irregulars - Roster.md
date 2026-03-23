@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/irregulars-roster/","tags":["directory","rosters","irregular-muses"]}
+{"dg-publish":true,"permalink":"/muse-info/irregulars-roster/","tags":["directory","rosters","irregular-muses"],"dg-note-properties":{"tags":["directory","rosters","irregular-muses"],"aliases":["Irregular Muses"]}}
 ---
 
 # Irregulars Roster

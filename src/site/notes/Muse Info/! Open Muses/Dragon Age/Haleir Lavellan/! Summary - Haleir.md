@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/","tags":["directory","summary","open-muses","dragon-age","muse-haleir"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/","tags":["directory","summary","open-muses","dragon-age","muse-haleir"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-haleir"],"aliases":["Dossiers & Verses","Haleir Lavellan"]}}
 ---
 
 # Haleir Lavellan

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/connections-nihlus/","tags":["connections","mass-effect","muse-nihlus"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/nihlus-kryik/connections-nihlus/","tags":["connections","mass-effect","muse-nihlus"],"dg-note-properties":{"tags":["connections","mass-effect","muse-nihlus"],"aliases":["Connections"]}}
 ---
 
 # Connections - Nihlus Kryik

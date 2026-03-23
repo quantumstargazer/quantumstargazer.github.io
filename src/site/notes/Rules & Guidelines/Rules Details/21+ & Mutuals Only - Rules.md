@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/21-and-mutuals-only-rules/","tags":["rules"]}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-details/21-and-mutuals-only-rules/","tags":["rules"],"dg-note-properties":{"tags":["rules"],"aliases":["21+ & Mutuals Only"]}}
 ---
 
 # 21+ & Mutuals Only

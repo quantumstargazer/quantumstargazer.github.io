@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/","tags":["directory","rosters","by-request-only-muses"]}
+{"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/","tags":["directory","rosters","by-request-only-muses"],"dg-note-properties":{"tags":["directory","rosters","by-request-only-muses"],"aliases":["By Request Only Muses"]}}
 ---
 
 # By Request Only Roster

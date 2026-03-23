@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/connections-zevran/","tags":["connections","dragon-age","muse-zevran"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/zevran-arainai/connections-zevran/","tags":["connections","dragon-age","muse-zevran"],"dg-note-properties":{"tags":["connections","dragon-age","muse-zevran"],"aliases":["Connections"]}}
 ---
 
 # Connections - Zevran Arainai

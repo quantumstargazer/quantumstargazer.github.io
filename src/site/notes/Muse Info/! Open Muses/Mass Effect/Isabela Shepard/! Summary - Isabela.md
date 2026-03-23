@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/","tags":["directory","summary","open-muses","mass-effect","muse-isabela"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/","tags":["directory","summary","open-muses","mass-effect","muse-isabela"],"dg-note-properties":{"tags":["directory","summary","open-muses","mass-effect","muse-isabela"],"aliases":["Dossiers & Verses","Isabela Shepard"]}}
 ---
 
 # Isabela Shepard
