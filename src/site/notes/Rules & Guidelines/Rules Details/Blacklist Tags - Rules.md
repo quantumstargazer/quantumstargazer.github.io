@@ -37,7 +37,7 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 | child death                                           | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
 | child abuse                                           | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
 | major character death                                 | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
-| tobacco (*cigarettes, cigars, chewing tobacco, etc.*) | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
+| tobacco (*cigarettes, cigars, chewing tobacco, etc.*)[^3] | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
 ## Real Life Events
 This is my *escapism* blog — I have a separate account for things involving politics and whatnot, and for the most part, am more on bluesky and reddit than on tumblr for such — so I don't wish to see politics and the world being its dumpster fire self when I'm just trying to focus on playing dolls in order to forget about it all for a little while.
 
@@ -81,3 +81,4 @@ However, I do rely on the mobile app as well, so please tag posts with this aest
 
 [^2]: Compassion fatigue is a very real thing, and if everyone is negative all the time, without forewarning before reading the posts, it can cause others to distance themselves from those making such posts, or even lead to them leaving tumblr all together because they're worn out by other people's ooc troubles that can't be blacklisted in any way if they're not tagged.
 
+[^3]: None of my muses partake in any tobacco products, nor will they. I myself am severely repulsed by tobacco due to being extremely allergic to it, so I prefer not to have it be a part of interactions with my muses, just because of the illness I associate with being exposed to it can cause.
