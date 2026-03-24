@@ -32,7 +32,7 @@
 >> - *species:* Turian
 >> - *race:* Turian
 >> - *ethnicity:* 
->> - *additional ethnicities/cultures:* 
+>> - *additional ethnicities/cultures:* —
 >> - *height:* 215 cm
 >> 	- 7 ft 0.65 in
 >> - *body shape:* — 
@@ -44,7 +44,7 @@
 >> - *planet of origin:* Altakiril - Thal System - Shrike Abyssal Cluster - Milky Way Galaxy
 >> - *place of birth:* Saetora Outpost - Altakiril
 >> - *homeworld:* Palaven - Trebia System - Aspen Crest Cluster - Milky Way Galaxy
->> - *nationality:* 
+>> - *nationality:* —
 >> - *home town:* Presidium - The Citadel
 >> 	- Cipritine - Palaven
 > 
