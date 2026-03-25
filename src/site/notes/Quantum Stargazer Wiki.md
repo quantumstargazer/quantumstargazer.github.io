@@ -59,6 +59,10 @@
 > If you lose interest in a thread, I would appreciate it if you would *please just let me know* so I can mark it as dropped &/or ended, rather than letting it sit as being archived and still waiting for a potential reply to come in. I'm an avid reader of work-in-progress fics on AO3 — I will wait *literal years* for a continuation, and that *includes* roleplay threads (it's something I've regularly done in the past on my old blogs).
 > 
 > If you're never going to reply to something, I'd rather just know rather than being expected to *assume* — assumptions make asses out of people, more often than not, and again, I'm neurodivergent AF *and* disabled, so my assumptions are always going to lean to a far kinder **"they're probably just busy/too tired/brainfoggy/etc"** side of things rather than "oh, they've lost interest and I should move on from that thread" that most people seem to assume.
+> 
+>  **Tracking Completed &/or Dropped Threads**
+> - Threads *are* able to reach a natural conclusion at the end of a scene, and rather than trying to force its continuation, I prefer to simply switch to a new thread itself and continue with a new plot point, while maintaining the development established in the prior thread. These threads will be marked as complete in the tracker by adding "**(Complete)**" at the end of the title, as that is the only functional way that the public view makes my marking them for anyone else to see.
+> - Threads that are outright dropped and/or otherwise ended will be marked as such in the tracker by similarly adding either "**(Dropped)**", "**(Ended)**", or another suitable descriptor for why the thread is no longer being continued to the end of the title.
 
 ---
 # Interest Forms
