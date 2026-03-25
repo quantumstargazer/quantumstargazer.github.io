@@ -37,7 +37,7 @@
 - Fiend
 
 # G
-- 
+- Gale Dekarios
 
 # H
 - Halsin
