@@ -40,9 +40,14 @@
 > **Threads Inactive For Longer Than 2+ Months**
 > - Threads that have been on "*their turn*" for 2+ months are sent to the Archive for storage until it is replied to — these threads are still accessible through the public view's dropdown menu to access Archived threads. 
 > 	- I do *not* consider these threads dropped *unless I have updated the title to mark them as such*. If you have outright dropped a thread, *please notify me directly*. This can be done through discord, tumblr IM, and/or the tumblr inbox.
-> - Threads that have been on *my turn* for 2+ months are potentially sent to the Queue for storage if they're stuck in drafts due to low muse activity — again, they're still accessible through the dropdown menu to access Queued threads.
-> 	- These posts are *not* actually queued, however, as I *never* queue in character posts. It is just a functional way of setting them aside in the tracker so as not to overwhelm me when I know I'm not going to be replying to that post for a while, and it should automatically release it from being marked as queued when I do eventually get it posted.
+> - Threads that have been on *my turn* for 2+ months are potentially sent to the Queue list for storage if they're stuck in drafts due to low muse activity — again, they're still accessible through the dropdown menu to access Queued threads.
+> 	- These posts are *not* actually queued on tumblr, however, as I *never* queue in character posts. It is just a functional way of setting them aside in the tracker so as not to overwhelm me when I know I'm not going to be replying to that post for a while, and it should automatically release it from being marked as queued when I do eventually get it posted.
 > 	- Likewise, these threads are also *not dropped* — some muses, or even just some verses for that muse, are simply slower than others, and so interactions may go months without being replied to if I have little to no muse for them at the time.
+> 
+> **Completed &/or Dropped Threads**
+> - Threads *are* able to reach a natural conclusion at the end of a scene, and rather than trying to force its continuation, I prefer to simply switch to a new thread itself and continue with a new plot point, while maintaining the development established in the prior thread. These threads will be marked as complete in the tracker by adding "**(Complete)**" at the end of the title, as that is the only functional way that the public view makes my marking them for anyone else to see.
+> - Threads that are outright dropped and/or otherwise ended will be marked as such in the tracker by similarly adding either "**(Dropped)**", "**(Ended)**", or another suitable descriptor for why the thread is no longer being continued to the end of the title.
+
 ## Where You Can See What's Tracked
 - [Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads) - *all threads, regardless of whose turn it is*
 - [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) - *only threads that are on someone else's turn*
@@ -93,7 +98,8 @@
 - *name/alias:* Ziggy
 - *pronouns:* they/them
 - *age:* 40+
-- *rp & related blogs:* [quantumstargazer](https://quantumstargazer.tumblr.com/) - *Multifandom Multimuse (PRIMARY & MAIN BLOG)*
+- *rp & related blogs:* 
+	- [quantumstargazer](https://quantumstargazer.tumblr.com/) - *Multifandom Multimuse (PRIMARY & MAIN BLOG)*
 	
 	- [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
