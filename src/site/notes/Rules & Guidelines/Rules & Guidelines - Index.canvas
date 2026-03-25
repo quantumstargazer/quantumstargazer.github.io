@@ -1,0 +1,804 @@
+---
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rules-and-guidelines-index.canvas/","contentClasses":"canvas-page","dg-note-properties":{}}
+---
+
+<div id="Rules_&_Guidelines_-_Indexcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Rules_&_Guidelines_-_Indexcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Rules_&_Guidelines_-_Indexcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 200 216 C 200 313.5089739459913, 322.4910260540087 321, 420 321" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="0bd7e0206cbb323c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 216 C 200 363.2005434772576, 272.7994565227424 511, 420 511" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d309a0f3389d3775"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 666 C 200 763.5089739459912, 322.4910260540087 771, 420 771" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="b4a4284b026db8ed"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 666 C 200 813.2005434772576, 272.7994565227424 961, 420 961" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c366c8af05392dfb"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 1116 C 200 1213.5089739459913, 322.4910260540087 1221, 420 1221" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ba37fd8894445530"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 1116 C 200 1263.2005434772575, 272.7994565227424 1411, 420 1411" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="8bed0026fbbab989"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 1116 C 200 1329.0258200312817, 206.97417996871835 1601, 420 1601" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="08cff69bbed17e50"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 1116 C 200 1399.9788724535683, 136.02112754643173 1791, 420 1791" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="2435bad6fcb73f4d"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 1946 C 200 2035.8220462915424, 330.1779537084575 1991, 420 1991" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="85ba352e8c0c3081"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 620 2016 C 620 2113.5089739459913, 742.4910260540088 2121, 840 2121" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="415de7a43ddbf333"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 200 1946 C 200 2116.4699386988805, 249.5300613011197 2311, 420 2311" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3c193ec4b5b6dae6"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 268 C 1655 365.5089739459913, 1777.4910260540087 373, 1875 373" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="dee9ef2c398e8c14"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 268 C 1655 396.763348822559, 1746.236651177441 503, 1875 503" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="f5e78b513ae97a5f"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 528 C 2075 625.5089739459912, 2197.4910260540087 633, 2295 633" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c10b7eec5b5cb97c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 788 C 1655 885.5089739459912, 1777.4910260540087 893, 1875 893" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="5162d75e7bd4b73a"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 1048 C 1655 1137.8220462915424, 1785.1779537084576 1093, 1875 1093" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1a5da358108c9280"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 1118 C 2075 1215.5089739459913, 2197.4910260540087 1223, 2295 1223" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="099b2c673f61c7d5"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 1048 C 1655 1218.4699386988802, 1704.5300613011198 1413, 1875 1413" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="785e3158dc33fc77"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 1048 C 1655 1264.6748716395143, 1658.3251283604857 1543, 1875 1543" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="39f86a67cc3b4bad"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 1568 C 2075 1665.5089739459913, 2197.4910260540087 1673, 2295 1673" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="44e8e9ae9253a7e1"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 1568 C 2075 1715.2005434772575, 2147.7994565227423 1863, 2295 1863" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7687922d010d0055"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 2018 C 1655 2115.5089739459913, 1777.4910260540087 2123, 1875 2123" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="48d3c176f34d183c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 2018 C 1655 2165.2005434772577, 1727.7994565227425 2313, 1875 2313" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="22257b6d7dc3dacf"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 2018 C 1655 2231.0258200312815, 1661.9741799687183 2503, 1875 2503" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6713176f24885a1f"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 2018 C 1655 2301.9788724535683, 1591.0211275464317 2693, 1875 2693" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1c1cdf5db84ea588"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 2018 C 1655 2375.015405830057, 1517.9845941699434 2883, 1875 2883" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3dbb68aff8f825d9"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 2018 C 1655 2449.077719210817, 1443.9222807891829 3073, 1875 3073" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="39ea8052b200796b"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 3228 C 1655 3325.5089739459913, 1777.4910260540087 3333, 1875 3333" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9ecd3101f2b33497"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 3228 C 1655 3356.763348822559, 1746.236651177441 3463, 1875 3463" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="eec9b5145213d6b2"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 3488 C 2075 3585.5089739459913, 2197.4910260540087 3593, 2295 3593" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="0fa362b55c12131f"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 3228 C 1655 3444.674871639514, 1658.3251283604857 3723, 1875 3723" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="18b92f9cce2d6040"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 3748 C 2075 3845.5089739459913, 2197.4910260540087 3853, 2295 3853" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="00d498d8115007cb"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 3748 C 2075 3895.2005434772577, 2147.7994565227423 4043, 2295 4043" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d55f5de0546a2fdf"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 3748 C 2075 3961.0258200312815, 2081.9741799687185 4233, 2295 4233" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="a74e47ab54aa1a8d"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 3748 C 2075 4031.9788724535683, 2011.0211275464317 4423, 2295 4423" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="b98a533e8878b9ef"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 3228 C 1655 3765.255991125274, 1337.7440088747264 4553, 1875 4553" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6ca72f722ef4bf62"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 4578 C 2075 4675.508973945991, 2197.4910260540087 4683, 2295 4683" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="8664c44be6a103b9"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 4578 C 2075 4725.200543477257, 2147.7994565227423 4873, 2295 4873" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="4d3137823684bfdc"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 4578 C 2075 4791.025820031282, 2081.9741799687185 5063, 2295 5063" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="02a47b77e4569260"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 5218 C 1655 5307.822046291542, 1785.1779537084576 5263, 1875 5263" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3731af6bbcfae7b4"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 5288 C 2075 5385.508973945991, 2197.4910260540087 5393, 2295 5393" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="34eada872ab95c2d"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 5288 C 2075 5435.200543477257, 2147.7994565227423 5583, 2295 5583" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c98a56b05b28e2a5"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 5288 C 2075 5501.025820031282, 2081.9741799687185 5773, 2295 5773" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="b2b1f33cce215901"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 5218 C 1655 5505.784641702784, 1587.2153582972155 5903, 1875 5903" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="e46fefe634d14513"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 5928 C 2075 6025.508973945991, 2197.4910260540087 6033, 2295 6033" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="51a4eec8b6867f36"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 6188 C 1655 6285.508973945991, 1777.4910260540087 6293, 1875 6293" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3bd419808255c0de"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1655 6188 C 1655 6316.763348822559, 1746.236651177441 6423, 1875 6423" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="5d41b2b3e5488558"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2075 6448 C 2075 6545.508973945991, 2197.4910260540087 6553, 2295 6553" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="de720faab3ec704c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 390 C 3600 487.5089739459913, 3722.4910260540087 495, 3820 495" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="68569148fd92fbad"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 390 C 3600 537.2005434772576, 3672.7994565227423 685, 3820 685" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="af4e28ab4824a9f6"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 840 C 3600 937.5089739459912, 3722.4910260540087 945, 3820 945" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="561b02b8f70f2b2f"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 840 C 3600 987.2005434772576, 3672.7994565227423 1135, 3820 1135" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6a8431f8b165fc93"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 1290 C 3600 1379.8220462915424, 3730.1779537084576 1335, 3820 1335" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="2d20a9aee302436e"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 4020 1360 C 4020 1457.5089739459913, 4142.491026054009 1465, 4240 1465" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="85274d0f4296683c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 4020 1360 C 4020 1507.2005434772575, 4092.7994565227423 1655, 4240 1655" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="455be4c8dce96d58"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 4020 1360 C 4020 1573.0258200312817, 4026.9741799687185 1845, 4240 1845" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="7cbc26cf43654d3a"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 4020 1360 C 4020 1643.9788724535683, 3956.0211275464317 2035, 4240 2035" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1df34f04b02acf88"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 4020 1360 C 4020 1717.0154058300566, 3882.984594169943 2225, 4240 2225" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="86bcbbde75eac1e7"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 2570 C 3600 2667.5089739459913, 3722.4910260540087 2675, 3820 2675" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="98675d410b6a3c6e"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 2830 C 3600 2927.5089739459913, 3722.4910260540087 2935, 3820 2935" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6a136b57a53f8ce8"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 3090 C 3600 3187.5089739459913, 3722.4910260540087 3195, 3820 3195" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6fd0e2691c47a0c5"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 3090 C 3600 3237.2005434772577, 3672.7994565227423 3385, 3820 3385" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="e2d666fa39efdf39"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3600 3090 C 3600 3303.0258200312815, 3606.9741799687185 3575, 3820 3575" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="221c1057ffcd5c90"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-file " data-node-id="c310d1b5d4f2a346" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, -162px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Guidelines" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="46a9daeb96ee2269" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 28px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Interactions" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4eac2f5598595b4f" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 218px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Best Ways To Interact" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6de55b19f58b00bb" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 288px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Prompts/Memes" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a70c8f27b162fc0e" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 478px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Discord" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="9ad12bbc18f9d0b8" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 548px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Why Not Tumblr IMs?" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4e4cac2fad77d5c7" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 738px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Continuity" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="7f1dbc90cf729a9a" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 808px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Separate Multi-Verse Continuities" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e6c8922f96f0e03f" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 998px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Starters" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4219db5d76be438b" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 1068px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Random Starters" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f910e478feeb6499" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 1138px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Write Starters For Me Whenever" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="19a7f526fd7ff5b5" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 1328px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Requesting Starters" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0a82412c76687fdf" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 1518px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Open Starters" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="2013daff998d6f89" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 1588px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#For Mutuals Only" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a01d262b03951eb7" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 1778px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Customized Upon Request" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f8a9c97095d154b0" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 1968px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Inbox" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6bc6eb4c7fc0fd04" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 2038px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Reverse Prompts/Memes" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6cf6bf96b0d9b924" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 2228px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Adding Context To Memes/Prompts" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1c3db1b8fccafd70" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 2418px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Continue As Threads" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="403569338c165c1d" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 2608px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Prompts Never Expire" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="8967bb232f2572b9" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 2798px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Include Full Prompt When Sending" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f24dd6489ef042b0" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 2988px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Send Any Time" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a97e39be7354398b" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 3178px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Ships & Dynamics" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="47a63863d75d641c" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 3248px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Multi-Shipping" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="9c687bd03e700486" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 3438px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Chemistry" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c9cf51c7f3ff9a75" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 3508px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Flirting ≠ Forced Shipping" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c0e837815402bd2a" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 3698px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Dynamics" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="de84b637ceeb8124" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 3768px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Platonic" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="69d8f391f0c95ca9" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 3958px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Queerplatonic" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="cec61ec27d9e6667" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 4148px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Familial" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4467bd42faedd076" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 4338px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Antagonistic" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e4def99d109eb121" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 4528px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Shipping" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0ffd404d6f42b3ab" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 4598px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Romanic Ships" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="22ad9b7ad3cba799" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 4788px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Sexual Ships" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="60c8786f0d9c0fc7" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 4978px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Smut" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="be23ce50d96907a0" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 5168px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="241b0aba78532c03" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 5238px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Specify Verse" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1996ab2143db9d29" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 5308px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Disinterest Tracker" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="23e5d54eb6c8b373" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 5498px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Default Verses/AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="3ef8f0b0025d4c63" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 5688px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#If Not Specified" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="81ee0adfa0c9c4a9" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 5878px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Private Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="cd6953df178f1fd6" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 5948px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Interacting In Other Muns' Private Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="528663fd81cf4ef8" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 6138px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Plotting" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="94777317f14fd649" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 6208px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Improv Roleplay" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="fc1fafdcf2d78801" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1875px, 6398px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Plotting Dynamics, Ships, Verses, &/or AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e760b1cd2274b782" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(2295px, 6468px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Strict Plotters" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="ebc93666cb562f64" data-file-path="Rules &amp; Guidelines/Guidelines.md" style="transform: translate(1455px, 6658px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Guidelines</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/guidelines//#Additional Guidelines" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="9ce75d006c7d9278" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, -214px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#The Actual Rules" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1a536fc64ad4c3bd" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, -24px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Don't Be A Dick" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0169f6707ba9f35f" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, 166px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#21+ & Mutuals Only" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e23db8088b994471" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 236px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Only Interacts With 21+" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="52365f8ac7ebb95f" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 426px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Rated for Mature Audiences Only" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="3bfec7a135695ab7" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, 616px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Curate Your Own Dash" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="95b9a88f46e338a6" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 686px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Don't Like? Don't Follow." class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="602f0f58dca4b74d" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 876px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Hard Block Only - No Soft Block" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="acd3fd8d391a9c68" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, 1066px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Banned & Restricted Content" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a52ff8ca411de5bd" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 1136px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#AI Generated Content" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="58984804e01fb5f7" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 1326px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Tropes & Themes" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="cc02d92f525f6258" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 1516px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Fandoms" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="9c92541e9d7d7f5d" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 1706px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Faceclaims" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="12283a041cb58f90" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, 1896px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Additional Rules & Guidelines May Apply" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="54b3c8b7515e8ae2" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 1966px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Additional Rules" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e7652d634af10d54" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(840px, 2036px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Fandom-Specific Rules" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0a7fb98497f7bdb7" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(420px, 2226px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Guidelines" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="aa24948b26aef517" data-file-path="Rules &amp; Guidelines/Actual Rules.md" style="transform: translate(0px, 2416px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">Actual Rules</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/actual-rules//#Rules Passwords" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0e1f4c6986184971" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, -40px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Frequently Asked Questions" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="5c445e4cf4d9097a" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 150px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Preferences" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="95af6fd319bc19aa" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 340px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Starting Interactions" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f009ef53bf09d5d3" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 410px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Request Ziggy Starts" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="dfa24c9f7f19278d" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 600px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#For You To Start" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c196ae600f34777a" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 790px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Post Formatting" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c25aaa11cdc311f3" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 860px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Text Formatting" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="5f9817017bcff310" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 1050px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Other Post Details" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="8740c1863cf0f973" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 1240px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f12b7fbcd75c210f" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 1310px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Types of Available Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="d58e49df8d2e00be" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(4240px, 1380px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Canon-Based Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e6574befa89c6cf6" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(4240px, 1570px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Fandom Specific AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="daa728b5c147fbcc" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(4240px, 1760px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Trapped In Another World AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e6cf6562dfff1229" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(4240px, 1950px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Other Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="04308b630e006e5a" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(4240px, 2140px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Private Verses & AUs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="7647fc2777057cb6" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 2330px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Blocking & Following" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="49eae9a715acd7b0" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 2520px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Blocking" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c2ec14c78ffdf3fd" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 2590px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Hard Block - Never Soft Block" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="3b50588028a75023" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 2780px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Following" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="bc19194a6ad97ba2" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 2850px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Following = Want To Write With You" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="017888b739119adc" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3400px, 3040px); width: 400px; height: 50px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Unfollowing" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1ce6587e9d052615" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 3110px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#No Interactions" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="774ceee25244dd14" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 3300px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Archived Blogs" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="17fd020d21fda777" data-file-path="Rules &amp; Guidelines/RP FAQ.md" style="transform: translate(3820px, 3490px); width: 400px; height: 170px; ">
+	<div class="canvas-node-label">RP FAQ</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/rules-and-guidelines/rp-faq//#Sudden Incompatibility" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
