@@ -65,7 +65,9 @@
 > - Threads that are outright dropped and/or otherwise ended will be marked as such in the tracker by similarly adding either "**(Dropped)**", "**(Ended)**", or another suitable descriptor for why the thread is no longer being continued to the end of the title.
 
 ---
-# Interest Forms
+# Interactive Forms
+**Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
+## Interest Forms
 > [!rule]- Interest Assumed For All Open Muses
 > Unless you fill out the **Disinterest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my ***Open Muses*** in any of their canon-based verses and/or their fandom matched verses & AUs.
 
