@@ -76,6 +76,7 @@
 
 ---
 # Other Fandoms
+
 ## The Elder Scrolls
 ### Inigo
 > [!profile]- Inigo (he/him)
@@ -133,6 +134,8 @@
 - Headcanons
 - Quick Guide
 - Wishlists
+
+
 
 
 
