@@ -34,7 +34,8 @@
 > Regardless, unless agreed upon ooc, I always start everything with the intention of being platonic, even if I hold a ship bias, so I won't randomly be throwing shippy things from Haleir at Solas roleplayers without their prior consent, *especially* since I do not intend for her storyline to be that of canon Lavellan's.
 
 ## Things Your Muse *Could* Know
-> [!hint]- 
+> [!hint]- Born in Arlathan Forest 
+> 
 > 
 
 ## Things Your Muse Should *Not* Know
