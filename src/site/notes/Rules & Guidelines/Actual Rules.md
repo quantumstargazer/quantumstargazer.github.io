@@ -76,6 +76,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
 > - scenes involving active labor and/or childbirth [^3]
+> - ***Modern AUs*** set on modern everyday Earth for any sci-fi and/or fantasy fandoms
+> - ***"No Magic"/"All Human"/etc. AUs*** for any sci-fi and/or fantasy fandoms
 ## Fandoms
 > [!danger]+ Banned Fandoms — No Follow &/or Interaction
 > 
@@ -91,8 +93,9 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > 
 > - KPop Demon Hunters (*2025*)
 > - Alien: Earth (*2025*)[^8]
-> - *Modern AUs set on modern everyday Earth for any sci-fi and/or fantasy fandoms*
-> - *"No Magic"/"All Human"/etc. AUs for any sci-fi and/or fantasy fandoms*
+> - Hazbin Hotel (*2019*)
+> - Helluva Boss
+> - Hellaverse & Related Fandoms
 ## Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
 > 
@@ -106,6 +109,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - Jessica Chastain
 > - *Models*
 > - *Online Influencers and/or Content Creators*
+> 
+> **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
 > [!warning]+ Restricted Faceclaims
 > - *Musicians* [^5]
