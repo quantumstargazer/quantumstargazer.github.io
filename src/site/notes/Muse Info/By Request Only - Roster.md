@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/","tags":["directory","rosters","by-request-only-muses"]}
+{"dg-publish":true,"permalink":"/muse-info/by-request-only-roster/","tags":["directory","rosters","by-request-only-muses"],"dg-note-properties":{"tags":["directory","rosters","by-request-only-muses"],"aliases":["By Request Only Muses"]}}
 ---
 
 # By Request Only Roster
@@ -17,6 +17,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Jaheira
 > [!profile]- Jaheira (she/her)
@@ -27,6 +28,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Minthara Baenre
 > [!profile]- Minthara Baenre (she/her)
@@ -37,6 +39,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -50,6 +53,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Dorian Pavus
 > [!profile]- Dorian Pavus (he/him)
@@ -60,6 +64,7 @@
 - Dossiers & Verses
 - C!musetions
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Viago de Riva
 > [!profile]- Viago de Riva (he/him)
@@ -70,6 +75,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Andarateia Cantori
 > [!profile]- Andarateia Cantori (she/her)
@@ -80,6 +86,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Lucanis Dellamorte
 > [!profile]- Lucanis Dellamorte (he/him)
@@ -90,6 +97,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Spite
 > [!profile]- Spite (he/they)
@@ -100,6 +108,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Emmrich Volkarin
 > [!profile]- Emmrich Volkarin (he/him)
@@ -110,6 +119,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Manfred
 > [!profile]- Manfred (he/they)
@@ -120,6 +130,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Vorgoth
 > [!profile]- Vorgoth (they/them)
@@ -130,6 +141,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Sten
 > [!profile]- Sten (he/him)
@@ -140,6 +152,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Shale
 > [!profile]- Shale (they/she)
@@ -150,6 +163,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Sigrun
 > [!profile]- Sigrun (she/her)
@@ -160,6 +174,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -173,6 +188,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Scott Ryder
 > [!profile]- Scott Ryder (he/they)
@@ -183,6 +199,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Evfra de Tershaav
 > [!profile]- Evfra de Tershaav (he/him)
@@ -193,6 +210,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Jaal Ama Darav
 > [!profile]- Jaal Ama Darav (he/him)
@@ -203,41 +221,16 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
 # Other Fandoms
-## Doctor Who Expanded Universe
 > [!attention] Not Currently Available
-> I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
-### Josie Day
-> [!profile]- Josie Day (she/they)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Donna Noble
-> [!profile]- Donna Noble (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Martha Jones
-> [!profile]- Martha Jones (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
+
+
+
 

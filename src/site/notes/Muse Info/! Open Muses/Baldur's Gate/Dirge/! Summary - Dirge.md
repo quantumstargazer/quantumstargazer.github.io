@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/","tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/dirge/summary-dirge/","tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"],"dg-note-properties":{"tags":["directory","summary","open-muses","baldurs-gate","muse-dirge"],"aliases":["Dossiers & Verses","Dirge"]}}
 ---
 
 # Dirge
@@ -8,7 +8,7 @@
 
 > [!profile]+ Muse Info
 > - *name:* The Dark Urge
-> - *nickname:* Durge
+> - *nickname:* Dirge
 > - *alias:* — 
 > - *gender:* Nonbinary
 > - *pronouns:* They/Them/Themself
@@ -72,19 +72,20 @@
 >> - *current moral alignment:* Neutral Impure
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Dirge)
+> - ***open starters:*** [Open Starter ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Dirge)
+> - ***headcanons:*** [Headcanon ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Dirge)
+> - ***wishlist:*** [Wishlist ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Dirge)
+> - *desires:* [Desires ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Dirge)
+> - *musings:* [Musings ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Dirge)
+> - *aesthetics:* [Aesthetics ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Dirge)
+> - *visage:* [Visage ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Dirge)
+> - *playlist:* [Playlist ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Dirge)
 
 ---
 # Canon Typical
 > [!verse]+ Wandering Dirge
+> 
 > - *Companion (Non-Party Leader) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -94,14 +95,16 @@
 > Blood calls to them, despite their disgust with the urges they barely manage to hold in check as they struggle to find not only a cure for their tadpole infection, but to also discover just exactly who they are... and why they think everyone would look better as a corpse...
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
+> 
 > - *Party Leader (Dark Urge) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -111,188 +114,169 @@
 > Blood calls to them, despite their disgust with the urges they barely manage to hold in check as they struggle to find not only a cure for their tadpole infection, but to also discover just exactly who they are... and why they think everyone would look better as a corpse...
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]+ Bhaal's Chosen
+> 
 > - *Embrace Urge AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]] 
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]- Astral Drifter
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+
 ## Dragon Age AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Mass Effect AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-> [!verse]- Absolute Crisis
-> - *Abducted By Nautiloid AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
-
-> [!verse]- Planar Wanderer
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
 > [!verse]- Planar Agent
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Other Verses & AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 

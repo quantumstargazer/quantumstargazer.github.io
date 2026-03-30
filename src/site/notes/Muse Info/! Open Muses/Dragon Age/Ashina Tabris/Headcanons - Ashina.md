@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/","tags":["headcanons","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/headcanons-ashina/","tags":["headcanons","dragon-age","muse-ashina"],"dg-note-properties":{"tags":["headcanons","dragon-age","muse-ashina"],"aliases":["Headcanons"]}}
 ---
 
 # Headcanons - Ashina de Riva née Tabris
@@ -32,17 +32,7 @@
 > [!headcanon]-
 > TBA
 
-> [!headcanon]-
-> TBA
 
-> [!headcanon]-
-> TBA
-
-> [!headcanon]-
-> TBA
-
-> [!headcanon]-
-> TBA
 
 ---
 # Canon Typical
@@ -64,7 +54,11 @@
 > TBA
 
 ### Pre-Origins (9:05 - 9:29 Dragon)
-> [!headcanon]-
+> [!headcanon]- Adaia's Death (9:24 Dragon)
+> 
+> - **CW: Minor Character Death, Parental Death, Murder (Assassination)**
+> - *Takes place shortly after the events of Leliana's Song (DLC).*
+> 
 > TBA
 
 ---
@@ -97,44 +91,45 @@
 > [!headcanon]-
 > TBA
 
-## VerseAU Headcanons
-> [!headcanon]-
-> TBA
 
-## VerseAU Headcanons
-> [!headcanon]-
-> TBA
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-### Scion of the Outer Planes Headcanons
-> [!headcanon]-
-> TBA
-### Astral Drifter Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+
+
+
 ## Dragon Age AUs
-### Dragon Age AUs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Mass Effect AUs
 ### Mercenary Assassin Headcanons
 > [!headcanon]-
 > TBA
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 #### In Time & Space Headcanons
 > [!headcanon]-
 > TBA
+
+
 ### Elder Scrolls AUs
-#### Elder Scrolls AUs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+
+
+
 ### Stardew Valley AUs
-#### Stardew Valley AUs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 
 ---
 # Trapped In Another World AUs
@@ -142,44 +137,112 @@
 ### Absolute Crisis Headcanons
 > [!headcanon]-
 > TBA
-### Planar Wanderer Headcanons
-> [!headcanon]-
-> TBA
-### Planar Agent Headcanons
-> [!headcanon]-
-> TBA
+
+
+
 ## Dragon Age AWs
 ### This Shit Is Weird Headcanons
 > [!headcanon]-
 > TBA
+
 ## Mass Effect AWs
 ### Anomaly Detected Headcanons
 > [!headcanon]-
 > TBA
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Companion Headcanons
 > [!headcanon]-
 > TBA
+
 ### Elder Scrolls AWs
-#### Elder Scrolls AWs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ### Stardew Valley AWs
-#### Stardew Valley AWs Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+
+
 
 ---
 # Other Verses & AUs
-## Other Verse Headcanons
-> [!headcanon]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-### Private Verse Headcanons
+## corvusrookery - Viago de Riva
+### Dragon Age Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Rook Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Inquisitor Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Inquisitor Crow Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Crows' Due Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Crows' Design Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Antivan Crows Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Lyrium Ghost Headcanons (Viago - corvusrookery)
+> [!headcanon]-
+> TBA
+
+
+
+## corvusrookery - 3 Talons & Their Crow
+### Dragon Age Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Rook Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Lyrium Ghost Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Crow Takeover Headcanons (3 Talons - corvusrookery)
+> [!headcanon]-
+> TBA
+
+
+
+## corvusrookery - Andarateia Cantori
+### Dragon Age Headcanons (Teia - corvusrookery)
+> [!headcanon]-
+> TBA
+
+### Lyrium Ghost Headcanons (Teia - corvusrookery)
+> [!headcanon]-
+> TBA
+
+
+
+## lanternlit - Garrus Vakarian
+### Mercenary Assassin Headcanons (Garrus - lanternlit)
 > [!headcanon]-
 > TBA
 

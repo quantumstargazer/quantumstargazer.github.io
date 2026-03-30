@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/","tags":["directory","summary","open-muses","dragon-age","muse-haleir"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/haleir-lavellan/summary-haleir/","tags":["directory","summary","open-muses","dragon-age","muse-haleir"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-haleir"],"aliases":["Dossiers & Verses","Haleir Lavellan"]}}
 ---
 
 # Haleir Lavellan
@@ -46,6 +46,8 @@
 >> 	- Mid-Back Length (*when worn down*)
 >> - *eyes:* Golden Brown
 >> - *complexion:* Brown Skin
+>> 	- *vallaslin:* Fen'Harel (*drawn on using kohl - not permanent*)
+>> 		- Mythal (*removed by Solas in 9:42 Dragon*)
 > 
 >> [!stats]- Demographics 
 >> - *planet of origin:* Thedas (*planet name unknown*)
@@ -57,6 +59,7 @@
 >> [!stats]- Communication 
 >> - *known languages:* Common Trade Tongue
 >> 	- Elven
+>> 	- Elvhen (*taught by Solas*)
 > 
 >> [!stats]- Social Standing & Affiliations 
 >> - *affiliated organizations:* Followers of Fen'Harel
@@ -87,226 +90,245 @@
 >> - *current moral alignment:* Rebel Neutral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Haleir+Lavellan)
+> - ***open starters:*** [Open Starter ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Haleir+Lavellan)
+> - ***headcanons:*** [Headcanon ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Haleir+Lavellan)
+> - ***wishlist:*** [Wishlist ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Haleir+Lavellan)
+> - *desires:* [Desires ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Haleir+Lavellan)
+> - *musings:* [Musings ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Haleir+Lavellan)
+> - *aesthetics:* [Aesthetics ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Haleir+Lavellan)
+> - *visage:* [Visage ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Haleir+Lavellan)
+> - *playlist:* [Playlist ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Haleir+Lavellan)
 
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
-> In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas, 
+> 
+> Haleir is the First of Clan Lavellan, sent to spy on the Conclave for the Dalish clan in 9:41 Dragon, only to find herself in the midst of a conspiracy when the Temple of Sacred Ashes is destroyed and the Breach has torn open the Veil into the Fade.
+> 
+> In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas and his cause, leaving with him through the eluvian.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
-> [!verse]+ Ancient Times
-> - *Time Travel AU*
+> [!verse]+ Wolf's Halla
 > 
-> Summary goes here.
+> - *Devoted of Fen'Harel AU*
+> 
+> Haleir has always had a fascination with Fen'Harel, seeing the god in a much more favorable light than most Dalish. For most of her life, this has led to her being seen as an outcast, as many feared her interest in the god would draw his attention to the clans.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]
+
+> [!verse]+ Ancient Times
+> 
+> - *Time Travel AU*
+> 
+> When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, long before the formation of the Veil.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]+ Fen'Harel's Rebellion
+> 
 > - *Time Travel AU*
 > 
-> Summary goes here.
+> When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, right in the midst of Fen'Harel's rebellion against the Evanuris.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
+> [!verse]+ Elvhenan
+> 
+> - *Ancient Elf AU*
+> 
+> Haleir is a servant of Mythal, bound to the All Mother by her vallaslin.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!verse]- Scion of the Outer Planes
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Astral Drifter
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ## Dragon Age AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Mass Effect AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
+> 
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
-> [!verse]- Planar Wanderer
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Planar Agent
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Other Verses & AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-> [!verse]- VerseTitle
+## corvusrookery - Solas
+> [!verse]- Dragon Age ( Solas - corvusrookery )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+> [!verse]- Ancient Times ( Solas - corvusrookery )
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+> [!verse]- Fen'Harel's Rebellion ( Solas - corvusrookery )
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
+
+
+
+
+
+
 
 

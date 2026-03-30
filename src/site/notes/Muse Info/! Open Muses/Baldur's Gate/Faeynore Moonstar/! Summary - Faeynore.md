@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/","tags":["directory","summary","open-muses","baldurs-gate","muse-faeynore"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/faeynore-moonstar/summary-faeynore/","tags":["directory","summary","open-muses","baldurs-gate","muse-faeynore"],"dg-note-properties":{"tags":["directory","summary","open-muses","baldurs-gate","muse-faeynore"],"aliases":["Dossiers & Verses","Faeynore Moonstar"]}}
 ---
 
 # Faeynore Moonstar
@@ -76,217 +76,196 @@
 >> - *current moral alignment:* Chaotic Neutral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Faeynore+Moonstar)
+> - ***open starters:*** [Open Starter ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Faeynore+Moonstar)
+> - ***headcanons:*** [Headcanon ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Faeynore+Moonstar)
+> - ***wishlist:*** [Wishlist ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Faeynore+Moonstar)
+> - *desires:* [Desires ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Faeynore+Moonstar)
+> - *musings:* [Musings ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Faeynore+Moonstar)
+> - *aesthetics:* [Aesthetics ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Faeynore+Moonstar)
+> - *visage:* [Visage ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Faeynore+Moonstar)
+> - *playlist:* [Playlist ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Faeynore+Moonstar)
 
 ---
 # Canon Typical
 > [!verse]+ Private Investigator
+> 
 > - *Companion (Non-Tav/Party Leader) AU*
 > 
-> Summary goes here.
+> Faeynore Moonstar is a private investigator out of Baldur's Gate. They are investigating a case when the nautiloid attacks the city, and whether they are abducted themself, or simply follow the trail of missing persons to try to find the source of disappearances, they are caught up in the conspiracy involving cults, mind flayer parasites, and other machinations taking place throughout Faerûn.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
-> Summary goes here.
+> 
+> Faeynore Moonstar is a private investigator out of Baldur's Gate. They are investigating a case when the nautiloid attacks the city, and are among the many who are picked up and subsequently infected with a mind flayer parasite.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
-> [!verse]+ Resist The Urge
-> - *Dark Urge AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Astral Drifter
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ## Dragon Age AUs
-> [!verse]- VerseTitle
+> [!verse]- Lights of Arlathan
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ## Mass Effect AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-> [!verse]- Absolute Crisis
-> - *Abducted By Nautiloid AU*
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
-
-> [!verse]- Planar Wanderer
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
 > [!verse]- Planar Agent
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Other Verses & AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 

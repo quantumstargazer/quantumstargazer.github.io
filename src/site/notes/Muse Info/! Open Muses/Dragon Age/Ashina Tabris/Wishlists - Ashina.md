@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/","tags":["wishlists","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/wishlists-ashina/","tags":["wishlists","dragon-age","muse-ashina"],"dg-note-properties":{"tags":["wishlists","dragon-age","muse-ashina"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Ashina de Riva née Tabris
@@ -28,20 +28,13 @@
 
 ---
 # Universal Wishlists
-> [!wishlist]-
-> TBA
+> [!wishlist]+ Secrets Revealed
+>
+>- (*verse/timeline dependent* — **Ashina must be Hero of Ferelden**)
+>
+> While most muses should not know Ashina is the Hero of Ferelden right away, I am open to plotting when exactly this secret is revealed to those who aren't already aware.
 
-> [!wishlist]-
-> TBA
 
-> [!wishlist]-
-> TBA
-
-> [!wishlist]-
-> TBA
-
-> [!wishlist]-
-> TBA
 
 ---
 # Canon Typical
@@ -59,8 +52,13 @@
 > TBA
 
 ### Origins (9:30 - 9:34 Dragon)
-> [!wishlist]-
-> TBA
+> [!wishlist]- Crow Negotiations 
+> 
+> - **For Antivan Crows Talons Only.**
+> - *Set in 9:33 Dragon after she's fled Ferelden for Antiva.*
+> 
+> 
+
 
 ### Pre-Origins (9:05 - 9:29 Dragon)
 > [!wishlist]-
@@ -96,92 +94,167 @@
 > [!wishlist]-
 > TBA
 
-## VerseAU Wishlists
-> [!wishlist]-
-> TBA
 
-## VerseAU Wishlists
-> [!wishlist]-
-> TBA
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-### Scion of the Outer Planes Wishlists
-> [!wishlist]-
-> TBA
-### Astral Drifter Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Dragon Age AUs
-### Dragon Age AUs Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Mass Effect AUs
-### Mercenary Assassin Headcanons
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 #### In Time & Space Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ### Elder Scrolls AUs
-#### Elder Scrolls AUs Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ### Stardew Valley AUs
-#### Stardew Valley AUs Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis Wishlists
-> [!wishlist]-
-> TBA
-### Planar Wanderer Wishlists
-> [!wishlist]-
-> TBA
-### Planar Agent Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
+
+
 ## Dragon Age AWs
 ### This Shit Is Weird Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Mass Effect AWs
 ### Anomaly Detected Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Companion Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ### Elder Scrolls AWs
-#### Elder Scrolls AWs Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
+
 ### Stardew Valley AWs
-#### Stardew Valley AWs Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Other Verses & AUs
-## Other Verse Wishlists
-> [!wishlist]-
-> TBA
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-### Private Verse Wishlists
+## corvusrookery - Viago de Riva
+### Dragon Age Wishlists (Viago - corvusrookery)
 > [!wishlist]-
 > TBA
 
+### Rook Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Inquisitor Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Inquisitor Crow Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Crows' Due Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Crows' Design Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Antivan Crows Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Lyrium Ghost Wishlists (Viago - corvusrookery)
+> [!wishlist]-
+> TBA
+
+
+
+## corvusrookery - 3 Talons & Their Crow (Viago & Teia)
+### Dragon Age Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Rook Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Lyrium Ghost Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+### Crow Takeover Wishlists (3 Talons - corvusrookery)
+> [!wishlist]-
+> TBA
+
+
+
+## corvusrookery - Andarateia Cantori
+### Dragon Age Wishlists (Teia - corvusrookery)
+> [!wishlist]-
+> TBA
+
+
+
+## lanternlit - Garrus Vakarian
+### Mercenary Assassin Wishlists (Garrus - lanternlit)
+> [!wishlist]-
+> TBA
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/","tags":["directory","summary","open-muses","dragon-age","muse-leonardo"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/leonardo-de-riva/summary-leonardo/","tags":["directory","summary","open-muses","dragon-age","muse-leonardo"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-leonardo"],"aliases":["Dossiers & Verses","Leonardo de Riva"]}}
 ---
 
 # Leonardo de Riva
@@ -91,206 +91,171 @@
 >> - *current moral alignment:* Chaotic Moral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Leonardo+de+Riva)
+> - ***open starters:*** [Open Starter ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Leonardo+de+Riva)
+> - ***headcanons:*** [Headcanon ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Leonardo+de+Riva)
+> - ***wishlist:*** [Wishlist ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Leonardo+de+Riva)
+> - *desires:* [Desires ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Leonardo+de+Riva)
+> - *musings:* [Musings ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Leonardo+de+Riva)
+> - *aesthetics:* [Aesthetics ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Leonardo+de+Riva)
+> - *visage:* [Visage ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Leonardo+de+Riva)
+> - *playlist:* [Playlist ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Leonardo+de+Riva)
 
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> 
 > **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
 > 
-> .
+> Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
+>
+> In 9:50 Dragon, Leonardo frees the captives of an Antaam patrol, unknowingly interfering with the Talons' plans for dealing with the Antaam invaders in Treviso. He is subsequently sent away on an extended contract with Varric Tethras to stop the Dread Wolf from tearing down the Veil and destroying the world.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Spellblade
+> 
 > - *Companion (Non-Rook) AU*
 > 
-> Summary goes here.
+> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
+> 
+> Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
+>
+> In 9:50 Dragon, Leonardo is among one of many Crows within House de Riva that were chosen to remain by their Talon's side as the Talons organise their combined efforts to free Treviso from the Antaam occupation and stop the invasion of Antivan
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!verse]- Scion of the Outer Planes
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Astral Drifter
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ## Dragon Age AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Mass Effect AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
+> 
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
-> [!verse]- Planar Wanderer
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Planar Agent
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Other Verses & AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 
 ---
 # Private Verses & AUs
@@ -299,9 +264,10 @@
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlist]]  
 
 

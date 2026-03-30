@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/","tags":["directory","summary","open-muses","mass-effect","muse-isabela"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/mass-effect/isabela-shepard/summary-isabela/","tags":["directory","summary","open-muses","mass-effect","muse-isabela"],"dg-note-properties":{"tags":["directory","summary","open-muses","mass-effect","muse-isabela"],"aliases":["Dossiers & Verses","Isabela Shepard"]}}
 ---
 
 # Isabela Shepard
@@ -66,12 +66,13 @@
 >> 	- Palaven Standard (*Turian — non-fluent*)
 > 
 >> [!stats]- Social Standing & Affiliations 
->> - *affiliated organizations:* Special tactics & Reconnaissance
+>> - *affiliated organizations:* Special Tactics & Reconnaissance
 >> - *extended affiliations:* Human Systems Alliance
 >> - *employer(s)/patron(s):* Citadel Council
 >> - *occupation(s):* Council Spectre
->> - *title(s):* Spectre
 >> 	- N7 Operative
+>> - *title(s):* Spectre
+>> 	- Commander
 > 
 >> [!stats]- Spiritual Beliefs 
 >> - *beliefs:* Faithless
@@ -94,476 +95,540 @@
 >> - *current moral alignment:* Rebel Moral
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** 
-> - ***open starters:*** 
-> - ***headcanons:*** 
-> - ***wishlist:*** 
-> - *desires:* 
-> - *musings:* 
-> - *aesthetics:* 
-> - *visage:* 
-> - *playlist:* 
+> - ***in character:*** [IC ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Isabela+Shepard)
+> - ***open starters:*** [Open Starter ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Isabela+Shepard)
+> - ***headcanons:*** [Headcanon ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Isabela+Shepard)
+> - ***wishlist:*** [Wishlist ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Isabela+Shepard)
+> - *desires:* [Desires ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Isabela+Shepard)
+> - *musings:* [Musings ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Isabela+Shepard)
+> - *aesthetics:* [Aesthetics ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Isabela+Shepard)
+> - *visage:* [Visage ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Isabela+Shepard)
+> - *playlist:* [Playlist ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Isabela+Shepard)
 
 ---
 # Canon Typical
 > [!verse]+ Trilogy
+> 
 > - *Reaper War (2183 - 21XX CE)*
 > 
-> Summary goes here.
+> When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Isabela Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial. 
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
-> Summary goes here.
+> 
+> With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Isabela Shepard is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
-> Summary goes here.
+> 
+> Orphaned at the age of six, Isabela Shepard grew up on the streets, where she would eventually join the Tenth Street Reds gang in order to survive. At fourteen, she is exposed to a significant amount of element zero, that leads to her developing powerful, albeit limited, biotic abilities. 
+> 
+> At seventeen, her biotics are detected and she is registered and implanted with an L3 biotic amplifier, with the Alliance keeping her housed until she is of age to enlist to protect her from the Reds' retaliation when she abandons the gang in favour of getting off Earth by joining the marines.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 ---
 # Canon Divergent AUs
 > [!verse]+ Drell-Hanari Compact
+> 
 > - *Alternate Origin AU*
 > 
-> Summary goes here.
+> Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
+> 
+> Trained from the age of six as an assassin alongside the drell children in the Compact, Isabela is sent back to Earth ten years later to reintegrate into human society in order to infiltrate the Alliance.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Saboteur (Drell-Hanari Compact)
-> - *Alternate Origin AU*
 > 
-> Summary goes here.
+> - *Alternate Origin AU*
+> - *Never part of the Alliance*
+> 
+> Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
+> 
+> Trained from the age of six as an assassin alongside the drell children in the Compact, Isabela is often assigned as support for drell assassins, handling diversions and sabotage during contracts, though she is capable of handling assassinations on her own as well when necessary.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Turian Hierarchy
-> - *Alternate History + Origin AU*
+> 
+> - **Humanity lost the First Contact War**
+> - *Humans as a Turian Client Race*
+> - *Alternate History + Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Reaper War (Turian Hierarchy)
+> 
+> - **Humanity lost the First Contact War**
+> - *Humans as a Turian Client Race*
 > - *Alternate History + Origin AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ First Contact War (Relay 314)
+> 
 > - *Alternate History AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lost Expedition (Relay 314)
+> 
 > - *Alternate History AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Andromeda Initiative
+> 
 > - *"Fuck It, I'm Out!" AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lazarus Project (Andromeda)
+> 
+> - *Set after Shepard's body is recovered by Cerberus*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
+> 
+> - *Set during the Reaper Invasion in the Milky Way*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
+> 
+> - *Set after the Reapers are destroyed*
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
+> 
 > - *No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Vigilante (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Dishonoured Hero (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ C-Sec (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Criminal (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Assassin (No Reapers)
+> 
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Earthborn (Shepards)
+> [!verse]- Earthborn (Shepards)
+> 
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Colonist (Shepards)
+> [!verse]- Colonist (Shepards)
+> 
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Spacer (Shepards)
+> [!verse]- Spacer (Shepards)
+> 
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Clone
+> [!verse]- Clone
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ Mercenary (Clone)
+> [!verse]- Mercenary (Clone)
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]+ VerseTitle
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!verse]- Scion of the Outer Planes
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Astral Drifter
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ## Dragon Age AUs
 > [!verse]- Breaking Quarantine
-> - *Uncharted World AU*
+> 
+> - *Plays off the mutual easter eggs found in both games*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Artificer Assassin
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
+
 ## Mass Effect AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 ### Elder Scrolls AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Stardew Valley AUs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Star Trek AUs
 > [!verse]- Starfleet
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
+> 
 > - *Abducted By Nautiloid AU*
+> - *Set after returning from the galactic core (ME2)*
+> - *Starts during the nautiloid abductions (BG3)*
 > 
-> Summary goes here.
+> Isabela receives word about more colonies going dark after the Normandy's return from the galactic core when she and the crew took on the Collectors and destroyed their base. With the majority of the crew either returned to their lives or gone to their homeworlds to try to get support against the reaper threat, she investigates the colony on her own while the Normandy remains in orbit. When an unknown alien ship suddenly appears in low atmo, Isabela doesn't even have time to open comms to the Normandy before the strange tentacles reach her and she falls unconscious.
+> 
+> Waking up in a pod way too similar for comfort to those of the Collectors, Isabela soon finds herself infected with an alien parasite.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
-> [!verse]- Planar Wanderer
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
 
-> [!verse]- Planar Agent
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 ### Elder Scrolls AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
 ### Stardew Valley AWs
-> [!verse]- VerseTitle
-> Summary goes here.
+> [!attention] Not Currently Available
 > 
->> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+
+
+
 ### Star Trek AWs
 > [!verse]- Anomaly On Sensors
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
 
 ---
 # Other Verses & AUs
 > [!verse]- Crucible BS
+> 
 > - *Space Magic Fuckery (Multifandom Displacement)*
 > 
-> Summary goes here.
+> When the Crucible is fired, the energy from the blast rocketing out into the relay network destroys the Reapers. It also causes a more localized tear in the fabric of space-time, and Isabela finds herself waking up in an unfamiliar world and/or time, with no idea if returning home is even possible.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Dossiers & Verses/4 Other Verses & AUs/4.0 V Crucible BS - Isabela\|Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
+
+
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-> [!verse]- VerseTitle
+## lanternlit - Garrus Vakarian 
+> [!verse]- VerseTitle ( Garrus — lanternlit )
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
->> - Dossier
->> - Headcanons
->> - Verse
->> - Wishlist 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
+
+## lanternlit - Wren Shepard
+> [!verse]- VerseTitle ( Wren — lanternlit )
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 

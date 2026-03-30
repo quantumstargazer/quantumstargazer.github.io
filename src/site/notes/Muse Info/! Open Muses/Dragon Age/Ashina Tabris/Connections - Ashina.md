@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/","tags":["connections","muse-ashina"]}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/connections-ashina/","tags":["connections","dragon-age","muse-ashina"],"dg-note-properties":{"tags":["connections","dragon-age","muse-ashina"],"aliases":["Connections"]}}
 ---
 
 # Connections - Ashina de Riva née Tabris
@@ -29,141 +29,182 @@
 ---
 # Mains
 > [!main]- Viago de Riva — corvusrookery
-> - *blog tag(s):* 
-> 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
-> 	- [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
-> - *connection:* 
-> 	- [Connection ☾⭒ Ashina & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Viago+(+corvusrookery+))
-> 	- [Connection ☾⭒ Ashina x Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Viago+(+corvusrookery+))
-> - *ship/dyn:* 
-> 	- [Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+To+Dance+Along+The+Edge+Of+A+Knife+(+Ashina+&+Viago+—+corvusrookery+))
+> 
+> ***verses:*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Viago de Riva\|corvusrookery - Viago de Riva]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
+> 
+> *blog tag(s):* 
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
+> 
+> *connection:* 
+> - [Connection ☾⭒ Ashina & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Viago+(+corvusrookery+))
+> - [Connection ☾⭒ Ashina x Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Viago+(+corvusrookery+))
+> 
+> *ship/dyn:* 
+> - [Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+To+Dance+Along+The+Edge+Of+A+Knife+(+Ashina+&+Viago+—+corvusrookery+))
 
 > [!main]- Andarateia Cantori — corvusrookery
-> - *blog tag(s):* 
-> 	- [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
-> 	- [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
-> - *connection:* 
-> 	- [Connection ☾⭒ Ashina & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Teia+(+corvusrookery+))
-> 	- [Connection ☾⭒ Ashina x Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Teia+(+corvusrookery+))
-> - *ship/dyn:* 
-> 	- TBA
+> 
+> ***verses:*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Andarateia Cantori\|corvusrookery - Andarateia Cantori]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
+> 
+> *blog tag(s):* 
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
+> 
+> *connection:* 
+> - [Connection ☾⭒ Ashina & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Teia+(+corvusrookery+))
+> - [Connection ☾⭒ Ashina x Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Teia+(+corvusrookery+))
+> 
+> *ship/dyn:* 
+> - TBA
 
-## Mass Effect AUs
+> [!main]- Solas — corvusrookery
+> 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery)
+> - [corvusrookery ( Solas )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Solas+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & Solas ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Solas+(+corvusrookery+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+
+
+## Crossover Mains
+### Mass Effect
 > [!main]- Garrus Vakarian — lanternlit
-> - *blog tag(s):* 
-> 	- lanternlit
-> 	- lanternlit ( Garrus Vakarian )
-> - *connection:* 
-> 	- Connection ☾⭒ Ashina & Garrus ( lanternlit )
-> 	- Connection ☾⭒ Ashina x Garrus ( lanternlit )
-> - *ship/dyn:*  
+> 
+> ***verse(s):*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#lanternlit - Garrus Vakarian\|lanternlit - Garrus Vakarian]]
+>
+> *blog tag(s):*
+> - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
+> - [lanternlit ( Garrus Vakarian )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Garrus+Vakarian+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Garrus+(+lanternlit+))
+> - [Connection ☾⭒ Ashina x Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Garrus+(+lanternlit+))
+>
+> *ship/dyn:*
+> - TBA
+
+
 
 ---
 # Best Friends Call Members
-> [!bfc]- 
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:*  
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Shipping Partners
-> [!shipdyn]- 
-> - *blog tag(s):* 
-> - *connection:* 
-> - *ship/dyn:* 
+> [!attention] Not Currently Available
+> 
+
+
 
 ---
 # Desired Dynamics
 ## Dragon Age
-> *Sorted by first appearance in series. This is **not** a comprehensive list of who I want to interact with. This is just the muses I have ideas regarding dynamics plotting and/or shipping potential.*
+### Origin - City Elf
+> [!wishlist]- Adaia Tabris (*née Arainai*)
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Mother
+> 
+> TBA 
+> 
+> > [!spoiler]- Background: Runaway Crow
+> > 
+> > TBA 
+
+> [!wishlist]- Cyrion Tabris 
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Father
+> 
+> TBA 
+> 
+> > [!spoiler]- Background: Adaia Tabris née Arainai
+> > 
+> > TBA  
+
+> [!wishlist]- Soris
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Cousins
+> 
+> TBA 
+
+> [!wishlist]- Shianni
+> 
+> ***LI potential:*** No
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* Familial - Cousins
+> 
+> TBA 
+
+> [!wishlist]- Nelaros
+> 
+> ***LI potential:*** Yes
+> 
+> *Approval:* Neutral (25) to Friendly (100)
+> 
+> *Dynamic:* Romantic - Arranged Marriage
+> 
+> Ashina doesn't want to get married at all, and isn't shy about bluntly revealing this even to her betrothed upon finally meeting him. His reaction, however, has her quickly backtracking, trying to play it off as a joke (despite it being very much the truth), yet his teasing her about her being a "*wild one*" — something her father has always called her mother — leads to her slowly beginning to warm to him and the possibility that they *might* actually be a genuinely good match.
+
 ### Origins
-> [!wishlist] Zevran Arainai 
-> - *LI potential:* yes (**true love path preferred**)
+> [!wishlist]- Zevran Arainai 
+> *Note:* **Canon Romance If Ashina Is Not Romanced In RP**
+> 
+> ***LI potential:*** **Yes** — *true love path preferred*
+> 
+> *Approval:* Friendly (100)
+> 
+> *Dynamic:* TBA
+> 
+> TBA
 
-> [!wishlist] Morrigan
-> - *LI potential:* yes
+### Origins - Awakening
 
-> [!wishlist] Sten
-> - *LI potential:* yes
 
-> [!wishlist] Shale
-> - *LI potential:* no
+### Kirkwall - DA2
 
-> [!wishlist] Alistair
-> - *LI potential:* maybe (*requires plotting*)
-
-> [!wishlist] Oghren
-> - *LI potential:* no
-
-> [!wishlist] Wynne
-> - *LI potential:* no
-
-> [!wishlist] Isabela
-> - *LI potential:* maybe
-
-### Awakening
-> [!wishlist] Anders
-> - *LI potential:* maybe
-
-> [!wishlist] Justice
-> - *LI potential:* no
-
-> [!wishlist] Nathaniel Howe
-> - *LI potential:* maybe
-
-> [!wishlist] Sigrun
-> - *LI potential:* yes
-
-> [!wishlist] Velanna
-> - *LI potential:* maybe
-
-### Kirkwall (*DA2*)
-> [!wishlist] Varric Tethras
-> - *LI potential:* maybe
-
-> [!wishlist] Fenris
-> - *LI potential:* maybe
-
-> [!wishlist] Merrill
-> - *LI potential:* maybe
 
 ### Inquisition
-> [!wishlist] Dorian Pavus
-> - *LI potential:* no
 
-> [!wishlist] Solas
-> - *LI potential:* maybe
-
-> [!wishlist] Sera
-> - *LI potential:* maybe
-
-> [!wishlist] Blackwall
-> - *LI potential:* maybe
-
-> [!wishlist] Cole
-> - *LI potential:* no
 
 ### Veilguard
-> [!wishlist] Viago de Riva
-> - *LI potential:* yes
 
-> [!wishlist] Andarateia Cantori
-> - *LI potential:* yes
 
-> [!wishlist] Lucanis Dellamorte
-> - *LI potential:* yes
 
-> [!wishlist] Chance
-> - *LI potential:* maybe
 
-> [!wishlist] Fletcher
-> - *LI potential:* maybe
 
-> [!wishlist] Heir
-> - *LI potential:* maybe
 
-> [!wishlist] Jacobus
-> - *LI potential:* no
+
+
 
 
 

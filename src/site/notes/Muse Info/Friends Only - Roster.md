@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","rosters","friends-only-muses"]}
+{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","rosters","friends-only-muses"],"dg-note-properties":{"tags":["directory","rosters","friends-only-muses"],"aliases":["Friends Only Muses"]}}
 ---
 
 # Friends Only Roster 
@@ -11,24 +11,26 @@
 ## Faertorithrue
 > [!profile]+ Faertorithrue (she/they)
 > *Fey'ri Tiefling — Witchlight Carnival Hand*
-> ![20250816030845.png|red|100](/img/user/z%20Assets/Attachments/20250816030845.png)
+> ![20250816030845.png\|red\|100](/img/user/z%20Assets/Attachments/20250816030845.png)
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Fenmaer Dawngazer
 > [!profile]+ Fenmaer Dawngazer (he/him)
 > *Sun Elf — Cleric of Corellon*
-> ![20250729084634.png|red|100](/img/user/z%20Assets/Attachments/20250729084634.png)
+> ![20250729084634.png\|red\|100](/img/user/z%20Assets/Attachments/20250729084634.png)
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Karlach Cliffgate
 > [!profile]+ Karlach Cliffgate (she/her)
@@ -41,6 +43,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -54,6 +57,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
@@ -67,10 +71,12 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 
 ---
 # Other Fandoms
+
 ## The Elder Scrolls
 ### Inigo
 > [!profile]- Inigo (he/him)
@@ -81,6 +87,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ### Courier
 > [!profile]- Courier (he/they)
@@ -91,6 +98,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
@@ -102,6 +110,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ### Elliot
 > [!profile]- Elliot (he/him)
@@ -112,6 +121,7 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
 ### Gunter
 > [!profile]- Gunter (he/him)
@@ -122,62 +132,15 @@
 - Dossiers & Verses
 - Connections
 - Headcanons
+- Quick Guide
 - Wishlists
-## DC *Iron Man* AU
-> [!attention] Not Currently Available
-> I'm not currently writing *any* of Tony as I'm working on designing his new AU origin. I just have him included here so as not to forget to add the info here later.
-### Tony Stark
-> [!profile]- Tony Stark (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-## Doctor Who Expanded Universe
-> [!attention] Not Currently Available
-> I'm not currently writing *any* of my Doctor Who muses. I just have them included here so as not to forget to add them later.
-### Irving Braxiatel
-> [!profile]- Irving Braxiatel (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Bernice Summerfield
-> [!profile]- Bernice Summerfield (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Leela of the Sevateem
-> [!profile]- Leela of the Sevateem (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
-### Narvin
-> [!profile]- Narvin (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 
-- Dossiers & Verses
-- Connections
-- Headcanons
-- Wishlists
+
+
+
 
 
