@@ -90,7 +90,7 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > **The archive, gazingintoquantumstars, is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
 > 
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
-**
+
 ## Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
 
