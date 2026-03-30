@@ -26,7 +26,7 @@
 ---
 # Universal Guides
 ## Things *You* Should Know
-> [!hint]- Solas Romance - Default Unless Romanced in RP
+> [!hint]+ Solas Romance - Default Unless Romanced in RP
 > 
 > **Defaults to romancing Solas if not romanced through roleplay.**
 > This is largely due to the nature of her canon-divergence from typical Lavellan gameplay. When interacting with someone who writes Solas, I will defer to their preference regarding how to approach any potential ship. 
