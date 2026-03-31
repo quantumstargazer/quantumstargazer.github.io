@@ -21,7 +21,7 @@
 >> 	- DAY of MONTH
 >  
 >> [!stats]+ Personal Identity 
->> - *sexual orientation:* Panromantic Pansexual
+>> - *sexual orientation:* Aromantic Pansexual
 >> 	- *polyamory:* open to plotting
 >> - *MBTI:* 
 >> - *Enneagram:* — 
