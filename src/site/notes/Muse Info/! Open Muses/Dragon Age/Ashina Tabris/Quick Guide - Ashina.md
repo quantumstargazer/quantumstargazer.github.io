@@ -59,6 +59,12 @@
 >>
 >> Even though she might not be his by blood, Ashina *is* Cyrion's daughter. She doesn't know who her biological father is, but it is most likely another elven Crow in House Arainai.
 
+> [!stats]- Languages Spoken: Common & Antivan
+> 
+>  - *Ashina's Common accent evolves over the course of the timeline, depending on which country she is living in, as the notes of her Ferelden accent fade to be less noticeable the longer she lives in Antiva.*
+>  
+>  Ashina is raised speaking both Common Trade Tongue and Antivan, taught the latter by her mother. 
+
 > [!stats]- Warden Ability: Blight Obfuscation
 > 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
