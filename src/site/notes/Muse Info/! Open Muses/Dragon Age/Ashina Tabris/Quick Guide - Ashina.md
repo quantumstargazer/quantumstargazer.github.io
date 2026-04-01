@@ -150,7 +150,7 @@
 > 
 >  (*verse/timeline dependent* - **must have been to Brecillian Forest**)
 >  
->  Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, as well as the elvhen language from its memories that it shares with her.
+>  Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, of which she can use little of herself, as well as the elvhen language from its memories that it shares with her.
 >  
 >  She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly *how* she learned it in the first place.
 
