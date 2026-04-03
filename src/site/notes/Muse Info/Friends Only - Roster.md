@@ -59,7 +59,7 @@
 - Headcanons
 - Quick Guide
 - Wishlists
-## (Sentinel Elf To Be Named)
+## (Sentinel Elf - To Be Named)
 > [!profile]- TBD (he/him)
 > - *Sentinel of Mythal*
 > ![[Placeholder_Person.jpg\|red]]
