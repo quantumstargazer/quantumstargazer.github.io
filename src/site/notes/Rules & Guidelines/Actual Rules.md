@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"],"dg-note-properties":{"tags":["rules","guidelines"],"aliases":["The Actual Rules"],"canvas":["[[Rules & Guidelines - Index.canvas]]"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"],"dg-note-properties":{"tags":["rules","guidelines"],"aliases":["The Actual Rules"]}}
 ---
 
 # The Actual Rules
@@ -12,7 +12,7 @@
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
 
-> [!rule]+ Don't Misgender Muses
+> [!rule]- Don't Intentionally Misgender Muses
 > 
 > **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
 
@@ -29,7 +29,7 @@ I *will not* follow and/or roleplay with you if:
 - You don't have an age range listed on your blog &/or in your rules
 - You are under the age of 21
 ## Rated for Mature Audiences Only
-**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
+**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** Canon-typical mature themes, violence, sexual content, adult language, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
 
 **The following fandoms are ESRB Rated M for Mature:**
 - Baldur's Gate
@@ -39,7 +39,7 @@ I *will not* follow and/or roleplay with you if:
 > [!caution]- Viewer Discretion Is Advised
 > Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
 
-> *For Further Details, See:* [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]]
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
 
 ---
 # Curate Your Own Dash
@@ -47,9 +47,9 @@ I *will not* follow and/or roleplay with you if:
 > 
 > **I do *not* follow anyone whose *only* warning for their blog consists of "*Dead Dove: Do Not Eat*" without covering *what* topics, themes, tropes, etc. are likely to be found on their blog.** 
 > 
-> If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then I am going to assume that you write the content that I refuse to engage with at all and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
+> If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then **I am going to assume that you write the content that I refuse to engage with at all** and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
 > 
-> Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "don't blame me if you find content here you didn't like because you didn't read the warning labels provided" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
+> Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "*don't blame me if you find content here you didn't like because you didn't read the warning labels provided*" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
@@ -66,6 +66,9 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > **If you use AI in your roleplaying, you *will* be blocked on sight.** I am not interested in interacting with anyone who outsources their creativity to a machine, nor do I consent to any of my writing, artwork, graphics, etc. being fed into any LLM for content generation.
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
+> 
+> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
+> 
 > - sexual content with any muse &/or faceclaim under the age of 18
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
@@ -73,9 +76,14 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - anything involving Real Person Fiction (*RPF*)[^7]
 
 > [!warning]+ Restricted Tropes & Themes
+> 
+> **While not outright banned, I have no interest in interacting with any of the following:**
+> 
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
 > - scenes involving active labor and/or childbirth [^3]
+> - ***Modern AUs*** set on modern everyday Earth for any sci-fi and/or fantasy fandoms
+> - ***"No Magic"/"All Human"/etc. AUs*** for any sci-fi and/or fantasy fandoms
 ## Fandoms
 > [!danger]+ Banned Fandoms — No Follow &/or Interaction
 > 
@@ -91,8 +99,9 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > 
 > - KPop Demon Hunters (*2025*)
 > - Alien: Earth (*2025*)[^8]
-> - *Modern AUs set on modern everyday Earth for any sci-fi and/or fantasy fandoms*
-> - *"No Magic"/"All Human"/etc. AUs for any sci-fi and/or fantasy fandoms*
+> - Hazbin Hotel (*2019*)
+> - Helluva Boss
+> - Hellaverse & Related Fandoms
 ## Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
 > 
@@ -106,10 +115,17 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - Jessica Chastain
 > - *Models*
 > - *Online Influencers and/or Content Creators*
+> 
+> **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
 > [!warning]+ Restricted Faceclaims
+> 
+> **I am unlikely to follow blogs (*including* multimuse blogs, *regardless* of their potential tagging system) and/or interact with muses who use any of the following for faceclaims:**
+> 
 > - *Musicians* [^5]
 > - *Youtubers* [^5]
+> 
+> **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
 
@@ -152,13 +168,17 @@ Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely unive
 
 That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] &/or [[Rules & Guidelines/! Index - Rules & Guidelines\|Index - Rules & Guidelines]]
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] 
 
 ---
 # Rules Passwords
 **I do not send rules passwords.** In fact, **I will not follow first if your rules have a password *to* send**. If you follow *me* first, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules.
 
----
+
+
+
+
+
 
 
 [^1]: Given that I only write with those who are 21 years or older, if you've reached *that point* of your life and *still* don't know how to be a decent human being, then I truly would rather you go elsewhere, because I don't have the time nor the energy to deal with that kind of bullshit.

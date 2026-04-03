@@ -59,6 +59,12 @@
 >>
 >> Even though she might not be his by blood, Ashina *is* Cyrion's daughter. She doesn't know who her biological father is, but it is most likely another elven Crow in House Arainai.
 
+> [!stats]- Languages Spoken: Common & Antivan
+> 
+>  - *Ashina's Common accent evolves over the course of the timeline, depending on which country she is living in, as the notes of her Ferelden accent fade to be less noticeable the longer she lives in Antiva.*
+>  
+>  Ashina is raised speaking both Common Trade Tongue and Antivan, taught the latter by her mother. 
+
 > [!stats]- Warden Ability: Blight Obfuscation
 > 
 > (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
@@ -150,7 +156,7 @@
 > 
 >  (*verse/timeline dependent* - **must have been to Brecillian Forest**)
 >  
->  Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, as well as the elvhen language from its memories that it shares with her.
+>  Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, of which she can use little of herself, as well as the elvhen language from its memories that it shares with her.
 >  
 >  She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly *how* she learned it in the first place.
 

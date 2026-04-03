@@ -48,6 +48,29 @@
 
 ---
 # Dragon Age
+## Abelas
+> [!profile]- Abelas (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+
+- Dossiers & Verses
+- Connections
+- Headcanons
+- Quick Guide
+- Wishlists
+## (Sentinel Elf - To Be Named)
+> [!profile]- TBD (he/him)
+> - *Sentinel of Mythal*
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+
+- Dossiers & Verses
+- Connections
+- Headcanons
+- Quick Guide
+- Wishlists
 ## Bellara Lutare
 > [!profile]- Bellara Lutare (she/her)
 > ![[Placeholder_Person.jpg\|red]]

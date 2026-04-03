@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":null,"canvas":["[[Rules & Guidelines - Index.canvas]]"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":null}}
 ---
 
 # Guidelines
@@ -22,9 +22,11 @@
 ## Prompts/Memes 
 **This is by far the easiest way for me to interact initially** — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
 ## Discord
-Discord — whether DMs and/or private 1-on-1 servers for organizing plotting — is by far my preferred method for direct chatting/plotting/etc. 
+Discord — whether DMs and/or private 1-on-1 servers for organizing plotting — is by far my preferred method for direct chatting/plotting/etc. I rely *heavily* on [Better Discord](https://betterdiscord.app/) to make the desktop app truly accessible for myself, and so for now it is where I am primarily.
+### Stoat Available By Request Only
+While I *do* have Stoat, I have not evaluated it for the sake of accessibility for myself as of yet, so it is not currently an something I *actively* use. It is simply available for those who have left discord to have as an alternative means of direct chatting/plotting/etc.
 ### Why Not Tumblr IMs?
-Tumblr IMs are inaccessible for me. Also, the notifications for them are broken for me, more often than not, thanks to my having no less than 2 tumblr tabs open at all times, plus multiple mobile devices logged in as well. So nothing time sensitive should ever be sent via IMs, as I may not see it for days or even weeks, if ever, since I never actually use them myself beyond very quick one off messages.
+Tumblr IMs are inaccessible for me. Also, the notifications for them are broken for me, more often than not, thanks to my having no less than 2 tumblr tabs open at all times, plus multiple mobile devices logged in as well. **Nothing time sensitive should ever be sent via IMs**, as I may not see it for days or even weeks, if ever, since I never actually use them myself beyond very quick one off messages.
 
 > *For Further Details, See:* [Interactions](Interactions%20-%20Guidelines.md)
 
@@ -90,7 +92,7 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > **The archive, gazingintoquantumstars, is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
 > 
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
-**
+
 ## Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
 
@@ -188,7 +190,7 @@ As such, private verses are most likely available *only* for their intended part
 - [Interest Tracking Forms](Interest%20Tracking%20Forms%20-%20Guidelines.md)
 - [Mods & Expanded Canon](Mods%20&%20Expanded%20Canon%20-%20Guidelines.md)
 
-> *For Further Details, See:* [Index - Rules & Guidelines](!%20Index%20-%20Rules%20&%20Guidelines.md)
+> *For Further Details, See:* TBA
 
 
 
