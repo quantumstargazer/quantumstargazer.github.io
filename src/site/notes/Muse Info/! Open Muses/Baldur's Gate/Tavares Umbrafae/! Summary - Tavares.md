@@ -156,14 +156,14 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 
 ## Dragon Age AUs
-> [!verse]- Lights of Arlathan
+> [!verse]+ Lights of Arlathan
 > 
-> Summary goes here.
+> Tavares is a direct descendant of the refugees of Arlathan who found sanctuary in Cadash Thaig and survived the thaig's destruction by the army of Kal-Sharok. The survivors never returned to the surface, and most believe these "Drow" to be myths... or tainted by the blight.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/2 Fandom Specific AUs/2 DA.1 - Lights of Arlathan - Tavares\|Verse]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 

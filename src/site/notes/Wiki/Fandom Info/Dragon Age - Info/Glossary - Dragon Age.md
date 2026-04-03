@@ -67,6 +67,7 @@
 - Fen'Harel
 - Fenris
 - Ferelden
+- Frostback Mountains
 
 ---
 # G
@@ -94,6 +95,7 @@
 # K
 - Kadan
 - Kinloch Hold
+- Korcari Wilds
 
 ---
 # L
