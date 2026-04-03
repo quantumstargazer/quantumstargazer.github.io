@@ -14,8 +14,8 @@
 - [[Rules & Guidelines/Actual Rules\|Actual Rules]]
 ## Rules Details
 1. [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]]
-	1. [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules#Only Interacts With 21+\|Only Interacts With 21+]]
-	2. [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules#Rated for Mature Audiences Only\|Rated for Mature Audiences Only]]
+	1. [[21+ & Mutuals Only - Rules/#Only Interacts With 21+\|Only Interacts With 21+]]
+	2. [[21+ & Mutuals Only - Rules/#Rated for Mature Audiences Only\|Rated for Mature Audiences Only]]
 2. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
 	1. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules#AI Generated Content\|AI Generated Content]]
 	2. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules#Faceclaims\|Faceclaims]]
