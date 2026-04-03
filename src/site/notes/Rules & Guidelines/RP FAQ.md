@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/rp-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Frequently Asked Questions","FAQ"],"canvas":["[[Rules & Guidelines - Index.canvas]]"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/rp-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Frequently Asked Questions","FAQ"]}}
 ---
 
 # Frequently Asked Questions
