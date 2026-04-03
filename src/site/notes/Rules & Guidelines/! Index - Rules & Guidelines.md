@@ -3,7 +3,7 @@
 ---
 
 # Index - Rules & Guidelines
-**This page is simply an index of where to find specific rules, guidelines, and answers to frequently asked questions.** It is *not* a substitute for reading the [Actual Rules](Actual%20Rules), as well as the rules and/or guidelines that are relevant to how you wish to interact.
+**This page is simply an index of where to find specific rules, guidelines, and answers to frequently asked questions.** It is *not* a substitute for reading the [[Rules & Guidelines/Actual Rules\|Actual Rules]], as well as the rules and/or guidelines that are relevant to how you wish to interact.
 
 > [!attention] Sublinks Broken 
 > The current coding for the indented section links doesn't work on the published page, so I have to go through and convert all the links on this page to a more web friendly markup. It will take me some time to do so, but the links to the pages themselves work & there are heading links in the right sidebar of each page for fast navigation.
@@ -11,154 +11,154 @@
 
 ---
 # Rules
-- [Actual Rules](Actual%20Rules)
+- [[Rules & Guidelines/Actual Rules\|Actual Rules]]
 ## Rules Details
-1. [21+ & Mutuals Only](21+%20&%20Mutuals%20Only%20-%20Rules) — 
-	1. [Only Interacts With 21+](21+%20&%20Mutuals%20Only%20-%20Rules#Only%20Interacts%20With%2021+)
-	2. [Rated For Mature Audiences Only](21+%20&%20Mutuals%20Only%20-%20Rules#Rated%20for%20Mature%20Audiences%20Only)
-2. [Banned & Restricted Content](Banned%20&%20Restricted%20Content%20-%20Rules)
-	1. [](Banned%20&%20Restricted%20Content%20-%20Rules#AI%20Generated%20Content|AI%20Generated%20Content)
-	2. [](Banned%20&%20Restricted%20Content%20-%20Rules#Faceclaims|Faceclaims)
-	3. [](Banned%20&%20Restricted%20Content%20-%20Rules#Fandoms|Fandoms)
-	4. [](Banned%20&%20Restricted%20Content%20-%20Rules#Tropes%20&%20Themes|Tropes%20&%20Themes)
-3. [Blacklist Tags](Blacklist%20Tags%20-%20Rules)
-	1. [](Blacklist%20Tags%20-%20Rules#Content%20Warnings%20Needed|Content%20Warnings%20Needed)
-	2. [](Blacklist%20Tags%20-%20Rules#Migraine%20Triggers|Migraine%20Triggers)
-	3. [](Blacklist%20Tags%20-%20Rules#Real%20Life%20Events|Real%20Life%20Events)
-	4. [](Blacklist%20Tags%20-%20Rules#Tag%20Format|Tag%20Format)
-	5. [](Blacklist%20Tags%20-%20Rules#Themes%20&%20Tropes|Themes%20&%20Tropes)
-4. [Curate Your Own Dash](Curate%20Your%20Own%20Dash%20-%20Rules)
-	1. [](Curate%20Your%20Own%20Dash%20-%20Rules#Don't%20Like?%20Don't%20Follow.|Don't%20Like?%20Don't%20Follow.)
-	2. [](Curate%20Your%20Own%20Dash%20-%20Rules#Hard%20Block%20Only%20-%20No%20Soft%20Block|Hard%20Block%20Only%20-%20No%20Soft%20Block)
-5. [Don't Be A Dick](Don't%20Be%20A%20Dick%20-%20Rules)
-	1. [](Don't%20Be%20A%20Dick%20-%20Rules#Misgendered%20Muses|Misgendered%20Muses)
-6. [Exclusivity](Exclusivity%20-%20Rules)
-	1. [](Exclusivity%20-%20Rules#Close%20Friends%20Only%20For%20Exclusives|Close%20Friends%20Only%20For%20Exclusives)
-	2. [](Exclusivity%20-%20Rules#Mains%20&%20Exclusives|Mains%20&%20Exclusives)
-	3. [](Exclusivity%20-%20Rules#No%20Exclusives%20On%20Follow|No%20Exclusives%20On%20Follow)
+1. [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]]
+	1. [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules#Only Interacts With 21+\|Only Interacts With 21+]]
+	2. [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules#Rated for Mature Audiences Only\|Rated for Mature Audiences Only]]
+2. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
+	1. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules#AI Generated Content\|AI Generated Content]]
+	2. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules#Faceclaims\|Faceclaims]]
+	3. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules#Fandoms\|Fandoms]]
+	4. [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules#Tropes & Themes\|Tropes & Themes]]
+3. [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
+	1. [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Content Warnings Needed\|Content Warnings Needed]]
+	2. [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Migraine Triggers\|Migraine Triggers]]
+	3. [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Real Life Events\|Real Life Events]]
+	4. [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Tag Format\|Tag Format]]
+	5. [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Themes & Tropes\|Themes & Tropes]]
+4. [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]]
+	1. [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules#Don't Like? Don't Follow.\|Don't Like? Don't Follow.]]
+	2. [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules#Hard Block Only - No Soft Block\|Hard Block Only - No Soft Block]]
+5. [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
+	1. [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules#Misgendered Muses\|Misgendered Muses]]
+6. [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]]
+	1. [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Close Friends Only For Exclusives\|Close Friends Only For Exclusives]]
+	2. [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]]
+	3. [[Rules & Guidelines/Rules Details/Exclusivity - Rules#No Exclusives On Follow\|No Exclusives On Follow]]
 7. **Fandom Specific Rules**
-	1. [Baldur's Gate](!%20Baldur's%20Gate%20-%20Rules)
-	2. [Dragon Age](!%20Dragon%20Age%20-%20Rules)
-	3. [Mass Effect](!%20Mass%20Effect%20-%20Rules)
+	1. [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
+	2. [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Dragon Age - Rules\|Dragon Age]]
+	3. [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Mass Effect - Rules\|Mass Effect]]
 	4. *Other Fandoms TBA*
-8. [Sexual Content](Sexual%20Content%20-%20Rules)
+8. [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]]
 
 ---
 # Guidelines
-- [Guidelines](Rules%20&%20Guidelines/Guidelines)
+- [[Rules & Guidelines/Guidelines\|Guidelines]]
 ## Guidelines Details
-1. [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines)
-2. [Communications](Communications%20-%20Guidelines)
-	1. [](Communications%20-%20Guidelines#Discord|Discord)
-	2. [](Communications%20-%20Guidelines#Private%20Server%20Available%20Upon%20Request|Private%20Server%20Available%20Upon%20Request)
-	3. [](Communications%20-%20Guidelines#Tumblr%20IMs|Tumblr%20IMs)
-	4. [](Communications%20-%20Guidelines#Tumblr%20Inbox|Tumblr%20Inbox)
-3. [Inbox](Inbox%20-%20Guidelines)
-	1. [](Inbox%20-%20Guidelines#Adding%20Context%20To%20Memes/Prompts|Adding%20Context%20To%20Memes/Prompts)
-	2. [](Inbox%20-%20Guidelines#Additional%20Memes%20On%20Sideblog|Additional%20Memes%20On%20Sideblog)
-	3. [](Inbox%20-%20Guidelines#Continue%20As%20Threads|Continue%20As%20Threads)
-	4. [](Inbox%20-%20Guidelines#Include%20Full%20Prompt%20When%20Sending|Include%20Full%20Prompt%20When%20Sending)
-	5. [](Inbox%20-%20Guidelines#Prompts%20Never%20Expire|Prompts%20Never%20Expire) 
-	6. [](Inbox%20-%20Guidelines#Reverse%20Prompts/Memes|Reverse%20Prompts/Memes)
-	7. [](Inbox%20-%20Guidelines#Send%20Any%20Time|Send%20Any%20Time)
-4. [Interaction Forms](Interaction%20Forms%20-%20Guidelines)
-	1. [](Interaction%20Forms%20-%20Guidelines#Inbox%20Call|Inbox%20Call)
-	2. [](Interaction%20Forms%20-%20Guidelines#Starter%20Call|Starter%20Call)
-5. [Interactions](Interactions%20-%20Guidelines)
-	1. [](Interactions%20-%20Guidelines#Best%20Ways%20To%20Interact|Best%20Way%20To%20Interact)
-	2. [](Interactions%20-%20Guidelines#Continuity|Continuity)
-	3. [](Interactions%20-%20Guidelines#Discord|Discord)
-	4. [](Interactions%20-%20Guidelines#Improv%20Roleplay|Improv%20Roleplay)
-	5. [](Interactions%20-%20Guidelines#Plotting|Plotting)
-	6. [](Interactions%20-%20Guidelines#Plotting%20Dynamics,%20Ships,%20Verses,%20&/or%20AUs|Plotting%20Dynamics,%20Ships,%20Verses,%20&/or%20AUs)
-	7. [](Interactions%20-%20Guidelines#Prompts/Memes|Prompts/Memes)
-	8. [](Interactions%20-%20Guidelines#Separate%20Multi-Verse%20Continuities|Separate%20Multi-Verse%20Continuities)
-	9. [](Interactions%20-%20Guidelines#Strict%20Plotters|Strict%20Plotters)
-6. [Interest Tracking Forms](Interest%20Tracking%20Forms%20-%20Guidelines)
-	1. [](Interest%20Tracking%20Forms%20-%20Guidelines#Best%20Friends%20Call|Best%20Friends%20Call)
-	2. [](Interest%20Tracking%20Forms%20-%20Guidelines#Disinterest%20Tracker|Disinterest%20Tracker)
-	3. [](Interest%20Tracking%20Forms%20-%20Guidelines#RP%20Preference%20Tracker|RP%20Preference%20Tracker)
-7. [Mods & Expanded Canon](Mods%20&%20Expanded%20Canon%20-%20Guidelines)
-	1. [](Mods%20&%20Expanded%20Canon%20-%20Guidelines#Modded%20Gameplay|Modded%20Gameplay%20Canon)
-	2. [](Mods%20&%20Expanded%20Canon%20-%20Guidelines#Expanded%20Canon|Mods%20&%20Expanded%20Canon)
-8. [Muses](Muses%20-%20Guidelines)
-9. [Ships & Dynamics](Ships%20&%20Dynamics%20-%20Guidelines)
-	1. [](Ships%20&%20Dynamics%20-%20Guidelines#Antagonistic|Antagonistic)
-	2. [](Ships%20&%20Dynamics%20-%20Guidelines#Chemistry|Chemistry)
-	3. [](Ships%20&%20Dynamics%20-%20Guidelines#Dynamics|Dynamics)
-	4. [](Ships%20&%20Dynamics%20-%20Guidelines#Familial|Familial)
-	5. [](Ships%20&%20Dynamics%20-%20Guidelines#Flirting%20≠%20Forced%20Shipping|Flirting%20≠%20Forced%20Shipping)
-	6. [](Ships%20&%20Dynamics%20-%20Guidelines#Multi-Shipping|Multi-Shipping)
-	7. [](Ships%20&%20Dynamics%20-%20Guidelines#Platonic|Platonic)
-	8. [](Ships%20&%20Dynamics%20-%20Guidelines#Queerplatonic|Queerplatonic)
-	9. [](Ships%20&%20Dynamics%20-%20Guidelines#Romanic%20Ships|Romantic%20Ships)
-	10. [](Ships%20&%20Dynamics%20-%20Guidelines#Sexual%20Ships|Sexual%20Ships)
-	11. [](Ships%20&%20Dynamics%20-%20Guidelines#Shipping|Shipping)
-	12. [](Ships%20&%20Dynamics%20-%20Guidelines#Smut|Smut)
-10. [Starters](Starters%20-%20Guidelines)
-	1. [](Starters%20-%20Guidelines#Customized%20Opens%20Upon%20Request|Customized%20Opens%20Upon%20Request)
-	2. [](Starters%20-%20Guidelines#Open%20Starters|Open%20Starters)
-	3. [](Starters%20-%20Guidelines#Opens%20For%20Mutuals%20Only|Opens%20For%20Mutuals%20Only)
-	4. [](Starters%20-%20Guidelines#Random%20Starters|Random%20Starters)
-	5. [](Starters%20-%20Guidelines#Requesting%20Starters|Requesting%20Starters)
-	6. [](Starters%20-%20Guidelines#Write%20Starters%20For%20Me%20Whenever|Write%20Starters%20For%20Me%20Whenever)
-11. [Verses & AUs](Verses%20&%20AUs%20-%20Guidelines)
-	1. [](Verses%20&%20AUs%20-%20Guidelines#Default%20Verses/AUs|Default%20Verses/AUs)
-	2. [](Verses%20&%20AUs%20-%20Guidelines#Disinterest%20Tracker|Disinterest%20Tracker)
-	3. [](Verses%20&%20AUs%20-%20Guidelines#If%20Not%20Specified|If%20Not%20Specified)
-	4. [](Verses%20&%20AUs%20-%20Guidelines#Interacting%20In%20Other%20Muns'%20Private%20Verses%20&%20AUs|Interacting%20In%20Other%20Muns'%20Private%20Verses%20&%20AUs)
-	5. [](Verses%20&%20AUs%20-%20Guidelines#Private%20Verses%20&%20AUs|Private%20Verses%20&%20AUs)
-	6. [](Verses%20&%20AUs%20-%20Guidelines#Specify%20Verse|Specify%20Verse)
+1. [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
+2. [[Rules & Guidelines/Guidelines Details/Communications - Guidelines\|Communications]]
+	1. [[Rules & Guidelines/Guidelines Details/Communications - Guidelines#Discord\|Discord]]
+	2. [[Rules & Guidelines/Guidelines Details/Communications - Guidelines#Private Server Available Upon Request\|Private Server Available Upon Request]]
+	3. [[Rules & Guidelines/Guidelines Details/Communications - Guidelines#Tumblr IMs\|Tumblr IMs]]
+	4. [[Rules & Guidelines/Guidelines Details/Communications - Guidelines#Tumblr Inbox\|Tumblr Inbox]]
+3. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+	1. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Adding Context To Memes/Prompts\|Adding Context To Memes/Prompts]]
+	2. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Additional Memes On Sideblog\|Additional Memes On Sideblog]]
+	3. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Continue As Threads\|Continue As Threads]]
+	4. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Include Full Prompt When Sending\|Include Full Prompt When Sending]]
+	5. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Prompts Never Expire\|Prompts Never Expire]] 
+	6. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Reverse Prompts/Memes\|Reverse Prompts/Memes]]
+	7. [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines#Send Any Time\|Send Any Time]]
+4. [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+	1. [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines#Inbox Call\|Inbox Call]]
+	2. [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines#Starter Call\|Starter Call]]
+5. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+	1. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Best Ways To Interact\|Best Way To Interact]]
+	2. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Continuity\|Continuity]]
+	3. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Discord\|Discord]]
+	4. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Improv Roleplay\|Improv Roleplay]]
+	5. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Plotting\|Plotting]]
+	6. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Plotting Dynamics, Ships, Verses, &/or AUs\|Plotting Dynamics, Ships, Verses, &/or AUs]]
+	7. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Prompts/Memes\|Prompts/Memes]]
+	8. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Separate Multi-Verse Continuities\|Separate Multi-Verse Continuities]]
+	9. [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines#Strict Plotters\|Strict Plotters]]
+6. [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+	1. [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines#Best Friends Call\|Best Friends Call]]
+	2. [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines#Disinterest Tracker\|Disinterest Tracker]]
+	3. [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines#RP Preference Tracker\|RP Preference Tracker]]
+7. [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+	1. [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines#Modded Gameplay\|Modded Gameplay Canon]]
+	2. [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines#Expanded Canon\|Mods & Expanded Canon]]
+8. [[Rules & Guidelines/Guidelines Details/Muses - Guidelines\|Muses]]
+9. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines\|Ships & Dynamics]]
+	1. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Antagonistic\|Antagonistic]]
+	2. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Chemistry\|Chemistry]]
+	3. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Dynamics\|Dynamics]]
+	4. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Familial\|Familial]]
+	5. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Flirting ≠ Forced Shipping\|Flirting ≠ Forced Shipping]]
+	6. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Multi-Shipping\|Multi-Shipping]]
+	7. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Platonic\|Platonic]]
+	8. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Queerplatonic\|Queerplatonic]]
+	9. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Romanic Ships\|Romantic Ships]]
+	10. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Sexual Ships\|Sexual Ships]]
+	11. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Shipping\|Shipping]]
+	12. [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines#Smut\|Smut]]
+10. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines\|Starters]]
+	1. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines#Customized Opens Upon Request\|Customized Opens Upon Request]]
+	2. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines#Open Starters\|Open Starters]]
+	3. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines#Opens For Mutuals Only\|Opens For Mutuals Only]]
+	4. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines#Random Starters\|Random Starters]]
+	5. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines#Requesting Starters\|Requesting Starters]]
+	6. [[Rules & Guidelines/Guidelines Details/Starters - Guidelines#Write Starters For Me Whenever\|Write Starters For Me Whenever]]
+11. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines\|Verses & AUs]]
+	1. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines#Default Verses/AUs\|Default Verses/AUs]]
+	2. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines#Disinterest Tracker\|Disinterest Tracker]]
+	3. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines#If Not Specified\|If Not Specified]]
+	4. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines#Interacting In Other Muns' Private Verses & AUs\|Interacting In Other Muns' Private Verses & AUs]]
+	5. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines#Private Verses & AUs\|Private Verses & AUs]]
+	6. [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines#Specify Verse\|Specify Verse]]
 
 ---
 # Frequently Asked Questions
-- [RP FAQ](RP%20FAQ)
+- [[Rules & Guidelines/RP FAQ\|RP FAQ]]
 ## FAQ Details
-1. [Answered FAQs](Answered%20FAQs%20-%20FAQ)
-2. [Blocking & Following](Blocking%20&%20Following%20-%20FAQ)
-	1. [](Blocking%20&%20Following%20-%20FAQ#Archived%20Blogs|Archived%20Blogs)
-	2. [](Blocking%20&%20Following%20-%20FAQ#Block%20On%20Sight%20-%20Hard%20Limits|Block%20On%20Sight%20-%20Hard%20Limits)
-	3. [](Blocking%20&%20Following%20-%20FAQ#Blocking|Blocking)
-	4. [](Blocking%20&%20Following%20-%20FAQ#Following|Following)
-	5. [](Blocking%20&%20Following%20-%20FAQ#Following%20=%20Want%20To%20Write%20With%20You|Following%20=%20Want%20To%20Write%20With%20You)
-	6. [](Blocking%20&%20Following%20-%20FAQ#Hard%20Block%20-%20Never%20Soft%20Block|Hard%20Block%20-%20Never%20Soft%20Block)
-	7. [](Blocking%20&%20Following%20-%20FAQ#No%20Follow%20-%20Dealbreakers|No%20Follow%20-%20Dealbreakers)
-	8. [](Blocking%20&%20Following%20-%20FAQ#No%20Interactions|No%20Interactions)
-	9. [](Blocking%20&%20Following%20-%20FAQ#Sudden%20Incompatibility|Sudden%20Incompatibility)
-	10. [](Blocking%20&%20Following%20-%20FAQ#Unfollowing|Unfollowing)
-3. [Do's & Don'ts of Interacting](Do's%20&%20Don'ts%20-%20FAQ)
-	1. [](Do's%20&%20Don'ts%20-%20FAQ#Things%20You%20Should%20Do|Things%20You%20Should%20Do)
-	2. [](Do's%20&%20Don'ts%20-%20FAQ#Things%20You%20Should%20NOT%20Do|Things%20You%20Should%20NOT%20Do)
-	3. [](Do's%20&%20Don'ts%20-%20FAQ#TL;DR|TL;DR)
-4. [Fellow Stargazers](Fellow%20Stargazers%20-%20FAQ)
-	1. [](Fellow%20Stargazers%20-%20FAQ#Best%20Friends%20Call%20Members|Best%20Friends%20Call%20Members)
-	2. [](Fellow%20Stargazers%20-%20FAQ#Exclusives|Exclusives)
-	3. [](Fellow%20Stargazers%20-%20FAQ#Mains|Mains)
-	4. [](Fellow%20Stargazers%20-%20FAQ#Ships%20&%20Dynamics%20Partners|Ship%20&%20Dynamics%20Partners)
-5. [Mature Audiences Only](Mature%20Audiences%20Only%20-%20FAQ)
-	1. [](Mature%20Audiences%20Only%20-%20FAQ#Mature%20&%20Sexual%20Content%20Present|Mature%20&%20Sexual%20Content%20Present)
-	2. [](Mature%20Audiences%20Only%20-%20FAQ#Rated%20M%20for%20Mature%20Audiences%20Only|Rated%20M%20for%20Mature%20Audiences%20Only)
-	3. [](Mature%20Audiences%20Only%20-%20FAQ#Viewer%20Discretion%20Is%20Advised|Viewer%20Discretion%20Is%20Advised)
-6. [Muses](Muses%20-%20FAQ)
-7. [Non-Roleplayers](Non-Roleplayers%20-%20FAQ)
-	1. [](Non-Roleplayers%20-%20FAQ#Following|Following)
-	2. [](Non-Roleplayers%20-%20FAQ#Interacting|Interacting)
-	3. [](Non-Roleplayers%20-%20FAQ#Things%20Okay%20To%20Do|Things%20Okay%20To%20Do)
-	4. [](Non-Roleplayers%20-%20FAQ#Things%20NOT%20To%20Do|Things%20NOT%20To%20Do)
-8. [Post Formatting](Post%20Formatting%20-%20FAQ)
-	1. [](Post%20Formatting%20-%20FAQ#Accessible%20Text%20Formatting|Accessible%20Text%20Formatting)
-	2. [](Post%20Formatting%20-%20FAQ#Other%20Post%20Details|Other%20Post%20Details)
-9. [Starting Interactions](Starting%20Interactions%20-%20FAQ)
-	1. [](Starting%20Interactions%20-%20FAQ#For%20You%20To%20Start|For%20You%20To%20Start)
-	2. [](Starting%20Interactions%20-%20FAQ#Request%20Ziggy%20Starts|Request%20Ziggy%20Starts)
-10. [This Site](This%20Site%20-%20FAQ)
-11. [Verses & AUs](Verses%20&%20AUs%20-%20FAQ)
-	1. [](Verses%20&%20AUs%20-%20FAQ#Canon-Based%20Verses%20&%20AUs|Canon-Based%20Verses%20&%20AUs)
-	2. [](Verses%20&%20AUs%20-%20FAQ#Fandom%20Specific%20AUs|Fandom%20Specific%20AUs)
-	3. [](Verses%20&%20AUs%20-%20FAQ#Other%20Verses%20&%20AUs|Other%20Verses%20&%20AUs)
-	4. [](Verses%20&%20AUs%20-%20FAQ#Private%20Verses%20&%20AUs|Private%20Verses%20&%20AUs)
-	5. [](Verses%20&%20AUs%20-%20FAQ#Trapped%20In%20Another%20World%20AUs|Trapped%20In%20Another%20World%20AUs)
-	6. [](Verses%20&%20AUs%20-%20FAQ#Types%20of%20Available%20Verses%20&%20AUs|Types%20of%20Available%20Verses%20&%20AUs)
+1. [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ\|Answered FAQs]]
+2. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+	1. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Archived Blogs\|Archived Blogs]]
+	2. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Block On Sight - Hard Limits\|Block On Sight - Hard Limits]]
+	3. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Blocking\|Blocking]]
+	4. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Following\|Following]]
+	5. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Following = Want To Write With You\|Following = Want To Write With You]]
+	6. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Hard Block - Never Soft Block\|Hard Block - Never Soft Block]]
+	7. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#No Follow - Dealbreakers\|No Follow - Dealbreakers]]
+	8. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#No Interactions\|No Interactions]]
+	9. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Sudden Incompatibility\|Sudden Incompatibility]]
+	10. [[Rules & Guidelines/FAQ Details/Blocking & Following - FAQ#Unfollowing\|Unfollowing]]
+3. [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]]
+	1. [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ#Things You Should Do\|Things You Should Do]]
+	2. [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ#Things You Should NOT Do\|Things You Should NOT Do]]
+	3. [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ#TL;DR\|TL;DR]]
+4. [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ\|Fellow Stargazers]]
+	1. [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ#Best Friends Call Members\|Best Friends Call Members]]
+	2. [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ#Exclusives\|Exclusives]]
+	3. [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ#Mains\|Mains]]
+	4. [[Rules & Guidelines/FAQ Details/Fellow Stargazers - FAQ#Ships & Dynamics Partners\|Ship & Dynamics Partners]]
+5. [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]]
+	1. [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Mature & Sexual Content Present\|Mature & Sexual Content Present]]
+	2. [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Rated M for Mature Audiences Only\|Rated M for Mature Audiences Only]]
+	3. [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]]
+6. [[Rules & Guidelines/FAQ Details/Muses - FAQ\|Muses]]
+7. [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ\|Non-Roleplayers]]
+	1. [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ#Following\|Following]]
+	2. [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ#Interacting\|Interacting]]
+	3. [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ#Things Okay To Do\|Things Okay To Do]]
+	4. [[Rules & Guidelines/FAQ Details/Non-Roleplayers - FAQ#Things NOT To Do\|Things NOT To Do]]
+8. [[Rules & Guidelines/FAQ Details/Post Formatting - FAQ\|Post Formatting]]
+	1. [[Rules & Guidelines/FAQ Details/Post Formatting - FAQ#Accessible Text Formatting\|Accessible Text Formatting]]
+	2. [[Rules & Guidelines/FAQ Details/Post Formatting - FAQ#Other Post Details\|Other Post Details]]
+9. [[Rules & Guidelines/FAQ Details/Starting Interactions - FAQ\|Starting Interactions]]
+	1. [[Rules & Guidelines/FAQ Details/Starting Interactions - FAQ#For You To Start\|For You To Start]]
+	2. [[Rules & Guidelines/FAQ Details/Starting Interactions - FAQ#Request Ziggy Starts\|Request Ziggy Starts]]
+10. [[Rules & Guidelines/FAQ Details/This Site - FAQ\|This Site]]
+11. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ\|Verses & AUs]]
+	1. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ#Canon-Based Verses & AUs\|Canon-Based Verses & AUs]]
+	2. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ#Fandom Specific AUs\|Fandom Specific AUs]]
+	3. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ#Other Verses & AUs\|Other Verses & AUs]]
+	4. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ#Private Verses & AUs\|Private Verses & AUs]]
+	5. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ#Trapped In Another World AUs\|Trapped In Another World AUs]]
+	6. [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ#Types of Available Verses & AUs\|Types of Available Verses & AUs]]
 
 ---
 
