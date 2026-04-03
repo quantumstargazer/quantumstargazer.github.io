@@ -13,7 +13,7 @@
 # Rules
 - [Actual Rules](Actual%20Rules.md)
 ## Rules Details
-1. [21+ & Mutuals Only](21+%20&%20Mutuals%20Only%20-%20Rules.md)
+1. [21+ & Mutuals Only](21+%20&%20Mutuals%20Only%20-%20Rules.md) *
 	1. [Only Interacts With 21+](21+%20&%20Mutuals%20Only%20-%20Rules.md#Only%20Interacts%20With%2021+)
 	2. [Rated For Mature Audiences Only](21+%20&%20Mutuals%20Only%20-%20Rules.md#Rated%20for%20Mature%20Audiences%20Only)
 2. [Banned & Restricted Content](Banned%20&%20Restricted%20Content%20-%20Rules.md)
