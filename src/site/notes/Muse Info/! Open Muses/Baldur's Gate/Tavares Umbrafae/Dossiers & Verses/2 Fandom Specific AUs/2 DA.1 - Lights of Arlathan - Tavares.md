@@ -47,6 +47,17 @@ Tavares is a direct descendant of the refugees of Arlathan who found sanctuary i
 - Tav is likely to be wary of most people — particularly humans, given the increased risk of slavery, with her appearance being unique to the surface of Thedas and Aevendrow being so rare hardly anyone believes they even exist — though she will be more open to other elves so long as they're not hostile towards her.
 - She is unaware of the world at large, being from such an isolated settlement — only the darkspawn are known to be a problem for Callidae as well, though not as badly as if it were connected directly to the Deep Roads.
 
+## Arlathan Refugee Worship Parallels
+
+| Drow Variants |   Worships    |              D&D Parallel              |
+| ------------- | :-----------: | :------------------------------------: |
+| Lolth-Sworn   | Forgotten One |                 Lolth                  |
+| Seldarine     |    Mythal     |               Eilistraee               |
+| Aevendrow     |   Fen'Harel   | Eilistraee & Auril<br>(*among others*) |
+> [!headcanon] Additional Drow Variants
+> *Other variants of Drow do exist, including others dedicated to other Forgotten Ones such as Anaris.*
+
+
 ---
 # Timeline
 
