@@ -157,7 +157,7 @@ Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely unive
 
 That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
 
-> *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] &/or [[! Index - Rules & Guidelines\|Index - Rules & Guidelines]]
+> *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] 
 
 ---
 # Rules Passwords

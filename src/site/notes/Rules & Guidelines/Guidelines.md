@@ -188,7 +188,7 @@ As such, private verses are most likely available *only* for their intended part
 - [Interest Tracking Forms](Interest%20Tracking%20Forms%20-%20Guidelines.md)
 - [Mods & Expanded Canon](Mods%20&%20Expanded%20Canon%20-%20Guidelines.md)
 
-> *For Further Details, See:* [Index - Rules & Guidelines](!%20Index%20-%20Rules%20&%20Guidelines.md)
+> *For Further Details, See:* TBA
 
 
 
