@@ -12,7 +12,7 @@
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
 
-> [!rule]+ Don't Misgender Muses
+> [!rule]- Don't Intentionally Misgender Muses
 > 
 > **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
 
@@ -29,7 +29,7 @@ I *will not* follow and/or roleplay with you if:
 - You don't have an age range listed on your blog &/or in your rules
 - You are under the age of 21
 ## Rated for Mature Audiences Only
-**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** Canon-typical mature themes, violence, sexual content, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
+**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** Canon-typical mature themes, violence, sexual content, adult language, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
 
 **The following fandoms are ESRB Rated M for Mature:**
 - Baldur's Gate
@@ -39,7 +39,7 @@ I *will not* follow and/or roleplay with you if:
 > [!caution]- Viewer Discretion Is Advised
 > Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
 
-> *For Further Details, See:* [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]]
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
 
 ---
 # Curate Your Own Dash
