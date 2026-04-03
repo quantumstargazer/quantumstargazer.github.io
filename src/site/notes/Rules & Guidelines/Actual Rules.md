@@ -47,9 +47,9 @@ I *will not* follow and/or roleplay with you if:
 > 
 > **I do *not* follow anyone whose *only* warning for their blog consists of "*Dead Dove: Do Not Eat*" without covering *what* topics, themes, tropes, etc. are likely to be found on their blog.** 
 > 
-> If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then I am going to assume that you write the content that I refuse to engage with at all and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
+> If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then **I am going to assume that you write the content that I refuse to engage with at all** and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
 > 
-> Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "don't blame me if you find content here you didn't like because you didn't read the warning labels provided" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
+> Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "*don't blame me if you find content here you didn't like because you didn't read the warning labels provided*" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
@@ -66,6 +66,9 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > **If you use AI in your roleplaying, you *will* be blocked on sight.** I am not interested in interacting with anyone who outsources their creativity to a machine, nor do I consent to any of my writing, artwork, graphics, etc. being fed into any LLM for content generation.
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
+> 
+> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
+> 
 > - sexual content with any muse &/or faceclaim under the age of 18
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
@@ -73,6 +76,9 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - anything involving Real Person Fiction (*RPF*)[^7]
 
 > [!warning]+ Restricted Tropes & Themes
+> 
+> **While not outright banned, I have no interest in interacting with any of the following:**
+> 
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
 > - scenes involving active labor and/or childbirth [^3]
@@ -113,8 +119,13 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
 > [!warning]+ Restricted Faceclaims
+> 
+> **I am unlikely to follow blogs (*including* multimuse blogs, *regardless* of their potential tagging system) and/or interact with muses who use any of the following for faceclaims:**
+> 
 > - *Musicians* [^5]
 > - *Youtubers* [^5]
+> 
+> **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
 
