@@ -19,7 +19,7 @@ You are *always* welcome to add context and/or expand on any meme and/or prompt 
 This is *especially* true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.
 
 ---
-# Continue As Threads
+# Continue As Threads By Default
 You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 
 > [!guideline] Answered As Text Posts
@@ -46,8 +46,8 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 > 
 > **This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.**, but is *especially* important for anything involving emojis, as these are often repeated throughout many memes and are *impossible* to track down after a certain point.
 > 
-> Examples of what should be sent in the inbox include:
-> - "Send 'This is an example' for a starter about *whatever the prompt is*."
+> **Examples of what should be sent in the inbox include:**
+> - "Send '***This is an example***' for *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
 > - "`[prompt]` for *whatever the prompt is*"
 > 
