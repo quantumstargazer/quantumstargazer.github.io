@@ -37,7 +37,7 @@
 >> - *species:* Human
 >> - *race:* Human ~~Noble~~ Mage
 >> - *ethnicity:* Antivan
->> - *additional ethnicities/cultures:* 
+>> - *additional ethnicities/cultures:* —
 >> - *height:* 180 cm
 >> 	- 5 ft 10.87 in
 >> - *body shape:* — 
@@ -80,8 +80,8 @@
 >> 	- Lightning
 >> 	- Necrotic (*Necromancy - Passives Only*)
 >> - *class (secondary):* Duelist - *Rogue*
->> - *class (tertiary):* 
->> - *class (additional support):* 
+>> - *class (tertiary):* —
+>> - *class (additional support):* —
 >> - *fighting style:* Spellblade & Orb
 >> 	- Dual Wield Daggers
 >> 	- Poisons
