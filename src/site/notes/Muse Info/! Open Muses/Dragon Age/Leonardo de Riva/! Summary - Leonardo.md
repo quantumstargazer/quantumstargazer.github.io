@@ -112,7 +112,7 @@
 > In 9:50 Dragon, Leonardo frees the captives of an Antaam patrol, unknowingly interfering with the Talons' plans for dealing with the Antaam invaders in Treviso. He is subsequently sent away on an extended contract with Varric Tethras to stop the Dread Wolf from tearing down the Veil and destroying the world.
 > 
 >> [!info]- Verse Navigation 
->> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Dossiers & Verses/0.1 D - Dragon Age - Leonardo\|Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
