@@ -124,7 +124,7 @@
 > 
 > - *Companion (Non-Rook) AU*
 > 
-> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
+> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10.
 > 
 > Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
 >
