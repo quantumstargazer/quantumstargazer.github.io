@@ -4,7 +4,7 @@
 
 # Guidelines
 
-> [!attention]- Read Rules Before Following
+> [!attention]+ Read Rules Before Following
 > 
 > If you haven't done so already, you should read the [Actual Rules](Rules%20&%20Guidelines/Actual%20Rules%5C) before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 
