@@ -58,6 +58,23 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]]
 
 ---
+# Inbox Prompts & Memes
+**My inbox is always open, and the memes never expire.** For the *full collection* of memes, be sure to check [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com), which is my sideblog for rp memes, musings, etc., and where I reblog all of the memes *from* for my rp blog — it can be used as a source blog to reblog from, as I have notifs turned off for everything but the inbox, and memes can be sent to either blog.
+## Send Full Prompts To Inbox
+> [!rule]+ Why This Is Necessary
+> - **I usually don't fill prompts immediately after receiving them.**
+> - I *can't* fill them if I don't know what meme they're meant to be for.
+> - I delete all the memes I reblog on my rp blog on a regular basis — it's why the archive sideblog exists. 
+> - Most of the memes reblogged are queued &/or scheduled, so I'm not actively aware of what posts when once they're in the queue. 
+
+## Specify When Tagged
+> [!rule]+ If You Don't Specify Muse(s)/Verse(s)
+> - **I may not answer at all if no muse is specified at all.** 
+> - I will typically default to their mainverse if you don't specify an AU.
+> 
+
+> *For Further Details (& Examples), See:* [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+---
 # Banned & Restricted Content
 The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for exceptions to be made.
 ## AI Generated Content
