@@ -107,7 +107,7 @@
 - *rp & related blogs:* 
 	- [quantumstargazer](https://quantumstargazer.tumblr.com/) - *Multifandom Multimuse (PRIMARY & MAIN BLOG)*
 	
-	- [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
+	- [quantumstars-rpmemes](https://quantumstar-rpmemes.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
 > [!example]+ Fandoms
