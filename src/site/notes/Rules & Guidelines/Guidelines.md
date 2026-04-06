@@ -73,7 +73,7 @@ If the starter doesn't *quite* fit for your muse, verse, etc., I am more than ha
 
 ---
 # Inbox
-You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask)[^1].
+You can send asks/prompts/memes/etc. to the inbox on either [quantumstargazer](https://quantumstargazer.tumblr.com/ask) and/or [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/ask)[^1].
 ## Reverse Prompts/Memes
 You are *always* welcome to reverse any meme and/or prompts (*including sentence starters*), simply by stating that you want it *reversed*, whether the original meme/prompt mentions the option in it or not. 
 
@@ -89,10 +89,10 @@ You are *always* welcome to continue answered in character prompts/memes as thre
 > As I *always* turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
 
 ## Prompts Never Expire
-There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
+There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/), and can be sent to either inbox.
 
-> [!info] Regarding gazingintoquantumstars
-> **The archive, gazingintoquantumstars, is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
+> [!info] Regarding quantumstar-rpmemes
+> **The archive, quantumstar-rpmemes, is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
 > 
 > **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
 
@@ -107,9 +107,9 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 > - "Send 'This is an example' for a starter about *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
 > - "\[prompt] for *whatever the prompt is*"
-> - "PROMPT for \[link to meme on gazingintoquantumstars]"[^7]
+> - "PROMPT for \[link to meme on quantumstar-rpmemes]"[^7]
 > 
-> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
+> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
 ## Send Any Time
 **You do not have to wait for me to be active on the dash to send things!** My inbox is always open, unless I have *literally* turned it off.
@@ -213,4 +213,4 @@ As such, private verses are most likely available *only* for their intended part
 [^6]: A **queerplatonic relationship** is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
 	*source:* **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
 
-[^7]: As I regularly delete prompts reblogged onto quantumstargazer, please link to where I reblogged it from gazingintoquantumstars instead, so that I can still find it at a later date if necessary.
+[^7]: As I regularly delete prompts reblogged onto quantumstargazer, please link to where I reblogged it from quantumstar-rpmemes instead, so that I can still find it at a later date if necessary.

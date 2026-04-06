@@ -31,7 +31,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 - **Send Prompts/Memes** - simply send me prompts whenever you want to
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
-	- *Additional Prompts:* [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
+	- *Additional Prompts:* [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
 
 > *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Starting Interactions - FAQ\|Starting Interactions]]
 

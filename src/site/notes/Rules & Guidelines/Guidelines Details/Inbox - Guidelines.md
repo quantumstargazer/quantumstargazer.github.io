@@ -5,7 +5,30 @@
 # Inbox
 **You can send asks/prompts/memes/etc. to the inbox on the following blogs:**
 - [quantumstargazer](https://quantumstargazer.tumblr.com/ask) — *primary roleplay blog*
-- [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/ask) — *prompt/meme archive sideblog*[^1]
+- [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/ask) — *prompt/meme archive sideblog*[^1]
+---
+# Include Full Prompt When Sending
+**I am not always able to fill memes and/or prompts right away,** so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
+
+> [!guideline] Send Full Prompt For Anything NOT A Sentence Starter
+> 
+> **This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.**, but is *especially* important for anything involving emojis, as these are often repeated throughout many memes and are *impossible* to track down after a certain point.
+> 
+> **Examples of what should be sent in the inbox include:**
+> - "Send '***This is an example***' for *whatever the prompt is*."
+> - "Send ♥️ for *whatever the prompt is*."
+> - "`[prompt]` for *whatever the prompt is*."
+> - "1. *This is an example for whatever the prompt is*." (number *not* necessary)
+> 
+> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
+
+---
+# Continue As Threads By Default
+You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
+
+> [!guideline] Answered As Text Posts
+> As I *always* turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
+
 ---
 # Reverse Prompts/Memes
 You are *always* welcome to reverse any meme and/or prompts (*including sentence starters*), simply by stating that you want it *reversed*, whether the original meme/prompt mentions the option in it or not. 
@@ -19,40 +42,17 @@ You are *always* welcome to add context and/or expand on any meme and/or prompt 
 This is *especially* true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.
 
 ---
-# Continue As Threads By Default
-You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
-
-> [!guideline] Answered As Text Posts
-> As I *always* turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
-
----
 # Prompts Never Expire
-There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), and can be sent to either inbox.
+There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/), and can be sent to either inbox.
 
 ## Additional Memes On Sideblog
-**The archive, [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/), is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
+**The archive, [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/), is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
 
 **If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead**, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.
 
 > [!info] Same Rules Apply To Sideblog
 > 
 > All of the rules pertaining to inbox prompts and memes apply to the archive sideblog as well, *especially* including sending the full prompt when sending anything that is not a sentence starter.
-
----
-# Include Full Prompt When Sending
-**I am not always able to fill memes and/or prompts right away,** so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
-
-> [!guideline] Send Full Prompt For Anything NOT A Sentence Starter
-> 
-> **This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.**, but is *especially* important for anything involving emojis, as these are often repeated throughout many memes and are *impossible* to track down after a certain point.
-> 
-> **Examples of what should be sent in the inbox include:**
-> - "Send '***This is an example***' for *whatever the prompt is*."
-> - "Send ♥️ for *whatever the prompt is*."
-> - "`[prompt]` for *whatever the prompt is*"
-> 
-> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
-
 
 ---
 # Send Any Time
