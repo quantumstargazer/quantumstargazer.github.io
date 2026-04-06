@@ -16,6 +16,9 @@
 
 ---
 # Interactions
+**If I follow you, I *want* to write with you.** I don't follow for follow, and I don't follow blogs I'm not interested in interacting with.
+## Mutuals Always Welcome To Interact
+If we're mutuals, you do not have to wait for me to post invitations to send memes, write me starters, tag me in posts, etc. You have blanket permission to interact at all times, 24/7, regardless of whether I actively am on the dash or not.
 
 ---
 # Best Ways To Interact
