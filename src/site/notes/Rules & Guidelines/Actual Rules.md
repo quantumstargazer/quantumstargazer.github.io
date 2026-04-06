@@ -166,7 +166,21 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
-That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
+> [!guideline]- Applied As Rules When Applicable 
+> That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
+
+### Guidelines Details 
+- [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
+- [[Rules & Guidelines/Guidelines Details/Communications - Guidelines\|Communications]]
+- [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+- [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+- [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+- [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+- [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+- [[Rules & Guidelines/Guidelines Details/Muses - Guidelines\|Muses]]
+- [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines\|Ships & Dynamics]]
+- [[Rules & Guidelines/Guidelines Details/Starters - Guidelines\|Starters]]
+- [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines\|Verses & AUs]]
 
 > *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] 
 
