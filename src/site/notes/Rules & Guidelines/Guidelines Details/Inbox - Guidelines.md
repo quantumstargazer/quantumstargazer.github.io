@@ -8,7 +8,7 @@
 - [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/ask) — *prompt/meme archive sideblog*[^1]
 ---
 # Include Full Prompt When Sending
-**I am not always able to fill memes and/or prompts right away,** so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
+**I almost never fill memes and/or prompts right away,** so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself on [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/ask), as I regularly clear the prompts tag on my rp blog) so I can find it later for the necessary context — *regardless* of if it is ic or ooc.
 
 > [!guideline] Send Full Prompt For Anything NOT A Sentence Starter
 > 
@@ -18,7 +18,8 @@
 > - "Send '***This is an example***' for *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
 > - "`[prompt]` for *whatever the prompt is*."
-> - "1. *This is an example for whatever the prompt is*." (number *not* necessary)
+> - "1. *This is an example for whatever the prompt is*." <small>(number *not* necessary)</small>
+> - "*This is an example for whatever the prompt is*."
 > 
 > **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
