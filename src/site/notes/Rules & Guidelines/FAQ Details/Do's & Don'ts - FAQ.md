@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/do-s-and-don-ts-faq/","tags":["guidelines","interaction-call"],"dg-note-properties":{"tags":["guidelines","interaction-call"],"aliases":["Do's & Don'ts","Do's & Don'ts of Interacting","Do's & Don'ts of Interactions"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/do-s-and-don-ts-faq/","tags":["faq","guidelines","interaction-call"],"dg-note-properties":{"tags":["faq","guidelines","interaction-call"],"aliases":["Do's & Don'ts","Do's & Don'ts of Interacting","Do's & Don'ts of Interactions"]}}
 ---
 
 # Do's & Don'ts of Interacting
@@ -31,25 +31,25 @@
 
 ## Don't
 
-| Things                           | Do Them? |                 Consequences?                 |
-| -------------------------------- | :------: | :-------------------------------------------: |
-| Be a dick                        |  🚫 No   |           **Blocked &/or Reported**           |
-| Send anonymous hate              |  🚫 No   |           **Blocked &/or Reported**           |
-| Interact *without* reading rules |  🚫 No   |           **Dropped &/or Blocked**            |
-| Assume Muse = Mun                |  🚫 No   |           **Dropped &/or Blocked**            |
-| Reblog posts that aren't for you |  🚫 No   |            **Warned &/or Blocked**            |
-| Use as rp resource blog          |  🚫 No   |            **Warned &/or Blocked**            |
-| Feed my writing into AI          |  🚫 No   |           **Blocked &/or Reported**           |
-| Use AI in our interactions       |  🚫 No   |           **Dropped &/or Blocked**            |
-| Take my blocking you personally  |  🚫 No   |            **Reported If Evaded**             |
-| Softblock Me                     |  🚫 No   |             ***Hardblock Only***              |
-| Assume one versewide universe    |  🚫 No   |           ***Warned &/or Dropped***           |
-| Assume canon accuracy            |  🚫 No   |           ***Warned &/or Dropped***           |
-| Ignore canon divergences         |  🚫 No   |           ***Warned &/or Dropped***           |
-| Write my muses for me            |  🚫 No   |           ***Warned &/or Dropped***           |
-| Godmod (major)                   |  🚫 No   |           ***Warned &/or Dropped***           |
-| Metagame                         |  🚫 No   |           ***Warned &/or Dropped***           |
-| Send only the symbol for prompts |  🚫 No   | ***Prompt May Be Deleted Instead Of Filled*** |
+| Things                                         | Do Them? |                 Consequences?                 |
+| ---------------------------------------------- | :------: | :-------------------------------------------: |
+| Be a dick                                      |  🚫 No   |           **Blocked &/or Reported**           |
+| Send anonymous hate                            |  🚫 No   |           **Blocked &/or Reported**           |
+| Interact *without* reading rules               |  🚫 No   |           **Dropped &/or Blocked**            |
+| Assume Muse = Mun                              |  🚫 No   |           **Dropped &/or Blocked**            |
+| Reblog posts that aren't for you               |  🚫 No   |            **Warned &/or Blocked**            |
+| Use as rp resource blog                        |  🚫 No   |            **Warned &/or Blocked**            |
+| Feed my writing into AI                        |  🚫 No   |           **Blocked &/or Reported**           |
+| Use AI in our interactions                     |  🚫 No   |           **Dropped &/or Blocked**            |
+| Take my blocking you personally                |  🚫 No   |            **Reported If Evaded**             |
+| Softblock Me                                   |  🚫 No   |             ***Hardblock Only***              |
+| Assume one versewide universe                  |  🚫 No   |           ***Warned &/or Dropped***           |
+| Assume canon accuracy                          |  🚫 No   |           ***Warned &/or Dropped***           |
+| Ignore canon divergences                       |  🚫 No   |           ***Warned &/or Dropped***           |
+| Write my muses for me                          |  🚫 No   |           ***Warned &/or Dropped***           |
+| Godmod (major)                                 |  🚫 No   |           ***Warned &/or Dropped***           |
+| Metagame                                       |  🚫 No   |           ***Warned &/or Dropped***           |
+| Send only the symbol, number, etc. for prompts |  🚫 No   | ***Prompt May Be Deleted Instead Of Filled*** |
 
 ---
 # Things You Should Do
@@ -97,7 +97,7 @@
 
 - **Don't interact without reading the rules & guidelines** - It will inevitably become obvious you didn't read them, and chances are that I will likely simply block you, depending on the severity of the lines crossed as a result.
 
-- **Don't assume I am my muses** - Honestly, [just read this psa](https://gazingintoquantumstars.tumblr.com/post/795869211991900160) for more on this one.
+- **Don't assume I am my muses** - Honestly, [just read this psa](https://quantumstar-rpmemes.tumblr.com/post/795869211991900160) for more on this one.
 
 - **Don't reblog things you're not a part of** - This *especially* goes for roleplay threads, "missing scenes" (ficlets that are tied to specific ships &/or dynamics), headcanons, verse details, etc. If you're not *actively tagged in them*, they are not for you to reblog without my express permission.
 
@@ -121,7 +121,7 @@
 
 - **No metagaming** - TBA
 
-- **Send only the symbol/emoji/phrase for prompts** - I rarely answer prompts/memes right away, and many of these reuse the same symbols, emojis, or even phrases. It is better to copypaste the full prompt instruction (ie "Send \[Example] for a starter based on example", "⭐ - sender finds receiver stargazing", etc.) instead of just the symbol (ie "\[Example]", "⭐", etc.). I can't fill prompts if I can't figure out which meme they're from, and I regularly delete the ones reblogged directly to **quantumstargazer** — if you are going to link to it, please do so from where I reblogged it from **gazingintoquantumstars** (my own sideblog for archiving memes & prompts that I like, that can be sent in just like any reblogged to the rp blog).
+- **Send only the symbol/emoji/phrase for prompts** - I rarely answer prompts/memes right away, and many of these reuse the same symbols, emojis, numbers from ordered lists, or even phrases. It is better to copypaste the full prompt instruction (ie "Send \[Example] for a starter based on example", "⭐ - sender finds receiver stargazing", "1. Example prompt", etc.) instead of just the symbol (ie "\[Example]", "⭐", "1", etc.). *I can't fill prompts if I can't figure out which meme they're from*, and I regularly delete the ones reblogged directly to **quantumstargazer** — if you are going to link to it, please do so from where I reblogged it from **quantumstar-rpmemes** (my own sideblog for archiving memes & prompts that I like, that can be sent in just like any reblogged to the rp blog).
 
 - **Don't panic** - And always know where your towel is.
 

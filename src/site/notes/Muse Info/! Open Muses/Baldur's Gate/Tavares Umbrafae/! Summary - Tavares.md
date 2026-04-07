@@ -16,8 +16,11 @@
 > [!profile]- Additional Information
 > 
 >> [!stats]+ Age
->> - *apparent age:* 99 +/- years
->> - *date of birth:* YEAR
+>> - *apparent age:* 99 +/- years (*1492 DR*)
+>> 	- 42 +/- years (*1435 DR*)	
+>> 	- 18 +/- years (*1411 DR*)
+>> 	- 0 +/- years (*1393 DR*)
+>> - *date of birth:* 1393 DR
 >> 	- DAY of MONTH
 >  
 >> [!stats]+ Personal Identity 
@@ -61,7 +64,7 @@
 >> 	- Thieves' Cant
 > 
 >> [!stats]- Social Standing & Affiliations 
->> - *affiliated organizations:* Long Night Scions
+>> - *affiliated organizations:* Scions of the Long Night
 >> - *extended affiliations:* Winter Court - Faerie
 >> - *employer(s)/patron(s):* Prince of Frost
 >> - *occupation(s):* Archfey Warlock - Misfortune Bringer
@@ -73,10 +76,10 @@
 >> - *pantheon:* Seldarine
 > 
 >> [!stats]+ Origin Attributes 
->> - *class (primary):* Long Night Scion - *Archfey Warlock*
->> - *class (secondary):* Misfortune Bringer - *Rogue*
->> - *class (tertiary):* Frozen Sorcery - *~~Sorcerer~~* *Wintertouched*
->> - *class (additional support):* 
+>> - *class (primary):* **Long Night Scion** (*Archfey Warlock*)
+>> - *class (secondary):* **Misfortune Bringer** (*Rogue*)
+>> - *class (tertiary):* **Frozen Sorcery** (*~~Sorcerer~~ Wintertouched*)
+>> - *class (additional support):* — 
 >> - *fighting style:* Spellblade
 >> 	- Ice (Cold) Magic
 >> 	- Faerie (Psychic) Magic
@@ -104,7 +107,7 @@
 > As she ventures out onto the surface and away from the city in the ice, she falls victim to a mind flayer's nautiloid, where she is infected with one of their parasitic tadpoles before an attack on the ship leads to her and others like her finding their freedom within the wilderness of the Storm Coast, desperate for a cure before they themselves are turned into mind flayers.
 > 
 >> [!info]- Verse Navigation 
->> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 D - Absolute Crisis - Tavares\|Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
@@ -153,14 +156,14 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 
 ## Dragon Age AUs
-> [!verse]- Lights of Arlathan
+> [!verse]+ Lights of Arlathan
 > 
-> Summary goes here.
+> Tavares is a direct descendant of the refugees of Arlathan who found sanctuary in Cadash Thaig and survived the thaig's destruction by the army of Kal-Sharok. The survivors never returned to the surface, and most believe these "Drow" to be myths... or tainted by the blight.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/2 Fandom Specific AUs/2 DA.1 - Lights of Arlathan - Tavares\|Verse]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 

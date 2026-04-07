@@ -6,6 +6,11 @@
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
+## Selective Following
+**If I'm following you, I *want* to write with you.** It's that simple.
+### If You're Not Interested
+**If you're not interested in writing with me, *please* just hard block me — do *not* soft block.** I have severe memory issues (medical issues), and I honestly will not be able to remember if you simply soft block.
+## Do's & Don'ts
 **Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
 
 ---
@@ -56,6 +61,23 @@ If you don't like me, my muses, my verses, my blog, etc., then *just don't follo
 If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^2]
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]]
+
+---
+# Inbox Prompts & Memes
+**My inbox is always open, and the memes never expire.** For the *full collection* of memes, be sure to check [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com), which is my sideblog for rp memes, musings, etc., and where I reblog all of the memes *from* for my rp blog — it can be used as a source blog to reblog from, as I have notifs turned off for everything but the inbox, and memes can be sent to either blog.
+## Send Full Prompts To Inbox
+> [!rule]+ Why This Is Necessary
+> - **I usually don't fill prompts immediately after receiving them.**
+> - I *can't* fill them if I don't know what meme they're meant to be for.
+> - I delete all the memes I reblog on my rp blog on a regular basis — it's why the archive sideblog exists. 
+> - Most of the memes reblogged are queued &/or scheduled, so I'm not actively aware of what posts when once they're in the queue. 
+## Specify When Tagged
+> [!rule]+ If You Don't Specify Muse(s)/Verse(s)
+> - **I may not answer at all if no muse is specified at all.** 
+> - I will typically default to their mainverse if you don't specify an AU.
+> 
+
+> *For Further Details (& Examples), See:* [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
 
 ---
 # Banned & Restricted Content
@@ -166,7 +188,21 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
-That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
+> [!guideline]- Applied As Rules When Applicable 
+> That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
+
+### Guidelines Details 
+- [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
+- [[Rules & Guidelines/Guidelines Details/Communications - Guidelines\|Communications]]
+- [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+- [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+- [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+- [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+- [[Rules & Guidelines/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+- [[Rules & Guidelines/Guidelines Details/Muses - Guidelines\|Muses]]
+- [[Rules & Guidelines/Guidelines Details/Ships & Dynamics - Guidelines\|Ships & Dynamics]]
+- [[Rules & Guidelines/Guidelines Details/Starters - Guidelines\|Starters]]
+- [[Rules & Guidelines/Guidelines Details/Verses & AUs - Guidelines\|Verses & AUs]]
 
 > *For Further Details, See:* [[Rules & Guidelines/Guidelines\|Guidelines]] 
 

@@ -24,7 +24,7 @@
 > 
 > See [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
-> [!ziggy]- Wordy AF - Unapologetically Neurodivergent
+> [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
 > **AuDHD** means ***infodumping*** is likely to occur, and this means my posts, as well as the notes here, are likely to get *wordy*. I tend to try to be mindful of individual paragraph lengths, but there will often be *a lot* of paragraphs and/or bullet points.
 > 
 > If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I'm *probably* not the roleplay partner for you.
@@ -107,7 +107,7 @@
 - *rp & related blogs:* 
 	- [quantumstargazer](https://quantumstargazer.tumblr.com/) - *Multifandom Multimuse (PRIMARY & MAIN BLOG)*
 	
-	- [gazingintoquantumstars](https://gazingintoquantumstars.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
+	- [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
 > [!example]+ Fandoms

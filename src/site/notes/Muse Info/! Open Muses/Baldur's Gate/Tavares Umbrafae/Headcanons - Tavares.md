@@ -23,8 +23,8 @@
 
 ---
 # Universal Headcanons
-> [!headcanon]-
-> TBA
+> [!headcanon]+ Payment Due: Firstborn Child
+> Unbeknownst to Tavares, her life had been traded away as part of a Faerie contract with the Prince of Frost, sold to the Archfey by her father even before her conception in exchange for the Pale Prince's favor. When Tav is lured into the Feywild, she must serve the Archfey for the next "*seven years and a day*" — in which time over fifty years pass in the Prime Material Plane before she is able to return.
 
 
 

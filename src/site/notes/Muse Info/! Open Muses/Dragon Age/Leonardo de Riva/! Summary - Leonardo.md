@@ -37,7 +37,7 @@
 >> - *species:* Human
 >> - *race:* Human ~~Noble~~ Mage
 >> - *ethnicity:* Antivan
->> - *additional ethnicities/cultures:* 
+>> - *additional ethnicities/cultures:* —
 >> - *height:* 180 cm
 >> 	- 5 ft 10.87 in
 >> - *body shape:* — 
@@ -80,8 +80,8 @@
 >> 	- Lightning
 >> 	- Necrotic (*Necromancy - Passives Only*)
 >> - *class (secondary):* Duelist - *Rogue*
->> - *class (tertiary):* 
->> - *class (additional support):* 
+>> - *class (tertiary):* —
+>> - *class (additional support):* —
 >> - *fighting style:* Spellblade & Orb
 >> 	- Dual Wield Daggers
 >> 	- Poisons
@@ -105,14 +105,14 @@
 # Canon Typical
 > [!verse]+ Dragon Age
 > 
-> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
+> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10. 
 > 
 > Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
 >
 > In 9:50 Dragon, Leonardo frees the captives of an Antaam patrol, unknowingly interfering with the Talons' plans for dealing with the Antaam invaders in Treviso. He is subsequently sent away on an extended contract with Varric Tethras to stop the Dread Wolf from tearing down the Veil and destroying the world.
 > 
 >> [!info]- Verse Navigation 
->> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Dossiers & Verses/0.1 D - Dragon Age - Leonardo\|Dossier]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]] 
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
@@ -124,7 +124,7 @@
 > 
 > - *Companion (Non-Rook) AU*
 > 
-> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some time later that same year. 
+> **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10.
 > 
 > Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
 >
