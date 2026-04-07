@@ -3,7 +3,7 @@
 ---
 
 # Rated M for Mature Audiences Only
-> [!rule]- Must Be 18+ To Follow
+> [!rule]+ Must Be 18+ To Follow
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing any roleplay interactions with you or your muses until you are at least 21.
 
 My blogs and everything therein (including this wiki) are intended for mature audiences only, and as such I *only* follow and interact with those who are **21 years or older**. My primary fandoms are similarly rated, and so this should be taken into account prior to deciding whether or not to follow me.
@@ -20,6 +20,7 @@ Sexually suggestive and explicit content is tagged and/or is placed under a cut.
 > [!warning]
 > If you are unfamiliar with any of the fandoms I frequently write, please take the time to look through this list to ensure that you are aware of content you may be squicked by and/or potentially find triggering.
 
+## Content Warnings
 This is *not* a comprehensive list of what you might find on my blogs, though it should hopefully give you a general idea of what to expect.
 
 - dark themes
