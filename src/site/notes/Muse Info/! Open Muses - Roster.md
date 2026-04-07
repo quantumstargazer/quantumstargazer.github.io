@@ -24,6 +24,8 @@
 > Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after "*seven years and a day*" that proved to have lasted *decades* longer than were claimed. 
 > 
 > Exiled from her home in Callidae when she returned decades after her disappearance, her pact to the Pale Prince clear with the binding marks she soon learns to hide with a glamour, she ventures out of the frozen north in search of her ~~master's~~ Prince's consort and to fulfill her assigned duties.
+> 
+> **Muse Navigation**
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Connections - Tavares\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]]
@@ -50,6 +52,7 @@
 > 
 > They have a specialized interest in Faerie and Infernal contracts, for how often their investigations have turned out to have such contracts involved.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Connections - Faeynore\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]]
@@ -74,6 +77,7 @@
 > 
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Connections - Dirge\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
@@ -104,6 +108,7 @@
 > 
 > In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon's Second.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
@@ -130,6 +135,7 @@
 > 
 > As a fledgling of House de Riva, Zaehire becomes Viago's protégé, as well as an occasional thorn in his side with her impulsiveness. And yet she often manages to turn those impulsive tendencies into boons for House de Riva, such as when she manages to negotiate her way into acting as a liaison between the House and the Carta, securing a steady supply of lyrium for de Riva's mages, and ensuring Carta assassins don't interfere in de Riva contracts.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Connections - Zaehire\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]]
@@ -156,6 +162,7 @@
 > 
 > When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. He doesn't give up on his rogue training, insisting that he can manage both it *and* his magical training, and while many expected him to fail, his sheer determination to prove himself worthy of being a de Riva leads to his eventually studying to be a Spellblade Assassin.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Connections - Leonardo\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]]
@@ -182,6 +189,7 @@
 > 
 > Ward is quiet and often reserved, tending to prefer the company of spirits and the benevolent undead. They are largely inexperienced when it comes to interacting with the living, especially anyone outside of the Mourn Watch and the Grand Necropolis, though they are always willing to learn, even if others aren't always as receptive to them in return.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]]
@@ -206,6 +214,7 @@
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Connections - Zevran\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]]
@@ -234,6 +243,7 @@
 > 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 > 
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Connections - Haleir\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]]
@@ -258,6 +268,7 @@
 > 
 > A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
 >
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Connections - Bertrand\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]]
@@ -287,6 +298,7 @@
 > 
 > She often defies expectations, as she refuses to kowtow to the Alliance's demands of putting humanity's interests first. Once she is given Spectre status, she stops answering to the Alliance Brass, pushing the fact that she now answers to no one but the Council, and refusing to become the Alliance's puppet Spectre.
 >
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Connections - Isabela\|Connections]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]]
@@ -311,6 +323,7 @@
 > 
 > Nihlus Kryik is one of the Council's most highly decorated Spectres. His once mentor, Saren Arterius, tries to murder him on Eden Prime by shooting at him from point blank range. Nihlus survives the attempt on his life, and joins his own protégé in their hunt to bring Saren to justice for the older Spectre's betrayal of the Council — and to hopefully find answers for himself for why Saren would betray *him*.
 >
+> **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Connections - Nihlus\|Connections]]
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]]
