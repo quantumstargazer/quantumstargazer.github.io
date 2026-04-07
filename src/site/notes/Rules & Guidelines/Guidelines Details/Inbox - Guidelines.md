@@ -29,6 +29,9 @@
 > - **I may not answer at all if no muse is specified at all.** 
 > - I will typically default to their mainverse if you don't specify an AU. 
 
+## Expected For OOC Prompts As Well 
+**Unless the meme/prompt reblog specifically lacks the tags for specifying, it is *expected* that any prompt sent to the inbox should have at least one or more muses specified for any ooc prompts.** I am far less likely to answer beyond a generic answer, if I answer at all, if there isn't a muse specified for ooc posts, including mun prompts that ask about things regarding the muses in *any* way, as the answer is rarely the same for every muse.
+
 ---
 # Continue As Threads By Default
 You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
