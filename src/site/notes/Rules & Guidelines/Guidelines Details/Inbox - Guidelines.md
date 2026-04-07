@@ -24,6 +24,12 @@
 > **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
 ---
+# Specify When Tagged
+> [!rule]+ If You Don't Specify Muse(s)/Verse(s)
+> - **I may not answer at all if no muse is specified at all.** 
+> - I will typically default to their mainverse if you don't specify an AU. 
+
+---
 # Continue As Threads By Default
 You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
 
