@@ -87,6 +87,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > 
 > **If you use AI in your roleplaying, you *will* be blocked on sight.** I am not interested in interacting with anyone who outsources their creativity to a machine, nor do I consent to any of my writing, artwork, graphics, etc. being fed into any LLM for content generation.
 ## Tropes & Themes
+### Banned Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
 > 
 > **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
@@ -96,7 +97,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
 > - anything involving Alpha/Beta/Omega (*Omegaverse*) dynamics &/or settings
 > - anything involving Real Person Fiction (*RPF*)[^7]
-
+### Restricted Tropes & Themes
 > [!warning]+ Restricted Tropes & Themes
 > 
 > **While not outright banned, I have no interest in interacting with any of the following:**
@@ -107,6 +108,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - ***Modern AUs*** set on modern everyday Earth for any sci-fi and/or fantasy fandoms
 > - ***"No Magic"/"All Human"/etc. AUs*** for any sci-fi and/or fantasy fandoms
 ## Fandoms
+### Banned Fandoms
 > [!danger]+ Banned Fandoms — No Follow &/or Interaction
 > 
 > **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
@@ -114,7 +116,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - Harry Potter & Related Fandoms (*JK Rowling*)  [^4]
 > - The Boys (*2019*)
 > - Heated Rivalry (*2026*)
-
+### Restricted Fandoms
 > [!warning]+ Restricted Fandoms
 > 
 > **While not outright banned, I have no interest in interacting with muses from and/or within AUs for any of the following:**
@@ -125,6 +127,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - Helluva Boss
 > - Hellaverse & Related Fandoms
 ## Faceclaims
+### Banned Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
 > 
 > **I will not follow blogs (*including* multimuse blogs, *regardless* of their potential tagging system)[^6] and/or interact with muses who use any of the following for faceclaims:**
@@ -139,7 +142,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - *Online Influencers and/or Content Creators*
 > 
 > **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
-
+### Restricted Faceclaims
 > [!warning]+ Restricted Faceclaims
 > 
 > **I am unlikely to follow blogs (*including* multimuse blogs, *regardless* of their potential tagging system) and/or interact with muses who use any of the following for faceclaims:**
