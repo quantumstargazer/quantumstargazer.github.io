@@ -64,3 +64,8 @@ Tavares is a direct descendant of the refugees of Arlathan who found sanctuary i
 
 
 ---
+# Additional Notes
+*The following is mostly notes lifted more-or-less "as is" from the Forgotten Realms source material, adapted as necessary to fit within the Dragon Age setting.*
+- **Aevendrow are light sensitive**, and being out in direct sunlight can have negative effects on their ability to cast spells.
+- **Aevendrow tend to be more Chaotic Neutral aligned** than most other variants of drow, though there are some who lean more towards Evil than Good on the morality scale.
+- 
