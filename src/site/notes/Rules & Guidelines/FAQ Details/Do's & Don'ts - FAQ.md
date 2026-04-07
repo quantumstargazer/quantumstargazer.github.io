@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/do-s-and-don-ts-faq/","tags":["guidelines","interaction-call"],"dg-note-properties":{"tags":["guidelines","interaction-call"],"aliases":["Do's & Don'ts","Do's & Don'ts of Interacting","Do's & Don'ts of Interactions"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/do-s-and-don-ts-faq/","tags":["faq","guidelines","interaction-call"],"dg-note-properties":{"tags":["faq","guidelines","interaction-call"],"aliases":["Do's & Don'ts","Do's & Don'ts of Interacting","Do's & Don'ts of Interactions"]}}
 ---
 
 # Do's & Don'ts of Interacting
