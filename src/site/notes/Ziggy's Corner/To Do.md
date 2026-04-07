@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ziggy-s-corner/to-do/","tags":["ziggy-pinned","ziggy-to-do"],"dg-note-properties":{"tags":["ziggy-pinned","ziggy-to-do"],"banner_y":"40.5"}}
+{"dg-publish":true,"permalink":"/ziggy-s-corner/to-do/","tags":["ziggy-pinned","ziggy-to-do","munspace"],"dg-note-properties":{"tags":["ziggy-pinned","ziggy-to-do","munspace"],"banner_y":"40.5","aliases":["Ziggy's To Do List"]}}
 ---
 
 # TO DO
