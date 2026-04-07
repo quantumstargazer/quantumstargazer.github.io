@@ -37,7 +37,7 @@
 > - Wishlists
 ## Fisk (*The Enigma*)
 > [!profile]- Fisk (they/them)
-> - *Mods-Inspired Heavily Canon-Divergent Dark Urge*
+> *Mods-Inspired Heavily Canon-Divergent Dark Urge*
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -52,6 +52,7 @@
 > - Wishlists
 ## Halima
 > [!profile]- Halima (she/her)
+> *Fey*
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
