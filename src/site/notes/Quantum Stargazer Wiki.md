@@ -13,6 +13,8 @@
 > > 
 > > **Some links are currently not functioning correctly.** These are handled on a plugin level, and so there is nothing I can currently do to fix them, minus filing bug reports and waiting for updates to be pushed. These links are typically simply pointed at headers within other pages, but they throw a 404 error instead of parsing the actual link correctly. I'm trying to test to see if it is a plugin conflict with a different plugin I have installed, but I'm not certain that that is the case, and I have limited ability to actually test such in the first place.
 
+[[Rules & Guidelines/Actual Rules#If You're Not Interested\|Actual Rules#If You're Not Interested]]
+[[Rules & Guidelines/Actual Rules#If You're Not Interested\|If You're Not Interested]]
 # Quantum Stargazer
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
 ## RP Info
@@ -97,7 +99,7 @@
 > - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
 > - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
 
-- [[Muse Info/! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to everyone*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
 - [[Muse Info/Friends Only - Roster\|Friends Only]] - *by invitation only*
 - [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
