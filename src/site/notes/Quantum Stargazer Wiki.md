@@ -10,6 +10,8 @@
 > > Please be patient, as I am chronically ill, thus I am unable to always dedicate a lot of time and energy to this effort in single sittings, and there is a *lot* of info I want to be able to cover, between multiple fandoms and the characters within. 
 > > 
 > > If there is anything *specific* you want to know more about, just ask, and I'll provide the information and get the relevant info updated here as quickly as possible.
+> > 
+> > **Some links are currently not functioning correctly.** These are handled on a plugin level, and so there is nothing I can currently do to fix them, minus filing bug reports and waiting for updates to be pushed. These links are typically simply pointed at headers within other pages, but they throw a 404 error instead of parsing the actual link correctly. I'm trying to test to see if it is a plugin conflict with a different plugin I have installed, but I'm not certain that that is the case, and I have limited ability to actually test such in the first place.
 
 # Quantum Stargazer
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
