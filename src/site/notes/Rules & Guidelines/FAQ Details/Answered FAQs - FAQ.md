@@ -5,7 +5,10 @@
 # Answered FAQs 
 
 ## Frequently Asked Questions 
+
+### Ships & Dynamics
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|What are queerplatonic relationships/dynamics?]]
+### Wiki & Blog
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Reporting Corrections\|Should I tell you if there's spelling/grammar mistakes, broken links, etc.?]]
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Requesting More Information\|Can I ask for more information about a muse, verse, etc.?]]
 
