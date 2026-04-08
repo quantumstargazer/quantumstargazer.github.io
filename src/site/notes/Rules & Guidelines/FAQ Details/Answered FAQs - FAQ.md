@@ -14,10 +14,11 @@
 # Queerplatonic Dynamics
 A **queerplatonic relationship**[^1] is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
 ## Fictional Examples
-*These are just some examples of canon dynamics that can be read as queerplatonic:*
+*These are just some examples of canon dynamics that can be read as queerplatonic:*[^2]
 - **Gale & Tara** - Baldur's Gate 
 - **Jaheira & Minsc (& Boo)** - Baldur's Gate 
 - **The Warden & Sten** (*kadan*) - Dragon Age: Origins
+- **The Warden & Zevran** - Dragon Age: Origins
 - **Hawke & Varric Tethras** - Dragon Age 2
 - **Inquisitor (female) & Dorian Pavus** - Dragon Age: Inquisition 
 - **Shepard & Garrus Vakarian** - Mass Effect
@@ -53,3 +54,5 @@ But if I don't know there's any active interest in it, I don't know to actually 
 ---
 
 [^1]: **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
+
+[^2]: Some of these dynamics may also be possible as canon romances, but this is playing off the assumption that they are *not* romancing and/or necessarily engaging in sexual activity together.
