@@ -17,7 +17,7 @@
 > **Examples of what should be sent in the inbox include:**
 > - "Send '***This is an example***' for *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
-> - "`[prompt]` for *whatever the prompt is*."
+> - "\[example] for *whatever the prompt is*."
 > - "1. *This is an example for whatever the prompt is*." <small>(number *not* necessary)</small>
 > - "*This is an example for whatever the prompt is*."
 > 
