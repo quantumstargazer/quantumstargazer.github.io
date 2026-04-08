@@ -20,6 +20,7 @@
 - **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
 - **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
 - **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
+- **Activity & Reply Speeds Vary** - I am chronically ill, disabled, and an *unpaid* on-call primary care assistant, living in an area with frequent severe weather and an unpredictable power grid. Sometimes I may respond to things within minutes, other times it may take hours, days, weeks, or even months.
 - **In Character Posts Immediately** - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.
 
 > [!guideline] Blanket Permissions
