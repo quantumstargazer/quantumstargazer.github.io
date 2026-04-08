@@ -10,6 +10,7 @@
 # A
 - Adaar
 - Aeducan
+- Alistair Theirin
 - Amell
 - Andarateia Cantori
 - The Anderfells
@@ -29,14 +30,15 @@
 # B
 - Bellara Lutare
 - Blackwall
-- Broodmother
+- Broodmother 
 - Brosca
 - 
 
 ---
 # C
 - Cadash
-- Cassandra Penteghast
+- Cassandra Pentaghast
+- Caterina Dellamorte
 - Circle of Magi
 - Cole
 - Cousland
@@ -44,6 +46,7 @@
 ---
 # D
 - Darkspawn
+- De Riva
 - Dellamorte
 - Denerim
 - Dirthamen
@@ -93,7 +96,7 @@
 
 ---
 # K
-- Kadan
+- Kadan 
 - Kinloch Hold
 - Korcari Wilds
 
@@ -109,6 +112,7 @@
 ---
 # M
 - Mahariel
+- Manfred
 - Marian Hawke
 - Merrill
 - Mourn Watch
@@ -121,11 +125,13 @@
 - Nathaniel Howe
 - Nevarra
 - Nevarra City
+- Neve Gallus
 
 ---
 # O
 - Oghren
 - Orlais
+- The Orlesian Empire
 - Orzammar
 - Ossuary
 
@@ -153,6 +159,7 @@
 - Shayle Cadash
 - Sigrun
 - Solas
+- Spite
 - Sten
 - Surana
 - Sylaise
@@ -164,6 +171,7 @@
 - Tevinter
 - Tevinter Imperium
 - Thedas
+- Theirin
 - Thorne
 - Trian Aeducan
 - Treviso
