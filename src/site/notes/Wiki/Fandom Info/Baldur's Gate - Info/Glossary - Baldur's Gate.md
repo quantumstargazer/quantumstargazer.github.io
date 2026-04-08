@@ -53,8 +53,10 @@
 
 # L
 - Lae'zel
+- Lolth
 
 # M
+- Menzoberranzan
 - Minsc
 - Minthara Baenre 
 
@@ -76,13 +78,14 @@
 
 # S
 - Shadowheart
+- Shar
 
 # T
 - Tiefling
 - Toril
 
 # U
-- 
+- Underdark
 
 # V
 - 
