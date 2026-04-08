@@ -12,8 +12,7 @@
 
 ---
 # Queerplatonic Dynamics
-A **queerplatonic relationship** is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
-	*source:* **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
+A **queerplatonic relationship**[^1] is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
 ## Fictional Examples
 *These are just some examples of canon dynamics that can be read as queerplatonic:*
 - **Gale & Tara** - Baldur's Gate 
@@ -53,3 +52,4 @@ But if I don't know there's any active interest in it, I don't know to actually 
 
 ---
 
+[^1]: **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
