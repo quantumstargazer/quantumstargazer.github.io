@@ -70,7 +70,8 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 
 I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.
 
----
+
+
 
 
 [^1]: Sideblog for archiving any and all of the memes, prompts lists, etc. for personal roleplaying purposes. All memes on the blog are considered "active" and may be sent in no matter how long ago I reblogged it.
