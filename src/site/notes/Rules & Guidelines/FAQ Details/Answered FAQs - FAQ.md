@@ -17,7 +17,7 @@ A **queerplatonic relationship**[^1] is a partnership which does not fit the "
 *These are just some examples of canon dynamics that can be read as queerplatonic:*
 - **Gale & Tara** - Baldur's Gate 
 - **Jaheira & Minsc (& Boo)** - Baldur's Gate 
-- **The Warden & Sten** (*Kadan*) - Dragon Age: Origins
+- **The Warden & Sten** (*kadan*) - Dragon Age: Origins
 - **Hawke & Varric Tethras** - Dragon Age 2
 - **Inquisitor (female) & Dorian Pavus** - Dragon Age: Inquisition 
 - **Shepard & Garrus Vakarian** - Mass Effect
