@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/ziggy-s-notes/connection-ashina-and-nelaros/","tags":["ziggy-notes","connections","muse-ashina"],"dg-note-properties":{"tags":["ziggy-notes","connections","muse-ashina"],"aliases":["Ashina & Nelaros"]}}
 ---
 
+# Ziggy's Notes
+- *Muse:* [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina Tabris]]
+- *Fandom:* Dragon Age
+
+---
 # Ashina & Nelaros
 
 ![Ashina Tabris_38_20260323_201036.png](/img/user/z%20Assets/Attachments/Ashina%20Tabris_38_20260323_201036.png)
