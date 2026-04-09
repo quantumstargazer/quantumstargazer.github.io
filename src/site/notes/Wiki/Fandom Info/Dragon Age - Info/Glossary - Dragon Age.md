@@ -87,6 +87,7 @@
 ---
 # I
 - Illario Dellamorte
+- Ir abelas (*"I'm sorry"*)
 - The Iron Bull
 - Isabela
 
@@ -111,6 +112,7 @@
 
 ---
 # M
+- Ma serannas (*"My thanks." / "Thank you."*)
 - Mahariel
 - Manfred
 - Marian Hawke
