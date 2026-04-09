@@ -22,7 +22,10 @@ While I'm *always* willing to test the waters with letting the characters have s
 ## Platonic
 Platonic dynamics are *still* chemistry based for *progression* — strangers, acquaintances, casual friends, coworkers, family, etc. are all baseline starting points for platonic dynamics, but the deeper the connection, the more important chemistry becomes.
 ## Queerplatonic
-Queerplatonic[^1] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends.
+Queerplatonic[^1] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends, but lacks any romantic attraction, despite similar commitments to one another.
+
+> *For more information, see:* [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|Answered FAQs: Queerplatonic Dynamics]]
+
 ## Familial
 Familial dynamics (whether by blood, by choice, by circumstance, found family, team as family, etc.) are welcome, and are chemistry based as everything else is. Non-canon children of any muse will require ooc discussion, though I am *extremely* selective when it comes to interacting with such muses (it's not to say I won't, but I've had some bad experiences with it in the past, so I'm much more picky about it now).
 ## Antagonistic
