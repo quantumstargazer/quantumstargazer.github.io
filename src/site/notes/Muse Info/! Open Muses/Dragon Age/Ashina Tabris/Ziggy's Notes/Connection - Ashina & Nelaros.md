@@ -8,9 +8,7 @@
 
 ![Ashina Tabris_39_20260323_201049.png](/img/user/z%20Assets/Attachments/Ashina%20Tabris_39_20260323_201049.png)
 
-![Ashina Tabris_40_20260323_201056.png](/img/user/z%20Assets/Attachments/Ashina%20Tabris_40_20260323_201056.png)
-
-
+![Ashina Tabris_40_20260323_201056 1.png](/img/user/z%20Assets/Attachments/Ashina%20Tabris_40_20260323_201056%201.png)
 
 
 
