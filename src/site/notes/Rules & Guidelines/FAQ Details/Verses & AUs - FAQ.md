@@ -14,24 +14,57 @@
 ## Canon-Based Verses & AUs 
 - *Includes **Canon Typical** & **Canon Divergent AUs***
 - These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*)
+
 ## Fandom Specific AUs 
 - **Secondary option for most crossover interactions**
 - *Includes various crossover AUs*
-- These verses are where my muse's backstory typically is rewritten to fit them appropriately into another fandom's universe, as if they were *native* to that universe instead of their origin fandom — *in other words: **just like anyone else's Fandom AUs***
+- These verses are where my muse's backstory typically is rewritten to fit them appropriately into another fandom's universe, as if they were *native* to that universe instead of their origin fandom — *in other words: **just like anyone else's Fandom AUs**.*
+### Baldur's Gate
+- **Scion of the Outer Planes** — *TBA*
+- **Astral Drifter** — *TBA*
+### Dragon Age
+- **TBA** — *TBA*
+### Mass Effect 
+- **TBA** — *TBA*
+### Other Fandoms 
+- **In Time & Space** (*Doctor Who*) — *TBA*
+- **Starfleet** (*Star Trek*) — *TBA*
+
 ## Trapped In Another World AUs 
 - **Preferred default for most crossover interactions**
 - *Includes various universe displacement AUs*
 - Typically verses where my muse finds themselves in another fandom's universe by one means or another, and their (likely impossible) mission to find a way back home while trying to survive in an unfamiliar world.
+- *Includes **Canon Typical** & **Canon Divergent AUs***
+- These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*)
+### Baldur's Gate
+- **Absolute Crisis** — *TBA*
+- **Planar Agent** — *TBA*
+### Dragon Age
+- **This Shit Is Weird** — *TBA*
+### Mass Effect 
+- **Anomaly Detected** — *TBA*
+### Other Fandoms 
+- **Companion** (*Doctor Who*) — *TBA*
+- **Anomaly On Sensors** (*Star Trek*) — *TBA*
+
 ## Other Verses & AUs
 - *Mostly future proofing*
 - Occasional verses/AUs that just don't quite fit into the other categories.
 - May also include any purely multifandom verses &/or AUs.
+### Baldur's Gate
+- **Planar Wanderer** (*Multiverse*) — *TBA*
+### Dragon Age
+- **Crossroads Explorer** (*Multiverse*) — *TBA*
+### Mass Effect 
+- **Crucible BS** (*Multiverse*) — *TBA*
+### Other Fandoms 
+- **TBA** (*FANDOM*) — *TBA*
+
 ## Private Verses & AUs
 - *Includes private Dynamic/Ship Verses & AUs — not limited to romantic shipping*
 - *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
----
 
 
 
