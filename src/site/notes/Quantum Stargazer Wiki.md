@@ -77,12 +77,20 @@
 - [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
 - [RP Preferences Tracker](https://tally.so/r/rjOV7N) - *for telling me your preferences for interactions, plotting, etc.* 
 - [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call', with benefits*
+- [Multi-Muse Interest Tracker](https://tally.so/r/gD7v7d) - *for those with multiple muses &/or multimuse blogs only*
 ## Interactions Calls
 > [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
 
 - [Starter Call](https://tally.so/r/eqrr8J) - *for requesting that I write a starter for your muse(s)*
 - [Inbox Call](https://tally.so/r/NpXXKl) - *for requesting that I send prompts/memes to your inbox*
+- Plotting Call - **Coming Soon**
+- Ship & Dynamics Call - **Coming Soon**
+- Interactions Call - **Coming Soon**
+## Additional Support Forms
+- Incompatibility Checker - **Coming Soon**
+- Dragon Age Worldstate Customizer - **Coming Soon**
+- Mass Effect Galaxystate Customizer - **Coming Soon**
 
 ---
 # Rules & Guidelines
