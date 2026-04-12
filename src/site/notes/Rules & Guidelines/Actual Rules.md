@@ -71,7 +71,7 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > - I *can't* fill them if I don't know what meme they're meant to be for.
 > - I delete all the memes I reblog on my rp blog on a regular basis — it's why the archive sideblog exists. 
 > - Most of the memes reblogged are queued &/or scheduled, so I'm not actively aware of what posts when once they're in the queue. 
-## Specify When Tagged
+## Specify Muse &/or Verse
 > [!rule]+ If You Don't Specify Muse(s)/Verse(s)
 > - **I may not answer at all if no muse is specified at all.** 
 > - I will typically default to their mainverse if you don't specify an AU.
