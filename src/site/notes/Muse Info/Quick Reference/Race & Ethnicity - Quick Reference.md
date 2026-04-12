@@ -11,7 +11,6 @@
 
 ---
 # Baldur's Gate
-*Current ages are estimated for 1492 DR at the start of Baldur's Gate 3.*
 
 | Name                                        | Species |    Race    | Ethnicity | Additional Cultures |
 | ------------------------------------------- | :-----: | :--------: | :-------: | :-----------------: |
@@ -21,7 +20,6 @@
 
 ---
 # Dragon Age
-*Current ages are estimated for 9:51 Dragon at the start of Dragon Age: The Veilguard.*
 
 | Name                                         |    Species     |     Race      | Ethnicity |  Additional Cultures  |
 | -------------------------------------------- | :------------: | :-----------: | :-------: | :-------------------: |
@@ -35,7 +33,6 @@
 
 ---
 # Mass Effect
-*Current ages are estimated for 2186 CE at the start of Mass Effect 3.*
 
 | Name                                     | Species |        Race         | Ethnicity | Additional Cultures |
 | ---------------------------------------- | :-----: | :-----------------: | :-------: | :-----------------: |
