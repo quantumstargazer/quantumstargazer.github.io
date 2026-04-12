@@ -34,10 +34,10 @@
 ---
 # Mass Effect
 
-| Name                                     | Species |        Race         | Ethnicity | Additional Cultures |
-| ---------------------------------------- | :-----: | :-----------------: | :-------: | :-----------------: |
-| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] |  Human  | Enhanced ~~Biotic~~ | Earthborn |  Louisiana Creole   |
-| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]     | Turian  |       Turian        | Colonist  |       Palaven       |
+| Name                                     | Species |        Race         | Ethnicity |    Additional Cultures    |
+| ---------------------------------------- | :-----: | :-----------------: | :-------: | :-----------------------: |
+| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] |  Human  | Enhanced ~~Biotic~~ | Earthborn | Louisiana Creole / Spacer |
+| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]     | Turian  |       Turian        | Colonist  |          Palaven          |
 
 ---
 
