@@ -9,13 +9,13 @@
 ---
 # Drafts
 ## Totals
-- [ ] 0 / 0
+- [ ] 0 / 12
 ### Baldur's Gate 
-- [ ] 0 / 0
+- [ ] 0 / 2
 ### Dragon Age
-- [ ] 0 / 0
+- [ ] 0 / 2
 ### Mass Effect
-- [ ] 0 / 0
+- [ ] 0 / 8
 ### Other Fandoms
 - [ ] 0 / 0
 ### Ziggy - OOC
@@ -24,17 +24,17 @@
 ---
 # Inbox
 ## Totals
-- [ ] 0 / 0
+- [ ] 0 / 50
 ### Baldur's Gate 
-- [ ] 0 / 0
+- [ ] 0 / 4
 ### Dragon Age
-- [ ] 0 / 0
+- [ ] 0 / 2
 ### Mass Effect
-- [ ] 0 / 0
+- [ ] 0 / 42
 ### Other Fandoms
 - [ ] 0 / 0
 ### Ziggy - OOC
-- [ ] 0 / 0
+- [ ] 0 / 2
 
 ---
 # Misc Projects
