@@ -8,6 +8,7 @@
 
 ---
 # Drafts
+*Sorted by fandom setting, not muses' origin fandoms.*
 ## Totals
 - [ ] 0 / 12
 ### Baldur's Gate 
@@ -23,6 +24,7 @@
 
 ---
 # Inbox
+*Sorted by fandom setting, not muses' origin fandoms.*
 ## Totals
 - [ ] 0 / 50
 ### Baldur's Gate 
