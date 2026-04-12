@@ -78,7 +78,7 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > - Most of the memes reblogged are queued &/or scheduled, so I'm not actively aware of what posts when once they're in the queue. 
 ## Specify Muse &/or Verse
 > [!rule]+ If You Don't Specify Muse(s)/Verse(s)
-> - **I may not answer at all if no muse is specified at all.** 
+> - **I may not answer at all if no muse is specified.** 
 > - I will typically default to their mainverse if you don't specify an AU.
 > 
 
