@@ -39,6 +39,7 @@
 | Assume Muse = Mun                              |  🚫 No   |           **Dropped &/or Blocked**            |
 | Reblog posts that aren't for you               |  🚫 No   |            **Warned &/or Blocked**            |
 | Use as rp resource blog                        |  🚫 No   |            **Warned &/or Blocked**            |
+| Steal my stuff (verbatim)                      |  🚫 No   |           **Blocked &/or Reported**           |
 | Feed my writing into AI                        |  🚫 No   |           **Blocked &/or Reported**           |
 | Use AI in our interactions                     |  🚫 No   |           **Dropped &/or Blocked**            |
 | Take my blocking you personally                |  🚫 No   |            **Reported If Evaded**             |
@@ -102,6 +103,8 @@
 - **Don't reblog things you're not a part of** - This *especially* goes for roleplay threads, "missing scenes" (ficlets that are tied to specific ships &/or dynamics), headcanons, verse details, etc. If you're not *actively tagged in them*, they are not for you to reblog without my express permission.
 
 - **Don't use my blog as your resource** - I'm good at finding cool shit, but *please* reblog from the source and/or the sideblogs that I myself am most likely reblogging from, rather than spamming my roleplay notifications. Mutuals actively interacting with me have more leeway and *can* reblog directly from me, just don't go overboard.
+
+- **Don't steal my stuff verbatim** - I'm fine with you taking inspiration from my headcanons, verses, etc., but copying them word for word is plagiarism, and will result in you being blocked and reported for copyright infringement.
 
 - **Don't feed my writing into any AI** - This is theft and a blatant copyright violation, and you *will* be blocked and reported.
 
