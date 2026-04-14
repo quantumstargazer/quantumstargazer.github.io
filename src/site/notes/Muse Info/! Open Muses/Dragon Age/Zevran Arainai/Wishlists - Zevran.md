@@ -33,6 +33,8 @@
 # Canon Typical
 ## Dragon Age Wishlists
 > [!wishlist]- Eight Little Talons
+> - *Set in 9:45 Dragon*
+> 
 > TBA
 
 
