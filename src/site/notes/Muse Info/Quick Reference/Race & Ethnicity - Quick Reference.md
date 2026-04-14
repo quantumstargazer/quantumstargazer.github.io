@@ -4,6 +4,7 @@
 
 # Quick Reference
 ## Individual Statistics
+- [[Muse Info/Quick Reference/! Activity Levels - Quick Reference\|Activity Levels]]
 - [[Muse Info/Quick Reference/Age - Quick Reference\|Age]]
 - [[Muse Info/Quick Reference/Gender & Pronouns - Quick Reference\|Gender & Pronouns]]
 - [[Muse Info/Quick Reference/Height - Quick Reference\|Height]]
