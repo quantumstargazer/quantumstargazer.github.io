@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/quick-reference-open-muses/","tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","open-muses"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","open-muses"],"aliases":["Quick Reference"]}}
+{"dg-publish":true,"permalink":"/muse-info/quick-reference-open-muses/","tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","other-fandoms","open-muses"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","other-fandoms","open-muses"],"aliases":["Quick Reference"]}}
 ---
 
 # Quick Reference
