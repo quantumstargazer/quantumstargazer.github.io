@@ -86,6 +86,7 @@ These are the people who I interact with the most, and whose interactions have a
 
 > [!shipdyn]- Artis — luctumvigilanties
 > 
+> Ship(s): [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Shipping Partners\|Connections - Ward#Shipping Partners]]
 
 
 
