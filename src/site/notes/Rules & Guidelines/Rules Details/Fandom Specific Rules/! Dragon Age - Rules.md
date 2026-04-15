@@ -12,7 +12,7 @@
 
 ---
 # Zevran Early Recruitment
-[[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Zevran Arainai]] can be recruited shortly following leaving Lothering and setting camp, where the wardens suffer the nightmare of the Archdemon.
+**[[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Zevran Arainai]] can be recruited shortly following leaving Lothering and setting camp**, where the wardens suffer the nightmare of the Archdemon.
 
 Zevran's ambush is along the Imperial Highway, so their intended destination after breaking camp doesn't matter, as they'd be traveling the same road regardless in order to get there.
 
