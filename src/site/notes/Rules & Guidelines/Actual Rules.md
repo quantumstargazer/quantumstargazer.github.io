@@ -162,8 +162,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 # Additional Rules & Guidelines May Apply
 ## Additional Rules
 - [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]] - *content that needs to be tagged*
-- [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]] - *regarding my own exclusivity*
-- [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Other People's Exclusivity\|Other People's Exclusivity]] - *important if you practice exclusivity*
+- [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]] - *important if you practice exclusivity*
 - [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] - *important if you wish to write sexually explicit roleplay with me*
 ### Fandom-Specific Rules
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
