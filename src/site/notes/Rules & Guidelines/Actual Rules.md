@@ -8,7 +8,7 @@
 
 ## Accessibility Accommodations
 ### Interactive Forms
-**If you're not willing to fill out forms when necessary, then I'm probably not the roleplay partner for you.** I mostly only accept requests for starters and/or sending inbox prompts/memes outside of sporadic random occurrences via the interaction call forms I've set up for that very purpose — they're as minimal effort *for you* as I could reasonable make them, but *do* require a few more bits of typing and/or clicking than "*like this post for X*" type calls.
+**If you're not willing to fill out forms when necessary, then I'm probably not the roleplay partner for you.** I mostly only accept requests for starters and/or sending inbox prompts/memes outside of sporadic random occurrences via the interaction call forms I've set up for that very purpose — they're as minimal effort *for you* as I could reasonably make them, but *do* require a few more bits of typing and/or clicking than "*like this post for X*" type calls.
 
 > [!rule]-  Interest Tracking & Interaction Forms
 > #### Interest Forms
