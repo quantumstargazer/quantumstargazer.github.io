@@ -6,6 +6,23 @@
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
+## Accessibility Accommodations
+### Interactive Forms
+**If you're not willing to fill out forms when necessary, then I'm probably not the roleplay partner for you.** I mostly only accept requests for starters and/or sending inbox prompts/memes outside of sporadic random occurrences via the interaction call forms I've set up for that very purpose — they're as minimal effort *for you* as I could reasonable make them, but *do* require a few more bits of typing and/or clicking than "*like this post for X*" type calls.
+
+> [!rule]-  Interest Tracking & Interaction Forms
+> #### Interest Forms
+> - [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
+> - [RP Preferences Tracker](https://tally.so/r/rjOV7N) - *for telling me your preferences for interactions, plotting, etc.* 
+> - [Best Friends Call](https://tally.so/r/eqraq0) - *a 'permanent starter call', with extra benefits*
+> - [Multi-Muse Interest Tracker](https://tally.so/r/gD7v7d) - *for those with multiple muses &/or multimuse blogs only*
+> #### Interaction Forms
+> - [Starter Call](https://tally.so/r/eqrr8J) - *for requesting that I write a starter for your muse(s)*
+> - [Inbox Call](https://tally.so/r/NpXXKl) - *for requesting that I send prompts/memes to your inbox*
+> - Plotting Call - **Coming Soon**
+> - Shipping & Dynamics Call - **Coming Soon**
+> - Interactions Call - **Coming Soon**
+
 ## Selective Following
 **If I'm following you, I *want* to write with you.** It's that simple.
 ### If You're Not Interested
