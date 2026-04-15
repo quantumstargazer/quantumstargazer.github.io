@@ -6,6 +6,21 @@
 > [!attention]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 
+## Selective Following
+**If I'm following you, I *want* to write with you.** It's that simple.
+### If You're Not Interested
+**If you're not interested in writing with me, *please* just hard block me — do *not* soft block.** I have severe memory issues (medical issues), and I honestly will not be able to remember if you simply soft block.
+## Do's & Don'ts
+**Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
+
+---
+# Don't Be A Dick
+This *should* got without saying, *and yet...*[^1]
+
+> [!rule]- Don't Intentionally Misgender Muses
+> 
+> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
+
 ## Accessibility Accommodations
 ### Interactive Forms
 **If you're not willing to fill out forms when necessary, then I'm probably not the roleplay partner for you.** I mostly only accept requests for starters and/or sending inbox prompts/memes outside of sporadic random occurrences via the interaction call forms I've set up for that very purpose — they're as minimal effort *for you* as I could reasonably make them, but *do* require a few more bits of typing and/or clicking than "*like this post for X*" type calls.
@@ -23,21 +38,7 @@
 > - Shipping & Dynamics Call - **Coming Soon**
 > - Interactions Call - **Coming Soon**
 
-## Selective Following
-**If I'm following you, I *want* to write with you.** It's that simple.
-### If You're Not Interested
-**If you're not interested in writing with me, *please* just hard block me — do *not* soft block.** I have severe memory issues (medical issues), and I honestly will not be able to remember if you simply soft block.
-## Do's & Don'ts
-**Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
-
----
-# Don't Be A Dick
-This *should* got without saying, *and yet...*[^1]
-
-> [!rule]- Don't Intentionally Misgender Muses
-> 
-> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
-
+### Blacklist Tagging
 **[[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tagging]] is expected.** I *will* break mutual status if your tagging (or the lack there of) becomes a negative impact on my dash.
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]] & [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
