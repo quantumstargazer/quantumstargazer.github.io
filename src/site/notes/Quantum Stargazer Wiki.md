@@ -16,6 +16,13 @@
 ---
 # Quantum Stargazer
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
+## RP Info
+- **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*[^2]
+- **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
+- **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
+- **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
+- **Activity & Reply Speeds Vary** - I am not on tumblr 24/7, so I may respond to things within minutes, other times it may take hours, days, weeks, or even months.
+- **In Character Posts Immediately** - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.
 
 > [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
 > **AuDHD** means ***infodumping*** is likely to occur, and this means my posts, as well as the notes here, are likely to get *wordy*. I tend to try to be mindful of individual paragraph lengths, but there will often be *a lot* of paragraphs and/or bullet points.
@@ -103,15 +110,6 @@
 - Mass Effect Galaxystate Customizer - **Coming Soon**
 
 ---
-# RP Info
-- **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*[^2]
-- **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
-- **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
-- **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
-- **Activity & Reply Speeds Vary** - I am not on tumblr 24/7, so I may respond to things within minutes, other times it may take hours, days, weeks, or even months.
-- **In Character Posts Immediately** - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.
-
----
 # About the Mun
 - *name/alias:* Ziggy
 - *pronouns:* they/them
@@ -123,6 +121,7 @@
 	- [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
+## Fandoms
 > [!example]+ Fandoms
 > - Baldur's Gate[^1] - ***secondary — moderate activity***
 > - Dragon Age - **primary — high activity**
