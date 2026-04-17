@@ -6,12 +6,20 @@
 
 ## Frequently Asked Questions 
 
+### Dash Things
+- [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Chain "Promos"\|Why don't you reblog the "person I reblogged this from" posts?]]
 ### Ships & Dynamics
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|What are queerplatonic relationships/dynamics?]]
 ### Wiki & Blog
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Reporting Corrections\|Should I tell you if there's spelling/grammar mistakes, broken links, etc.?]]
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Requesting More Information\|Can I ask for more information about a muse, verse, etc.?]]
 
+
+---
+# Chain "Promos"
+**Short answer: they give me *massive* anxiety.** If I'm following you, I *want* your presence on my dash — I am *selective* for a reason, and I don't follow anyone that I don't want to write with. And presumably, if you're still following me, then you want me on *your dash* as well.
+
+ I will happily reblog your *actual promo posts* to share with my other mutuals (and try to do so at least once when I see them on the dash, so long as we've started interacting at all), but I won't reblog posts that are along the lines of "reblog if you appreciate the previous person's presence on your dash" kinds of posts, that often aren't even limited to just the rpc.
 
 ---
 # Queerplatonic Dynamics
