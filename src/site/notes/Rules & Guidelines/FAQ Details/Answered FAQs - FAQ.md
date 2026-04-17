@@ -50,6 +50,7 @@ A **queerplatonic relationship**[^1] is a partnership which does not fit the "
 - **Link & Zelda** - Legend of Zelda
 - **Jessie & James** - Pokemon
 - **Yami & Yugi Moto** - Yu-Gi-Oh
+- **Peter Venkman & Egon Spengler & Ray Stantz & Winston Zeddemore** - The *Real* Ghostbusters
 - *...and many more canon dynamics.*
 
 ---
