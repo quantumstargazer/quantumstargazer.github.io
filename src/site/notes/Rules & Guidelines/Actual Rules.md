@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"],"dg-note-properties":{"tags":["rules","guidelines"],"aliases":["The Actual Rules"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"],"dg-note-properties":{"tags":["rules","guidelines"],"aliases":["The Actual Rules","Actual Rules"]}}
 ---
 
 # The Actual Rules
