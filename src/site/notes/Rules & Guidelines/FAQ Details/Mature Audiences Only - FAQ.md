@@ -18,7 +18,7 @@ Sexually suggestive and explicit content is tagged and/or is placed under a cut.
 ---
 # Viewer Discretion Is Advised
 > [!warning]
-> If you are unfamiliar with any of the fandoms I frequently write, please take the time to look through this list to ensure that you are aware of content you may be squicked by and/or potentially find triggering.
+> If you are unfamiliar with any of the fandoms I frequently write, please take the time to look through this list to ensure that you are aware of content you may be squicked by and/or potentially find triggering. Canon-typical themes of dark fantasy, violence, horror, etc. are baked into the settings themselves, and I do *not* sanitize these things like Bioware does to appease EA's shareholders.
 
 ## Content Warnings
 This is *not* a comprehensive list of what you might find on my blogs, though it should hopefully give you a general idea of what to expect.
@@ -26,6 +26,7 @@ This is *not* a comprehensive list of what you might find on my blogs, though it
 - dark themes
 - mature themes
 - strong language
+- horror themes
 - adult themes
 - sexual content
 - kink[^1]
