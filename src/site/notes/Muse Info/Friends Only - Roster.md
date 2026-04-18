@@ -54,9 +54,9 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
-## Karlach Cliffgate
-> [!profile]+ Karlach Cliffgate (she/her)
-> > Available for [lanternlit](https://lanternlit.tumblr.com) only.
+## ~~Karlach Cliffgate~~ \[Private]
+> [!profile]- Karlach Cliffgate (she/her)
+> > **Available for [lanternlit](https://lanternlit.tumblr.com) only.**
 > 
 > ![[Placeholder_Person.jpg\|red]]
 > 
@@ -70,7 +70,6 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
-
 
 ---
 # Dragon Age
