@@ -3,7 +3,7 @@
 ---
 
 # Friends Only Roster 
-> [!WARNING] Not Open For Requests
+> [!WARNING] By Invitation Only
 > These muses are available for highly selective individuals only, and are not requestable by anyone but them.
 
 ---
