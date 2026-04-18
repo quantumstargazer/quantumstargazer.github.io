@@ -18,6 +18,7 @@
 > 
 > **I do not follow blogs for any of the following:**
 > - Non-Roleplayer (Personal) blogs
+> - One-liner only roleplay blogs
 > - Smut/fetish only roleplay blogs
 > - Group &/or discord roleplay blogs
 > - Only content warning consists of "Dead Dove: Do Not Eat" without context
