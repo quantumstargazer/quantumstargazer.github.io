@@ -29,6 +29,7 @@
 | Graphics                   | Banners & Dividers                             |        n/a        |
 | Paragraph Length           | Typically 4 to 6 lines, minus inline footnotes |        n/a        |
 | Case (*ie Capitalisation*) | Proper Sentence Case                           | (*working on it*) |
+| Quotation Marks            | Straight Quotes                                |    Userscript     |
 
 ---
 
