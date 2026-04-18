@@ -19,6 +19,7 @@
 ## RP Info
 - **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*[^2]
 - **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
+- **Multi-Paragraph & Novella** - Almost all in character interactions are on the lengthy side — *I never expect anyone to match my length*; my muses just like to get lost in introspection, and sometimes exposition is also needed, especially for starters, time jumps, & scene transactions.
 - **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
 - **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
 - **Activity & Reply Speeds Vary** - I am not on tumblr 24/7, so I may respond to things within minutes, other times it may take hours, days, weeks, or even months.
