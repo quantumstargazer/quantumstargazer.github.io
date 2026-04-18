@@ -56,6 +56,7 @@ This is *not* a comprehensive list of what you might find on my blogs, though it
 - unhealthy coping mechanisms
 - chronic illnesses
 - medical experimentation
+- nonconsensual medical experimentation
 - child abuse
 - child neglect
 - child soldiers
