@@ -71,8 +71,8 @@
 - [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) - *only threads that are on someone else's turn*
 - [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) - *only threads that are on my turn*
 ### Archived Inactive Threads
-*I archive anything that has been inactive for 2+ months. These threads are* **not dropped** *insofar as I am concerned, unless specifically marked in such in their titles.*
-- [Archived Inactive Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsarchived)
+*I archive anything that has been inactive for 2+ months — and mark any on my turn as "queued", as I never actually add ic posts to the queue due to tumblr's tendency to eat posts or suddenly spam post the queue in bulk at times. These threads are* **not dropped** *insofar as I am concerned, unless specifically marked in such in their titles.*
+- [Archived Inactive Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsarchived) -  *tracked threads inactive for 2+ months*
 
 > [!guideline]- Regarding Tracking & Dropped Threads
 > I *very rarely* drop threads myself simply due to a lack of interest, so this is *not* something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it *eventually*, or I will reach out and let you know that I need to drop it because I'm unable to find a way to continue it.
