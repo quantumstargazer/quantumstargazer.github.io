@@ -17,7 +17,7 @@ Non-roleplayers *are* welcome to follow, if they wish, but I will *not* follow b
 - Send prompts/memes tagged with "**Open To Everyone**"
 - Like (heart) *most* of the posts on my blog with the exceptions listed below
 ## Things NOT To Do
-- Like (heart) open starters (ie posts tagged with "**Open Starter**" that also have "*open — mutuals only*" in the original post itself)
+- Like (heart) open starters (ie posts tagged with "**Open Starter**")
 - Like (heart) interaction calls (ie posts tagged with "**Interaction Call** and/or "**Interest Tracker**" — these posts are for my mutuals only)
 - Reblogging *anything* from my blog — reblogging  any in character writing is grounds for *immediate blocking*
 
