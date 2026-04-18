@@ -38,6 +38,22 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
+## Prince of Frost 
+> [!profile]+ Prince of Frost (he/him)
+> > *Also written as an NPC as part of Tavares' interactions.*
+> 
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
 ## Karlach Cliffgate
 > [!profile]+ Karlach Cliffgate (she/her)
 > > Available for [lanternlit](https://lanternlit.tumblr.com) only.
@@ -54,6 +70,7 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
+
 
 ---
 # Dragon Age
