@@ -4,4 +4,4 @@
 
 <script async src="https://tally.so/widgets/embed.js"></script>
 
-<a href="#tally-open=rjOV7N&tally-width=500&tally-emoji-text=👋&tally-emoji-animation=wave">RP Preference Tracker</a>
+<button data-tally-open="rjOV7N" data-tally-width="500" data-tally-overlay="1" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Click me</button>
