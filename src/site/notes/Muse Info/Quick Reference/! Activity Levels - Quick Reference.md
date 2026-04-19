@@ -14,12 +14,12 @@
 ---
 # Fandom Activity
 
-| Fandom        | Activity Level | Interaction Speed |
-| ------------- | :------------: | :---------------: |
-| Baldur's Gate |   Secondary    |     Moderate      |
-| **Dragon Age**    |    **Primary**     |     **High**      |
-| Mass Effect   |    Tertiary    |        Low        |
-| Other Fandoms |   Quaternary   |      Lowest       |
+| Fandom              | Activity Level  | Interaction Speed |
+| ------------------- | :-------------: | :---------------: |
+| ***Baldur's Gate*** | ***Secondary*** |  ***Moderate***   |
+| **Dragon Age**      |   **Primary**   |     **High**      |
+| *Mass Effect*       |   *Tertiary*    |       *Low*       |
+| Other Fandoms       |   Quaternary    |      Lowest       |
 
 
 ---
@@ -42,7 +42,7 @@
 | **[[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Ward Ingellvar]]**       | **Open Muse** |     **High**      |
 | [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Zevran Arainai]]         |   Open Muse   |     Moderate      |
 | [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Haleir Lavellan]]        |   Open Muse   |     Moderate      |
-| [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Bertrand Ingellvar]]   |   Open Muse   |     Moderate      |
+| [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Bertrand Ingellvar]]   |   Open Muse   |        Low        |
 
 ---
 # Mass Effect
