@@ -30,6 +30,11 @@
 > 
 > She will demand payment for her aid, even if the payment does not come due immediately, and often is of the "favor owed" variety that Fey are so fond of — the only exception being is if she genuinely likes you and considers you a friend.
 
+> [!hint]- Fey Creature
+> - *TBA*
+> 
+> Tavares is *technically* 
+
 ## Things Your Muse *Could* Know
 > [!hint]-
 > 
