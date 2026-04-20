@@ -118,7 +118,7 @@
 > - Wishlists
 ## Clark Kent
 > [!profile]- Clark Kent (he/him)
-> - *Canon to Dragon Age: Origins*
+> - *Canon (Easter egg) in Dragon Age: Origins*
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -133,6 +133,7 @@
 > - Wishlists
 ## Bruce Wayne
 > [!profile]- Bruce Wayne (he/him)
+> - *Couldn't have Clark without Bruce*
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
