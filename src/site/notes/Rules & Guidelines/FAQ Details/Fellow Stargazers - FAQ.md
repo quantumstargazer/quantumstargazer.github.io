@@ -49,8 +49,8 @@ These are the people who I interact with the most, and whose interactions have a
 
 
 ---
-# Best Friends Call Members
-> *I **do** interact with duplicates of any of the **Best Friends Call** muses that follow:*
+# Permanent Interactions Call Members
+> *I **do** interact with duplicates of any of the **Permanent Interactions Call Members'** muses that follow:*
 ## All Muses
 > [!attention] Not Currently Available
 > 
