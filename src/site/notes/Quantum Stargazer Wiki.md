@@ -45,8 +45,8 @@
 
 - [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to everyone*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
-- [[Muse Info/Friends Only - Roster\|Friends Only]] - *by invitation only*
-- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
+- [[Muse Info/Invitation Only - Roster\|Friends Only]] - *by invitation only*
+- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
 
 ---
 # Thread Tracking
@@ -94,7 +94,7 @@
 
 - [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
 - [RP Preferences Tracker](https://tally.so/r/rjOV7N) - *for telling me your preferences for interactions, plotting, etc.* 
-- [Best Friends Call](https://tally.so/r/eqraq0) - *a 'permanent starter call', with extra benefits*
+- Permanent Interactions Call - **Coming Soon** (revamp)
 - [Multi-Muse Interest Tracker](https://tally.so/r/gD7v7d) - *for those with multiple muses &/or multimuse blogs only*
 ## Interactions Calls
 > [!guideline]- Request Interaction At Any Time
