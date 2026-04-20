@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interest-tracking-forms-guidelines/","tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"],"dg-note-properties":{"tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"],"aliases":["Interest Tracking Forms"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interest-tracking-forms-guidelines/","tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","permanent-interactions-call"],"dg-note-properties":{"tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","permanent-interactions-call"],"aliases":["Interest Tracking Forms"]}}
 ---
 
 # Interest Tracking Forms - Guidelines
@@ -27,7 +27,7 @@ Not everyone in the rpc operates in the same way, and interests can be wide and 
 This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
 
 ---
-# Best Friends Call
+# Permanent Interactions Call
 > [!info]- Intended For Mutuals Who Have Already Started Interacting
 > If we haven't even said so much as "hello" to each other yet, chances are it's too soon to fill this form out. This is effectively a *permanent starter call*, and if we've yet to start writing &/or plotting together, I'm not going to add you to the members list until we are.
 
@@ -60,4 +60,4 @@ The above call extends to all forms of ships, including but not restricted to: f
 
 [^1]:  As defined by that moment when you think '*Get them to fucking stop, this is too much*'.
 
-[^2]: Members of the Best Friends Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. **Just message me before answering anything sexually explicit the first time**, since that’s where I’m more highly selective about who I will and won’t write that with, yeah? Some on the dash call these "*non-negotiable memes*", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 
+[^2]: Members of the Permanent Interactions Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. **Just message me before answering anything sexually explicit the first time**, since that’s where I’m more highly selective about who I will and won’t write that with, yeah? Some on the dash call these "*non-negotiable memes*", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 
