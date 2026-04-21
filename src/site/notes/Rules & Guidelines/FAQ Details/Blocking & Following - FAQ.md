@@ -17,6 +17,7 @@
 > [!guideline]+ What Would Keep Me From Following
 > 
 > **I do not follow blogs for any of the following:**
+> - Age stated as being under 21 or not disclosed at all
 > - Non-Roleplayer (Personal) blogs
 > - One-liner only roleplay blogs
 > - Smut/fetish only roleplay blogs
