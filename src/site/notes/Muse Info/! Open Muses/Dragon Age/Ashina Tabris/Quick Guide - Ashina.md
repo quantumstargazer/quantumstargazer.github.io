@@ -29,6 +29,11 @@
 ---
 # Universal Guides
 ## Things *You* Should Know
+> [!stats]+ Not "Self-Sacrificing Hero" Material
+> 
+> Ashina is selfish, has an extremely strong will to live, and unless you are one of *her people*, is not willing to die for anyone else. 
+> 
+
 > [!attention]+ Ashina Tabris is "dead"
 > 
 > *Please pay attention to this fact:*
@@ -44,6 +49,12 @@
 > 	- Nelaros
 > 	- other Denerim Alienage elves from and/or prior to 9:30 Dragon
 > 	- Duncan
+> 
+> **Companions Who Typically Do Learn Her Real Name**
+> - Zevran Arainai (*knows "Arainai" is not her real name from start*)
+> - Morrigan 
+> - Sten
+> - Shale
 
 > [!spoiler]- Adaia (mother) was an Antivan Crow of House Arainai
 > - Adaia is a rank & file Crow of House Arainai, one of many elven *compradi* within the House, having been purchased as a young child and raised as an assassin.
