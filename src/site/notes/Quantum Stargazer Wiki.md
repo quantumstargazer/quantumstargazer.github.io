@@ -122,6 +122,11 @@
 	- [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
+> [!ziggy]- Chronically Ill & Disabled
+> 
+> **One of my conditions is Chronic Fatigue Syndrome**, and as such my actively can vary drastically, as I have very little energy at all on a daily basis. I also tend not to follow first as a result, because I refuse to follow anyone without properly checking out their blog first, reading their rules and whatnot.
+> 
+
 ## Fandoms
 > [!example]+ Fandoms
 > - Baldur's Gate[^1] - ***secondary — moderate activity***
