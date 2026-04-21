@@ -86,7 +86,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 - May also include any purely multifandom verses &/or AUs.
 ### Private Verses & AUs
 - *Includes private Dynamic/Ship Verses & AUs — not limited to romantic shipping*
-- *Most commonly reserved for Mains, Best Friends Call Members, & shipping partners*
+- *Most commonly reserved for Mains, Permanent Interactions Call Members, & shipping partners*
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
 > *For Further Details, See:* [[Rules & Guidelines/FAQ Details/Verses & AUs - FAQ\|Verses & AUs]]

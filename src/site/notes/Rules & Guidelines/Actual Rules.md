@@ -29,7 +29,7 @@ This *should* got without saying, *and yet...*[^1]
 > #### Interest Forms
 > - [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
 > - [RP Preferences Tracker](https://tally.so/r/rjOV7N) - *for telling me your preferences for interactions, plotting, etc.* 
-> - [Best Friends Call](https://tally.so/r/eqraq0) - *a 'permanent starter call', with extra benefits*
+> - [Permanent Interactions Call](https://tally.so/r/eqraq0) - *a 'permanent starter call', with extra benefits*
 > - [Multi-Muse Interest Tracker](https://tally.so/r/gD7v7d) - *for those with multiple muses &/or multimuse blogs only*
 > #### Interaction Forms
 > - [Starter Call](https://tally.so/r/eqrr8J) - *for requesting that I write a starter for your muse(s)*

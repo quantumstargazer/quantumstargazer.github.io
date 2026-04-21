@@ -44,7 +44,7 @@ This continuity is based on an *individual partner basis* — the continuity wit
 ---
 # Starters
 ## Random Starters
-I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
+I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Permanent Interactions Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Permanent Interactions Call form** to give me *permission* to do so.
 ### Write Starters For Me Whenever
 **This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. 
 
@@ -163,7 +163,7 @@ I typically default to a muse's canon-based verses and/or their fandom-matched t
 ### If Not Specified
 In the event that you *don't* specify a verse, I will most likely fall back on one of my muse's default verses. In some cases, I may reach out and specifically request that you specify a verse, if I'm not certain where to go with an interaction otherwise (often as a result of indecision lock where there's too many possibilities).
 ## Private Verses & AUs
-Private Verses & AUs are largely reserved for Mains, Best Friends Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
+Private Verses & AUs are largely reserved for Mains, Permanent Interactions Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
 
 Generally speaking, if I'm likely to want and/or need to have room to where I can make notes to track progression of the pairing's dynamics together, then I'll probably tag it as a private verse and have dedicated note pages to keep track of such things on here.
 ### Interacting In Other Muns' Private Verses & AUs

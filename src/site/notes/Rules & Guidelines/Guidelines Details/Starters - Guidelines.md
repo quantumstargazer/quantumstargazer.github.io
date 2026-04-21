@@ -6,7 +6,7 @@
 
 ---
 # Random Starters
-I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Best Friends Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Best Friends Call form** to give me *permission* to do so.
+I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Permanent Interactions Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Permanent Interactions Call form** to give me *permission* to do so.
 ## Write Starters For Me Whenever
 **This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/fellow-stargazers-faq/","tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"dg-note-properties":{"tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"aliases":["Fellow Stargazers","Mains & Exclusives","Mains & Best Friends Call Members","Best Friends Call Members","Mains","Exclusives","Ship & Dynamics Partners"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/fellow-stargazers-faq/","tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"dg-note-properties":{"tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"aliases":["Fellow Stargazers","Mains & Exclusives","Mains & Permanent Interactions Call Members","Permanent Interactions Call Members","Mains","Exclusives","Ship & Dynamics Partners"]}}
 ---
 
 # Fellow Stargazers

@@ -26,7 +26,7 @@
 
 ---
 # Irregulars 
-> [!WARNING]+ Mains & Best Friends Call Members Only
+> [!WARNING]+ Mains & Permanent Interactions Call Members Only
 > 
 
 ---
