@@ -79,8 +79,10 @@
 
 > [!stats]- Warden Ability: Blight Obfuscation
 > 
-> (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
-> 
+> - *verse/timeline dependent* 
+> - **Ashina must be a Grey Warden**
+>  
+> **Blight Obfuscation**
 > - Ashina is capable of obfuscating the blight in her veins, effectively hiding herself from both darkspawn and other wardens alike when she uses this ability.
 > - Much like slipping into shadows, it takes some degree of focus to initiate and maintain this obfuscation, and is likely to drop when she must commit more focus to another action that renders her unable to maintain focus on suppressing the blight.
 > - When not in combat, Ashina can maintain the obfuscation for long periods of time so long as her attention is not too divided by other tasks, allowing her to stay hidden even while in conversation with another Grey Warden.
@@ -88,26 +90,33 @@
 
 > [!stats]- Warden Ability: Power of Blood (Rogue)
 > 
-> (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
+> - *verse/timeline dependent* 
+> - **Ashina must be a Grey Warden**
 > 
+> **Power of Blood**
 > - *in game:* [Power of Blood (Rogue)](https://dragonage.miraheze.org/wiki/Power_of_Blood#Rogue)
+> - *TBA*
 
 > [!stats]- Language Learned: Qunlat
 > 
->  (*verse/timeline dependent* - **must have traveled with Sten**)
+>  - *verse/timeline dependent* 
+>  - **must have traveled with Sten**
 >  
 >  Ashina learns to speak, read, and write Qunlat from Sten during the course of the Fifth Blight, gaining fluency through continued correspondence with him in the years following ending the Blight.
 
 ## Things Your Muse *Could* Know
 > [!hint]- Warden Tathas Arainai is killed by the Crows in 9:33 Dragon
 > 
-> (*verse/timeline dependent* - **Ashina must be a Grey Warden & the HoF**)
+> - *verse/timeline dependent* 
+> - **Ashina must be a Grey Warden & the HoF**
 > 
+> **An Invitation to the House of Crows**
 > - Ashina takes up [Master Ignacio's](https://dragonage.miraheze.org/wiki/Ignacio) [offer to join the Crows](https://dragonage.miraheze.org/wiki/The_Trial_of_Crows) when she tires of being a Warden, entering negotiations with the Fifth Talon of House de Riva in 9:33 Dragon to secure a promise of protection from the Order of the Grey Wardens in return for her service as an Antivan Crow within House de Riva.
 
 > [!hint]- Warden Tathas Arainai is wanted by Weisshaupt
 > 
-> (*verse/timeline dependent* - **Ashina must be a Grey Warden & the HoF**)
+> - *verse/timeline dependent* 
+> - **Ashina must be a Grey Warden & the HoF**
 > 
 > The First Warden has ordered that "*Warden Tathas Arainai*", also known as the Hero of Ferelden, the Warden-Commander of Ferelden, and *de facto* Arlessa of Amaranthine, be brought in to Weisshaupt for questioning pertaining to her survival after killing the Archdemon Urthemiel, as well as her encounter with the Architect, among many other things he seeks answer to about her activities during the Fifth Blight itself.
 > 
@@ -121,8 +130,10 @@
 ## Things Your Muse Should *Not* Know
 > [!attention]- Ashina is Warden Tathas Arainai - the Hero of Ferelden
 > 
-> (*verse/timeline conditional* - **Ashina must be a Grey Warden & the HoF**)
+> - *verse/timeline conditional* 
+> - **Ashina must be a Grey Warden & the HoF**
 > 
+> **Tathas Arainai**
 > - When Ashina is conscripted into the Grey Wardens, she *insists* that she not be enlisted under her real name, for her family's protection.
 > - The name in the recruit roster lists her as "*Tathas Adaia Arainai*" — named such after the story she tells the kids playing in the alley about the elven hero-thief, and her mother.
 > - Once she leaves Denerim, only Duncan knows her true identity, but only refers to her as Tathas, per her request — it is this name that she uses to introduce herself throughout the course of the Fifth Blight, and throughout the Amaranthine Crisis.
@@ -153,8 +164,10 @@
 
 > [!attention]- Searching for a cure for the blight
 > 
-> (*verse/timeline dependent* - **Ashina must be a Grey Warden**)
+> *verse/timeline dependent* 
+> - **Ashina must be a Grey Warden**
 > 
+> **The Cure**
 > - Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.
 > - As a master herbalist, Ashina is skilled enough to pull it off, *if* she can find the information and components she needs to do so. 
 > - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
@@ -166,12 +179,12 @@
 
 > [!stats]- Language Learned: Elvhen
 > 
->  (*verse/timeline dependent* - **must have been to Brecillian Forest**)
+>  - *verse/timeline dependent* 
+>  - **must have been to Brecillian Forest**
 >  
 >  Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, of which she can use little of herself, as well as the elvhen language from its memories that it shares with her.
 >  
 >  She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly *how* she learned it in the first place.
-
 
 ---
 # Canon Typical
