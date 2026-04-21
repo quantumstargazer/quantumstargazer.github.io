@@ -51,6 +51,7 @@
 > 	- Duncan
 > 
 > **Companions Who Typically Do Learn Her Real Name**
+> *This usually only happens after they finally gain access to the Alienage and Shianni and the other elves reveal that Ashina was meant to have been married, before everything went to hell that day. These are who she trusts to help her rescue her father and the other elves from the slavers.*
 > - Zevran Arainai (*knows "Arainai" is not her real name from start*)
 > - Morrigan 
 > - Sten
@@ -176,11 +177,11 @@
 # Canon Typical
 ## Dragon Age Guides
 ### Things *You* Should Know
-> [!hint]- Not exactly "Hero" material
+> [!hint]- Not "Self-Sacrificing Hero" Material
 > 
 > Ashina cares very little about the fate of Ferelden *as a whole* — her only real concern is protecting her family back in the Denerim Alienage. She certainly doesn't care about protecting the lives of the nobles or pretty much any other human in the process. 
 > 
-> 
+> Ashina is selfish, has an extremely strong will to live, and unless you are one of *her people*, is not willing to die for anyone else. 
 
 ### Things Your Muse *Could* Know
 > [!hint]- Conscripted into the Grey Wardens against her will
