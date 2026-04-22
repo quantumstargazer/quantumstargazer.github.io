@@ -236,8 +236,6 @@
 > - Quick Guide
 > - Wishlists
 
-
-
 ---
 # Other Fandoms
 
