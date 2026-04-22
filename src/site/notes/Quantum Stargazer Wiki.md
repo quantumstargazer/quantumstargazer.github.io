@@ -45,7 +45,7 @@
 
 - [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to everyone*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
-- [[Muse Info/Invitation Only - Roster\|Invitation Only]] - *by invitation only*
+- [[Muse Info/Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
 - [[Muse Info/Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
 
 ---
