@@ -84,7 +84,7 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
-## ~~Karlach Cliffgate~~ \[Private]
+## Karlach Cliffgate \[Private]
 > [!profile]- Karlach Cliffgate (she/her)
 > > **Available for [lanternlit](https://lanternlit.tumblr.com) only.**
 > 
