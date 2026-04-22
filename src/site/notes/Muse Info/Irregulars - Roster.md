@@ -516,8 +516,6 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
-
-
 ## Aria T'Loak
 > [!profile]- Aria T'Loak (she/her)
 > ![[Placeholder_Person.jpg\|red]]
