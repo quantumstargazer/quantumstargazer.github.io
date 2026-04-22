@@ -118,8 +118,7 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Wolf's Halla
-> 
-> - *Devoted of Fen'Harel AU*
+> - *Companion (Non-Inquisitor) Devoted of Fen'Harel AU*
 > 
 > Haleir has always had a fascination with Fen'Harel, seeing the god in a much more favorable light than most Dalish. For most of her life, this has led to her being seen as an outcast, as many feared her interest in the god would draw his attention to the clans.
 > 
