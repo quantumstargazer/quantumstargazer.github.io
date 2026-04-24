@@ -24,6 +24,8 @@
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
 
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
+
 ---
 # 21+ & Mutuals Only
 > [!rule]- Must Be 18+ To Follow
