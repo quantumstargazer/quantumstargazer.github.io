@@ -3,6 +3,10 @@
 ---
 
 # The Actual Rules
+> [!ziggy]+ A Quick Note from Ziggy
+> 
+> Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply. These are mostly written in the "customer service voice" to get the information across clearly, rather than my more casual way of *actually* talking.
+> 
 ## Read Before Following
 > [!rule]- Blocked If Rules Were Obviously Not Read
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
