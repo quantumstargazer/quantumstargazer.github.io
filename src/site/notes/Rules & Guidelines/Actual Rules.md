@@ -22,7 +22,7 @@
 
 ---
 # Don't Be A Dick
-This *should* got without saying, *and yet...*
+This *should* got without saying, *and yet...*[^1]
 
 ---
 # 21+ & Mutuals Only
