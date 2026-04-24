@@ -9,6 +9,7 @@
 ---
 # A
 - Adaar
+- Adaia Tabris
 - Aeducan
 - Alistair Theirin
 - Amell
@@ -29,6 +30,7 @@
 ---
 # B
 - Bellara Lutare
+- Bhelen Aeducan
 - Blackwall
 - Broodmother 
 - Brosca
@@ -42,6 +44,7 @@
 - Circle of Magi
 - Cole
 - Cousland
+- Cyrion Tabris
 
 ---
 # D
@@ -70,6 +73,7 @@
 - Fen'Harel
 - Fenris
 - Ferelden
+- Flemeth
 - Frostback Mountains
 
 ---
@@ -159,8 +163,10 @@
 - Sera
 - Shale
 - Shayle Cadash
+- Shianni
 - Sigrun
 - Solas
+- Soris
 - Spite
 - Sten
 - Surana
@@ -180,13 +186,14 @@
 
 ---
 # U
-- 
+- Urien Kendells
 
 ---
 # V
 - Val Royeaux
 - Vallaslin
 - Varric Tethras
+- Vaughan Kendells
 - The Veil
 - Veil Jumpers
 - The Veilguard

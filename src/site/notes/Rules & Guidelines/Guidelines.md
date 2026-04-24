@@ -12,7 +12,7 @@
 > 
 > See [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines.md) for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
-> *For Further Details, See:* [The Actual Rules](Actual%20Rules.md) &/or [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines.md)
+> *For Further Details, See:* [The Actual Rules](Rules%20&%20Guidelines/Actual%20Rules.md) &/or [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines.md)
 
 ---
 # Interactions
