@@ -60,7 +60,7 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 
 ---
 # Banned & Restricted Content
-The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for exceptions to be made.
+The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for and/or expect exceptions to be made.
 ## AI Generated Content
 > [!rule]+ DNI If You Use AI In Your Writing &/or Graphics
 > 
