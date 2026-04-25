@@ -30,7 +30,7 @@
 > - I will typically default to their mainverse if you don't specify an AU. 
 
 ## Expected For OOC Prompts As Well 
-**Unless the meme/prompt reblog specifically lacks the tags for specifying, it is *expected* that any prompt sent to the inbox should have at least one or more muses specified for any ooc prompts.** I am far less likely to answer beyond a generic answer, if I answer at all, if there isn't a muse specified for ooc posts, including mun prompts that ask about things regarding the muses in *any* way, as the answer is rarely the same for every muse.
+**Unless the meme/prompt reblog specifically lacks the tags for specifying, it is *expected* that any prompt sent to the inbox should have at least one or more muses specified for any ooc prompts if the prompt is muse and/or verse/AU focused.** I am far less likely to answer beyond a generic answer, if I answer at all, if there isn't a muse specified for ooc posts, including mun prompts that ask about things regarding the muses in *any* way, as the answer is rarely the same for every muse.
 
 ---
 # Continue As Threads By Default
