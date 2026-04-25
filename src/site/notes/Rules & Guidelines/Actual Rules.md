@@ -156,7 +156,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ---
 # Additional Rules May Apply
 > [!question]+ Further Detail May Be Required
-> **The following rules are only covered minimally for what is required of everyone, while the further details expands the information as necessary.**
+> **The following rules are only covered minimally for what is required of *everyone*, while the further details expands the information as necessary.**
 > 
 > For example, if you wish to write sexual content with me, then you should read the further details to understand what is and isn't acceptable. However, if you have no interest in writing sexual content, then the basics of what you need to know for how such content is handled in general, including the tags available for blocking such content, are covered here.
 
