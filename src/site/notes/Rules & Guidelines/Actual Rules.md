@@ -17,12 +17,12 @@
 > >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following myself in the first place.
 > 
 ## Read Before Following
-> [!rule]- Blocked If Rules Were Obviously Not Read
+> [!rule]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
 > 
-> These are mostly written in the "customer service voice" to get the information across clearly, rather than my more casual way of *actually* talking. Each section is then explained in fuller detail in their respective *additional pages*, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there. 
+> These are mostly written in the "*customer service voice*" to get the information across clearly, rather than my more casual way of *actually* talking. Each section is then explained in fuller detail in their respective *additional pages*, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there. 
 > 
-> **Only this page is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
+> **Only the [[Rules & Guidelines/Actual Rules\|Actual Rules]] is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
 ## Independent
 > [!attention]- No Groups &/or Server Interactions & Invitations
 > I am *only* interested in interacting with other independent roleplay blogs, *not* any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you *will* be blocked, and potentially reported for spam if you do so.
