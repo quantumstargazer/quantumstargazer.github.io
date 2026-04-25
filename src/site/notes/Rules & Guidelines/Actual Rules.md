@@ -5,11 +5,15 @@
 # The Actual Rules
 > [!ziggy]+ A Quick Note from Ziggy
 > 
-> Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply. These are mostly written in the "customer service voice" to get the information across clearly, rather than my more casual way of *actually* talking.
+> Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply. 
 > 
 ## Read Before Following
 > [!rule]- Blocked If Rules Were Obviously Not Read
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
+> 
+> These are mostly written in the "customer service voice" to get the information across clearly, rather than my more casual way of *actually* talking. Each section is then explained in fuller detail in their respective *additional pages*, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there. 
+> 
+> **Only this page is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
 ## Independent
 > [!attention]- No Groups &/or Server Interactions & Invitations
 > I am *only* interested in interacting with other independent roleplay blogs, *not* any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you *will* be blocked, and potentially reported for spam if you do so.
@@ -150,12 +154,33 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > *For Further Details (& Examples), See:* [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts]], [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
 
 ---
-# Additional Rules & Guidelines May Apply
-## Additional Rules
-- [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]] - *content that needs to be tagged*
-- [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]] - *important if you practice exclusivity*
-- [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] - *important if you wish to write sexually explicit roleplay with me*
-### Fandom-Specific Rules
+# Additional Rules May Apply
+> [!question]+ Further Detail May Be Required
+> **The following rules are only covered minimally for what is required of everyone, while the further details expands the information as necessary.**
+> 
+> For example, if you wish to write sexual content with me, then you should read the further details to understand what is and isn't acceptable. However, if you have no interest in writing sexual content, then the basics of what you need to know for how such content is handled in general, including the tags available for blocking such content, are covered here.
+
+## Blacklist Tags
+### Preferred Formatting
+Please consider using the following formatting for your content watching tags:
+- **content cw**
+- **content**
+### Warnings Requested
+Please be sure to tag the following subjects: 
+> [!rule]- Blacklist Tags Requested
+> - **TBA**
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
+
+## Exclusivity 
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]]
+
+## Sexual Content
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]]
+
+## Fandom-Specific Rules
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Dragon Age - Rules\|Dragon Age]]
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Mass Effect - Rules\|Mass Effect]]
@@ -182,6 +207,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Our Flag Means Death - Rules\|Our Flag Means Death]]
 > - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Supernatural - Rules\|Supernatural]]
 
+---
+# Additional Guidelines May Apply
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
