@@ -212,7 +212,7 @@ Please be sure to tag the following subjects:
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
-> [!guideline]- Applied As Rules When Applicable 
+> [!guideline]+ Applied As Rules When Applicable 
 > That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
 
 ### Guidelines Details 
