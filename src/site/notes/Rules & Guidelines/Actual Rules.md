@@ -22,7 +22,7 @@
 > **If I'm following you, I *want* to write with you.** It's that simple — I don't follow for follow, nor do I follow anyone who I'm not interested in interacting with.
 ### If You're Not Interested
 > [!rule]- Hard Block If Not Interested
-> If you're not interested in writing with me, please just hard block me — do *not* soft block. I have severe memory issues (medical issues), and I honestly will not be able to remember if you simply soft block.
+> If you're not interested in writing with me, please **just hard block me — do *not* soft block**. I have severe memory issues (*medical issues*), and I honestly will not be able to remember if you simply soft block.
 
 ---
 # Don't Be A Dick
