@@ -68,7 +68,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
 > 
-> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
+> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following on tumblr:**
 > 
 > - sexual content with any muse &/or faceclaim under the age of 18
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
@@ -78,7 +78,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 
 > [!warning]+ Restricted Tropes & Themes
 > 
-> **While not outright banned, I have no interest in interacting with any of the following:**
+> **While not outright banned, I have no interest in interacting with any of the following on tumblr:**
 > 
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
@@ -172,11 +172,26 @@ Please be sure to tag the following subjects:
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
 
-## Exclusivity 
+## Exclusivity
+### No Exclusives On Follow
+**I am not willing to be *anyone's* exclusive portrayal of any character based only on their choosing to follow me.** There are *no exceptions* to be made regarding this, and I will not follow those who practice this level of exclusivity.
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]]
 
 ## Sexual Content
+### Marked For Mature Content
+All original posts containing sexual content are marked using tumblr's community warnings, and are marked as Mature Content and/or Sexual Content, in addition to the blacklist tagging.
+#### Sexually Explicit May Be Under Cut 
+Highly explicit sexual content, including things that venture into a number of kinks, may also be placed under a cut, in addition to being marked as Mature Content and/or Sexual Content, *and* tagged for NSFW with the appropriate tags.
+### Tagged For NSFW
+I use a rated citrus tagging system for those who wish to allow sexually suggestive content on their dash, while filtering out the sexually explicit content. These are the tags that are used:
+- **usfw cw** — *catch-all for all sexual content, in addition to the rated citrus tag*
+- **lemons cw** — *for sexually explicit content, including actual sex scenes*
+- **limes cw** — *for sexually suggestive content, up to & including fade-to-black*
+### Exploring Sexual Ships & Dynamics
+If you are interested in exploring sexual ships and/or dynamics between our muses, you must meet the following criteria: 
+- **Mun is a mutual who is 21 years or older**
+- **Muse (*and their faceclaim*) is 18 years or older**
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]]
 
