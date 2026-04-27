@@ -20,7 +20,7 @@
 > I won't initiate anything with these muses until *after* you've specifically asked for them.
 
 ---
-# Friends Only 
+# Invitation Only 
 > [!WARNING]+ By Invitation Only
 > These muses are available for highly selective individuals only, and are not requestable by anyone but them.
 
