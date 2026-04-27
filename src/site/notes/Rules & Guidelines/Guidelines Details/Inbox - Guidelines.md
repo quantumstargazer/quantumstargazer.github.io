@@ -6,6 +6,10 @@
 **You can send asks/prompts/memes/etc. to the inbox on the following blogs:**
 - [quantumstargazer](https://quantumstargazer.tumblr.com/ask) — *primary roleplay blog*
 - [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/ask) — *prompt/meme archive sideblog*[^1]
+
+> [!rule]+ Inbox Answered As Energy Allows
+> **I will almost always prioritize IC stuff over OOC asks**, because I suffer from ME/CFS, and so have to be selective about what I spend my time and energy on at any given time. But just because it may take me a while to answer, does not mean that you cannot send all the things. I *will* try to get to everything eventually, and very rarely delete things from the inbox without answering them (as I answer most asks as text posts rather than as asks).
+
 ---
 # Include Full Prompt When Sending
 **I almost never fill memes and/or prompts right away,** so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself on [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/ask), as I regularly clear the prompts tag on my rp blog) so I can find it later for the necessary context — *regardless* of if it is ic or ooc.
