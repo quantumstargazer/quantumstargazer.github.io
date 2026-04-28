@@ -24,7 +24,7 @@
  I will happily reblog your *actual promo posts* to share with my other mutuals (and try to do so at least once when I see them on the dash, so long as we've started interacting at all), but I won't reblog posts that are along the lines of "reblog if you appreciate the previous person's presence on your dash" kinds of posts, that often aren't even limited to just the rpc.
 
 ---
-# Mobile Accessibility 
+# Inbox - Mobile Accessibility
 While I spend a fair amount of time restricted to being on my tablet due to my health, family interruptions, the weather, etc., I am also limited in what I am able to actually do on it, due to various things that make certain tasks inaccessible, or at least much more difficult than they would be for most other people.
 
 I rely heavily on a series of userscripts and stylesheets just to use tumblr at all, as well as a handful of browser extensions, some of which simply don't function correctly on mobile devices. Add to that the difficulties I have with touchscreens in general (there's a reason I got a tablet with a stylus, but it's for actual handwriting and drawing more than use as a mouse) due to severe palmer hyperhidrosis, and even copypasting prompts/memes is more difficult for me than for most people, and remembering the prompt to type it outright is nigh impossible for me due to my severe memory issues.
