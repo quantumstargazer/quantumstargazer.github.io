@@ -8,6 +8,8 @@
 
 ### Dash Things
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Chain "Promos"\|Why don't you reblog the "person I reblogged this from" posts?]]
+### Inbox Things
+- Why don't you send prompts/memes from mobile?
 ### Ships & Dynamics
 - [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|What are queerplatonic relationships/dynamics?]]
 ### Wiki & Blog
@@ -20,6 +22,14 @@
 **Short answer: they give me *massive* anxiety.** If I'm following you, I *want* your presence on my dash — I am *selective* for a reason, and I don't follow anyone that I don't want to write with. And presumably, if you're still following me, then you want me on *your dash* as well.
 
  I will happily reblog your *actual promo posts* to share with my other mutuals (and try to do so at least once when I see them on the dash, so long as we've started interacting at all), but I won't reblog posts that are along the lines of "reblog if you appreciate the previous person's presence on your dash" kinds of posts, that often aren't even limited to just the rpc.
+
+---
+# Mobile Accessibility 
+While I spend a fair amount of time restricted to being on my tablet due to my health, family interruptions, the weather, etc., I am also limited in what I am able to actually do on it, due to various things that make certain tasks inaccessible, or at least much more difficult than they would be for most other people.
+
+I rely heavily on a series of userscripts and stylesheets just to use tumblr at all, as well as a handful of browser extensions, some of which simply don't function correctly on mobile devices. Add to that the difficulties I have with touchscreens in general (there's a reason I got a tablet with a stylus, but it's for actual handwriting and drawing more than use as a mouse) due to severe palmer hyperhidrosis, and even copypasting prompts/memes is more difficult for me than for most people, and remembering the prompt to type it outright is nigh impossible for me due to my severe memory issues.
+
+So I typically only send things to people's inboxes from my desktop, and that means having to have enough energy to sit at it, on top of actually being home, not having family interruptions to deal with, the weather cooperating so it can even be plugged in, etc.
 
 ---
 # Queerplatonic Dynamics
