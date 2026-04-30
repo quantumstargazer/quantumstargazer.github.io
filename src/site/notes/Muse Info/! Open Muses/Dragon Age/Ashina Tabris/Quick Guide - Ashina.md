@@ -174,7 +174,7 @@
 > - Ashina does not immediately involve many people in her search, in part because of the conditions of her contract with House de Riva and the Crows that ensures the contracts that were taken out against "*Tathas Arainai*" are considered complete now that "Warden Tathas" is dead and *she* is a de Riva.
 > 
 > **Pre-Approved Exceptions**
-> - **Morrigan** - *have the information to Ashina in the first place*
+> - **Morrigan** - *gave the information to Ashina in the first place*
 > - **Zevran Arainai** - *likely helping search while she's a fledgling, and a rank & file Crow, as she's largely restricted to Antiva during this time*
 
 > [!stats]- Language Learned: Elvhen
