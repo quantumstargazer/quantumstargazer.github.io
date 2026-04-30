@@ -26,7 +26,7 @@
 ## Things *You* Should Know
 > [!hint]- Not "Hero" Material
 > 
-> Tav is not "Good" aligned, nor is her patron. 
+> **Tav is not "Good" aligned**, nor is her patron (who is Chaotic Evil). 
 > 
 > She will demand payment for her aid, even if the payment does not come due immediately, and often is of the "favor owed" variety that Fey are so fond of — the only exception being is if she genuinely likes you and considers you a friend.
 
@@ -47,6 +47,14 @@
 > Tavares herself will not volunteer this information, instead only offering that she is pactbound to a Fey, and if pushed for more details, that that Fey is of the Winter Court.
 > 
 > **Exceptions possible with plotting**, but should have reasonable reasons for why and/or *how* they know.
+> 
+> **Pre-Approved Exceptions:**
+> - Prince of Frost (*duh*)
+> - Most Archfey
+> - Most Winter Court Fey
+> - Withers
+> - Raphael
+> 
 
 
 ---
