@@ -53,15 +53,18 @@
 > TBA
 
 ### Kirkwall (9:35 - 9:39 Dragon)
-> [!headcanon]-
+> [!headcanon]+ Snapdragon 
+> - *Conditional:* **Varric Tethras only**
+> 
 > TBA
+> 
 
 ### Origins (9:30 - 9:34 Dragon)
 > [!headcanon]-
 > TBA
 
 ### Pre-Origins (9:05 - 9:29 Dragon)
-> [!headcanon]- Adaia's Death (9:24 Dragon)
+> [!headcanon]+ Adaia's Death (9:24 Dragon)
 > 
 > - **CW: Minor Character Death, Parental Death, Murder (Assassination)**
 > - *Takes place shortly after the events of Leliana's Song (DLC).*
