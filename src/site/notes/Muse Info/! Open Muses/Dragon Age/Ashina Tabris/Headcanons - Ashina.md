@@ -29,8 +29,15 @@
 ---
 # Universal Headcanons
 
-> [!headcanon]-
-> TBA
+> [!headcanon]- Ancient Memories
+> 
+> - *Conditional:* **Grey Warden** 
+> 	- (*or Blight companion who frees the spirit*)
+> 
+> Ashina frees the trapped spirit of an ancient elvhen Arcane Warrior in the Brecilian Forest, gaining the knowledge of its martial discipline and of the ancient elvhen language.
+> 
+> This functions similarly to the effects of drinking from the Well of Sorrows, only far more limited, as it's only one spirit's memories and the spirit itself is not actually a part of it. But she does get vague impressions when interacting with elvhen ruins and artifacts, as well as ancient elves — including the Evanuris themselves — as a result of being in possession of these ancient memories herself now.
+> 
 
 
 
