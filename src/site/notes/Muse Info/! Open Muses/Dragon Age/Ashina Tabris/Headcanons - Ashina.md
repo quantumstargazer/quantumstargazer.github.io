@@ -29,7 +29,7 @@
 ---
 # Universal Headcanons
 
-> [!headcanon]- Ancient Memories
+> [!headcanon]+ Ancient Memories
 > 
 > - *Conditional:* **Grey Warden** 
 > 	- (*or Blight companion who frees the spirit*)
