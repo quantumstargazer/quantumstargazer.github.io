@@ -10,7 +10,7 @@
 > > [!spoiler]- Why Things Might Be Overexplained
 > >  **AuDHD, C-PTSD, PTSD, and other comorbid conditions lend themselves to my being more comfortable with my boundaries being overexplained if necessary rather than leaving things to be "*read between the lines*".**
 > >  
-> >  I will *not* apologize for making my boundaries firmly known in a clear and concise manner. I am publicly open about getting neurodivergent, and if this makes you uncomfortable, then you need to check yourself and your ableism.
+> >  **I will *not* apologize for making my boundaries firmly known in a clear and concise manner.** I am publicly open about getting neurodivergent, and if this makes you uncomfortable, then you need to check yourself and your ableism.
 > >  
 > >  Many of my closest friends are also neurodivergent, and find the extent to which I explain my rules and boundaries to be far more welcoming to them than most, as they know *exactly* what to expect, rather than trying to parse out things from vague assumptions that can leave too many questions, and an uncertainty of if they can even ask for clarification if needed (which if there's anything here that you need further clarification and/or information on, I will gladly provide it if you ask). 
 > >  
