@@ -183,7 +183,7 @@ Please be sure to tag the following subjects:
 
 ## Exclusivity
 ### No Exclusives On Follow
-**I am not willing to be *anyone's* exclusive portrayal of any character based only on their choosing to follow me.** There are *no exceptions* to be made regarding this, and I will not follow those who practice this level of exclusivity.
+**I am not willing to be *anyone's* exclusive portrayal of any character based only on their choosing to follow me.** There are *no exceptions* to be made regarding this, and I am not interested in following those who practice this level of exclusivity.
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]]
 
