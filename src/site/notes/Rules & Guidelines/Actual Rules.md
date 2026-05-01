@@ -194,7 +194,7 @@ All original posts containing sexual content are marked using tumblr's community
 Highly explicit sexual content, including things that venture into a number of kinks, may also be placed under a cut, in addition to being marked as Mature Content and/or Sexual Content, *and* tagged for NSFW with the appropriate tags.
 ### Tagged For NSFW
 I use a rated citrus tagging system for those who wish to allow sexually suggestive content on their dash, while filtering out the sexually explicit content. These are the tags that are used:
-- **usfw cw** — *catch-all for all sexual content, in addition to the rated citrus tag*
+- **usft cw** — *catch-all for all sexual content, in addition to the rated citrus tag*
 - **lemons cw** — *for sexually explicit content, including actual sex scenes*
 - **limes cw** — *for sexually suggestive content, up to & including fade-to-black*
 ### Exploring Sexual Ships & Dynamics
