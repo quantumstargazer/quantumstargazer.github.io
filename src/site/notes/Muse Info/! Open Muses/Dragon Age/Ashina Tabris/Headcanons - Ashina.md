@@ -90,7 +90,8 @@
 > TBA
 
 ## Crows' Design Headcanons
-> [!headcanon]-
+> [!headcanon]+ Contract: Vaughan Kendells
+> 
 > TBA
 
 ## Antivan Crows Headcanons
