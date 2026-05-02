@@ -4,7 +4,7 @@
 
 # Invitation Only Roster 
 > [!WARNING] By Invitation Only
-> These muses are available for highly selective individuals only, and are not requestable by anyone but them.
+> These muses are currently only available for highly selective individuals, and are not requestable by anyone but them.
 
 ---
 # Baldur's Gate
