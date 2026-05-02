@@ -32,7 +32,9 @@
 - Bellara Lutare
 - Bhelen Aeducan
 - Blackwall
-- Broodmother 
+- Brecilian Forest
+- Brecilian Ruins
+- Broodmother
 - Brosca
 - 
 
@@ -121,6 +123,7 @@
 - Manfred
 - Marian Hawke
 - Merrill
+- Minrathous
 - Mourn Watch
 - Morrigan
 - Myrna
@@ -175,6 +178,8 @@
 ---
 # T
 - Taash
+- Tabris
+- Tathas
 - Tethras
 - Tevinter
 - Tevinter Imperium
@@ -214,6 +219,7 @@
 
 ---
 # Z
+- Zathrian
 - Zevran Arainai
 - 
 
