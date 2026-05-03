@@ -7,7 +7,7 @@
 > 
 > Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply. 
 > 
-> > [!spoiler]- Why Things Might Be Overexplained
+> > [!spoiler]- Why Things Might Seem Overexplained
 > >  **AuDHD, C-PTSD, PTSD, and other comorbid conditions lend themselves to my being more comfortable with my boundaries being overexplained if necessary rather than leaving things to be "*read between the lines*".**
 > >  
 > >  **I will *not* apologize for making my boundaries firmly known in a clear and concise manner.** I am publicly open about getting neurodivergent, and if this makes you uncomfortable, then you need to check yourself and your ableism.
