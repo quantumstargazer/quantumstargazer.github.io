@@ -3,7 +3,7 @@
 ---
 
 # Interest Tracking Forms - Guidelines
-> *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
+> *Direct links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*, or you can simply fill them out here through the embedded forms below.*
 
 ---
 # Disinterest Tracker
@@ -19,12 +19,20 @@ I would rather know that you're only interested in specific muses, even if it's 
 ### Highly Recommended But Not Required
 This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
+> [!abstract]- Form - Disinterest Tracker
+> <iframe data-tally-src="https://tally.so/embed/jaQLWR?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1274" frameborder="0" marginheight="0" marginwidth="0" title="Disinterest Tracker - QS"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 ---
 # RP Preference Tracker
 
 Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover as least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes post or a reblogged PSA.
 ## Optional But Recommended
 This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
+
+> [!abstract]- Form - RP Preference Tracker
+> <iframe data-tally-src="https://tally.so/embed/rjOV7N?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="12240" frameborder="0" marginheight="0" marginwidth="0" title="RP Preferences Tracker - QS"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 ---
 # Permanent Interactions Call
@@ -52,7 +60,18 @@ Should you choose to join this list, you are helping reduce anxiety to interact 
 
 The above call extends to all forms of ships, including but not restricted to: friendships, romantic ships, companionships, enemy combatant ships, apprenticeships, worships, and more.
 
+> [!abstract]- Form - Permanent Interactions Call
+> <iframe data-tally-src="https://tally.so/embed/eqraq0?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="7660" frameborder="0" marginheight="0" marginwidth="0" title="Permanent Interactions Call - QS"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 ---
+# Multi-Muses Interest Tracker
+> [!info]+ Intended For Mutuals Who Have Multiple Muses Only
+> **This form is only for those with multiple muses** — whether through multimuse blogs and/or multiple single muse blogs. If you only have *one* blog with only one muse that you write, then you do not need to fill out this form.
+
+> [!abstract]- Form - Multi-Muses Interest Tracker
+> <iframe data-tally-src="https://tally.so/embed/gD7v7d?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="3507" frameborder="0" marginheight="0" marginwidth="0" title="Multi-Muses Interest Tracker"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 
 
