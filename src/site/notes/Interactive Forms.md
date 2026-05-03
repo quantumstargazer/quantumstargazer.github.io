@@ -3,9 +3,13 @@
 ---
 
 # Interactive Forms
+**Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
 
 ---
 # Interaction Call Forms
+> [!guideline]+ Request Interaction At Any Time
+> These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
+
 > *For more information about these forms, see:* [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
 ## Starter Call
 *For requesting that I write you starters.*
@@ -21,9 +25,12 @@
 
 ---
 # Interest Tracking Forms
+
 > *For more information about these forms, see:* [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
 ## Disinterest Tracker
-*Unless this form is filled out, then interest is assumed for all [[Muse Info/! Open Muses - Roster\|Open Muses]] and/or their verses.*
+> [!rule]- Interest Assumed For All Open Muses Unless Filled Out
+> Unless you fill out the **Disinterest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my [[Muse Info/! Open Muses - Roster\|Open Muses]] in any of their canon-based verses and/or their fandom matched verses & AUs.
+
 > [!abstract]- Form - Disinterest Tracker
 > <iframe data-tally-src="https://tally.so/embed/jaQLWR?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1274" frameborder="0" marginheight="0" marginwidth="0" title="Disinterest Tracker - QS"></iframe>
 > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
