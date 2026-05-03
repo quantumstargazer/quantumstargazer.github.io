@@ -8,11 +8,13 @@
 # Interaction Call Forms
 > *For more information about these forms, see:* [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
 ## Starter Call
+*For requesting that I write you starters.*
 > [!example]- Form - Starter Call
 > <iframe data-tally-src="https://tally.so/embed/eqrr8J?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="2573" frameborder="0" marginheight="0" marginwidth="0" title="Starter Call - QS"></iframe>
 > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 ## Inbox Call
+*For requesting that I send you prompts/memes, with the option to specify IC and/or OOC.*
 > [!example]- Form - Inbox Call
 > <iframe data-tally-src="https://tally.so/embed/NpXXKl?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1306" frameborder="0" marginheight="0" marginwidth="0" title="Inbox Call - QS"></iframe>
 > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
