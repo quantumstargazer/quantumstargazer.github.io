@@ -164,6 +164,8 @@ While the interest tracking forms are *optional*, they are highly recommended â€
 > [!rule]+ If You Don't Specify Muse(s)/Verse(s)
 > - **I may not answer at all if no muse is specified.** 
 > - I will typically default to their mainverse if you don't specify an AU.
+> 	- If in the **same fandom**, this will usually be their primary canon-typical verse.
+> 	- If they're ***not* in the same fandom**, this will usually be the corresponding ***Trapped In Another Universe AU*** verse for that fandom, unless you *specifically* request for it to be the ***Fandom Specific AU*** verse instead.
 > 
 
 > *For Further Details (& Examples), See:* [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts]], [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
