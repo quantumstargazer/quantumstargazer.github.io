@@ -25,7 +25,6 @@
 
 ---
 # Interest Tracking Forms
-
 > *For more information about these forms, see:* [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
 ## Disinterest Tracker
 > [!rule]- Interest Assumed For All Open Muses Unless Filled Out
