@@ -147,7 +147,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ## Do's & Don'ts
 **Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
 ## RP Forms
-**All of my forms are now embedded in the [[Rules & Guidelines/RP Forms\|RP Forms]] page for your convenience.** This allows you to see all of the forms in one go, and fill out the ones that are applicable. 
+**All of my forms are now embedded in the [[Interactive Forms\|Interactive Forms]] page for your convenience.** This allows you to see all of the forms in one go, and fill out the ones that are applicable. 
 ### Interaction Calls
 Rather than the typical "*like this post for*" style calls, I have **always open forms** to act as starter calls (for requesting that I write you one or more starters), inbox calls (for requesting that I send you prompts/memes, with the option to specify IC and/or OOC), etc.
 ### Interest Tracking Forms
