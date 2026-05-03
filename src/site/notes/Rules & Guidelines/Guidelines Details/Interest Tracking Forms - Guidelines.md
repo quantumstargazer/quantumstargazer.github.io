@@ -36,7 +36,7 @@ This is the closest thing I have to a **permanent starter call**, and it comes w
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 
 - The right to **send/tag you in starters whenever** the whim takes me;
-- The right to send you a message via IM/Discord/Ask with plots/ideas for threads/AUs/general buffoonery;
+- The right to send you a message via Ask/Discord/etc. with plots/ideas for threads/AUs/general buffoonery;
 - The right to tag you in shit that I come across that makes me take pause and think ‘Yup. This is them. This is them to a T. This is our idiots.’;
 - The right to **tag you in wishlist stuff**;
 - The right to **send you a shit tonne[^1] of prompts/memes** should you reblog same;
