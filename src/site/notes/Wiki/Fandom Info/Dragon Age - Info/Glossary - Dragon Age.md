@@ -112,6 +112,9 @@
 - Lace Harding
 - Lavellan
 - Leliana
+- Lethallan (*fem.*)
+- Lethallen (*gender neutral*)
+- Lethallin (*masc.*)
 - Lords of Fortune
 - Lothering
 - Lucanis Dellamorte
