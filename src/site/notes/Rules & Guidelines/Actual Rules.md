@@ -185,7 +185,7 @@ Please consider using the following formatting for your content watching tags:
 ### Warnings Requested
 Please be sure to tag the following subjects: 
 > [!rule]- Blacklist Tags Requested
-> - **TBA**
+> - **TBA** — Please see [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Content Warnings Needed\|Content Warnings Needed]] for the list for now.
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
 
