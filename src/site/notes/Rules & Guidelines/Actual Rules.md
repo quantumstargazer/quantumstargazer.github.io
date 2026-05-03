@@ -146,6 +146,12 @@ The following content is banned or restricted due to *personal reasons*. All ban
 # Interacting
 ## Do's & Don'ts
 **Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
+## RP Forms
+**All of my forms are now embedded in the [[Rules & Guidelines/RP Forms\|RP Forms]] page for your convenience.** This allows you to see all of the forms in one go, and fill out the ones that are applicable. 
+### Interaction Calls
+Rather than the typical "*like this post for*" style calls, I have **always open forms** to act as starter calls (for requesting that I write you one or more starters), inbox calls (for requesting that I send you prompts/memes, with the option to specify IC and/or OOC), etc.
+### Interest Tracking Forms
+While the interest tracking forms are *optional*, they are highly recommended — *especially* if you are uninterested in interacting with certain muses and/or verses, have specific preferences regarding interactions, have multiple muses of your own that you wish to interact with mine with, etc.
 ## Inbox Prompts & Memes
 **My inbox is always open, and the memes never expire.** For the *full collection* of memes, be sure to check [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com), which is my sideblog for rp memes, musings, etc., and where I reblog all of the memes *from* for my rp blog — it can be used as a source blog to reblog from, as I have notifs turned off for everything but the inbox, and memes can be sent to either blog.
 ### Send Full Prompts To Inbox
