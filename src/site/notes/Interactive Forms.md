@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms"]}}
+{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms"]}}
 ---
 
 # Interactive Forms
