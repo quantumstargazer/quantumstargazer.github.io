@@ -25,7 +25,6 @@ This form is *technically* optional, but if I start sending you muses and/or ver
 
 ---
 # RP Preference Tracker
-
 Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover as least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes post or a reblogged PSA.
 ## Optional But Recommended
 This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
