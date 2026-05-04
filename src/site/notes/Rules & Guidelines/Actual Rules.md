@@ -64,8 +64,10 @@ I *will not* follow and/or roleplay with you if:
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
 If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^2]
+## Disinterest Tracker
+**If you are disinterested in interacting with any muse(s) and/or verse(s), you *need* to fill out the [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]]** — all [[Muse Info/! Open Muses - Roster\|Open Muses]] are considered fair game for me to send your way so long as we're mutuals *unless* you have explicitly told me otherwise by filling out the form. I do *not* accept this information through any other means, as the forms are a form of accessibility accommodations for myself, given my severe memory issues.
 
-> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]]
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
 
 ---
 # Banned & Restricted Content
