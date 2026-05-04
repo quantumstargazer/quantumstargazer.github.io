@@ -124,6 +124,7 @@
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -135,6 +136,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Astral Drifter
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -193,6 +195,7 @@
 ## Baldur's Gate AWs
 
 > [!verse]- Planar Agent
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 

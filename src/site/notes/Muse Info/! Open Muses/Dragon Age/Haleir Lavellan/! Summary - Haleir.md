@@ -226,7 +226,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.

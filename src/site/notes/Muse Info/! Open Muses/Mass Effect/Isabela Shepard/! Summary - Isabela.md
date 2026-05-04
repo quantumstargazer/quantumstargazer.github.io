@@ -533,7 +533,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Abducted By Nautiloid AU*
 > - *Set after returning from the galactic core (ME2)*
 > - *Starts during the nautiloid abductions (BG3)*
