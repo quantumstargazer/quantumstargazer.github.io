@@ -87,7 +87,7 @@
 
 ---
 # Interactive Forms
-> **You can find *and* fill out any and/or *all* of the forms here: [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]**
+> **You can find *and* fill out any and/or *all* of the forms here: [[Interactive Forms\|Interactive Forms]]**
 
 **Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
 ## Interest Forms
