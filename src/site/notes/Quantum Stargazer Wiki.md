@@ -72,6 +72,7 @@
 - [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) - *only threads that are on my turn*
 ### Archived Inactive Threads
 *I archive anything that has been inactive for 2+ months — and mark any on my turn as "queued", as I never actually add ic posts to the queue due to tumblr's tendency to eat posts or suddenly spam post the queue in bulk at times. These threads are* **not dropped** *insofar as I am concerned, unless specifically marked in such in their titles.*
+
 - [Archived Inactive Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsarchived) -  *tracked threads inactive for 2+ months*
 
 > [!guideline]- Regarding Tracking & Dropped Threads
