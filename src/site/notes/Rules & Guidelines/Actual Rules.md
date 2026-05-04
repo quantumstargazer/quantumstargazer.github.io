@@ -23,6 +23,14 @@
 > These are mostly written in the "*customer service voice*" to get the information across clearly, rather than my more casual way of *actually* talking. Each section is then explained in fuller detail in their respective *additional pages*, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there. 
 > 
 > **Only the [[Rules & Guidelines/Actual Rules\|Actual Rules]] is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
+## Accessibility Accommodations
+> [!rule]- Some Accommodations Required
+> - [[Interactive Forms\|Interactive Forms]] — I find "*like this post for*" style posts to be too unmanageable, especially given my severe memory issues, so some forms may be required, as they are the only method by which I accept the information where I can easily reference the responses later..
+> 
+> *Currently incomplete FAQ:*
+> - [[Rules & Guidelines/FAQ Details/Accessibility - FAQ\|Accessibility]]
+> - [[Rules & Guidelines/FAQ Details/Post Formatting - FAQ\|Post Formatting]]
+> 
 ## Independent
 > [!attention]- No Groups &/or Server Interactions & Invitations
 > I am *only* interested in interacting with other independent roleplay blogs, *not* any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you *will* be blocked, and potentially reported for spam if you do so.
