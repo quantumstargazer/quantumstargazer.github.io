@@ -7,6 +7,7 @@ If you're looking to start a thread with me, these are the best means to do so.
 
 ---
 # Request Ziggy Starts
+All requests for *me* to start an interaction must be made through the interaction call forms available on the [[Interactive Forms\|Interactive Forms]] page, as I am unable to manage the "*like this post for*" style interaction calls due to accessibility reasons.
 ## Starter Calls
 - **Starter Call** (*form*) - available 24/7 to request that I write you a starter 
 	- *Requirements:* **Mutuals Only**
