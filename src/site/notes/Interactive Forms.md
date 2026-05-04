@@ -3,14 +3,16 @@
 ---
 
 # Interactive Forms
+**Each form is collapsed under the "Form - Title >" bars** — just click on the colored bar and it will reveal the form. It's similar to the "Keep Reading/Read More" cuts on tumblr.
+
 **Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
 
 ---
 # Interaction Call Forms
-> [!guideline]+ Request Interaction At Any Time
-> These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
-
 > *For more information about these forms, see:* [[Rules & Guidelines/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+
+> [!guideline]- Request Interaction At Any Time
+> These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
 ## Starter Call
 *For requesting that I write you starters.*
 > [!example]- Form - Starter Call
