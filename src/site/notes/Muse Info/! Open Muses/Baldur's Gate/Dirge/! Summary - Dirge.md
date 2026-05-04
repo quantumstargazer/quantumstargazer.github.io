@@ -85,7 +85,8 @@
 ---
 # Canon Typical
 > [!verse]+ Wandering Dirge
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Companion (Non-Party Leader) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -104,7 +105,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Party Leader (Dark Urge) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -121,7 +123,8 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 > [!verse]+ Bhaal's Chosen
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Embrace Urge AU*
 > 
 > Summary goes here.

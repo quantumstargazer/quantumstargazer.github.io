@@ -99,6 +99,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > Summary goes here.
 > 
@@ -112,6 +114,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Thorn
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > - *Companion (Non-Rook) AU*
 > 

@@ -101,6 +101,8 @@
 ---
 # Canon Typical
 > [!verse]+ Absolute Crisis
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > 
  > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
 >  
@@ -116,7 +118,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Callidae Exile 
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Companion (Non-Party Leader) AU*
 > 
 > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.

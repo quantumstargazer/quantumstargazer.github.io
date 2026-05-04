@@ -91,8 +91,8 @@
 ---
 # Canon Typical
 > [!verse]+ Trilogy
-> 
-> - *Reaper War (2183 - 21XX CE)*
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > 
 > When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial.
 > 
@@ -104,6 +104,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2186 - 21XX CE** *(Post-ME3 Destroy Ending)*
 > 
 > With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Nihlus Kryik is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
@@ -115,6 +117,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 2183 CE** *(Pre-ME1)*
 > 
 > Shortly following the death of his father, Nihlus is moved to Palaven with his mother, where he must enlist into the military at the age of 16, a year later than most of his peers. 
 > 
@@ -130,7 +134,8 @@
 
 
 > [!verse]+ Relay 314 Incident
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA**
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -145,7 +150,8 @@
 
 
 > [!verse]+ Andromeda Initiative
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA** 
 > - *"Fuck It, I'm Out!" AU*
 > 
 > Summary goes here.
@@ -158,6 +164,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA**
 > 
 > Summary goes here.
 > 
@@ -169,6 +177,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA**
 > 
 > Summary goes here.
 > 
@@ -180,7 +190,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > - *No Reapers AU*
 > 
 > Summary goes here.

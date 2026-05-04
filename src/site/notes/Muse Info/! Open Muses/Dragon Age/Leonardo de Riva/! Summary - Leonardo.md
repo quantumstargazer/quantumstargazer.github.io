@@ -104,6 +104,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10. 
 > 
@@ -121,7 +123,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Spellblade
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Companion (Non-Rook) AU*
 > 
 > **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10.

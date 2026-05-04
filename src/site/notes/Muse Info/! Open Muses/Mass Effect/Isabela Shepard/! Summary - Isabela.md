@@ -108,8 +108,8 @@
 ---
 # Canon Typical
 > [!verse]+ Trilogy
-> 
-> - *Reaper War (2183 - 21XX CE)*
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > 
 > When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Isabela Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial. 
 > 
@@ -121,6 +121,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **21XX CE** *(Post-ME3 Destroy Ending)*
 > 
 > With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Isabela Shepard is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
@@ -132,6 +134,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 2183 CE** *(Pre-ME1)*
 > 
 > Orphaned at the age of six, Isabela Shepard grew up on the streets, where she would eventually join the Tenth Street Reds gang in order to survive. At fourteen, she is exposed to a significant amount of element zero, that leads to her developing powerful, albeit limited, biotic abilities. 
 > 
@@ -147,7 +151,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Drell-Hanari Compact
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > - *Alternate Origin AU*
 > 
 > Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
@@ -162,7 +167,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Saboteur (Drell-Hanari Compact)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > - *Alternate Origin AU*
 > - *Never part of the Alliance*
 > 
@@ -178,7 +184,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Turian Hierarchy
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > - **Humanity lost the First Contact War**
 > - *Humans as a Turian Client Race*
 > - *Alternate History + Origin + No Reapers AU*
@@ -193,7 +200,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Reaper War (Turian Hierarchy)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > - **Humanity lost the First Contact War**
 > - *Humans as a Turian Client Race*
 > - *Alternate History + Origin AU*
@@ -208,7 +216,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ First Contact War (Relay 314)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -221,7 +230,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lost Expedition (Relay 314)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -234,7 +244,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Andromeda Initiative
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2185 - 2819 CE**
 > - *"Fuck It, I'm Out!" AU*
 > 
 > Summary goes here.
@@ -247,7 +258,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Lazarus Project (Andromeda)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2185 - 2819 CE**
 > - *Set after Shepard's body is recovered by Cerberus*
 > 
 > Summary goes here.
@@ -260,7 +272,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2185 - 2819 CE**
 > - *Set during the Reaper Invasion in the Milky Way*
 > 
 > Summary goes here.
@@ -273,7 +286,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2186 - 2819 CE**
 > - *Set after the Reapers are destroyed*
 > 
 > Summary goes here.
@@ -286,7 +300,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE**
 > - *No Reapers AU*
 > 
 > Summary goes here.
@@ -299,7 +314,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Vigilante (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -312,7 +328,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Dishonoured Hero (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -325,7 +342,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ C-Sec (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -338,7 +356,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Criminal (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -351,7 +370,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]+ Assassin (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + No Reapers AU*
 > 
 > Summary goes here.
@@ -364,7 +384,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Earthborn (Shepards)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -377,7 +398,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Colonist (Shepards)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -390,7 +412,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Spacer (Shepards)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 21XX CE**
 > - *Alternate Origin + Multiple Shepards AU*
 > 
 > Summary goes here.
@@ -403,7 +426,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Clone
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2185 - 21XX CE**
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
@@ -414,7 +438,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
 > [!verse]- Mercenary (Clone)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2185 - 21XX CE**
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

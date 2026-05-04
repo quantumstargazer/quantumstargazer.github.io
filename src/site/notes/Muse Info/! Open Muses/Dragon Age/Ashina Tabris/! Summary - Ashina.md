@@ -119,7 +119,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Defaults to Veilguard era timelines. (9:45 - 9:54 Dragon)*
 > - *Earlier timelines available on request. (9:30 - 9:44 Dragon)*
 > - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
@@ -138,8 +139,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Rook 
-> 
-> - *Defaults to Veilguard timeline. (9:50 - 9:54 Dragon)*
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > One thing Ashina can never turn her back on is slavery, especially after the incident in the Denerim Alienage during the Fifth Blight, so there was simply no way she was going to ignore the Antaam slavers, *especially* when she spotted one of her own friends in their cages — not even to report in to her Talon for instruction.
@@ -154,8 +155,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Rook Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor
-> 
-> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:40 - 9:44 Dragon** *(Inquisition)*
 > - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
@@ -170,9 +171,9 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Wishlists\|Wishlists]] 
 
 > [!verse]+ Inquisitor Crow 
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:40 - 9:44 Dragon** *(Inquisition)*
 > - **Combines Inquisitor + Antivan Crows AUs**
-> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 >  
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
@@ -185,7 +186,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Inquisitor Crow Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Due 
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
 > - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 > 
@@ -199,7 +201,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Due Wishlists\|Wishlists]] 
 
 > [!verse]+ Crows' Design
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - **Darker branch of Crows' Due AU**
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
 > - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
@@ -214,7 +217,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Crows' Design Wishlists\|Wishlists]] 
 
 > [!verse]+ Antivan Crows 
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
 > - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 > 
@@ -230,9 +234,9 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina#Antivan Crows Wishlists\|Wishlists]] 
 
 > [!verse]+ Lyrium Ghost
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:55 - 9:59 Dragon** *(Post-Veilguard)*
 > - **CW: Major Character Death (temporary)**
-> - *Starts in Post-Veilguard timeline. (9:55 - 9:69 Dragon)*
 > - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > Despite her decades-long search, Ashina eventually succumbs to the blight in her veins, overcome by the Calling she has tried to avoid for so long. Refusing to keep the Warden tradition of fighting in the Deep Roads until her death — *or worse* — she instead turns to the Crows for a final contract to end her life. 

@@ -100,6 +100,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
 > 
@@ -115,7 +117,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Ghost of the Necropolis 
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Companion (Non-Rook) AU*
 > 
 > Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
@@ -130,9 +133,9 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Inquisition's Ghost
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:40 - 9:44 Dragon** *(Inquisition)*
 > - *Time Travel Shenanigans AU*
-> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
 > 
 > When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and wakes up back in their own quarters within Vorgoth's apartments in the Grand Necropolis — only it's a shockingly familiar moment in their past they wake to when they find their room coated in a thin layer of ice when their magic awakened triggered by the ripples in the Fade from the Breach opening in the south.
 > 
@@ -146,7 +149,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Ancient Times
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **Ancient** *(Post-Veilguard)*
 > - *Time Travel AU*
 > 
 > When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and finds themself at the very moment of the Veil's creation, faced with a distraught ancient elf who is not quite so ancient in this time...
@@ -159,7 +163,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Rebellion's Ghost
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **Ancient** *(Pre-Canon)*
 > - *Alternate Origin AU*
 > 
 > Determined to prove there was another way, a Spirit of Learning — once Wisdom's pupil — seeks to learn how to take on physical form *without* the stolen blood of the titans. When they finally achieve such, the results aren't exactly... *ideal*, given their very obvious physical youth as an elven child — and a *very small one*, at that — but they are now in the material world, *physically*, and can go confront Solas with undeniable proof that they were correct that the Evanuris were not the *'wise and all knowing'* beings they liked to try to portray themselves as.
@@ -174,7 +179,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]+ Spirit of Learning
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **Ancient** *(Pre-Canon)*
 > - *Pre-Physical Origin AU*
 > 
 > What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. When the Evanuris begin taking on physical form using the stolen blood of the Titans, Learning is among those spirits who are forced to flee lest they are captured and forced to take form against their will.

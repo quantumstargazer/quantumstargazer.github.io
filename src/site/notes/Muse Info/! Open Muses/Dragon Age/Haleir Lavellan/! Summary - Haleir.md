@@ -103,6 +103,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **TBA**
 > 
 > Haleir is the First of Clan Lavellan, sent to spy on the Conclave for the Dalish clan in 9:41 Dragon, only to find herself in the midst of a conspiracy when the Temple of Sacred Ashes is destroyed and the Breach has torn open the Veil into the Fade.
 > 
@@ -118,6 +120,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Wolf's Halla
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **TBA**
 > - *Companion (Non-Inquisitor) Devoted of Fen'Harel AU*
 > 
 > Haleir has always had a fascination with Fen'Harel, seeing the god in a much more favorable light than most Dalish. For most of her life, this has led to her being seen as an outcast, as many feared her interest in the god would draw his attention to the clans.
@@ -130,7 +134,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]
 
 > [!verse]+ Ancient Times
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **TBA**
 > - *Time Travel AU*
 > 
 > When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, long before the formation of the Veil.
@@ -143,7 +148,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]+ Fen'Harel's Rebellion
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **TBA**
 > - *Time Travel AU*
 > 
 > When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, right in the midst of Fen'Harel's rebellion against the Evanuris.
@@ -156,7 +162,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]+ Elvhenan
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **TBA**
 > - *Ancient Elf AU*
 > 
 > Haleir is a servant of Mythal, bound to the All Mother by her vallaslin.
