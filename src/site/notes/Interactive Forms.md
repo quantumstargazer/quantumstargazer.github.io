@@ -3,9 +3,9 @@
 ---
 
 # Interactive Forms
-**Each form is collapsed under the "Form - Title >" bars** — just click on the colored bar and it will reveal the form. It's similar to the "Keep Reading/Read More" cuts on tumblr.
-
 **Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
+
+> **Each form is collapsed under the "Form - Title >" bars** — just click on the colored bar and it will reveal the form. It's similar to the "Keep Reading/Read More" cuts on tumblr.
 
 ---
 # Interaction Call Forms
