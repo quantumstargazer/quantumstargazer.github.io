@@ -1,13 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/friends-only-roster/","tags":["directory","rosters","friends-only-muses"],"dg-note-properties":{"tags":["directory","rosters","friends-only-muses"],"aliases":["Friends Only Muses"]}}
+{"dg-publish":true,"permalink":"/muse-info/invitation-only-roster/","tags":["directory","rosters","invitation-only"],"dg-note-properties":{"tags":["directory","rosters","invitation-only"],"aliases":["Invitation Only Muses"]}}
 ---
 
-# Friends Only Roster 
-> [!WARNING] Not Open For Requests
-> These muses are available for highly selective individuals only, and are not requestable by anyone but them.
+# Invitation Only Roster 
+> [!WARNING] By Invitation Only
+> These muses are currently only available for highly selective individuals, and are not requestable by anyone but them.
 
 ---
 # Baldur's Gate
+## Prince of Frost 
+> [!profile]+ Prince of Frost (he/him)
+> > *Also written as an NPC as part of Tavares' interactions.*
+> 
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
 ## Faertorithrue
 > [!profile]+ Faertorithrue (she/they)
 > *Fey'ri Tiefling — Witchlight Carnival Hand*
@@ -38,9 +54,39 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
-## Karlach Cliffgate
-> [!profile]+ Karlach Cliffgate (she/her)
-> > Available for [lanternlit](https://lanternlit.tumblr.com) only.
+## Fisk (*The Enigma*)
+> [!profile]- Fisk (they/them)
+> *Mods-Inspired Heavily Canon-Divergent Dark Urge*
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
+## Halima
+> [!profile]- Halima (she/her)
+> *Fey*
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
+## Karlach Cliffgate \[Private]
+> [!profile]- Karlach Cliffgate (she/her)
+> > **Available for [lanternlit](https://lanternlit.tumblr.com) only.**
 > 
 > ![[Placeholder_Person.jpg\|red]]
 > 
@@ -57,6 +103,20 @@
 
 ---
 # Dragon Age
+## Felassan
+> [!profile]- Felassan (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
 ## Abelas
 > [!profile]- Abelas (he/him)
 > ![[Placeholder_Person.jpg\|red]]
@@ -100,6 +160,36 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
+## Clark Kent
+> [!profile]- Clark Kent (he/him)
+> - *Canon (Easter egg) in Dragon Age: Origins*
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
+## Bruce Wayne
+> [!profile]- Bruce Wayne (he/him)
+> - *Couldn't have Clark without Bruce*
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
 
 ---
 # Mass Effect
@@ -117,6 +207,50 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
+## Mordin Solus
+> [!profile]- Mordin Solus (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
+## Thane Krios
+> [!profile]- Thane Krios (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
+## Javik
+> [!profile]- Javik (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
+
+
 
 ---
 # Other Fandoms

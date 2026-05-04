@@ -26,9 +26,16 @@
 ## Things *You* Should Know
 > [!hint]- Not "Hero" Material
 > 
-> Tav is not "Good" aligned, nor is her patron. She will lie, though mostly through omission, misdirection, not correcting others' assumptions, etc. 
+> **Tav is not "Good" aligned**, nor is her patron (who is Chaotic Evil). 
 > 
 > She will demand payment for her aid, even if the payment does not come due immediately, and often is of the "favor owed" variety that Fey are so fond of — the only exception being is if she genuinely likes you and considers you a friend.
+
+> [!hint]- Fey Creature
+> - **incomplete** - *TBA*
+> 
+> Tavares is *technically* fey, being half-Winter Eladrin and half-Aevendrow (which also has Fey Ancestry). As such, she has some, but not all of the traits and even limitations and weaknesses of a full blooded Fey.
+> 
+> Fey cannot lie — at least, not directly. Yet being half-drow, Tavares *can*, and sometimes *will* lie, though mostly through omission, misdirection, not correcting others' assumptions, etc. 
 
 ## Things Your Muse *Could* Know
 > [!hint]-
@@ -40,6 +47,14 @@
 > Tavares herself will not volunteer this information, instead only offering that she is pactbound to a Fey, and if pushed for more details, that that Fey is of the Winter Court.
 > 
 > **Exceptions possible with plotting**, but should have reasonable reasons for why and/or *how* they know.
+> 
+> **Pre-Approved Exceptions:**
+> - Prince of Frost (*duh*)
+> - Most Archfey
+> - Most Winter Court Fey
+> - Withers
+> - Raphael
+> 
 
 
 ---

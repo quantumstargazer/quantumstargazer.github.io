@@ -122,6 +122,7 @@
 > 
 > - *Defaults to Veilguard era timelines. (9:45 - 9:54 Dragon)*
 > - *Earlier timelines available on request. (9:30 - 9:44 Dragon)*
+> - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > **Ashina de Riva** is a Master Assassin of House de Riva of the Antivan Crows, likely serving as the Fifth Talon's Second, and is the Warden-Commander of Antiva. She specialises in contracts for entire noble households, methodically wiping out an entire family line and their house in a single evening.
 > 
@@ -139,6 +140,7 @@
 > [!verse]+ Rook 
 > 
 > - *Defaults to Veilguard timeline. (9:50 - 9:54 Dragon)*
+> - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > One thing Ashina can never turn her back on is slavery, especially after the incident in the Denerim Alienage during the Fifth Blight, so there was simply no way she was going to ignore the Antaam slavers, *especially* when she spotted one of her own friends in their cages — not even to report in to her Talon for instruction.
 > 
@@ -154,6 +156,7 @@
 > [!verse]+ Inquisitor
 > 
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
+> - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
 > 
@@ -170,7 +173,7 @@
 > 
 > - **Combines Inquisitor + Antivan Crows AUs**
 > - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
-> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
+> - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 >  
 > Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
 > 
@@ -184,7 +187,7 @@
 > [!verse]+ Crows' Due 
 > 
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
-> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
+> - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 > 
 > The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
 > 
@@ -199,7 +202,7 @@
 > 
 > - **Darker branch of Crows' Due AU**
 > - *Starts prior to 0rigins timeline. (9:24 - 9:54 Dragon)*
-> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
+> - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 > 
 > Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
 > 
@@ -213,7 +216,7 @@
 > [!verse]+ Antivan Crows 
 > 
 > - *Starts in 0rigins timeline. (9:30 - 9:54 Dragon)*
-> - *Defaults to House de Riva, but House Arainai or Cantori is also possible with plotting.*
+> - *Defaults to House de Riva, but House Arainai, Cantori, or Dellamorte is also possible with plotting.*
 > 
 > Ashina escapes the Arl's Palace with her cousins and the other kidnapped women after she killed the Arl's son, his noble lackies, and all the guards that stood between her and the other elven women who had been taken to Vaughan Kendall's bedroom to be raped and/or killed. The city guard arrive shortly after the elves do, so Ashina claims sole responsibility for the slaughter at the practice and is immediately arrested and thrown into the palace dungeons for the Arl to decide her fate once he returns from Ostagar.
 > 
@@ -230,6 +233,7 @@
 > 
 > - **CW: Major Character Death (temporary)**
 > - *Starts in Post-Veilguard timeline. (9:55 - 9:69 Dragon)*
+> - *Defaults to House de Riva, but House Cantori or Dellamorte is also possible with plotting.*
 > 
 > Despite her decades-long search, Ashina eventually succumbs to the blight in her veins, overcome by the Calling she has tried to avoid for so long. Refusing to keep the Warden tradition of fighting in the Deep Roads until her death — *or worse* — she instead turns to the Crows for a final contract to end her life. 
 > 
@@ -262,7 +266,7 @@
 > [!verse]- Mercenary Assassin
 > 
 > - *Starts around 2184 to 2185 CE*
-> - *Based on City Elf Origin in Dragon Age.*
+> - *Can be found on Omega — Backstory based on City Elf Origin in Dragon Age.*
 > 
 > TBA 
 > 

@@ -3,6 +3,11 @@
 ---
 
 # Ships & Dynamics
+> [!guideline]+ Defaults to Platonic &/or Queerplatonic
+>
+> **By default, I don't set out *to* ship, though shipping *is* welcome.** I don't ever actually expect things to go into shipping unless it's been discussed ooc as a direction we'd like to explore, but it's *always* chemistry based — if the muses don't have the necessary chemistry, then there's simply not going to be a ship there, even if I might normally have a bias for that pairing. Just because I *could* see the pairing *in general* working out, it doesn't necessarily mean it will work out with every individual portrayal.
+> 
+
 ## Multi-Shipping
 Ships (as well as dynamics) are not Highlanders — there can be more than one. **There is no cheating** (*unless specifically plotted and agreed upon ooc*, and even then it is *strictly* with regards to NPCs and *not* other people's portrayals, as I am *not* interested in interacting in most group verses and/or AU scenarios involving multiple muns in a shared verse setting[^5]).
 ## Chemistry
@@ -17,7 +22,10 @@ While I'm *always* willing to test the waters with letting the characters have s
 ## Platonic
 Platonic dynamics are *still* chemistry based for *progression* — strangers, acquaintances, casual friends, coworkers, family, etc. are all baseline starting points for platonic dynamics, but the deeper the connection, the more important chemistry becomes.
 ## Queerplatonic
-Queerplatonic[^1] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends, and is very much akin to what you'd expect from romantic dynamics, but without the actual romance side of things.
+Queerplatonic[^1] dynamics *are welcome*, and are dependent on chemistry in much the same way of romantic dynamics. This goes *beyond* being close friends and/or even best friends, but lacks any romantic attraction, despite similar commitments to one another.
+
+> *For more information, see:* [[Rules & Guidelines/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|Answered FAQs: Queerplatonic Dynamics]]
+
 ## Familial
 Familial dynamics (whether by blood, by choice, by circumstance, found family, team as family, etc.) are welcome, and are chemistry based as everything else is. Non-canon children of any muse will require ooc discussion, though I am *extremely* selective when it comes to interacting with such muses (it's not to say I won't, but I've had some bad experiences with it in the past, so I'm much more picky about it now).
 ## Antagonistic

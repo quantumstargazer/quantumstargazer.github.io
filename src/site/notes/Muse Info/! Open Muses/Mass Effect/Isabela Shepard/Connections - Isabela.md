@@ -96,7 +96,7 @@
 
 
 ---
-# Best Friends Call Members
+# Permanent Interactions Call Members
 > [!bfc]- Garrus Vakarian — codenamearchangel
 > 
 > ***verse(s):*** 

@@ -9,6 +9,8 @@
 
 ---
 # Following
+## Rarely Follows First
+**I rarely follow first**, because I don't follow anyone without reading their rules, getting an idea of their portrayal of their muse(s), and getting an idea of if I think our writing styles will mesh well. Because I suffer from chronic fatigue syndrome, I genuinely don't have the energy to spare to do this often and nothing come out it when interest isn't returned, so I tend to reserve that energy for people who show interest in my blog first instead.
 ## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
 ## Rules Passwords
@@ -17,7 +19,9 @@
 > [!guideline]+ What Would Keep Me From Following
 > 
 > **I do not follow blogs for any of the following:**
+> - Age stated as being under 21 or not disclosed at all
 > - Non-Roleplayer (Personal) blogs
+> - One-liner only roleplay blogs
 > - Smut/fetish only roleplay blogs
 > - Group &/or discord roleplay blogs
 > - Only content warning consists of "Dead Dove: Do Not Eat" without context

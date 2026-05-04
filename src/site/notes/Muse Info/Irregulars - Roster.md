@@ -3,7 +3,7 @@
 ---
 
 # Irregulars Roster
-> [!WARNING] Mains & Best Friends Call Members Only
+> [!WARNING] Mains & Permanent Interactions Call Members Only
 
 ---
 # Baldur's Gate
@@ -23,35 +23,6 @@
 > - Wishlists
 ## Minsc
 > [!profile]- Minsc (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Fisk (*The Enigma*)
-> [!profile]- Fisk (they/them)
-> - *Mods-Inspired Heavily Canon-Divergent Dark Urge*
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Halima
-> [!profile]- Halima (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -143,20 +114,6 @@
 > - Wishlists
 ## Tamlen
 > [!profile]- Tamlen (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Orabela Aeducan
-> [!profile]- Orabela Aeducan (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -547,76 +504,6 @@
 > - Wishlists
 ## Karin Chakwas
 > [!profile]- Karin Chakwas (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Mordin Solus
-> [!profile]- Mordin Solus (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Thane Krios
-> [!profile]- Thane Krios (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Javik
-> [!profile]- Javik (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## Jack
-> [!profile]- Jack (she/her)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guide
-> - Wishlists
-## James Vega
-> [!profile]- James Vega (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.

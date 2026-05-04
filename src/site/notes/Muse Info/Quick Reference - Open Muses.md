@@ -1,8 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/quick-reference-open-muses/","tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","open-muses"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","open-muses"],"aliases":["Quick Reference"]}}
+{"dg-publish":true,"permalink":"/muse-info/quick-reference-open-muses/","tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","other-fandoms","open-muses"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","dragon-age","mass-effect","other-fandoms","open-muses"],"aliases":["Quick Reference"]}}
 ---
 
 # Quick Reference
+## Individual Statistics
+- [[Muse Info/Quick Reference/! Activity Levels - Quick Reference\|Activity Levels]]
+- [[Muse Info/Quick Reference/Age - Quick Reference\|Age]]
+- [[Muse Info/Quick Reference/Gender & Pronouns - Quick Reference\|Gender & Pronouns]]
+- [[Muse Info/Quick Reference/Height - Quick Reference\|Height]]
+- [[Muse Info/Quick Reference/Race & Ethnicity - Quick Reference\|Race & Ethnicity]]
+- [[Muse Info/Quick Reference/Sexuality - Quick Reference\|Sexuality]]
 
 ---
 # Baldur's Gate

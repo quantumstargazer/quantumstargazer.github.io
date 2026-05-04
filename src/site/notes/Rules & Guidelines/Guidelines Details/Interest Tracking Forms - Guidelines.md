@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interest-tracking-forms-guidelines/","tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"],"dg-note-properties":{"tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","best-friends-call"],"aliases":["Interest Tracking Forms"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/guidelines-details/interest-tracking-forms-guidelines/","tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","permanent-interactions-call"],"dg-note-properties":{"tags":["guidelines","forms","interest-tracker","preference-tracker","permanent-starter-call","permanent-inbox-call","permanent-plotting-call","permanent-interactions-call"],"aliases":["Interest Tracking Forms"]}}
 ---
 
 # Interest Tracking Forms - Guidelines
-> *Links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*.*
+> *Direct links to the forms can be found on the* [[Quantum Stargazer Wiki\|homepage]]*, or you can simply fill them out here through the embedded forms below.*
 
 ---
 # Disinterest Tracker
@@ -19,15 +19,22 @@ I would rather know that you're only interested in specific muses, even if it's 
 ### Highly Recommended But Not Required
 This form is *technically* optional, but if I start sending you muses and/or verses you *don't* actually want to interact with, it's entirely on you for not telling me who *not* to send your way.
 
+> [!abstract]- Form - Disinterest Tracker
+> <iframe data-tally-src="https://tally.so/embed/jaQLWR?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="1274" frameborder="0" marginheight="0" marginwidth="0" title="Disinterest Tracker - QS"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 ---
 # RP Preference Tracker
-
-Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover as least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes post or a reblogged PSA.
+Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover at least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes and/or reblogged PSAs.
 ## Optional But Recommended
 This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
 
+> [!abstract]- Form - RP Preference Tracker
+> <iframe data-tally-src="https://tally.so/embed/rjOV7N?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="12240" frameborder="0" marginheight="0" marginwidth="0" title="RP Preferences Tracker - QS"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 ---
-# Best Friends Call
+# Permanent Interactions Call
 > [!info]- Intended For Mutuals Who Have Already Started Interacting
 > If we haven't even said so much as "hello" to each other yet, chances are it's too soon to fill this form out. This is effectively a *permanent starter call*, and if we've yet to start writing &/or plotting together, I'm not going to add you to the members list until we are.
 
@@ -36,7 +43,7 @@ This is the closest thing I have to a **permanent starter call**, and it comes w
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 
 - The right to **send/tag you in starters whenever** the whim takes me;
-- The right to send you a message via IM/Discord/Ask with plots/ideas for threads/AUs/general buffoonery;
+- The right to send you a message via Ask/Discord/etc. with plots/ideas for threads/AUs/general buffoonery;
 - The right to tag you in shit that I come across that makes me take pause and think ‘Yup. This is them. This is them to a T. This is our idiots.’;
 - The right to **tag you in wishlist stuff**;
 - The right to **send you a shit tonne[^1] of prompts/memes** should you reblog same;
@@ -52,7 +59,18 @@ Should you choose to join this list, you are helping reduce anxiety to interact 
 
 The above call extends to all forms of ships, including but not restricted to: friendships, romantic ships, companionships, enemy combatant ships, apprenticeships, worships, and more.
 
+> [!abstract]- Form - Permanent Interactions Call
+> <iframe data-tally-src="https://tally.so/embed/eqraq0?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="7660" frameborder="0" marginheight="0" marginwidth="0" title="Permanent Interactions Call - QS"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
 ---
+# Multi-Muses Interest Tracker
+> [!info]+ Intended For Mutuals Who Have Multiple Muses Only
+> **This form is only for those with multiple muses** — whether through multimuse blogs and/or multiple single muse blogs. If you only have *one* blog with only one muse that you write, then you do not need to fill out this form.
+
+> [!abstract]- Form - Multi-Muses Interest Tracker
+> <iframe data-tally-src="https://tally.so/embed/gD7v7d?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="3507" frameborder="0" marginheight="0" marginwidth="0" title="Multi-Muses Interest Tracker"></iframe>
+> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 
 
@@ -60,4 +78,4 @@ The above call extends to all forms of ships, including but not restricted to: f
 
 [^1]:  As defined by that moment when you think '*Get them to fucking stop, this is too much*'.
 
-[^2]: Members of the Best Friends Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. **Just message me before answering anything sexually explicit the first time**, since that’s where I’m more highly selective about who I will and won’t write that with, yeah? Some on the dash call these "*non-negotiable memes*", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 
+[^2]: Members of the Permanent Interactions Call have my permission to answer memes as if I had sent them even if I didn’t but you want that meme between our muses. Muns whom I already ship with - even with other muses that you write - absolutely can include shippy memes in that as well. **Just message me before answering anything sexually explicit the first time**, since that’s where I’m more highly selective about who I will and won’t write that with, yeah? Some on the dash call these "*non-negotiable memes*", but of course it's up to you as to whether to accept and/or continue anything sent or received this way. 

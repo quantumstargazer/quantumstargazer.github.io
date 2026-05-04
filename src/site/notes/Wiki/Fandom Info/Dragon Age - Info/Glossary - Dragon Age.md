@@ -9,7 +9,9 @@
 ---
 # A
 - Adaar
+- Adaia Tabris
 - Aeducan
+- Alistair Theirin
 - Amell
 - Andarateia Cantori
 - The Anderfells
@@ -28,7 +30,10 @@
 ---
 # B
 - Bellara Lutare
+- Bhelen Aeducan
 - Blackwall
+- Brecilian Forest
+- Brecilian Ruins
 - Broodmother
 - Brosca
 - 
@@ -36,14 +41,17 @@
 ---
 # C
 - Cadash
-- Cassandra Penteghast
+- Cassandra Pentaghast
+- Caterina Dellamorte
 - Circle of Magi
 - Cole
 - Cousland
+- Cyrion Tabris
 
 ---
 # D
 - Darkspawn
+- De Riva
 - Dellamorte
 - Denerim
 - Dirthamen
@@ -67,6 +75,7 @@
 - Fen'Harel
 - Fenris
 - Ferelden
+- Flemeth
 - Frostback Mountains
 
 ---
@@ -84,6 +93,7 @@
 ---
 # I
 - Illario Dellamorte
+- Ir abelas (*"I'm sorry"*)
 - The Iron Bull
 - Isabela
 
@@ -93,7 +103,7 @@
 
 ---
 # K
-- Kadan
+- Kadan 
 - Kinloch Hold
 - Korcari Wilds
 
@@ -102,15 +112,21 @@
 - Lace Harding
 - Lavellan
 - Leliana
+- Lethallan (*fem.*)
+- Lethallen (*gender neutral*)
+- Lethallin (*masc.*)
 - Lords of Fortune
 - Lothering
 - Lucanis Dellamorte
 
 ---
 # M
+- Ma serannas (*"My thanks." / "Thank you."*)
 - Mahariel
+- Manfred
 - Marian Hawke
 - Merrill
+- Minrathous
 - Mourn Watch
 - Morrigan
 - Myrna
@@ -121,11 +137,13 @@
 - Nathaniel Howe
 - Nevarra
 - Nevarra City
+- Neve Gallus
 
 ---
 # O
 - Oghren
 - Orlais
+- The Orlesian Empire
 - Orzammar
 - Ossuary
 
@@ -151,8 +169,11 @@
 - Sera
 - Shale
 - Shayle Cadash
+- Shianni
 - Sigrun
 - Solas
+- Soris
+- Spite
 - Sten
 - Surana
 - Sylaise
@@ -160,23 +181,27 @@
 ---
 # T
 - Taash
+- Tabris
+- Tathas
 - Tethras
 - Tevinter
 - Tevinter Imperium
 - Thedas
+- Theirin
 - Thorne
 - Trian Aeducan
 - Treviso
 
 ---
 # U
-- 
+- Urien Kendells
 
 ---
 # V
 - Val Royeaux
 - Vallaslin
 - Varric Tethras
+- Vaughan Kendells
 - The Veil
 - Veil Jumpers
 - The Veilguard
@@ -197,6 +222,7 @@
 
 ---
 # Z
+- Zathrian
 - Zevran Arainai
 - 
 

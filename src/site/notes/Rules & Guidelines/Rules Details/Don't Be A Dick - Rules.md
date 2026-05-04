@@ -32,6 +32,7 @@ This *should* got without saying, *and yet...*[^1]
 - racism
 - nazism
 - fascism
+- antiabortion &/or "prolife" (probirth)
 - rape supporter &/or apologist
 - JK Rowling supporter &/or apologist
 - Trump supporter &/or apologist

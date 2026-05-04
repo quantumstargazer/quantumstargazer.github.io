@@ -11,12 +11,12 @@ If you're looking to start a thread with me, these are the best means to do so.
 - **Starter Call** (*form*) - available 24/7 to request that I write you a starter 
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from & in which verse variant(s)
-	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
+	- *Randomized Option?:* **Yes** - choose "*Ziggy's Choice*" as applicable
 ## Inbox Calls
 - **Inbox Call** (*form*) - available 24/7 to request that I send you memes[^2]
 	- *Requirements:* **Mutuals Only**
 	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from & in which verse variant(s)
-	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
+	- *Randomized Option?:* **Yes** - choose "*Ziggy's Choice*" as applicable
 
 ---
 # For You To Start

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/fellow-stargazers-faq/","tags":["mains","exclusives","bfc-members","ship-partners","dynamic-partners","faq","rules","guidelines"],"dg-note-properties":{"tags":["mains","exclusives","bfc-members","ship-partners","dynamic-partners","faq","rules","guidelines"],"aliases":["Fellow Stargazers","Mains & Exclusives","Mains & Best Friends Call Members","Best Friends Call Members","Mains","Exclusives","Ship & Dynamics Partners"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/faq-details/fellow-stargazers-faq/","tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"dg-note-properties":{"tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"aliases":["Fellow Stargazers","Mains & Exclusives","Mains & Permanent Interactions Call Members","Permanent Interactions Call Members","Mains","Exclusives","Ship & Dynamics Partners"]}}
 ---
 
 # Fellow Stargazers
@@ -49,8 +49,8 @@ These are the people who I interact with the most, and whose interactions have a
 
 
 ---
-# Best Friends Call Members
-> *I **do** interact with duplicates of any of the **Best Friends Call** muses that follow:*
+# Permanent Interactions Call Members
+> *I **do** interact with duplicates of any of the **Permanent Interactions Call Members'** muses that follow:*
 ## All Muses
 > [!attention] Not Currently Available
 > 
@@ -86,6 +86,7 @@ These are the people who I interact with the most, and whose interactions have a
 
 > [!shipdyn]- Artis — luctumvigilanties
 > 
+> Ship(s): [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Shipping Partners\|Connections - Ward#Shipping Partners]]
 
 
 

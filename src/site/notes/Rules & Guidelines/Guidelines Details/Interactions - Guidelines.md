@@ -17,7 +17,7 @@ Tumblr IMs are inaccessible for me. Also, the notifications for them are broken 
 # Continuity
 I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term, allowing dynamics to build over time through in-character interactions and out-of-character plotting.
 ## Separate Multi-Verse Continuities
-This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag.
+This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag (ie any verse that isn't a private verse with a partner's muse and/or username as part of the tag itself).
 
 ---
 # Plotting

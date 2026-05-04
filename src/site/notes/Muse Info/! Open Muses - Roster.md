@@ -12,7 +12,7 @@
 > [!attention]+
 > **Many pages are still under construction at this time.** If there's any specific information you're looking for, please feel free to ask, and I'll prioritise getting that filled in ASAP.
 > 
-> - [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] *is available for Open Muses if you're just needing pronouns, height, race, & age info for a reply.*
+> - [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] *is available for Open Muses if you're just needing pronouns, height, race, age, etc. info for a reply.*
 
 ---
 # Baldur's Gate

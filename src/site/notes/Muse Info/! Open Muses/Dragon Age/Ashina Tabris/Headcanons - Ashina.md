@@ -29,8 +29,15 @@
 ---
 # Universal Headcanons
 
-> [!headcanon]-
-> TBA
+> [!headcanon]+ Ancient Memories
+> 
+> - *Conditional:* **Grey Warden** 
+> 	- (*or Blight companion who frees the spirit*)
+> 
+> Ashina frees the trapped spirit of an ancient elvhen Arcane Warrior in the Brecilian Forest, gaining the knowledge of its martial discipline and of the ancient elvhen language.
+> 
+> This functions similarly to the effects of drinking from the Well of Sorrows, only far more limited, as it's only one spirit's memories and the spirit itself is not actually a part of it. But she does get vague impressions when interacting with elvhen ruins and artifacts, as well as ancient elves — including the Evanuris themselves — as a result of being in possession of these ancient memories herself now.
+> 
 
 
 
@@ -46,15 +53,18 @@
 > TBA
 
 ### Kirkwall (9:35 - 9:39 Dragon)
-> [!headcanon]-
+> [!headcanon]+ Snapdragon 
+> - *Conditional:* **Varric Tethras only**
+> 
 > TBA
+> 
 
 ### Origins (9:30 - 9:34 Dragon)
 > [!headcanon]-
 > TBA
 
 ### Pre-Origins (9:05 - 9:29 Dragon)
-> [!headcanon]- Adaia's Death (9:24 Dragon)
+> [!headcanon]+ Adaia's Death (9:24 Dragon)
 > 
 > - **CW: Minor Character Death, Parental Death, Murder (Assassination)**
 > - *Takes place shortly after the events of Leliana's Song (DLC).*
@@ -80,7 +90,8 @@
 > TBA
 
 ## Crows' Design Headcanons
-> [!headcanon]-
+> [!headcanon]+ Contract: Vaughan Kendells
+> 
 > TBA
 
 ## Antivan Crows Headcanons

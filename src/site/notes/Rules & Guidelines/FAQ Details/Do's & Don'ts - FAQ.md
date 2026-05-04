@@ -17,7 +17,7 @@
 | Reverse any prompts/memes       |  ✅ Yes   |        *None*        |
 | Write me random starters        |  ✅ Yes   |   **Mutuals Only**   |
 | Reply to my open starters       |  ✅ Yes   |   **Mutuals Only**   |
-| Fill out interest forms         |  ✅ Yes   |   **Mutuals Only**   |
+| Fill out interest forms         |  ✅ Yes   |        *None*        |
 | Read my stuff                   |  ✅ Yes   |        *None*        |
 | Take inspiration from my stuff  |  ✅ Yes   |        *None*        |
 | Ask questions about my stuff    |  ✅ Yes   |        *None*        |
@@ -39,6 +39,7 @@
 | Assume Muse = Mun                              |  🚫 No   |           **Dropped &/or Blocked**            |
 | Reblog posts that aren't for you               |  🚫 No   |            **Warned &/or Blocked**            |
 | Use as rp resource blog                        |  🚫 No   |            **Warned &/or Blocked**            |
+| Steal my stuff (verbatim)                      |  🚫 No   |           **Blocked &/or Reported**           |
 | Feed my writing into AI                        |  🚫 No   |           **Blocked &/or Reported**           |
 | Use AI in our interactions                     |  🚫 No   |           **Dropped &/or Blocked**            |
 | Take my blocking you personally                |  🚫 No   |            **Reported If Evaded**             |
@@ -93,7 +94,7 @@
 
 - **Don't send anonymous hate** - Anon is a *privilege*, not a right. I keep it on for prompts/memes, and the socially anxious. Not for dicks to be assholes. If you send anon hate, know that it will be screencapped and shared and mocked in private among my friends, while the ask itself will be reported to tumblr for harassment.
 
-- **Don't follow without at least reading the [[Rules & Guidelines/Actual Rules\|Rules & Guidelines/Actual Rules]] bits** - Seriously, this has become *that much* of an issue...
+- **Don't follow without at least reading the [[Rules & Guidelines/Actual Rules\|Actual Rules]] bits** - Seriously, this has become *that much* of an issue over the years...
 
 - **Don't interact without reading the rules & guidelines** - It will inevitably become obvious you didn't read them, and chances are that I will likely simply block you, depending on the severity of the lines crossed as a result.
 
@@ -101,7 +102,9 @@
 
 - **Don't reblog things you're not a part of** - This *especially* goes for roleplay threads, "missing scenes" (ficlets that are tied to specific ships &/or dynamics), headcanons, verse details, etc. If you're not *actively tagged in them*, they are not for you to reblog without my express permission.
 
-- **Don't use my blog as your resource** - I'm good at finding cool shit, but *please* reblog from the source and/or the sideblogs that I myself am most likely reblogging from, rather than spamming my roleplay notifications. Mutuals actively interacting with me have more leeway and *can* reblog directly from me, just don't go overboard.
+- **Don't use my blog as your resource** - I'm good at finding cool shit, but *please* ***reblog from the sideblogs that I myself am most likely reblogging from*** and/or the source, rather than spamming my roleplay notifications. Mutuals actively interacting with me have more leeway and *can* reblog directly from me, just don't go overboard.
+
+- **Don't steal my stuff verbatim** - I'm fine with you taking inspiration from my headcanons, verses, etc., but copying them word for word is plagiarism, and will result in you being blocked and reported for copyright violations.
 
 - **Don't feed my writing into any AI** - This is theft and a blatant copyright violation, and you *will* be blocked and reported.
 
@@ -111,11 +114,11 @@
 
 - **Don't softblock me — *only hardblock* if you feel the need to block** - If you feel the need to get me off your dash, *outright hardblock me*. Again, my memory cannot be trusted to remember who to avoid refollowing, so it's better to just outright block me and *keep me blocked* instead.
 
-- **Don't assume interactions are in the same universe** - Like, sure, between the same muse pairing with the same mun, a *lot* of them might be, if they're under the same verse tag, at least. But something with Mun A is *always* in a separate universe from anything with Mun B, unless we're mutual mutuals who have plotted a shared universe together that would be tagged as such, but those are exceptionally rare cases, and honestly not likely to happen.
+- **Don't assume interactions are in the same universe** - Like, sure, between the same muse pairing with the same mun, a *lot* of them might be, *if they're under the same verse tag*, at least. But something with Mun A is *always* in a separate universe from anything with Mun B, unless we're mutual mutuals who have plotted a shared universe together that would be tagged as such, but those are exceptionally rare cases, and honestly not very likely to happen.
 
-- **Don't assume anything &/or everything I write is "*canon accurate*"** - I rely *heavily* on canon divergence, headcanons, mod integration, etc. I enjoy the hell out of a wide range of AUs, crossovers, etc. Canon is my sandbox, and I will destroy and rebuild it as I please.
+- **Don't assume anything and/or everything I write is "*canon accurate*"** - I rely *heavily* on canon divergence, headcanons, mod integration, expanded universe lore, etc. I enjoy the hell out of a wide range of AUs, crossovers, etc. Canon is my sandbox, and I will destroy and rebuild it as I please.
 
-- **Don't write my muses for me** - This pertains to *their dialogue, thoughts, feelings, introspection, etc.* It is safe to assume that, if I don't write them resisting an action such as following your muse to another room, being touched, etc., that it is accepted as having occurred without having to explicitly write the action from their point of view. What's *not* accepted is you deciding for me how my muse feels, thinks, react emotionally and/or psychologically, etc.
+- **Don't write my muses for me** - This pertains mostly to *their dialogue, thoughts, feelings, introspection, etc.* It is safe to assume that, if I don't write them resisting an action such as following your muse to another room, being touched, etc., that it is accepted as having occurred without having to explicitly write the action directly from their point of view. What's *not* accepted is you deciding for me how my muse feels, thinks, react emotionally and/or psychologically, etc.
 
 - **No major godmodding** - TBA
 

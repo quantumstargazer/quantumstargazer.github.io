@@ -100,7 +100,7 @@
 
 
 ---
-# Best Friends Call Members
+# Permanent Interactions Call Members
 > [!attention] Not Currently Available
 > 
 
@@ -177,7 +177,7 @@
 
 ### Origins
 > [!wishlist]- Zevran Arainai 
-> *Note:* **Canon Romance If Ashina Is Not Romanced In RP**
+> - *Note:* **Canon Romance If Ashina Is Not Romanced In RP**
 > 
 > ***LI potential:*** **Yes** — *true love path preferred*
 > 

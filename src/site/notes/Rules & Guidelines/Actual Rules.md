@@ -1,87 +1,77 @@
 ---
-{"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"],"dg-note-properties":{"tags":["rules","guidelines"],"aliases":["The Actual Rules"]}}
+{"dg-publish":true,"permalink":"/rules-and-guidelines/actual-rules/","tags":["rules","guidelines"],"dg-note-properties":{"tags":["rules","guidelines"],"aliases":["The Actual Rules","Actual Rules"]}}
 ---
 
 # The Actual Rules
-> [!attention]- Read Rules Before Following
+> [!ziggy]+ A Quick Note from Ziggy
+> 
+> Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply. 
+> 
+> > [!spoiler]- Why Things Might Seem Overexplained
+> >  **AuDHD, C-PTSD, PTSD, and other comorbid conditions lend themselves to my being more comfortable with my boundaries being overexplained if necessary rather than leaving things to be "*read between the lines*".**
+> >  
+> >  **I will *not* apologize for making my boundaries firmly known in a clear and concise manner.** I am publicly open about getting neurodivergent, and if this makes you uncomfortable, then you need to check yourself and your ableism.
+> >  
+> >  Many of my closest friends are also neurodivergent, and find the extent to which I explain my rules and boundaries to be far more welcoming to them than most, as they know *exactly* what to expect, rather than trying to parse out things from vague assumptions that can leave too many questions, and an uncertainty of if they can even ask for clarification if needed (which if there's anything here that you need further clarification and/or information on, I will gladly provide it if you ask). 
+> >  
+> >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following myself in the first place.
+> 
+## Read Before Following
+> [!rule]- Read Rules Before Following
 > I *actively block* people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &/or tropes & themes.
-
-## Selective Following
-**If I'm following you, I *want* to write with you.** It's that simple.
+> 
+> These are mostly written in the "*customer service voice*" to get the information across clearly, rather than my more casual way of *actually* talking. Each section is then explained in fuller detail in their respective *additional pages*, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there. 
+> 
+> **Only the [[Rules & Guidelines/Actual Rules\|Actual Rules]] is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
+## Independent
+> [!attention]- No Groups &/or Server Interactions & Invitations
+> I am *only* interested in interacting with other independent roleplay blogs, *not* any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you *will* be blocked, and potentially reported for spam if you do so.
+## Selective
+> [!faq]- Selective Following
+> **If I'm following you, I *want* to write with you.** It's that simple — I don't follow for follow, nor do I follow anyone who I'm not interested in interacting with.
 ### If You're Not Interested
-**If you're not interested in writing with me, *please* just hard block me — do *not* soft block.** I have severe memory issues (medical issues), and I honestly will not be able to remember if you simply soft block.
-## Do's & Don'ts
-**Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
+> [!rule]- Hard Block If Not Interested
+> If you're not interested in writing with me, please **just hard block me — do *not* soft block**. I have severe memory issues (*medical issues*), and I honestly will not be able to remember if you simply soft block.
 
 ---
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
 
-> [!rule]- Don't Intentionally Misgender Muses
-> 
-> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, and on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes.
-
-**[[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tagging]] is expected.** I *will* break mutual status if your tagging (or the lack there of) becomes a negative impact on my dash.
-
-> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]] & [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
 
 ---
 # 21+ & Mutuals Only
 > [!rule]- Must Be 18+ To Follow
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing with you until you are at least 21.
-## Only Interacts With 21+
-I *will not* follow and/or roleplay with you if:
-- You don't have an age range listed on your blog &/or in your rules
-- You are under the age of 21
-## Rated for Mature Audiences Only
-**My blog is intended for [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Mature Audiences Only]] and is unsuitable for anyone under the age of 18.** Canon-typical mature themes, violence, sexual content, adult language, etc. will all be present on the blog *and* as part of this wiki, and will *not* always be tagged, given the extent in which some topics are integral to the source material on a whole. As such, [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]].
-
-**The following fandoms are ESRB Rated M for Mature:**
-- Baldur's Gate
-- Dragon Age
-- Mass Effect
 
 > [!caution]- Viewer Discretion Is Advised
-> Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki are rated the same. See [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
+> Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki should be considered the same. See [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
+## Only Interacts With 21+
+I *will not* follow and/or roleplay with you if:
+- You don't have an age range listed on your blog &/or in your rules.
+- You are under the age of 21.
+## Only Interacts With Mutuals
+### If I Follow You First
+**If I follow first**, I *will not* interact with your blog until you have followed back, as I am *mutuals only*, and only follow those who I have an interest in writing with.
+### If You Follow Me First
+**If you follow first**, I *will not* interact with you except through inbox prompts/memes that are tagged was "*Open For Everyone*" until I have had a chance to read your rules, and check your blog out.
 
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rules & Guidelines/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
 
 ---
 # Curate Your Own Dash
-> [!rule]- Regarding Others' "Dead Dove: Do Not Eat" Content Warnings
-> 
-> **I do *not* follow anyone whose *only* warning for their blog consists of "*Dead Dove: Do Not Eat*" without covering *what* topics, themes, tropes, etc. are likely to be found on their blog.** 
-> 
-> If the only content warning you provide for your blog consists of "*Dead Dove: Do Not Eat*", then **I am going to assume that you write the content that I refuse to engage with at all** and typically *hard block* blogs that explicitly roleplay scenes involving rape, sexual assault, Alpha/Beta/Omega dynamics, etc., whether it's true to your blog or not. This will most likely result in my blocking you outright rather than investigating further to see whether or not I might want to interact with you.
-> 
-> Without any explanation, "*Dead Dove: Do Not Eat*" as effective as saying "*Warning: Consider Yourself Warned*" while inviting people to potentially walk into a nuclear reactor. It is meant to be a warning of "*don't blame me if you find content here you didn't like because you didn't read the warning labels provided*" — if you don't provide those warnings, then you don't get to complain when people don't want to interact with you at all instead of risking that content they're sensitive to may appear on your blog.
 ## Don't Like? Don't Follow.
 If you don't like me, my muses, my verses, my blog, etc., then *just don't follow me* — in fact, if you feel that strongly about any of these things, you should probably *hard block* me and *keep me blocked* [^2] instead, so as to keep my content off your dash.
 ## Hard Block Only - No Soft Block
 If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^2]
+## Disinterest Tracker
+**If you are disinterested in interacting with any muse(s) and/or verse(s), you *need* to fill out the [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]]** — all [[Muse Info/! Open Muses - Roster\|Open Muses]] are considered fair game for me to send your way so long as we're mutuals *unless* you have explicitly told me otherwise by filling out the form. I do *not* accept this information through any other means, as the forms are a form of accessibility accommodations for myself, given my severe memory issues.
 
-> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]]
-
----
-# Inbox Prompts & Memes
-**My inbox is always open, and the memes never expire.** For the *full collection* of memes, be sure to check [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com), which is my sideblog for rp memes, musings, etc., and where I reblog all of the memes *from* for my rp blog — it can be used as a source blog to reblog from, as I have notifs turned off for everything but the inbox, and memes can be sent to either blog.
-## Send Full Prompts To Inbox
-> [!rule]+ Why This Is Necessary
-> - **I usually don't fill prompts immediately after receiving them.**
-> - I *can't* fill them if I don't know what meme they're meant to be for.
-> - I delete all the memes I reblog on my rp blog on a regular basis — it's why the archive sideblog exists. 
-> - Most of the memes reblogged are queued &/or scheduled, so I'm not actively aware of what posts when once they're in the queue. 
-## Specify When Tagged
-> [!rule]+ If You Don't Specify Muse(s)/Verse(s)
-> - **I may not answer at all if no muse is specified at all.** 
-> - I will typically default to their mainverse if you don't specify an AU.
-> 
-
-> *For Further Details (& Examples), See:* [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]]
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rules & Guidelines/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
 
 ---
 # Banned & Restricted Content
-The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for exceptions to be made.
+The following content is banned or restricted due to *personal reasons*. All banned content listed below are *hard limits* and non-negotiable — do not ask for and/or expect exceptions to be made.
 ## AI Generated Content
 > [!rule]+ DNI If You Use AI In Your Writing &/or Graphics
 > 
@@ -89,17 +79,17 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ## Tropes & Themes
 > [!danger]+ Banned Tropes & Themes — No Follow &/or Interaction
 > 
-> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:**
+> **I will not follow blogs (*including* multimuse blogs) and/or interact with muses from and/or with AUs for any of the following on tumblr:**
 > 
 > - sexual content with any muse &/or faceclaim under the age of 18
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
 > - anything involving Alpha/Beta/Omega (*Omegaverse*) dynamics &/or settings
-> - anything involving Real Person Fiction (*RPF*)[^7]
+> - anything involving Real Person Fiction (*RPF*) [^7]
 
 > [!warning]+ Restricted Tropes & Themes
 > 
-> **While not outright banned, I have no interest in interacting with any of the following:**
+> **While not outright banned, I have no interest in interacting with any of the following on tumblr:**
 > 
 > - magic anons of any kind
 > - scenes involving pregnancy complications, miscarriage, infant death, etc.
@@ -120,10 +110,13 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > **While not outright banned, I have no interest in interacting with muses from and/or within AUs for any of the following:**
 > 
 > - KPop Demon Hunters (*2025*)
-> - Alien: Earth (*2025*)[^8]
+> - Alien: Earth (*2025*) [^8]
 > - Hazbin Hotel (*2019*)
 > - Helluva Boss
 > - Hellaverse & Related Fandoms
+> - The Freak Circus
+> 
+> **NOTE:** *If these are your primary and/or only fandoms, then I will not follow your blog. I genuinely have no interest in these fandoms, and no desire to see them on the dash, as I blacklist filter these to keep them off it.*
 ## Faceclaims
 > [!danger]+ Faceclaims — No Follow &/or Interaction
 > 
@@ -152,13 +145,76 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > *For Further Details, See:* [[Rules & Guidelines/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
 
 ---
-# Additional Rules & Guidelines May Apply
-## Additional Rules
-- [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]] - *content that needs to be tagged*
-- [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]] - *regarding my own exclusivity*
-- [[Rules & Guidelines/Rules Details/Exclusivity - Rules#Other People's Exclusivity\|Other People's Exclusivity]] - *important if you practice exclusivity*
-- [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]] - *important if you wish to write sexually explicit roleplay with me*
-### Fandom-Specific Rules
+# Interacting
+## Do's & Don'ts
+**Be sure to check the [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
+## RP Forms
+**All of my forms are now embedded in the [[Interactive Forms\|Interactive Forms]] page for your convenience.** This allows you to see all of the forms in one go, and fill out the ones that are applicable. 
+### Interaction Calls
+Rather than the typical "*like this post for*" style calls, I have **always open forms** to act as starter calls (for requesting that I write you one or more starters), inbox calls (for requesting that I send you prompts/memes, with the option to specify IC and/or OOC), etc.
+### Interest Tracking Forms
+While the interest tracking forms are *optional*, they are highly recommended — *especially* if you are uninterested in interacting with certain muses and/or verses, have specific preferences regarding interactions, have multiple muses of your own that you wish to interact with mine with, etc.
+## Inbox Prompts & Memes
+**My inbox is always open, and the memes never expire.** For the *full collection* of memes, be sure to check [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com), which is my sideblog for rp memes, musings, etc., and where I reblog all of the memes *from* for my rp blog — it can be used as a source blog to reblog from, as I have notifs turned off for everything but the inbox, and memes can be sent to either blog.
+### Send Full Prompts To Inbox
+> [!rule]+ Why This Is Necessary
+> - **I usually don't fill prompts immediately after receiving them.**
+> - I *can't* fill them if I don't know what meme they're meant to be for.
+> - I delete all the memes I reblog on my rp blog on a regular basis — it's why the archive sideblog exists. 
+> - Most of the memes reblogged are queued &/or scheduled, so I'm not actively aware of what posts when once they're in the queue. 
+## Specify Muse &/or Verse
+> [!rule]+ If You Don't Specify Muse(s)/Verse(s)
+> - **I may not answer at all if no muse is specified.** 
+> - I will typically default to their mainverse if you don't specify an AU.
+> 	- If in the **same fandom**, this will usually be their primary canon-typical verse.
+> 	- If they're ***not* in the same fandom**, this will usually be the corresponding ***Trapped In Another Universe AU*** verse for that fandom, unless you *specifically* request for it to be the ***Fandom Specific AU*** verse instead.
+> 
+
+> *For Further Details (& Examples), See:* [[Rules & Guidelines/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts]], [[Rules & Guidelines/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rules & Guidelines/Guidelines Details/Interactions - Guidelines\|Interactions]]
+
+---
+# Additional Rules May Apply
+> [!question]+ Further Detail May Be Required
+> **The following rules are only covered minimally for what is required of *everyone*, while the further details expands the information as necessary.**
+> 
+> For example, if you wish to write sexual content with me, then you should read the further details to understand what is and isn't acceptable. However, if you have no interest in writing sexual content, then the basics of what you need to know for how such content is handled in general, including the tags available for blocking such content, are covered here.
+
+## Blacklist Tags
+### Preferred Formatting
+Please consider using the following formatting for your content watching tags:
+- **content cw**
+- **content**
+### Warnings Requested
+Please be sure to tag the following subjects: 
+> [!rule]- Blacklist Tags Requested
+> - **TBA** — Please see [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules#Content Warnings Needed\|Content Warnings Needed]] for the list for now.
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Blacklist Tags - Rules\|Blacklist Tags]]
+
+## Exclusivity
+### No Exclusives On Follow
+**I am not willing to be *anyone's* exclusive portrayal of any character based only on their choosing to follow me.** There are *no exceptions* to be made regarding this, and I am not interested in following those who practice this level of exclusivity.
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Exclusivity - Rules\|Exclusivity]]
+
+## Sexual Content
+### Marked For Mature Content
+All original posts containing sexual content are marked using tumblr's community warnings, and are marked as Mature Content and/or Sexual Content, in addition to the blacklist tagging.
+#### Sexually Explicit May Be Under Cut 
+Highly explicit sexual content, including things that venture into a number of kinks, may also be placed under a cut, in addition to being marked as Mature Content and/or Sexual Content, *and* tagged for NSFW with the appropriate tags.
+### Tagged For NSFW
+I use a rated citrus tagging system for those who wish to allow sexually suggestive content on their dash, while filtering out the sexually explicit content. These are the tags that are used:
+- **usft cw** — *catch-all for all sexual content, in addition to the rated citrus tag*
+- **lemons cw** — *for sexually explicit content, including actual sex scenes*
+- **limes cw** — *for sexually suggestive content, up to & including fade-to-black*
+### Exploring Sexual Ships & Dynamics
+If you are interested in exploring sexual ships and/or dynamics between our muses, you must meet the following criteria: 
+- **Mun is a mutual who is 21 years or older**
+- **Muse (*and their faceclaim*) is 18 years or older**
+
+> *For Further Details, See:* [[Rules & Guidelines/Rules Details/Sexual Content - Rules\|Sexual Content]]
+
+## Fandom-Specific Rules
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Baldur's Gate - Rules\|Baldur's Gate]]
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Dragon Age - Rules\|Dragon Age]]
 - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/! Mass Effect - Rules\|Mass Effect]]
@@ -185,10 +241,12 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Our Flag Means Death - Rules\|Our Flag Means Death]]
 > - [[Rules & Guidelines/Rules Details/Fandom Specific Rules/Supernatural - Rules\|Supernatural]]
 
+---
+# Additional Guidelines May Apply
 ## Guidelines
 Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed *separate* from the actual rules.
 
-> [!guideline]- Applied As Rules When Applicable 
+> [!guideline]+ Applied As Rules When Applicable 
 > That said, when the guidelines *do* apply to you, they *are* considered rules *for you*, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for *anyone*, but it has been known to happen occasionally.
 
 ### Guidelines Details 
@@ -208,10 +266,10 @@ Because the [[Rules & Guidelines/Guidelines\|Guidelines]] are not entirely unive
 
 ---
 # Rules Passwords
-**I do not send rules passwords.** In fact, **I will not follow first if your rules have a password *to* send**. If you follow *me* first, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules.
-
-
-
+> [!rule]+ Will Not Send - No Exceptions
+> **I do not send rules passwords.** I do not follow *anyone* without reading their rules first, so in fact, **I will not even follow first if your rules have a password *to* send**. 
+> 
+> **If you follow *me* first**, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules. If you try to insist otherwise, I will break mutuals status and no longer interact with you.
 
 
 

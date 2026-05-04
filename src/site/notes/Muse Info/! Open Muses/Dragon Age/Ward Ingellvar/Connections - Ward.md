@@ -90,7 +90,7 @@
 
 
 ---
-# Best Friends Call Members
+# Permanent Interactions Call Members
 > [!attention] Not Currently Available
 > 
 
@@ -98,8 +98,21 @@
 
 ---
 # Shipping Partners
-> [!attention] Not Currently Available
+> [!shipdyn]- Atris — luctumvigilantes
 > 
+> ***verse(s):*** 
+> - TBA
+>
+> *blog tag(s):*
+> - [luctumvigilantes](https://quantumstargazer.tumblr.com/tagged/luctumvigilantes)
+> 
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ward & Atris ( luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ward+&+Atris+(+luctumvigilantes+))
+> 
+>
+> *ship/dyn:*
+> - TBA
 
 
 

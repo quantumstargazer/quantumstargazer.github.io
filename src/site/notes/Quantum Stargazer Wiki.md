@@ -10,25 +10,43 @@
 > > Please be patient, as I am chronically ill, thus I am unable to always dedicate a lot of time and energy to this effort in single sittings, and there is a *lot* of info I want to be able to cover, between multiple fandoms and the characters within. 
 > > 
 > > If there is anything *specific* you want to know more about, just ask, and I'll provide the information and get the relevant info updated here as quickly as possible.
+> > 
+> > **Some links are currently not functioning correctly.** These are handled on a plugin level, and so there is nothing I can currently do to fix them, minus filing bug reports and waiting for updates to be pushed. These links are typically simply pointed at headers within other pages, but they throw a 404 error instead of parsing the actual link correctly. I'm trying to test to see if it is a plugin conflict with a different plugin I have installed, but I'm not certain that that is the case, and I have limited ability to actually test such in the first place.
 
+---
 # Quantum Stargazer
 [Quantum Stargazer](https://quantumstargazer.tumblr.com/) is an *Independent*, *Selective*, *21+ & Mutuals Only* Multifandom Multimuse blog featuring canon, canon-based, and original characters from Baldur's Gate[^1], Dragon Age, Mass Effect, & more.
 ## RP Info
 - **Multi-Ship** - Ships are not Highlanders — there can be more than one. And there will be. *There will be.*[^2]
 - **Multi-Verse** - All [[Muse Info/! Open Muses - Roster\|Open Muses]] have Canon-Based Verses, Fandom Specific AUs, Trapped In Another World AUs, &/or Other Verses & AUs.
+- **Multi-Paragraph & Novella** - Almost all in character interactions are on the lengthy side — *I never expect anyone to match my length*; my muses just like to get lost in introspection, and sometimes exposition is also needed, especially for starters, time jumps, & scene transactions.
 - **Extremely Crossover Friendly** - If a verse &/or doesn't exist, so long as I'm even *remotely* familiar with and interested in the fandom, chances are good that I'll add a verse to make it happen.
 - **Loose Plotting Only** - Not a heavy or strict planner; if *you are*, then I'm probably not who you want to try to plot with.
+- **Activity & Reply Speeds Vary** - I am not on tumblr 24/7, so I may respond to things within minutes, other times it may take hours, days, weeks, or even months.
 - **In Character Posts Immediately** - IC posts are never queued — only prompts, memes, aesthetics, etc. are queued.
-
-> [!guideline] Blanket Permissions
-> 
-> See [[Rules & Guidelines/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
 > [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
 > **AuDHD** means ***infodumping*** is likely to occur, and this means my posts, as well as the notes here, are likely to get *wordy*. I tend to try to be mindful of individual paragraph lengths, but there will often be *a lot* of paragraphs and/or bullet points.
 > 
 > If, for any reason, you are troubled by being expected to *actually read things* in a writing hobby that should, in theory, require at least 50% reading, considering its collaborative nature, then I'm *probably* not the roleplay partner for you.
 
+---
+# Rules & Guidelines
+- [[Rules & Guidelines/Actual Rules\|The Actual Rules]] - *must be read before following*
+- [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
+- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
+
+---
+# Muse Rosters
+> [!faq]- Activity Levels Based On Fandom - Not Individual Muse
+> - **Activity is based on the fandom as opposed to the individual muse.**
+> - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
+> - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
+
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to everyone*
+- [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
+- [[Muse Info/Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
+- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
 
 ---
 # Thread Tracking
@@ -52,6 +70,10 @@
 - [Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads) - *all threads, regardless of whose turn it is*
 - [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) - *only threads that are on someone else's turn*
 - [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) - *only threads that are on my turn*
+### Archived Inactive Threads
+*I archive anything that has been inactive for 2+ months — and mark any on my turn as "queued", as I never actually add ic posts to the queue due to tumblr's tendency to eat posts or suddenly spam post the queue in bulk at times. These threads are* **not dropped** *insofar as I am concerned, unless specifically marked in such in their titles.*
+
+- [Archived Inactive Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsarchived) -  *tracked threads inactive for 2+ months*
 
 > [!guideline]- Regarding Tracking & Dropped Threads
 > I *very rarely* drop threads myself simply due to a lack of interest, so this is *not* something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it *eventually*, or I will reach out and let you know that I need to drop it because I'm unable to find a way to continue it.
@@ -66,6 +88,8 @@
 
 ---
 # Interactive Forms
+> **You can find *and* fill out any and/or *all* of the forms here: [[Interactive Forms\|Interactive Forms]]**
+
 **Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
 ## Interest Forms
 > [!rule]- Interest Assumed For All Open Muses
@@ -73,43 +97,40 @@
 
 - [Disinterest Tracker](https://tally.so/r/jaQLWR) - *for telling me who you are* **not** *interested in interacting with*
 - [RP Preferences Tracker](https://tally.so/r/rjOV7N) - *for telling me your preferences for interactions, plotting, etc.* 
-- [Best Friends Call](https://tally.so/r/eqraq0) - *the closest thing I have to a 'permanent starter call', with benefits*
+- [Permanent Interactions Call](https://tally.so/r/eqraq0) - *for a* **permanent starter call** *plus benefits*
+- [Multi-Muse Interest Tracker](https://tally.so/r/gD7v7d) - *for those with multiple muses &/or multimuse blogs only*
 ## Interactions Calls
 > [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
 
 - [Starter Call](https://tally.so/r/eqrr8J) - *for requesting that I write a starter for your muse(s)*
 - [Inbox Call](https://tally.so/r/NpXXKl) - *for requesting that I send prompts/memes to your inbox*
-
----
-# Rules & Guidelines
-- [[Rules & Guidelines/Actual Rules\|The Actual Rules]] - *must be read before following*
-- [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
-- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
-
----
-# Muse Rosters
-> [!faq]- Activity Levels Based On Fandom - Not Individual Muse
-> - **Activity is based on the fandom as opposed to the individual muse.**
-> - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
-> - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
-
-- [[Muse Info/! Open Muses - Roster\|Open Muses]] - *priority muses — available to everyone*
-- [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
-- [[Muse Info/Friends Only - Roster\|Friends Only]] - *by invitation only*
-- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available only for Mains & Best Friends Call Members*
+- Plotting Call - **Coming Soon**
+- Shipping & Dynamics Call - **Coming Soon**
+- Interactions Call - **Coming Soon**
+## Additional Support Forms
+- Incompatibility Checker - **Coming Soon**
+- Dragon Age Worldstate Customizer - **Coming Soon**
+- Mass Effect Galaxystate Customizer - **Coming Soon**
 
 ---
 # About the Mun
 - *name/alias:* Ziggy
 - *pronouns:* they/them
 - *age:* 40+
+- *timezone:* US Central Time (GMT -6 Standard / -5 Daylight Savings)[^5]
 - *rp & related blogs:* 
 	- [quantumstargazer](https://quantumstargazer.tumblr.com/) - *Multifandom Multimuse (PRIMARY & MAIN BLOG)*
 	
 	- [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) - *personal rp prompts/memes archive (sideblog)*
 	- [schrodingersstar](https://www.tumblr.com/schrodingersstar) - *personal rp aesthetics/inspiration archive (sideblog)* 
 
+> [!ziggy]- Chronically Ill & Disabled
+> 
+> **One of my conditions is Chronic Fatigue Syndrome**, and as such my actively can vary drastically, as I have very little energy at all on a daily basis. I also tend not to follow first as a result, because I refuse to follow *anyone* without properly checking out their blog first, reading their rules and whatnot.
+> 
+
+## Fandoms
 > [!example]+ Fandoms
 > - Baldur's Gate[^1] - ***secondary — moderate activity***
 > - Dragon Age - **primary — high activity**
@@ -146,3 +167,5 @@
 [^3]: When I am writing Peter Venkman, he is *not* the movie-verse Venkman, but rather the further developed characterization from **The *Real* Ghostbusters** (ie the sharp minded businessman who has a soft spot for kids and little old ladies who remind him of his mom) and it is extremely important that this is respected — failure to do so will likely result in the interactions being dropped.
 
 [^4]: Mostly the Marvel Cinematic Universe, prior to Avengers: Infinity War. In terms of *my* portrayal of Tony Stark, his MCU canon *stops* at Captain America: Civil War, where it then goes fully AU with dimensional travel and franchise swap, as he will be written as part of the DC universe, primarily focused on that of Batman: The Animated Series (as well as most of the animated movies), in addition to some fanmade content to be detailed in Tony's info once I'm ready to actually start writing him again.
+
+[^5]: I have no real schedule to upkeep, and tend to favour being nocturnal more often than not, though family issues may have me randomly flipping to being active during the day, though I am often then afk and not active on the dash during that time anyway.

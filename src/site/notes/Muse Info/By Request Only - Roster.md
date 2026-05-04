@@ -10,6 +10,8 @@
 # Baldur's Gate
 ## Astarion Ancunín
 > [!profile]- Astarion Ancunín (he/him)
+> - *Defaults to Spawn*
+> - *Ascendant by request & with plotting only*
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -221,11 +223,29 @@
 > - Headcanons
 > - Quick Guide
 > - Wishlists
+## Orabela Aeducan
+> [!profile]- Orabela Aeducan (she/her)
+> - *Canon Divergent Ruler of Orzammar*
+> 
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guide
+> - Wishlists
 
 ---
 # Mass Effect
 ## Sara Ryder
 > [!profile]- Sara Ryder (she/they)
+> - *Milky Way timeline & AUs available.*
+> 
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -240,6 +260,8 @@
 > - Wishlists
 ## Scott Ryder
 > [!profile]- Scott Ryder (he/they)
+> - *Milky Way timeline & AUs available.*
+> 
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -254,6 +276,8 @@
 > - Wishlists
 ## Evfra de Tershaav
 > [!profile]- Evfra de Tershaav (he/him)
+> - *Andromeda verses only*
+> 
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -268,6 +292,8 @@
 > - Wishlists
 ## Jaal Ama Darav
 > [!profile]- Jaal Ama Darav (he/him)
+> - *Andromeda verses only*
+> 
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.

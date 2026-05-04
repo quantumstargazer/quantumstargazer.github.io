@@ -7,14 +7,46 @@
 > No, I don't know why this isn't displaying properly, and it's so low priority that I'm not going to worry about it for now. This is just to give others an idea of what I've got planned and what I've finished, though this is by no means a definitive list of the work I'm doing on this project.
 
 ---
+# Drafts
+*Sorted by fandom setting, not muses' origin fandoms.*
+## Totals
+- [ ] 0 / 12
+### Baldur's Gate 
+- [ ] 0 / 2
+### Dragon Age
+- [ ] 0 / 2
+### Mass Effect
+- [ ] 0 / 8
+### Other Fandoms
+- [ ] 0 / 0
+### Ziggy - OOC
+- [ ] 0 / 0
+
+---
+# Inbox
+*Sorted by fandom setting, not muses' origin fandoms.*
+## Totals
+- [ ] 0 / 50
+### Baldur's Gate 
+- [ ] 0 / 4
+### Dragon Age
+- [ ] 0 / 2
+### Mass Effect
+- [ ] 0 / 42
+### Other Fandoms
+- [ ] 0 / 0
+### Ziggy - OOC
+- [ ] 0 / 2
+
+---
 # Misc Projects
 ## Additional Support Forms
-- [ ] Multimuse Interest Tracker (*for multimuse blogs only*)
-- [ ] Interactions Call (*open starters, random choice starter &/or memes*)
+- [ ] Multimuse Interest Tracker (*for multi muses only*)
+- [ ] Interactions Call (*all-in-one multi-type call*)
 - [ ] Shipping & Dynamics Call
 - [ ] Plotting Call (*pre-establishing basics*)
-- [ ] Custom Worldstate Builder (DA)
-- [ ] Custom Galaxystate Builder (ME)
+- [ ] Worldstate Customizer (DA)
+- [ ] Galaxystate Customizer (ME)
 
 ---
 # Muse Info

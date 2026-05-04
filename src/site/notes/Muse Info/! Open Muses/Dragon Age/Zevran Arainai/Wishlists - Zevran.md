@@ -24,16 +24,19 @@
 
 ---
 # Universal Wishlists
-> [!wishlist]-
+> [!wishlist]- Arainai Fledglings
 > TBA
 
 
 
 ---
 # Canon Typical
-## Verse Wishlists
-> [!attention] Not Currently Available
+## Dragon Age Wishlists
+> [!wishlist]- Eight Little Talons
+> - *Set in 9:45 Dragon*
 > 
+> TBA
+
 
 
 

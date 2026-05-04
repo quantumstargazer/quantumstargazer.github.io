@@ -7,6 +7,7 @@
 | Method           |             Accepted             |   Conditions   |
 | ---------------- | :------------------------------: | :------------: |
 | **Discord**      |               Yes                | *Mutuals Only* |
+| **Stoat**        |               Yes                | *Mutuals Only* |
 | **Tumblr Inbox** |               Yes                |      n/a       |
 | ***Tumblr IMs*** | **No** <br>*Quick Messages Only* | *Mutuals Only* |
 
@@ -15,6 +16,8 @@
 **Discord is my current primary means of communication for out-of-character chat, plotting, etc.**[^1] *Mutuals* can add me at any time — my handle is available in the pinned post of my blog immediately under the cut.
 ## Private Server Available Upon Request
 If you want a private 1-to-1 server for plotting, let me know. I have a template built already that can be used to help get things started, and can be adjusted to better suit our needs as necessary (the default structure works better for some people than it does others, so tweaks are made as necessary once we actually start using it).
+## Stoat Alternative 
+While I do have an account on Stoat, it is currently not as accessible to me as discord is thanks to the Better Discord plugins I use, so replies are likely to be more spotty there. I only share my stoat info with mutuals, and on request only.
 
 ---
 # Tumblr Inbox

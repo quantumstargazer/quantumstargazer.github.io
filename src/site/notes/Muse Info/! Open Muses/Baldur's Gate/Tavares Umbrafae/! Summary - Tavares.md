@@ -109,7 +109,7 @@
 >> [!info]- Verse Navigation 
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 D - Absolute Crisis - Tavares\|Dossier]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 V - Absolute Crisis - Tavares\|Verse]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 

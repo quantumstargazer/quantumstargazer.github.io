@@ -54,6 +54,9 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - Hazbin Hotel (*2019*)
 > - Helluva Boss
 > - Hellaverse & Related Fandoms
+> - The Freak Circus
+> 
+> **NOTE:** *If these are your primary and/or only fandoms, then I will not follow your blog. I genuinely have no interest in these fandoms, and no desire to see them on the dash, as I blacklist filter these to keep them off it.*
 
 ---
 # Faceclaims
