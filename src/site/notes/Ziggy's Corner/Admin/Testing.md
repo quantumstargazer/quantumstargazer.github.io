@@ -3,13 +3,13 @@
 ---
 
 > [!fas-infobox]+ Muse Info
-> # Mourn Watch
+> # Ward Ingellvar
 > 
 > ![Ward temp02.png\|cover](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
 > ![mournwatch.png\|icon](/img/user/z%20Assets/Attachments/mournwatch.png)
 > 
-> ## Ward Ingellvar
+> ## Mourn Watcher
 > | *pronouns* | They/Them |
 > | ---- | --- |
 > | *gender* | Agender |
