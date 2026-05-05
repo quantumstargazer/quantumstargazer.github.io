@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ziggy-s-corner/admin/testing/","dg-note-properties":{}}
 ---
 
-# Ward Ingellvar
 > [!fas-infobox]+ Muse Info
 > # Mourn Watch
 > 
@@ -22,8 +21,7 @@
 > 
 > > [!footer]
 > > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
-
-
+# Ward Ingellvar
 Testing to see how this works
 
 
