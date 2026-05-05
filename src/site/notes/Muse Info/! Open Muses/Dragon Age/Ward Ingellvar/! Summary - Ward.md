@@ -319,6 +319,8 @@
 # Private Verses & AUs
 ## corvusrookery - Solas
 > [!verse]- Dragon Age (Solas - corvusrookery)
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -330,6 +332,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Inquisition's Ghost (Solas - corvusrookery)
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -341,6 +345,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Ancient Times (Solas - corvusrookery)
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -352,6 +358,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Rebellion's Ghost (Solas - corvusrookery)
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -363,6 +371,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  
 
 > [!verse]- Spirit of Learning (Solas - corvusrookery)
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -377,6 +387,8 @@
 
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -390,6 +402,8 @@
 
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

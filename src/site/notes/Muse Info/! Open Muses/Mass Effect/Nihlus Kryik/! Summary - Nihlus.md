@@ -377,8 +377,66 @@
 
 ---
 # Private Verses & AUs
+## lanternlit - Wren Shepard
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
+## lanternlit - Garrus Vakarian
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
+## lanternlit - Hierarchy Trio
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
+## lanternlit - Tali'Zorah
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

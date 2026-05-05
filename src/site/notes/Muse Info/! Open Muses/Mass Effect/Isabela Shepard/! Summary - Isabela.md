@@ -640,6 +640,8 @@
 # Private Verses & AUs
 ## lanternlit - Garrus Vakarian 
 > [!verse]- VerseTitle ( Garrus — lanternlit )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -650,8 +652,24 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlist]]  
 
+## lanternlit - Hierarchy Trio
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
 ## lanternlit - Wren Shepard
 > [!verse]- VerseTitle ( Wren — lanternlit )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

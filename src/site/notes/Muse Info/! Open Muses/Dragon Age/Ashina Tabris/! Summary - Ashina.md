@@ -387,6 +387,8 @@
 # Private Verses & AUs
 ## corvusrookery - Viago de Riva 
 > [!verse]- Dragon Age ( Viago - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -398,6 +400,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Rook ( Viago - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -409,6 +413,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Inquisitor ( Viago - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -420,6 +426,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Inquisitor Crow ( Viago - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -431,6 +439,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows' Due ( Viago - corvusrookery ) 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -442,6 +452,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows' Design ( Viago - corvusrookery ) 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -453,6 +465,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Antivan Crows ( Viago - corvusrookery ) 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -464,7 +478,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Lyrium Ghost ( Viago - corvusrookery ) 
-> 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > - *CW: Major Character Death (temporary)*
 > 
 > Summary goes here.
@@ -480,7 +495,8 @@
 
 ## corvusrookery - 3 Talons & Their Crow
 > [!verse]- 3 Talons & Their Crow ( 3 Talons - corvusrookery )
-> 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
 > - *Multiple variants that mirror other verses.*
 > 
@@ -494,7 +510,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Rook ( 3 Talons - corvusrookery )
-> 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
 >
 > Summary goes here.
@@ -507,7 +524,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]] 
 
 > [!verse]- Crows Takeover ( 3 Talons - corvusrookery )
-> 
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > - *Polyamorous between Viago, Teia, Zevran, & Ashina.*
 > - *Heavily Divergent based on Origins & Awakening epilogue cards.*
 >
@@ -522,6 +540,8 @@
 
 ## corvusrookery - Andarateia Cantori 
 > [!verse]- Dragon Age ( Teia - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -533,6 +553,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 
 > [!verse]- Lyrium Ghost ( Teia - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -546,6 +568,8 @@
 
 ## lanternlit - Garrus Vakarian 
 > [!verse]- Mercenary Assassin ( Garrus - lanternlit )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

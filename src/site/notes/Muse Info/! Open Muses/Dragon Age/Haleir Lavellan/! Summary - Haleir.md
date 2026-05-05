@@ -303,6 +303,8 @@
 # Private Verses & AUs
 ## corvusrookery - Solas
 > [!verse]- Dragon Age ( Solas - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -314,6 +316,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]- Ancient Times ( Solas - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -325,6 +329,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlist]]  
 
 > [!verse]- Fen'Harel's Rebellion ( Solas - corvusrookery )
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

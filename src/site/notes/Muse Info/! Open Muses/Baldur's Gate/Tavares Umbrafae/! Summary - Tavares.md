@@ -283,6 +283,8 @@
 # Private Verses & AUs
 ## lanternlit - Astarion Ancunín
 > [!verse]- Absolute Crisis
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -295,6 +297,8 @@
 
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
