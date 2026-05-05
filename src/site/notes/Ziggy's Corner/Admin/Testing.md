@@ -4,7 +4,7 @@
 
 
 
-[[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares#Canon Divergent AUs\|! Summary - Tavares#Canon Divergent AUs]]
+[[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares#Canon Divergent AUs\|Tavares Umbrafae - Canon Divergent AUs]]
 
 
 
