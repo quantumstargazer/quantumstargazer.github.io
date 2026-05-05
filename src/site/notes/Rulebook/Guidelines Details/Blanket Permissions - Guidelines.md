@@ -26,3 +26,25 @@
 	- Message on discord &/or via tumblr inbox
 - **Add As Friend On Discord**
 	- Mutuals Only — info is in the pinned post
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

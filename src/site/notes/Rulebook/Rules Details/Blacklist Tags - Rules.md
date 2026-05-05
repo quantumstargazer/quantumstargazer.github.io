@@ -77,6 +77,22 @@ However, I do rely on the mobile app as well, so please tag posts with this aest
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: This *includes* casual mentions or "jokes" of you wanting to "kms".
 
 [^2]: Compassion fatigue is a very real thing, and if everyone is negative all the time, without forewarning before reading the posts, it can cause others to distance themselves from those making such posts, or even lead to them leaving tumblr all together because they're worn out by other people's ooc troubles that can't be blacklisted in any way if they're not tagged.

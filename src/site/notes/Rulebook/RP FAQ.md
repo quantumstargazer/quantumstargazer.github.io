@@ -125,6 +125,22 @@ If your rules change and suddenly become incompatible with my own, or your entir
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: That *don't* fall into the realm of "being a dick" — any and all anon hate is screen capped and mocked privately with my friends, while the messages themselves are blocked and/or reported.
 
 [^2]: I hold off on filling these until I'm certain I'm not going to be sending any other asks so I may send up to 10 at one time. I do *not* expect you to answer all of them, especially not all at once - I am only trying to provide you with options and variety. Feel free to delete anything you're not interested in doing.

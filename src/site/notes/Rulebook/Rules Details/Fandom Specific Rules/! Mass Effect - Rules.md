@@ -34,3 +34,19 @@ However, I rely heavily on canon-divergence where the ending is concerned, much 
 - **Shepard survives & is recovered by crew** - Shepard's MIA status is temporary, with the crew being insistent on searching for them after having lost them once before, refusing to believe they're dead again until they see them for themselves.
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

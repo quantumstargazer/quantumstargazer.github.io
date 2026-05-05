@@ -78,6 +78,22 @@ I end up spending a lot of time on mobile, and since I rely heavily on userscrip
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: Sideblog for archiving any and all of the memes, prompts lists, etc. for personal roleplaying purposes. All memes on the blog are considered "active" and may be sent in no matter how long ago I reblogged it.
 
 [^2]: Tagged as **; partnerurl / partnermuse & mymuse / 000** with the appropriate number for which thread the interaction is.

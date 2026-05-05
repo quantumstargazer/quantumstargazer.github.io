@@ -283,6 +283,8 @@ Because the [[Rulebook/Guidelines\|Guidelines]] are not entirely universal, depe
 
 
 
+
+
 [^1]: Given that I only write with those who are 21 years or older, if you've reached *that point* of your life and *still* don't know how to be a decent human being, then I truly would rather you go elsewhere, because I don't have the time nor the energy to deal with that kind of bullshit.
 
 [^2]: I have severe memory issues due to various comorbid medical conditions, including a traumatic brain injury, so I sincerely *cannot* be relied on to remember if you merely unfollowed &/or soft blocked me. It is for the best that I simply *remain blocked*, and that if you move to a new blog in the future, *especially* if you change your username, that you continue to block me from the new blog(s) as well.

@@ -75,6 +75,25 @@ But if I don't know there's any active interest in it, I don't know to actually 
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: **Queerplatonic Relationship** - https://lgbtqia.fandom.com/wiki/Queerplatonic_relationship
 
 [^2]: Some of these dynamics may also be possible as canon romances, but this is playing off the assumption that they are *not* romancing and/or necessarily engaging in sexual activity together.

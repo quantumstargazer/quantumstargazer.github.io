@@ -34,4 +34,20 @@ IMs are fine in cases of just sending a quick link or a simple one-off message t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]: Given the privacy concerns involved therein, this may change in the near future if a suitable replacement can be found *and* agreed upon by the majority of users. As it is, I rely *heavily* on Better Discord extensions to make even discord accessible for myself, so finding a suitable replacement is much more difficult, especially since I'm not looking for voice or video, and just need a reliable means of having searchable forum-like chat structures for organisation where servers are concerned.
