@@ -20,7 +20,7 @@
 > | *year of birth* | 9:30 Dragon |
 > | *date of birth* | 30th of  Harvestmere |
 > 
-> Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
+> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et.
 > 
 > > [!footer]
 > > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
