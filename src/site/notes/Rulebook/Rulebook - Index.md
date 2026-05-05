@@ -4,6 +4,9 @@
 
 # QuantumStargazer Rulebook - Index
 
+> [!bug] UNDER CONSTRUCTION
+> **This page is still a work in progress.**
+
 ---
 # The Actual Rules
 1. [[Rulebook/Actual Rules#The Actual Rules\|The Actual Rules]]
