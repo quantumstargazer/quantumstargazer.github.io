@@ -162,6 +162,7 @@
 
 ## Dragon Age AUs
 > [!verse]+ Lights of Arlathan
+> - *Setting:* **Dragon Age**
 > 
 > Tavares is a direct descendant of the refugees of Arlathan who found sanctuary in Cadash Thaig and survived the thaig's destruction by the army of Kal-Sharok. The survivors never returned to the surface, and most believe these "Drow" to be myths... or tainted by the blight.
 > 
@@ -221,6 +222,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 

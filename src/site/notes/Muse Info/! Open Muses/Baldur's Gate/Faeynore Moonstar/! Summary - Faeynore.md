@@ -149,6 +149,7 @@
 
 ## Dragon Age AUs
 > [!verse]- Lights of Arlathan
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -208,6 +209,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 

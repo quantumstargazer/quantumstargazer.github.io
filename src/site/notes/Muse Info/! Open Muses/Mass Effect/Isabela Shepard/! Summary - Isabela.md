@@ -461,7 +461,7 @@
 
 ## Dragon Age AUs
 > [!verse]- Breaking Quarantine
-> 
+> - *Setting:* **Dragon Age**
 > - *Plays off the mutual easter eggs found in both games*
 > 
 > Summary goes here.
@@ -553,6 +553,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
