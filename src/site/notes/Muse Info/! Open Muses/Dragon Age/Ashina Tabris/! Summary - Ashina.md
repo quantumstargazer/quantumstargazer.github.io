@@ -268,7 +268,7 @@
 
 ## Mass Effect AUs
 > [!verse]- Mercenary Assassin
-> 
+> - *Setting:* **Mass Effect**
 > - *Starts around 2184 to 2185 CE*
 > - *Can be found on Omega — Backstory based on City Elf Origin in Dragon Age.*
 > 
@@ -339,6 +339,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
