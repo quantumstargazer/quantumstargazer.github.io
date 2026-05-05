@@ -97,10 +97,10 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge#Wandering Dirge Headcanons\|Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge#Wandering Dirge Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge#Wandering Dirge Wishlists\|Wishlist]]
 
 ---
 # Canon Divergent AUs
