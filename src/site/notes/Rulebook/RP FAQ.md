@@ -130,4 +130,3 @@ If your rules change and suddenly become incompatible with my own, or your entir
 [^2]: I hold off on filling these until I'm certain I'm not going to be sending any other asks so I may send up to 10 at one time. I do *not* expect you to answer all of them, especially not all at once - I am only trying to provide you with options and variety. Feel free to delete anything you're not interested in doing.
 
 [^3]: This is made even worse when there is a lack of proper sentence case and punctuation, though I can usually tolerate it so long as paragraph breaks are used properly.
-
