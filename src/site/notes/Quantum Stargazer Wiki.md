@@ -32,9 +32,9 @@
 
 ---
 # Rules & Guidelines
-- [[Rules & Guidelines/Actual Rules\|The Actual Rules]] - *must be read before following*
-- [[Rules & Guidelines/Guidelines\|RP Guidelines]] - *may not apply to everyone*
-- [[Rules & Guidelines/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
+- [[Rulebook/Actual Rules\|The Actual Rules]] - *must be read before following*
+- [[Rulebook/Guidelines\|RP Guidelines]] - *may not apply to everyone*
+- [[Rulebook/RP FAQ\|Frequently Asked Questions]] - *answers to common things that have come up over the years*
 
 ---
 # Muse Rosters
