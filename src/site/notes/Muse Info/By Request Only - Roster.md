@@ -22,7 +22,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Jaheira
 > [!profile]- Jaheira (she/her)
@@ -36,7 +36,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Minthara Baenre
 > [!profile]- Minthara Baenre (she/her)
@@ -50,7 +50,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---
@@ -67,7 +67,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Dorian Pavus
 > [!profile]- Dorian Pavus (he/him)
@@ -81,7 +81,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Viago de Riva
 > [!profile]- Viago de Riva (he/him)
@@ -95,7 +95,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Andarateia Cantori
 > [!profile]- Andarateia Cantori (she/her)
@@ -109,7 +109,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Lucanis Dellamorte
 > [!profile]- Lucanis Dellamorte (he/him)
@@ -123,7 +123,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Spite
 > [!profile]- Spite (he/they/it)
@@ -137,7 +137,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Emmrich Volkarin
 > [!profile]- Emmrich Volkarin (he/him)
@@ -151,7 +151,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Manfred
 > [!profile]- Manfred (he/they)
@@ -165,7 +165,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Vorgoth
 > [!profile]- Vorgoth (they/them)
@@ -179,7 +179,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Sten
 > [!profile]- Sten (he/him)
@@ -193,7 +193,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Shale
 > [!profile]- Shale (they/she)
@@ -207,7 +207,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Sigrun
 > [!profile]- Sigrun (she/her)
@@ -221,7 +221,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Orabela Aeducan
 > [!profile]- Orabela Aeducan (she/her)
@@ -237,7 +237,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---
@@ -256,7 +256,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Scott Ryder
 > [!profile]- Scott Ryder (he/they)
@@ -272,7 +272,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Evfra de Tershaav
 > [!profile]- Evfra de Tershaav (he/him)
@@ -288,7 +288,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Jaal Ama Darav
 > [!profile]- Jaal Ama Darav (he/him)
@@ -304,7 +304,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---

@@ -16,7 +16,7 @@ This *should* got without saying, *and yet...*[^1]
 > **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, *and* on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes. There is *no excuse* for not knowing each muse's pronouns.
 
 ---
-# Do Not Follow or Interact
+# Do Not Follow or Interact If
 **You are not welcome on any of my blogs if *you* exhibit:** 
 - homophobia
 - biphobia

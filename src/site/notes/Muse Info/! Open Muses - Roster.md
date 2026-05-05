@@ -31,7 +31,7 @@
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Connections - Tavares\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -60,7 +60,7 @@
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Connections - Faeynore\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -87,7 +87,7 @@
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Connections - Dirge\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -120,7 +120,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -149,7 +149,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Connections - Zaehire\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -178,7 +178,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Connections - Leonardo\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -207,7 +207,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -234,7 +234,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Connections - Zevran\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -265,7 +265,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Connections - Haleir\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -292,7 +292,7 @@
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Connections - Bertrand\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -324,7 +324,7 @@
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Connections - Isabela\|Connections]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]]
-> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlists]]
 
 > [!tags]- Tumblr Tags
@@ -351,7 +351,7 @@
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Connections - Nihlus\|Connections]]
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]]
-> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlists]]
 
 > [!tags]- Tumblr Tags

@@ -22,7 +22,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Faertorithrue
 > [!profile]+ Faertorithrue (she/they)
@@ -37,7 +37,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Fenmaer Dawngazer
 > [!profile]+ Fenmaer Dawngazer (he/him)
@@ -52,7 +52,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Fisk (*The Enigma*)
 > [!profile]- Fisk (they/them)
@@ -67,7 +67,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Halima
 > [!profile]- Halima (she/her)
@@ -82,7 +82,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Karlach Cliffgate \[Private]
 > [!profile]- Karlach Cliffgate (she/her)
@@ -98,7 +98,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---
@@ -115,7 +115,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Abelas
 > [!profile]- Abelas (he/him)
@@ -129,7 +129,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## (Sentinel Elf - To Be Named)
 > [!profile]- TBD (he/him)
@@ -144,7 +144,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Bellara Lutare
 > [!profile]- Bellara Lutare (she/her)
@@ -158,7 +158,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Clark Kent
 > [!profile]- Clark Kent (he/him)
@@ -173,7 +173,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Bruce Wayne
 > [!profile]- Bruce Wayne (he/him)
@@ -188,7 +188,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---
@@ -205,7 +205,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Mordin Solus
 > [!profile]- Mordin Solus (he/him)
@@ -219,7 +219,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Thane Krios
 > [!profile]- Thane Krios (he/him)
@@ -233,7 +233,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Javik
 > [!profile]- Javik (he/him)
@@ -247,7 +247,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 
@@ -268,7 +268,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Courier
 > [!profile]- Courier (he/they)
@@ -282,7 +282,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Stardew Valley Expanded
 ### Magnus Rasmodius
@@ -297,7 +297,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Elliot
 > [!profile]- Elliot (he/him)
@@ -311,7 +311,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Gunter
 > [!profile]- Gunter (he/him)
@@ -325,7 +325,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 

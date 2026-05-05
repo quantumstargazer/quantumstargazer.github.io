@@ -59,21 +59,21 @@
 
 ### 21 & Mutuals Only
 1. [[Rulebook/Rules Details/21+ + Mutuals Only - Rules#21+ & Mutuals Only\|21+ & Mutuals Only]]
-	1. [[Rulebook/Rules Details/21+ + Mutuals Only - Rules#\|Only Interacts With 21+]]
-	2. [[Rulebook/Rules Details/21+ + Mutuals Only - Rules#\|Rated for Mature Audiences Only]]
+	1. [[Rulebook/Rules Details/21+ + Mutuals Only - Rules#Only Interacts With 21+\|Only Interacts With 21+]]
+	2. [[Rulebook/Rules Details/21+ + Mutuals Only - Rules#Rated for Mature Audiences Only\|Rated for Mature Audiences Only]]
 
 ### Banned & Restricted Content
 1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Banned & Restricted Content\|Banned & Restricted Content]]
 2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#AI Generated Content\|AI Generated Content]]
 3. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Tropes & Themes\|Tropes & Themes]]
-	1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#\|Banned Tropes & Themes]]
-	2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#\|Restricted Tropes & Themes]]
+	1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Banned Tropes & Themes\|Banned Tropes & Themes]]
+	2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Restricted Tropes & Themes\|Restricted Tropes & Themes]]
 4. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Fandoms\|Fandoms]]
-	1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#\|Banned Fandoms]]
-	2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#\|Restricted Fandoms]]
+	1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Banned Fandoms\|Banned Fandoms]]
+	2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Restricted Fandoms\|Restricted Fandoms]]
 5. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Faceclaims\|Faceclaims]]
-	1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#\|Banned Faceclaims]]
-	2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#\|Restricted Faceclaims]]
+	1. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Banned Faceclaims\|Banned Faceclaims]]
+	2. [[Rulebook/Rules Details/Banned + Restricted Content - Rules#Restricted Faceclaims\|Restricted Faceclaims]]
 
 ### Blacklist Tags
 1. [[Rulebook/Rules Details/Blacklist Tags - Rules#Blacklist Tags\|Blacklist Tags]]
@@ -91,9 +91,9 @@
 
 ### Don't Be A Dick
 1. [[Rulebook/Rules Details/Don't Be A Dick - Rules#Don't Be A Dick\|Don't Be A Dick]]
-2. [[Rulebook/Rules Details/Don't Be A Dick - Rules#Muse ≠ Mun\|Muse ≠ Mun]]
+2. [[Rulebook/Rules Details/Don't Be A Dick - Rules#Muse ≠ Mun\|Muse ≠= Mun]]
 3. [[Rulebook/Rules Details/Don't Be A Dick - Rules#Don't Misgender Muses\|Don't Misgender Muses]]
-4. [[Rulebook/Rules Details/Don't Be A Dick - Rules#Do Not Follow or Interact\|Do Not Follow or Interact]]
+4. [[Rulebook/Rules Details/Don't Be A Dick - Rules#Do Not Follow or Interact If\|Do Not Follow or Interact If]]
 
 ### Exclusivity
 1. [[Rulebook/Rules Details/Exclusivity - Rules#Mutuals Only Exclusivity\|Mutuals Only Exclusivity]]
