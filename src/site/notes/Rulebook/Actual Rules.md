@@ -64,7 +64,7 @@ I *will not* follow and/or roleplay with you if:
 ### If You Follow Me First
 **If you follow first**, I *will not* interact with you except through inbox prompts/memes that are tagged was "*Open For Everyone*" until I have had a chance to read your rules, and check your blog out.
 
-> *For Further Details, See:* [[Rulebook/Rules Details/21+ & Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rulebook/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
+> *For Further Details, See:* [[Rulebook/Rules Details/21+ + Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rulebook/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
 
 ---
 # Curate Your Own Dash
@@ -150,7 +150,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > 
 > **NOTE:** *I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.*
 
-> *For Further Details, See:* [[Rulebook/Rules Details/Banned & Restricted Content - Rules\|Banned & Restricted Content]]
+> *For Further Details, See:* [[Rulebook/Rules Details/Banned + Restricted Content - Rules\|Banned & Restricted Content]]
 
 ---
 # Interacting
