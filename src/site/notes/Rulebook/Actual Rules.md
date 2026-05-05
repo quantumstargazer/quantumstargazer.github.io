@@ -75,7 +75,7 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 ## Disinterest Tracker
 **If you are disinterested in interacting with any muse(s) and/or verse(s), you *need* to fill out the [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]]** — all [[Muse Info/! Open Muses - Roster\|Open Muses]] are considered fair game for me to send your way so long as we're mutuals *unless* you have explicitly told me otherwise by filling out the form. I do *not* accept this information through any other means, as the forms are a form of accessibility accommodations for myself, given my severe memory issues.
 
-> *For Further Details, See:* [[Rulebook/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rulebook/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+> *For Further Details, See:* [[Rulebook/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rulebook/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 
 ---
 # Banned & Restricted Content
@@ -155,7 +155,7 @@ The following content is banned or restricted due to *personal reasons*. All ban
 ---
 # Interacting
 ## Do's & Don'ts
-**Be sure to check the [[Rulebook/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
+**Be sure to check the [[Rulebook/FAQ Details/Do's + Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
 ## RP Forms
 **All of my forms are now embedded in the [[Interactive Forms\|Interactive Forms]] page for your convenience.** This allows you to see all of the forms in one go, and fill out the ones that are applicable. 
 ### Interaction Calls
@@ -178,7 +178,7 @@ While the interest tracking forms are *optional*, they are highly recommended �
 > 	- If they're ***not* in the same fandom**, this will usually be the corresponding ***Trapped In Another Universe AU*** verse for that fandom, unless you *specifically* request for it to be the ***Fandom Specific AU*** verse instead.
 > 
 
-> *For Further Details (& Examples), See:* [[Rulebook/FAQ Details/Do's & Don'ts - FAQ\|Do's & Don'ts]], [[Rulebook/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rulebook/Guidelines Details/Interactions - Guidelines\|Interactions]]
+> *For Further Details (& Examples), See:* [[Rulebook/FAQ Details/Do's + Don'ts - FAQ\|Do's & Don'ts]], [[Rulebook/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rulebook/Guidelines Details/Interactions - Guidelines\|Interactions]]
 
 ---
 # Additional Rules May Apply
@@ -261,14 +261,14 @@ Because the [[Rulebook/Guidelines\|Guidelines]] are not entirely universal, depe
 - [[Rulebook/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
 - [[Rulebook/Guidelines Details/Communications - Guidelines\|Communications]]
 - [[Rulebook/Guidelines Details/Inbox - Guidelines\|Inbox]]
-- [[Rulebook/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+- [[Rulebook/Guidelines Details/Forms — Interaction - Guidelines\|Interaction Forms]]
 - [[Rulebook/Guidelines Details/Interactions - Guidelines\|Interactions]]
-- [[Rulebook/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
-- [[Rulebook/Guidelines Details/Mods & Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+- [[Rulebook/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
+- [[Rulebook/Guidelines Details/Mods + Expanded Canon - Guidelines\|Mods & Expanded Canon]]
 - [[Rulebook/Guidelines Details/Muses - Guidelines\|Muses]]
-- [[Rulebook/Guidelines Details/Ships & Dynamics - Guidelines\|Ships & Dynamics]]
+- [[Rulebook/Guidelines Details/Ships + Dynamics - Guidelines\|Ships & Dynamics]]
 - [[Rulebook/Guidelines Details/Starters - Guidelines\|Starters]]
-- [[Rulebook/Guidelines Details/Verses & AUs - Guidelines\|Verses & AUs]]
+- [[Rulebook/Guidelines Details/Verses + AUs - Guidelines\|Verses & AUs]]
 
 > *For Further Details, See:* [[Rulebook/Guidelines\|Guidelines]] 
 

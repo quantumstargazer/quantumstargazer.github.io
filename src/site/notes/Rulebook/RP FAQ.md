@@ -89,12 +89,12 @@ If you're looking to start a thread with me, these are the best means to do so:
 - *Most commonly reserved for Mains, Permanent Interactions Call Members, & shipping partners*
 - **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
-> *For Further Details, See:* [[Rulebook/FAQ Details/Verses & AUs - FAQ\|Verses & AUs]]
+> *For Further Details, See:* [[Rulebook/FAQ Details/Verses + AUs - FAQ\|Verses & AUs]]
 
 ---
 # Blocking & Following
 
-> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
 
 ---
 # Blocking
@@ -102,14 +102,14 @@ If you're looking to start a thread with me, these are the best means to do so:
 ## Hard Block - Never Soft Block
 I have severe memory issues, so I do *not* soft block, even if that is *your* preference. My memory is not reliable enough to ensure I don't attempt to refollow anyone who isn't hard blocked, so I will *always* outright hard block anyone I do not wish to see on my dash at all. If you are bothered by people hard blocking you, then I may not be a suitable roleplay partner for you, in the event that blocking is ever needed in the future, because I will *not* be making exceptions to this for *anyone*.
 
-> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
 
 ---
 # Following
 ## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
 
-> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
 
 ---
 # Unfollowing
@@ -120,7 +120,7 @@ I will typically unfollow any archived blogs whenever I notice the announcement 
 ## Sudden Incompatibility
 If your rules change and suddenly become incompatible with my own, or your entire blogs changes to the point that I'm no longer comfortable following you for whatever reason, I will typically unfollow and likely block in the process as well, where such incompatibility issues are concerned so as not to accidentally refollow again in the future.
 
-> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking & Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
 
 ---
 

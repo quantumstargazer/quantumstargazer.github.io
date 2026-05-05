@@ -9,7 +9,7 @@
 
 ---
 # Interaction Call Forms
-> *For more information about these forms, see:* [[Rulebook/Guidelines Details/Interaction Forms - Guidelines\|Interaction Forms]]
+> *For more information about these forms, see:* [[Rulebook/Guidelines Details/Forms — Interaction - Guidelines\|Interaction Forms]]
 
 > [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
@@ -34,7 +34,7 @@
 
 ---
 # Interest Tracking Forms
-> *For more information about these forms, see:* [[Rulebook/Guidelines Details/Interest Tracking Forms - Guidelines\|Interest Tracking Forms]]
+> *For more information about these forms, see:* [[Rulebook/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 ## Disinterest Tracker
 > [!rule]- Interest Assumed For All Open Muses Unless Filled Out
 > Unless you fill out the **Disinterest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my [[Muse Info/! Open Muses - Roster\|Open Muses]] in any of their canon-based verses and/or their fandom matched verses & AUs.

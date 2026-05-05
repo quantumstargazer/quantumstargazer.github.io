@@ -52,6 +52,43 @@
 		1. [[Rulebook/Actual Rules#Guidelines Details\|Guidelines Details]]
 9. [[Rulebook/Actual Rules#Rules Passwords\|Rules Passwords]]
 
+## Rules Details
+
+### 21 & Mutuals Only
+
+
+### Banned & Restricted Content
+
+
+### Blacklist Tags
+
+
+### Curate Your Own Dash
+
+
+### Don't Be A Dick
+
+
+### Exclusivity
+
+
+### Sexual Content
+
+
+
+### Fandom Specific Rules
+#### Baldur's Gate
+
+
+#### Dragon Age
+
+
+#### Mass Effect
+
+
+#### Other Fandoms
+
+
 ---
 # Guidelines
 1. [[Rulebook/Guidelines#Guidelines\|Guidelines]]
@@ -104,6 +141,51 @@
 		1. [[Rulebook/Guidelines#Strict Plotters\|Strict Plotters]]
 10. [[Rulebook/Guidelines#Additional Guidelines\|Additional Guidelines]]
 
+## Guidelines Details
+### Blanket Permissions
+
+
+### Communications
+
+
+### Inbox
+
+
+### Interaction Forms
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+### Guidelines
+
+
+
+
+
+
+
+
+
+
 ---
 # Frequently Asked Questions
 1. [[Rulebook/RP FAQ#Frequently Asked Questions\|Frequently Asked Questions]]
@@ -130,6 +212,15 @@
 	1. [[Rulebook/RP FAQ#No Interactions\|No Interactions]]
 	2. [[Rulebook/RP FAQ#Archived Blogs\|Archived Blogs]]
 	3. [[Rulebook/RP FAQ#Sudden Incompatibility\|Sudden Incompatibility]]
+
+## FAQ Details
+### FAQ
+
+
+
+
+
+
 
 
 

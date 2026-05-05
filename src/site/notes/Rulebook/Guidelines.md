@@ -150,7 +150,7 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 > 
 > **Sending such is *not* considered forced shipping** — if I don't feel we're quite there yet, I will simply let the ask hang out in the inbox until a more suitable time to answer it.
 
-> *For Further Details, See:* [Ships & Dynamics](Ships%20&%20Dynamics%20-%20Guidelines.md)
+> *For Further Details, See:* [Ships & Dynamics](Ships%20+%20Dynamics%20-%20Guidelines.md)
 
 ---
 # Verses & AUs
@@ -171,7 +171,7 @@ It is *exceptionally rare* that I am willing to let anyone other than the intend
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
-> *For Further Details, See:* [Verses & AUs](Verses%20&%20AUs%20-%20Guidelines.md)
+> *For Further Details, See:* [Verses & AUs](Verses%20+%20AUs%20-%20Guidelines.md)
 
 ---
 # Plotting
@@ -189,9 +189,9 @@ As such, private verses are most likely available *only* for their intended part
 
 ---
 # Additional Guidelines
-- [Interaction Forms](Interaction%20Forms%20-%20Guidelines.md)
-- [Interest Tracking Forms](Interest%20Tracking%20Forms%20-%20Guidelines.md)
-- [Mods & Expanded Canon](Mods%20&%20Expanded%20Canon%20-%20Guidelines.md)
+- [Interaction Forms](Forms%20—%20Interaction%20-%20Guidelines.md)
+- [Interest Tracking Forms](Forms%20—%20Interest%20Tracking%20-%20Guidelines.md)
+- [Mods & Expanded Canon](Mods%20+%20Expanded%20Canon%20-%20Guidelines.md)
 
 > *For Further Details, See:* TBA
 
