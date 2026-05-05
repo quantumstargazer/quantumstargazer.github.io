@@ -236,6 +236,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -260,6 +261,7 @@
 
 ### Star Trek AUs
 > [!verse]- Starfleet
+> - *Setting:* **Star Trek**
 > 
 > Summary goes here.
 > 
@@ -318,6 +320,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -341,6 +344,7 @@
 
 ### Star Trek AWs
 > [!verse]- Anomaly On Sensors
+> - *Setting:* **Star Trek**
 > 
 > Summary goes here.
 > 
