@@ -359,8 +359,8 @@
 ---
 # Other Verses & AUs
 > [!verse]- Crucible BS
-> 
-> - *Space Magic Fuckery (Multifandom Displacement)*
+> - *Setting:* **Varies (Multiverse)**
+> - **Multiverse Travel** — *Inspired by space magic bullshittery*
 > 
 > Summary goes here.
 > 

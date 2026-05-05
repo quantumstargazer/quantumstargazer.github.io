@@ -621,8 +621,8 @@
 ---
 # Other Verses & AUs
 > [!verse]- Crucible BS
-> 
-> - *Space Magic Fuckery (Multifandom Displacement)*
+> - *Setting:* **Varies (Multiverse)**
+> - **Multiverse Travel** — *Inspired by space magic bullshittery*
 > 
 > When the Crucible is fired, the energy from the blast rocketing out into the relay network destroys the Reapers. It also causes a more localized tear in the fabric of space-time, and Isabela finds herself waking up in an unfamiliar world and/or time, with no idea if returning home is even possible.
 > 
