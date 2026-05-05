@@ -30,7 +30,7 @@
 
 ---
 # Applicable Verses & AUs
-*This dossier applies to the following verse(s) and/or AUs:*
+*Verse(s) and/or AUs:*
 - QuickID
 # Universe Setting
 - *Fandom:* **Fandom**
