@@ -84,6 +84,7 @@
 
 ---
 # Canon Typical
+## Wandering Dirge
 > [!verse]+ Wandering Dirge
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
@@ -104,6 +105,7 @@
 
 ---
 # Canon Divergent AUs
+## Absolute Crisis
 > [!verse]+ Absolute Crisis
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
@@ -122,6 +124,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
+## Bhaal's Chosen
 > [!verse]+ Bhaal's Chosen
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
@@ -139,6 +142,7 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
+### Scion of the Outer Planes
 > [!verse]- Scion of the Outer Planes
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
@@ -151,6 +155,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
+### Astral Drifter
 > [!verse]- Astral Drifter
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
@@ -177,6 +182,7 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
+#### In Time & Space
 > [!verse]- In Time & Space
 > - *Setting:* **Varies (Multiverse)**
 > 
@@ -205,6 +211,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 
+### Planar Agent
 > [!verse]- Planar Agent
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
@@ -218,6 +225,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Dragon Age AWs
+### This Shit Is Weird
 > [!verse]- This Shit Is Weird
 > - *Setting:* **Dragon Age**
 > 
@@ -231,6 +239,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Mass Effect AWs
+### Anomaly Detected
 > [!verse]- Anomaly Detected
 > - *Setting:* **Mass Effect**
 > 
@@ -245,6 +254,7 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
+#### Companion
 > [!verse]- Companion
 > - *Setting:* **Varies (Multiverse)**
 > 
@@ -278,6 +288,7 @@
 ---
 # Private Verses & AUs
 ## Partner - PartnerMuse
+### VerseTitle ( PartnerMuse — Partner )
 > [!verse]- VerseTitle
 > - *Setting:* **Fandom**
 > - *Default Timeline:* **Timeline**
