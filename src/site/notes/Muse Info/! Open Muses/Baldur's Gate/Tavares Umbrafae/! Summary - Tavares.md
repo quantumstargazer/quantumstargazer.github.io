@@ -4,9 +4,9 @@
 
 # Tavares Umbrafae
 
-![20250810034220.png](/img/user/z%20Assets/Attachments/20250810034220.png)
-
 > [!profile]+ Muse Info
+> ![20250810034220.png\|150](/img/user/z%20Assets/Attachments/20250810034220.png)
+> 
 > - *name:* Tavares Umbrafae
 > - *nickname:* Tav
 > - *alias:* — 
@@ -100,78 +100,55 @@
 
 ---
 # Canon Typical
-> [!verse]+ Absolute Crisis
+## Absolute Crisis
+> [!verse]+ Absolute Crisis ( Baldur's Gate )
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
+> - *Role:* **Tav / Party Leader**
 > 
- > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
+> Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
 >  
 > As she ventures out onto the surface and away from the city in the ice, she falls victim to a mind flayer's nautiloid, where she is infected with one of their parasitic tadpoles before an attack on the ship leads to her and others like her finding their freedom within the wilderness of the Storm Coast, desperate for a cure before they themselves are turned into mind flayers.
 > 
 >> [!info]- Verse Navigation 
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 D - Absolute Crisis - Tavares\|Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 V - Absolute Crisis - Tavares\|Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - [[Muse Info/! Open Muses (Old)/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 D - Absolute Crisis - Tavares\|Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#Absolute Crisis Headcanons\|Headcanons]]
+>> - [[Muse Info/! Open Muses (Old)/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/0.1 V - Absolute Crisis - Tavares\|Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#Absolute Crisis Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#Absolute Crisis Wishlists\|Wishlist]]
 
 ---
 # Canon Divergent AUs
-> [!verse]+ Callidae Exile 
+## Callidae Exile
+> [!verse]+ Callidae Exile ( Baldur's Gate )
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
-> - *Companion (Non-Party Leader) AU*
+> - *Role:* **Companion** *(Non-Tav / Party Leader)*
 > 
 > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#Callidae Exile Headcanons\|Headcanons]] 
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#Callidae Exile Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#Callidae Exile Wishlists\|Wishlist]]
 
 
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!verse]- Scion of the Outer Planes
-> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> [!attention] Not Currently Available
 > 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 
-> [!verse]- Astral Drifter
-> - *Setting:* **Baldur's Gate / Forgotten Realms**
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+
 
 ## Dragon Age AUs
-> [!verse]+ Lights of Arlathan
-> - *Setting:* **Dragon Age**
+> [!attention] Not Currently Available
 > 
-> Tavares is a direct descendant of the refugees of Arlathan who found sanctuary in Cadash Thaig and survived the thaig's destruction by the army of Kal-Sharok. The survivors never returned to the surface, and most believe these "Drow" to be myths... or tainted by the blight.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/2 Fandom Specific AUs/2 DA.1 - Lights of Arlathan - Tavares\|Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+
+
 
 ## Mass Effect AUs
 > [!attention] Not Currently Available
@@ -181,17 +158,18 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-> [!verse]- In Time & Space
+#### One Big Continuity Error
+> [!verse]- One Big Continuity Error — Crossover ( Doctor Who )
 > - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - |Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - |Quick Guide]]
+>> - |Wishlist]] 
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -208,58 +186,64 @@
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-
-> [!verse]- Planar Agent
+### Absolute Crisis
+> [!verse]- Absolute Crisis — Another World ( Baldur's Gate )
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - |Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - |Quick Guide]]
+>> - |Wishlist]] 
+
+
 
 ## Dragon Age AWs
-> [!verse]- This Shit Is Weird
+#### This Shit Is Weird
+> [!verse]- This Shit Is Weird — Another World ( Dragon Age )
 > - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - |Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - |Quick Guide]]
+>> - |Wishlist]] 
 
 ## Mass Effect AWs
-> [!verse]- Anomaly Detected
+#### Anomaly Detected
+> [!verse]- Anomaly Detected — Another World ( Mass Effect )
 > - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - |Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - |Quick Guide]]
+>> - |Wishlist]] 
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-> [!verse]- Companion
+#### Previously—Next Time
+> [!verse]- Previously—Next Time — Another World ( Doctor Who )
 > - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - |Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+>> - |Quick Guide]]
+>> - |Wishlist]] 
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available
@@ -281,32 +265,11 @@
 
 ---
 # Private Verses & AUs
-## lanternlit - Astarion Ancunín
-> [!verse]- Absolute Crisis
-> - *Setting:* **Fandom**
-> - *Default Timeline:* **Timeline**
+> [!attention] Not Currently Available
 > 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 
-## Partner - PartnerMuse
-> [!verse]- VerseTitle
-> - *Setting:* **Fandom**
-> - *Default Timeline:* **Timeline**
-> 
-> Summary goes here.
-> 
->> [!info]- Verse Navigation 
->> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
->> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
+
+
+
 
 
