@@ -255,9 +255,9 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis
-> [!verse]- Absolute Crisis — Another World ( Baldur's Gate )
+> [!verse]+ Absolute Crisis — Another World ( Baldur's Gate )
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
-> - *Abducted By Nautiloid AU*
+> - *AU:* **Abducted By Nautiloid**
 > 
 > Summary goes here.
 > 
@@ -326,10 +326,19 @@
 
 ---
 # Other Verses & AUs
-> [!attention] Not Currently Available
+## Eluvian Explorer
+> [!verse]+ Eluvian Explorer — Another World ( Multiverse )
+> - *Setting:* **Varies (Multiverse)**
+> - *AU:* **Multiverse Travel** — *Inspired by Morrigan's dialogue in Witch Hunt*
 > 
-
-
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]] 
 
 
 
@@ -339,6 +348,9 @@
 # Private Verses & AUs
 > [!attention] Not Currently Available
 > 
+
+
+
 
 
 
