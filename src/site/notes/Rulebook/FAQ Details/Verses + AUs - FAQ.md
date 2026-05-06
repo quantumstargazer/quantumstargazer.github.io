@@ -3,6 +3,19 @@
 ---
 
 # Verses & AUs
+
+---
+# How Verses Work
+
+## Canon-Based or Fandom Match
+![Wiki Notes (May)_6_20260506_130037.png](/img/user/z%20Assets/Attachments/Wiki%20Notes%20(May)_6_20260506_130037.png)
+
+### Example
+![Wiki Notes (May)_7_20260506_132254.png](/img/user/z%20Assets/Attachments/Wiki%20Notes%20(May)_7_20260506_132254.png)
+
+
+---
+
 > [!rule]+ Fandom Matched By Default
 > **I will typically match fandom to fandom**, so whatever fandom your muse is being written in the setting of, I will use my corresponding verse and/or AU that matches that fandom. If I don't have an established verse already, I may create one for your muse's fandom, in either the Fandom Specific AUs and/or Trapped In Another World AUs variants.
 
