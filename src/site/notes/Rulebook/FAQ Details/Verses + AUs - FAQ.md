@@ -3,6 +3,13 @@
 ---
 
 # Verses & AUs
+**My verses affect *my muses only*, and are not inherently indicative of the fandom in which the interactions are set.** 
+## What My Verses & AUs Are
+- How I know which variant of my muses to actually write in any given interaction based on how the thread is tagged. 
+- How I know which variant of the world's canon divergences to run with in specific interactions, *if applicable*.
+- How I keep up with character development and story progression. 
+## What My Verses & AUs Are Not
+- **Unless it is a fully canon divergent AU that affects the *entire setting itself*,** such as those involving alternative history that changes things on a massive scale, then my verses should not affect how you write your muse.
 
 ---
 # How Verses Work
