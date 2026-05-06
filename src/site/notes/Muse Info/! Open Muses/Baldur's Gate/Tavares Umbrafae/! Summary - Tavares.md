@@ -145,8 +145,18 @@
 
 
 ## Dragon Age AUs
-> [!attention] Not Currently Available
+### Lights of Arlathan
+> [!verse]+ Lights of Arlathan — Crossover ( Dragon Age )
+> - *Setting:* **Dragon Age**
 > 
+> Tavares is a direct descendant of the refugees of Arlathan who found sanctuary in Cadash Thaig and survived the thaig's destruction by the army of Kal-Sharok. The survivors never returned to the surface, and most believe these "Drow" to be myths... or tainted by the blight.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]] 
+>> - [[Muse Info/! Open Muses (Old)/Baldur's Gate/Tavares Umbrafae/Dossiers & Verses/2 Fandom Specific AUs/2 DA.1 - Lights of Arlathan - Tavares\|Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]
 
 
 
@@ -166,10 +176,10 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#One Big Continuity Error Headcanons\|Headcanons]]
 >> - |Verse]]
->> - |Quick Guide]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#One Big Continuity Error Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#One Big Continuity Error Wishlists\|Wishlists]]
 
 ### Elder Scrolls AUs
 > [!attention] Not Currently Available
@@ -187,18 +197,18 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis
-> [!verse]- Absolute Crisis — Another World ( Baldur's Gate )
+> [!verse]+ Absolute Crisis — Another World ( Baldur's Gate )
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
-> - *Abducted By Nautiloid AU*
+> - *AU:* **Abducted By Nautiloid**
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#Absolute Crisis Headcanons\|Headcanons]]
 >> - |Verse]]
->> - |Quick Guide]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#Absolute Crisis Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#Absolute Crisis Wishlists\|Wishlists]]
 
 
 
@@ -211,10 +221,10 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#This Shit Is Weird Headcanons\|Headcanons]]
 >> - |Verse]]
->> - |Quick Guide]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#This Shit Is Weird Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#This Shit Is Weird Wishlists\|Wishlists]]
 
 ## Mass Effect AWs
 #### Anomaly Detected
@@ -225,10 +235,10 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#Anomaly Detected Headcanons\|Headcanons]]
 >> - |Verse]]
->> - |Quick Guide]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#Anomaly Detected Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#Anomaly Detected Wishlists\|Wishlists]]
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
@@ -240,10 +250,10 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - |Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#Previously—Next Time Headcanons\|Headcanons]]
 >> - |Verse]]
->> - |Quick Guide]]
->> - |Wishlist]] 
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#Previously—Next Time Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#Previously—Next Time Wishlists\|Wishlists]]
 
 ### Elder Scrolls AWs
 > [!attention] Not Currently Available
@@ -258,8 +268,19 @@
 
 ---
 # Other Verses & AUs
-> [!attention] Not Currently Available
+## Planar Wanderer
+> [!verse]+ Planar Wanderer — Another World ( Multiverse )
+> - *Setting:* **Varies (Multiverse)**
+> - *AU:* **Multiverse Travel** — *Inspired by Planescape (D&D/Forgotten Realms)*
 > 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]]
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlists]] 
 
 
 
