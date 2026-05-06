@@ -5,7 +5,7 @@
 # Tavares Umbrafae
 
 > [!profile]+ Muse Info
-> ![20250810034220.png](/img/user/z%20Assets/Attachments/20250810034220.png)
+> ![20250810034220.png\|150](/img/user/z%20Assets/Attachments/20250810034220.png)
 > 
 > - *name:* Tavares Umbrafae
 > - *nickname:* Tav
