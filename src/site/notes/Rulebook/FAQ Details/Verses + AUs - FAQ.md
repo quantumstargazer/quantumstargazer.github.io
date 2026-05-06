@@ -13,7 +13,6 @@
 
 ---
 # How Verses Work
-
 ## Canon-Based or Fandom Match
 ![Wiki Notes (May)_6_20260506_130037.png](/img/user/z%20Assets/Attachments/Wiki%20Notes%20(May)_6_20260506_130037.png)
 
