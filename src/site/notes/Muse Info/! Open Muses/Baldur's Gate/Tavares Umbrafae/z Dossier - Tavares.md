@@ -1,24 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/z-dossier-tavares/","tags":["dossier"],"dg-note-properties":{"tags":["dossier"],"aliases":["Dossier - VerseAU - Muse"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/z-dossier-tavares/","tags":["dossier","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["dossier","baldurs-gate","muse-tavares"],"aliases":["Dossier - VerseAU - Tavares"]}}
 ---
 
 
 > [!fas-infobox]+ Muse Info
-> # MuseName
+> # Tavares Umbrafae
 > 
-> ![Ward temp02.png\|cover](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
+> ![20250810034220.png\|cover](/img/user/z%20Assets/Attachments/20250810034220.png)
 > 
-> ![mournwatch.png\|icon](/img/user/z%20Assets/Attachments/mournwatch.png)
 > 
-> ## MuseFaction
-> | *name* | MuseName |
+> 
+> ## Long Night Scion
+> | *name* | Tavares Umbrafae |
 > | ---- | --- |
-> | *nickname* | Nickname |
-> | *alias* | Alias |
-> | *pronouns* | They/Them |
-> | *gender* | Gender |
-> | *age* | XX+/- <small>(*YEAR*)</small> |
-> | *year of birth* | YEAR |
+> | *nickname* | Tav |
+> | *alias* | — |
+> | *pronouns* | She/Her |
+> | *gender* | Female |
+> | *age* | 99+/- <small>(*YEAR*)</small> |
+> | *year of birth* | 1393 DR |
 > | *date of birth* | DAY of  MONTH |
 > 
 > Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et.
@@ -26,8 +26,8 @@
 > > [!footer]
 > > *Roster:* [[Muse Info/! Open Muses - Roster\|Open Muses]]
 # Dossier: Verse
-- *Muse:* 
-- *Fandom:*  
+- *Muse:* [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Tavares Umbrafae]]
+- *Fandom:* **Baldur's Gate**
 
 ---
 # Applicable Verses & AUs
@@ -42,81 +42,111 @@
 ## Quote
 > [!cite-fas]
 > Nunc non lacus enim. Donec id doliam lurta orci, eget commodo est euismod a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
-> <cite>— MuseName</cite>
+> <cite>— Tavares Umbrafae</cite>
 ## Summary 
 
 
 ---
 # Basic Info 
+# Basic Info 
 ## Biographical Data 
-- *name:* 
-- *nickname:* 
-- *alias:* 
-- *gender:* 
-- *pronouns:* 
-- *apparent age:* XX +/- years (*YEAR*)
-	- XX +/- years (*YEAR*)
-	- XX +/- years (*YEAR*)
-	- XX +/- years (*YEAR*)
-	- XX +/- years (*YEAR*)
-	- XX +/- years (*YEAR*)
-- *date of birth:* YEAR
+- *name:* Tavares Umbrafae
+	- Tavares \[*Redacted*] — *surname taken away by patron*
+- *nickname:* Tav
+- *alias:* — 
+- *gender:* Female
+- *pronouns:* She/Her/Herself
+- *apparent age:* 99 +/- years (*1492 DR*)
+	- 42 +/- years (*1435 DR*)
+	- 18 +/- years (*1411 DR*)
+	- 0 +/- years (*1393 DR*)
+- *date of birth:* 1393 DR
 	- DAY of MONTH
 ## Personal Identity 
 - *sexual orientation:* 
-	- *preference(s):* 
 	- *polyamory:* open to plotting
-- *MBTI:* 
+- *MBTI:* — 
 - *Enneagram:* — 
 ## Physical Description
-- *species:* 
-- *race:* 
-- *ethnicity:* 
-- *additional ethnicities/cultures:* —
-- *height:* XXX cm
-	- X ft X in
+- *species:* Half-Fey Elf
+- *race:* Half-Eladrin Drow
+- *ethnicity:* Half-Winter Eladrin Aevendrow
+- *additional ethnicities/cultures:* Wintertouched
+	- Feytouched
+	- Feyborn
+- *height:* 167 cm
+	- 5 ft 5.75 in
 - *body shape:* — 
-- *hair:* 
-- *eyes:* 
-- *complexion:* 
+- *hair:* Drow White (*DL*)
+- *eyes:* Pale Ice Blue - *Glamoured* (*Both Eyes*)
+	- White Sclera - *Glamoured* (*Both Eyes*)
+	- Feydark (*Left Eye Only*)
+	- Prince of Frost (*Right Eye Only*) - **Pact Binding Mark**
+	- Blue Sclera (*Both Eyes*)
+- *complexion:* Starlight Enclave (*12*)
 ## Demographics 
-- *planet of origin:* 
-- *place of birth:* 
-- *homeworld:* 
-- *nationality:* 
-- *home town:* 
+- *planet of origin:* Toril
+- *place of birth:* Callidae - The North - Faerûn
+- *homeworld:* Toril
+- *nationality:* — 
+- *home town:* — 
 ## Communication 
-- *known languages:* 
+- *known languages:* Common
+	- Callidaen Drow
+	- Elvish
+	- Sylvan
+	- Primordial
+	- Undercommon
+	- Drow
+	- Drow Sign
+	- Thieves' Cant
 ## Social Standing & Affiliations 
-- *affiliated organizations:* 
-- *extended affiliations:* —
-- *employer(s)/patron(s):* 
-- *occupation(s):* 
-- *title(s):* 
+- *affiliated organizations:* Scions of the Long Night
+- *extended affiliations:* Court of Stars 
+	- Winter Court of Faerie
+- *employer(s)/patron(s):* Prince of Frost
+- *occupation(s):* Archfey Warlock
+	- Misfortune Bringer
+- *title(s):* Long Night Scion
 ## Spiritual Beliefs 
-- *beliefs:* 
-- *patron deity:* 
-- *pantheon:* 
+- *beliefs:* Faithful
+- *patron deity:* Corellon Larethian
+- *pantheon:* Seldarine
 ## Relationship Status 
 - *relationship status:* **Single** (*rp conditional*)
-- *shipping bias:* —
+- *shipping bias:* Astarion Ancunín
+	- Gale Dekarios
+	- Minthara Baenre
+	- *Drow*
+	- *Elves*
+	- *Half-Elves*
+	- *Some Fey*
 ## Origin Attributes 
-- *class (primary):* 
-- *class (secondary):* —
-- *class (tertiary):* —
-- *class (additional support):* —
-- *fighting style:* 
+- *class (primary):* **Long Night Scion** (*Archfey Warlock*)
+- *class (secondary):* **Misfortune Bringer** (*Rogue*)
+- *class (tertiary):* **Frozen Sorcery** (*~~Sorcerer~~ Wintertouched*)
+- *class (additional support):* — 
+- *fighting style:* Spellblade
+	- Ice (Cold) Magic
+	- Faerie (Psychic) Magic
 ## Current Status
-- *current moral alignment:* 
-- *current role(s):* —
-- *current location(s):* 
-- *current residence(s):* 
+- *current moral alignment:* **Rebel Impure**
+- *current role(s):* — 
+- *current location(s):* Storm Coast - Faerûn - Toril
+- *current residence(s):* Storm Coast - Faerûn - Toril
 - *current vehicle(s):* — 
-- *current situation status:* —
-- *current conditions:* —
+- *current situation status:* — 
+- *current conditions:* — 
 
 ---
 # Background
+- Tavares is the daughter of an Aevendrow noblewoman in Callidae, though she is unaware of the scandal surrounding her conception for many decades, until she is in her early forties.
+- When Tav is forty-two, she is lured into the Feywild by a winter eladrin who turns out to be her father — who had effectively sold her as a firstborn child for a Faerie contract to the Prince of Frost.
+- She must serve the Archfey in his Fortress of Frozen Tears for "*a year and a day*" — which turns out to last over 50 years in the Prime Material Plane — before she is released under special conditions with a contract of her own.
+- Tav is pressured into becoming a Scion of the Long Night — one of the Pale Prince's warlocks — or face being turned into a frozen statue in the Vale of the Long Night.
+- She is tasked with bringing misfortune and collecting the resulting tears that will contribute to the Fortress of Frozen Tears.
+- Tav is released back into the Material Plane near Callidae and is subsequently exiled when it is clear that she is not only one of the Feylost, but also now Feytouched and Wintertouched — her being Feyborn isn't so obvious, despite the growing number of changes inflicted on her bringing these traits to the forefront.
+- Before Tavares can get far from Callidae, she is abducted by a mind flayer nautiliod, where she is infected with one of their parasites, and she is caught up in the conspiracy involving the Cult of the Absolute.
 
 
 
