@@ -19,32 +19,11 @@ These are the people who I interact with the most, and whose interactions have a
 # Mains
 > *I **do** interact with duplicates of any of my Mains that follow:*
 
-> [!main]- lanternlit (multifandom multimuse)
-> *Blogwide for all of Havu's muses & fandoms, but especially:*
->> [!shipdyn]- Baldur's Gate
->> - Astarion Ancunín
+> [!main]- lanternlit — *Multifandom Multimuse ( blogwide )*
 > 
->> [!shipdyn]- Mass Effect
->> - Wren Shepard (*Shepard in general*)
->> - Garrus Vakarian
->> - Tali'Zorah
->> - EDI
-> 
->> [!shipdyn]- Doctor Who
->> - Fifteenth Doctor
->> - Thirteenth Doctor
->> - Tenth Doctor
-> 
->> [!shipdyn]- Supernatural
->> - Castiel
->> - Dean Winchester
 
-> [!main]- corvusrookery (Dragon Age multimuse)
-> *Blogwide for all of Argent's muses, but especially:*
-> - Viago de Riva
-> - Solas
-> - Andarateia Cantori
-> - Duncan
+> [!main]- corvusrookery — *Dragon Age Multimuse ( blogwide )*
+> 
 
 
 
@@ -52,25 +31,72 @@ These are the people who I interact with the most, and whose interactions have a
 # Permanent Interactions Call Members
 > *I **do** interact with duplicates of any of the **Permanent Interactions Call Members'** muses that follow:*
 ## All Muses
-> [!attention] Not Currently Available
+> [!main]- lanternlit — *Multifandom Multimuse ( blogwide )*
 > 
 
 
 
 ## Baldur's Gate Muses
-> [!attention] Not Currently Available
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
 > 
 
 
+### Baldur's Gate — Irregulars
+#### Gale Dekarios
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
 
 ## Dragon Age Muses
-> [!attention] Not Currently Available
+> [!main]- corvusrookery — *Dragon Age Multimuse ( blogwide )*
+> 
+
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
 > 
 
 
 
+### Dragon Age — By Request Only
+#### Lucanis Dellamorte
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Varric Tethras
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Vorgoth
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+### Dragon Age — Invitation Only
+#### Bellara Lutare
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Bruce Wayne
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Clark Kent
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Felassan
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+### Dragon Age — Irregulars
+#### Bethany Hawke
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Carver Hawke
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Marian Hawke (Hawke Twins)
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Fenris
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+#### Tamlen
+> [!bfc]- reigningmuses — *Multifandom Multimuse ( blogwide )*
+> 
+
 ## Mass Effect Muses
-> [!bfc]- Garrus Vakarian — codenamearchangel
+> [!bfc]- codenamearchangel — Garrus Vakarian
 > 
 
 ## Other Fandom Muses
@@ -84,9 +110,8 @@ These are the people who I interact with the most, and whose interactions have a
 *These are connections with ships and/or Private Verses & AUs that don't quite fit into any of the above categories only.*
 > *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow:*
 
-> [!shipdyn]- Artis — luctumvigilanties
-> 
-> Ship(s): [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Shipping Partners\|Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Shipping Partners]]
+> [!shipdyn]- luctumvigilanties — Artis
+> - *Ship:* [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward\|Ward Ingellvar]]
 
 
 
