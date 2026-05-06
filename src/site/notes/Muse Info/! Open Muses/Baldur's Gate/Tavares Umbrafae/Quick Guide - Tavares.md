@@ -1,35 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/quick-guide-tavares/","tags":["quick-guide"],"dg-note-properties":{"tags":["quick-guide"],"aliases":["Quick Guide"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/quick-guide-tavares/","tags":["quick-guide","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["quick-guide","baldurs-gate","muse-tavares"],"aliases":["Quick Guide"]}}
 ---
 
-# Guides - Musename
+# Guides - Tavares Umbrafae
 > [!profile]+ Muse Info
-> ![image.png](/img/user/z%20Assets/Attachments/image.png)
+> ![20250810034220.png\|150](/img/user/z%20Assets/Attachments/20250810034220.png)
 > 
-> - *name:* 
-> - *nickname:* 
-> - *alias:* 
-> - *gender:* 
-> - *pronouns:* 
+> - *name:* Tavares Umbrafae
+> - *nickname:* Tav
+> - *alias:* — 
+> - *gender:* Female
+> - *pronouns:* She/Her/Herself
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+FIRSTNAME+LASTNAME)
-> - ***open starters:*** [Open Starter ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+FIRSTNAME+LASTNAME)
-> - ***headcanons:*** [Headcanon ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+FIRSTNAME+LASTNAME)
-> - ***wishlist:*** [Wishlist ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+FIRSTNAME+LASTNAME)
-> - *desires:* [Desires ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+FIRSTNAME+LASTNAME)
-> - *musings:* [Musings ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+FIRSTNAME+LASTNAME)
-> - *aesthetics:* [Aesthetics ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+FIRSTNAME+LASTNAME)
-> - *visage:* [Visage ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+FIRSTNAME+LASTNAME)
-> - *playlist:* [Playlist ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+FIRSTNAME+LASTNAME)
+> - ***in character:*** [IC ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Tavares+Umbrafae)
+> - ***open starters:*** [Open Starter ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Tavares+Umbrafae)
+> - ***headcanons:*** [Headcanon ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Tavares+Umbrafae)
+> - ***wishlist:*** [Wishlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Tavares+Umbrafae)
+> - *desires:* [Desires ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Tavares+Umbrafae)
+> - *musings:* [Musings ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Tavares+Umbrafae)
+> - *aesthetics:* [Aesthetics ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Tavares+Umbrafae)
+> - *visage:* [Visage ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Tavares+Umbrafae)
+> - *playlist:* [Playlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Tavares+Umbrafae)
 
 ---
 # Universal Guides
 ## Things *You* Should Know
-### Hint
-> [!hint]- Hint ( Multiverse )
+### Not "Hero" Material
+> [!hint]+ Not "Hero" Material ( Multiverse )
+> **Tav is not "Good" aligned**, nor is her patron (*who is Chaotic Evil*). 
 > 
-
+> She will demand payment for her aid, even if the payment does not come due immediately, and often is of the "favor owed" variety that Fey are so fond of — the only exception being is if she genuinely likes you and considers you a friend.
+### Fey Creature
+> [!hint]+ Fey Creature ( Multiverse )
+> - **incomplete** - *TBA*
+> 
+> Tavares is *technically* fey, being half-Winter Eladrin and half-Aevendrow (which also has Fey Ancestry). As such, she has some, but not all of the traits and even limitations and weaknesses of a full blooded Fey.
+> 
+> Fey cannot lie — at least, not directly. Yet being half-Aevendrow, Tavares *can*, and sometimes *will* lie, though mostly through omission, misdirection, not correcting others' assumptions, etc. 
 ## Things Your Muse *Could* Know
 ### Hint
 > [!hint]- Hint ( Multiverse )
@@ -43,54 +51,96 @@
 
 ---
 # Canon Typical
-## Verse Guides
+## Absolute Crisis Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( Baldur's Gate )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( Baldur's Gate )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( FANDOM )
+> [!attention]- Hint ( Baldur's Gate )
 > 
 
 
 ---
 # Canon Divergent AUs
-## VerseAU Guides
+## Callidae Exile Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( Baldur's Gate )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( Baldur's Gate )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( FANDOM )
+> [!attention]- Hint ( Baldur's Gate )
 > 
 
 
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!attention] Not Currently Available
+### Scion of the Outer Planes Guides
+#### Things *You* Should Know
+##### Hint
+> [!hint]- Hint — Crossover ( Baldur's Gate )
+> 
+
+#### Things Your Muse *Could* Know
+##### Hint
+> [!hint]- Hint — Crossover ( Baldur's Gate )
+> 
+
+#### Things Your Muse Should *Not* Know
+##### Hint
+> [!attention]- Hint — Crossover ( Baldur's Gate )
+> 
+
+
+### Astral Drifter Guides
+#### Things *You* Should Know
+##### Hint
+> [!hint]- Hint — Crossover ( Baldur's Gate )
+> 
+
+#### Things Your Muse *Could* Know
+##### Hint
+> [!hint]- Hint — Crossover ( Baldur's Gate )
+> 
+
+#### Things Your Muse Should *Not* Know
+##### Hint
+> [!attention]- Hint — Crossover ( Baldur's Gate )
 > 
 
 
 
 ## Dragon Age AUs
-> [!attention] Not Currently Available
+### Lights of Arlathan Guides
+#### Things *You* Should Know
+##### Hint
+> [!hint]- Hint — Crossover ( Dragon Age )
 > 
 
+#### Things Your Muse *Could* Know
+##### Hint
+> [!hint]- Hint — Crossover ( Dragon Age )
+> 
+
+#### Things Your Muse Should *Not* Know
+##### Hint
+> [!attention]- Hint — Crossover ( Dragon Age )
+> 
 
 
 ## Mass Effect AUs
@@ -122,11 +172,23 @@
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-### Absolute Crisis Guides
-> [!attention] Not Currently Available
+
+
+### Planar Agent Guides
+##### Things *You* Should Know
+###### Hint
+> [!hint]- Hint — Another World ( Baldur's Gate )
 > 
 
+##### Things Your Muse *Could* Know
+###### Hint
+> [!hint]- Hint — Another World ( Baldur's Gate )
+> 
 
+##### Things Your Muse Should *Not* Know
+###### Hint
+> [!attention]- Hint — Another World ( Baldur's Gate )
+> 
 
 
 
@@ -166,10 +228,21 @@
 
 ---
 # Other Verses & AUs
-> [!attention] Not Currently Available
+## Planar Wanderer Guides
+### Things *You* Should Know
+#### Hint
+> [!hint]- Hint — Another World ( Multiverse )
 > 
 
+### Things Your Muse *Could* Know
+#### Hint
+> [!hint]- Hint — Another World ( Multiverse )
+> 
 
+### Things Your Muse Should *Not* Know
+#### Hint
+> [!attention]- Hint — Another World ( Multiverse )
+> 
 
 
 
@@ -183,8 +256,6 @@
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-### Private Verse ( PartnerMuse - Partner ) Guides
 > [!attention] Not Currently Available
 > 
 
