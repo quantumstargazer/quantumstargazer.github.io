@@ -196,19 +196,18 @@
 ---
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
-### Absolute Crisis
-> [!verse]+ Absolute Crisis — Another World ( Baldur's Gate )
+### Planar Agent
+> [!verse]- Planar Agent — Another World ( Baldur's Gate )
 > - *Setting:* **Baldur's Gate / Forgotten Realms**
-> - *AU:* **Abducted By Nautiloid**
 > 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares#Absolute Crisis Headcanons\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares#Absolute Crisis Guides\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares#Absolute Crisis Wishlists\|Wishlists]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlists]] 
 
 
 
