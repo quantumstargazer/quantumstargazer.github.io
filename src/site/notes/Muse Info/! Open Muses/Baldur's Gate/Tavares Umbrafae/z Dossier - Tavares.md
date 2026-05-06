@@ -64,7 +64,7 @@
 - *date of birth:* 1393 DR
 	- DAY of MONTH
 ## Personal Identity 
-- *sexual orientation:* 
+- *sexual orientation:* Aromantic Pansexual
 	- *polyamory:* open to plotting
 - *MBTI:* — 
 - *Enneagram:* — 
