@@ -39,12 +39,13 @@
 
 ---
 # Quick Summary
+## Summary 
+
+
 ## Quote
 > [!cite-fas]
 > Nunc non lacus enim. Donec id doliam lurta orci, eget commodo est euismod a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
 > <cite>— Tavares Umbrafae</cite>
-## Summary 
-
 
 ---
 # Basic Info 
