@@ -99,6 +99,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > Summary goes here.
 > 
@@ -112,6 +114,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Thorn
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > - *Companion (Non-Rook) AU*
 > 
@@ -149,6 +153,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -175,7 +180,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
@@ -191,6 +196,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -203,6 +209,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -216,6 +223,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -248,6 +256,9 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

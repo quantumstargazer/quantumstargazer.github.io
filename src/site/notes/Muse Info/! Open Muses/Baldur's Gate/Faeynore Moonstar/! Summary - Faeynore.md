@@ -89,7 +89,8 @@
 ---
 # Canon Typical
 > [!verse]+ Private Investigator
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Companion (Non-Tav/Party Leader) AU*
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate. They are investigating a case when the nautiloid attacks the city, and whether they are abducted themself, or simply follow the trail of missing persons to try to find the source of disappearances, they are caught up in the conspiracy involving cults, mind flayer parasites, and other machinations taking place throughout Faerûn.
@@ -104,6 +105,9 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Absolute Crisis
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
+> - *"Tav"/Party Leader AU*
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate. They are investigating a case when the nautiloid attacks the city, and are among the many who are picked up and subsequently infected with a mind flayer parasite.
 > 
@@ -120,6 +124,7 @@
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -131,6 +136,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlist]]  
 
 > [!verse]- Astral Drifter
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -143,6 +149,7 @@
 
 ## Dragon Age AUs
 > [!verse]- Lights of Arlathan
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -162,6 +169,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -189,6 +197,7 @@
 ## Baldur's Gate AWs
 
 > [!verse]- Planar Agent
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -201,6 +210,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -213,6 +223,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -226,6 +237,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -258,6 +270,8 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

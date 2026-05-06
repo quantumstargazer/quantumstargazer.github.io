@@ -104,6 +104,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10. 
 > 
@@ -121,7 +123,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Talon's Spellblade
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Companion (Non-Rook) AU*
 > 
 > **Leonardo de Riva** is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10.
@@ -162,6 +165,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -188,7 +192,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
@@ -204,6 +208,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -216,6 +221,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -229,6 +235,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -261,6 +268,9 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

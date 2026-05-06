@@ -101,6 +101,8 @@
 ---
 # Canon Typical
 > [!verse]+ Absolute Crisis
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > 
  > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
 >  
@@ -116,7 +118,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Callidae Exile 
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Companion (Non-Party Leader) AU*
 > 
 > Soon after returning to the Material Plane after what she initially perceived as being seven years and a day in service to an archfey in the Feywild, Tavares finds herself exiled from her home in Callidae, her True Name stolen from her by her now patron, and forever marked and changed by the pact binding her to the Pale Prince.
@@ -134,6 +137,7 @@
 # Fandom Specific AUs
 ## Baldur's Gate AUs
 > [!verse]- Scion of the Outer Planes
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -145,6 +149,7 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlist]]  
 
 > [!verse]- Astral Drifter
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -157,6 +162,7 @@
 
 ## Dragon Age AUs
 > [!verse]+ Lights of Arlathan
+> - *Setting:* **Dragon Age**
 > 
 > Tavares is a direct descendant of the refugees of Arlathan who found sanctuary in Cadash Thaig and survived the thaig's destruction by the army of Kal-Sharok. The survivors never returned to the surface, and most believe these "Drow" to be myths... or tainted by the blight.
 > 
@@ -176,6 +182,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -203,6 +210,7 @@
 ## Baldur's Gate AWs
 
 > [!verse]- Planar Agent
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -215,6 +223,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -227,6 +236,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -240,6 +250,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -272,6 +283,8 @@
 # Private Verses & AUs
 ## lanternlit - Astarion Ancunín
 > [!verse]- Absolute Crisis
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
@@ -284,6 +297,8 @@
 
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

@@ -99,7 +99,8 @@
 ---
 # Canon Typical
 > [!verse]+ Dragon Age
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Eighth Talon of the Antivan Crows (as of 9:45 Dragon)*
 > 
 > **Zevran Arainai** is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
@@ -118,7 +119,8 @@
 ---
 # Canon Divergent AUs
 > [!verse]+ Black Shadow
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Bane of the Antivan Crows AU*
 > 
 > **Zevran Arainai** is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
@@ -133,8 +135,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Rook
-> 
-> - *Defaults to Veilguard timeline. (9:50 - 9:45 Dragon)*
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > 
 > Summary goes here.
 > 
@@ -146,8 +148,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Inquisitor
-> 
-> - *Defaults to Inquisition timeline. (9:40 - 9:44 Dragon)*
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:40 - 9:44 Dragon** *(Inqusition)*
 > 
 > Summary goes here.
 > 
@@ -159,7 +161,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Antivan Crows
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -172,7 +175,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Grey Warden
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Restored Cut Content AU*
 > 
 > Summary goes here.
@@ -185,7 +189,8 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlist]]  
 
 > [!verse]+ Crows Takeover
-> 
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** *(Veilguard)*
 > - *Restored Epilogues AU*
 > 
 > Summary goes here.
@@ -221,6 +226,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -247,7 +253,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
@@ -263,6 +269,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -275,6 +282,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -288,6 +296,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -321,6 +330,9 @@
 # Private Verses & AUs
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
 > Summary goes here.
 > 
 >> [!info]- Verse Navigation 

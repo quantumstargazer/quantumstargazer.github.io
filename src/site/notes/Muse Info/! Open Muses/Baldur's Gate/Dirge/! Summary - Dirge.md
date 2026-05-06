@@ -84,8 +84,10 @@
 
 ---
 # Canon Typical
+## Wandering Dirge
 > [!verse]+ Wandering Dirge
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Companion (Non-Party Leader) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -96,15 +98,17 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge#Wandering Dirge Headcanons\|Headcanons]]
 >> - |Verse]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
->> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge#Wandering Dirge Guides\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge#Wandering Dirge Wishlists\|Wishlist]]
 
 ---
 # Canon Divergent AUs
+## Absolute Crisis
 > [!verse]+ Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Party Leader (Dark Urge) AU*
 > 
 > '*Dirge*,' as they've come to be called, has next to no recollection of who they were before they awoke on the Nautiloid with a mind flayer tadpole writhing behind their eye. What little they do know...
@@ -120,8 +124,10 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
+## Bhaal's Chosen
 > [!verse]+ Bhaal's Chosen
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
+> - *Default Timeline:* **1492 DR** *(Baldur's Gate 3)*
 > - *Embrace Urge AU*
 > 
 > Summary goes here.
@@ -136,7 +142,9 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
+### Scion of the Outer Planes
 > [!verse]- Scion of the Outer Planes
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -147,7 +155,9 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
+### Astral Drifter
 > [!verse]- Astral Drifter
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -172,7 +182,9 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
+#### In Time & Space
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -199,7 +211,9 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 
+### Planar Agent
 > [!verse]- Planar Agent
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > 
 > Summary goes here.
 > 
@@ -211,7 +225,9 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Dragon Age AWs
+### This Shit Is Weird
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -223,7 +239,9 @@
 >> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlist]]  
 
 ## Mass Effect AWs
+### Anomaly Detected
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -236,7 +254,9 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
+#### Companion
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -268,7 +288,10 @@
 ---
 # Private Verses & AUs
 ## Partner - PartnerMuse
+### VerseTitle ( PartnerMuse — Partner )
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 

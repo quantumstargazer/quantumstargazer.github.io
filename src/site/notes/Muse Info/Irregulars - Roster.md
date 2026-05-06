@@ -19,7 +19,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Minsc
 > [!profile]- Minsc (he/him)
@@ -33,7 +33,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---
@@ -51,7 +51,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Garrett Hawke
 > [!profile]- Garrett Hawke (he/him)
@@ -66,7 +66,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Bethany Hawke
 > [!profile]- Bethany Hawke (she/her)
@@ -81,7 +81,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Carver Hawke
 > [!profile]- Carver Hawke (he/him)
@@ -96,7 +96,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Fenris
 > [!profile]- Fenris (he/him)
@@ -110,7 +110,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Tamlen
 > [!profile]- Tamlen (he/him)
@@ -124,7 +124,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Evka Ivo
 > [!profile]- Evka Ivo (she/her)
@@ -138,7 +138,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Antoine
 > [!profile]- Antoine (he/him)
@@ -152,7 +152,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Veterans of the Fifth Blight
 ### Aileas Cousland
@@ -170,7 +170,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Bran Cousland
 > [!profile]- Bran Cousland (he/him)
@@ -185,7 +185,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Isenril Mahariel
 > [!profile]- Isenril Mahariel (he/him)
@@ -199,7 +199,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Lailani Sabrae
 > [!profile]- Lailani Sabrae (she/her)
@@ -213,7 +213,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Satu Surana
 > [!profile]- Satu Surana (she/her)
@@ -228,7 +228,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Selena Amell
 > [!profile]- Selena Amell (she/her)
@@ -242,7 +242,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Kiran Brosca
 > [!profile]- Kiran Brosca (she/they)
@@ -256,7 +256,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ## Veterans of the Kirkwall Rebellions
@@ -273,7 +273,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Quincy Hawke
 > [!profile]- Quincy Hawke (he/him)
@@ -288,7 +288,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ## Veterans of the Inquisition
@@ -304,7 +304,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Rubi Cadash
 > [!profile]- Rubi Cadash (she/they)
@@ -318,7 +318,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Tamik Adaar
 > [!profile]- Tamika Adaar (she/her)
@@ -332,7 +332,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ## Veterans of the Veilguard
@@ -349,7 +349,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Esha Laidir
 > [!profile]- Esha Laidir (she/her)
@@ -364,7 +364,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Gertrude Ingellvar
 > [!profile]- Gertrude Ingellvar (she/her)
@@ -379,7 +379,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Hakiem Aldwir
 > [!profile]- Hakiem Aldwir (he/him)
@@ -394,7 +394,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Iven Thorne
 > [!profile]- Iven Thorne (he/him)
@@ -409,7 +409,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Nikolas Mercer
 > [!profile]- Nikolas Mercer (he/him)
@@ -424,7 +424,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ### Redmond Thorne
 > [!profile]- Redmond Thorne (he/him)
@@ -441,7 +441,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---
@@ -458,7 +458,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Garrus Vakarian
 > [!profile]- Garrus Vakarian (he/him)
@@ -472,7 +472,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Tali'Zorah
 > [!profile]- Tali'Zorah (she/her)
@@ -486,7 +486,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Jeff "Joker" Moreau
 > [!profile]- Jeff "Joker" Moreau (he/him)
@@ -500,7 +500,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Karin Chakwas
 > [!profile]- Karin Chakwas (she/her)
@@ -514,7 +514,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Aria T'Loak
 > [!profile]- Aria T'Loak (she/her)
@@ -528,7 +528,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 ## Aethyta
 > [!profile]- Aethyta (she/her)
@@ -542,7 +542,7 @@
 > - Dossiers & Verses
 > - Connections
 > - Headcanons
-> - Quick Guide
+> - Quick Guides
 > - Wishlists
 
 ---

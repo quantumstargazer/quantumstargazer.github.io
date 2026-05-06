@@ -91,8 +91,8 @@
 ---
 # Canon Typical
 > [!verse]+ Trilogy
-> 
-> - *Reaper War (2183 - 21XX CE)*
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > 
 > When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial.
 > 
@@ -104,6 +104,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Post-Trilogy
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2186 - 21XX CE** *(Post-ME3 Destroy Ending)*
 > 
 > With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Nihlus Kryik is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 > 
@@ -115,6 +117,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Pre-Trilogy
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA - 2183 CE** *(Pre-ME1)*
 > 
 > Shortly following the death of his father, Nihlus is moved to Palaven with his mother, where he must enlist into the military at the age of 16, a year later than most of his peers. 
 > 
@@ -130,7 +134,8 @@
 
 
 > [!verse]+ Relay 314 Incident
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA**
 > - *Alternate History AU*
 > 
 > Summary goes here.
@@ -145,7 +150,8 @@
 
 
 > [!verse]+ Andromeda Initiative
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA** 
 > - *"Fuck It, I'm Out!" AU*
 > 
 > Summary goes here.
@@ -158,6 +164,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Galactic Evacuation (Andromeda)
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA**
 > 
 > Summary goes here.
 > 
@@ -169,6 +177,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Retirement (Andromeda)
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **TBA**
 > 
 > Summary goes here.
 > 
@@ -180,7 +190,8 @@
 >> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
 
 > [!verse]+ Spectre (No Reapers)
-> 
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2183 - 21XX CE** *(ME1 / ME2 / ME3)*
 > - *No Reapers AU*
 > 
 > Summary goes here.
@@ -204,7 +215,7 @@
 
 ## Dragon Age AUs
 > [!verse]- Breaking Quarantine
-> 
+> - *Setting:* **Dragon Age**
 > - *Plays off the mutual easter eggs found in both games*
 > 
 > Summary goes here.
@@ -225,6 +236,7 @@
 ## Other Fandoms AUs
 ### Doctor Who AUs
 > [!verse]- In Time & Space
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -249,6 +261,7 @@
 
 ### Star Trek AUs
 > [!verse]- Starfleet
+> - *Setting:* **Star Trek**
 > 
 > Summary goes here.
 > 
@@ -264,7 +277,7 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 > [!verse]- Absolute Crisis
-> 
+> - *Setting:* **Baldur's Gate / Forgotten Realms**
 > - *Abducted By Nautiloid AU*
 > 
 > Summary goes here.
@@ -280,6 +293,7 @@
 
 ## Dragon Age AWs
 > [!verse]- This Shit Is Weird
+> - *Setting:* **Dragon Age**
 > 
 > Summary goes here.
 > 
@@ -292,6 +306,7 @@
 
 ## Mass Effect AWs
 > [!verse]- Anomaly Detected
+> - *Setting:* **Mass Effect**
 > 
 > Summary goes here.
 > 
@@ -305,6 +320,7 @@
 ## Other Fandoms AWs
 ### Doctor Who AWs
 > [!verse]- Companion
+> - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
 > 
@@ -328,6 +344,7 @@
 
 ### Star Trek AWs
 > [!verse]- Anomaly On Sensors
+> - *Setting:* **Star Trek**
 > 
 > Summary goes here.
 > 
@@ -342,8 +359,8 @@
 ---
 # Other Verses & AUs
 > [!verse]- Crucible BS
-> 
-> - *Space Magic Fuckery (Multifandom Displacement)*
+> - *Setting:* **Varies (Multiverse)**
+> - **Multiverse Travel** — *Inspired by space magic bullshittery*
 > 
 > Summary goes here.
 > 
@@ -360,8 +377,66 @@
 
 ---
 # Private Verses & AUs
+## lanternlit - Wren Shepard
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
+## lanternlit - Garrus Vakarian
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
+## lanternlit - Hierarchy Trio
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
+## lanternlit - Tali'Zorah
+> [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
+> 
+> Summary goes here.
+> 
+>> [!info]- Verse Navigation 
+>> - |Dossier]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]] 
+>> - |Verse]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guide]]
+>> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlist]]  
+
 ## Partner - PartnerMuse
 > [!verse]- VerseTitle
+> - *Setting:* **Fandom**
+> - *Default Timeline:* **Timeline**
 > 
 > Summary goes here.
 > 
