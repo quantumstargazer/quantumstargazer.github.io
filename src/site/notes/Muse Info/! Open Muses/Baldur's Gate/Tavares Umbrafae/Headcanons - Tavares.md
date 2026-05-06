@@ -1,39 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/headcanons-tavares/","tags":["headcanons"],"dg-note-properties":{"tags":["headcanons"],"aliases":["Headcanons"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/headcanons-tavares/","tags":["headcanons","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["headcanons","baldurs-gate","muse-tavares"],"aliases":["Headcanons"]}}
 ---
 
-# Headcanons - Musename
+# Headcanons - Tavares Umbrafae
 > [!profile]+ Muse Info
-> ![image.png](/img/user/z%20Assets/Attachments/image.png)
+> ![20250810034220.png\|150](/img/user/z%20Assets/Attachments/20250810034220.png)
 > 
-> - *name:* 
-> - *nickname:* 
-> - *alias:* 
-> - *gender:* 
-> - *pronouns:* 
+> - *name:* Tavares Umbrafae
+> - *nickname:* Tav
+> - *alias:* — 
+> - *gender:* Female
+> - *pronouns:* She/Her/Herself
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+FIRSTNAME+LASTNAME)
-> - ***open starters:*** [Open Starter ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+FIRSTNAME+LASTNAME)
-> - ***headcanons:*** [Headcanon ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+FIRSTNAME+LASTNAME)
-> - ***wishlist:*** [Wishlist ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+FIRSTNAME+LASTNAME)
-> - *desires:* [Desires ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+FIRSTNAME+LASTNAME)
-> - *musings:* [Musings ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+FIRSTNAME+LASTNAME)
-> - *aesthetics:* [Aesthetics ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+FIRSTNAME+LASTNAME)
-> - *visage:* [Visage ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+FIRSTNAME+LASTNAME)
-> - *playlist:* [Playlist ☾⭒ MUSENAME](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+FIRSTNAME+LASTNAME)
+> - ***in character:*** [IC ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Tavares+Umbrafae)
+> - ***open starters:*** [Open Starter ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Tavares+Umbrafae)
+> - ***headcanons:*** [Headcanon ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Tavares+Umbrafae)
+> - ***wishlist:*** [Wishlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Tavares+Umbrafae)
+> - *desires:* [Desires ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Tavares+Umbrafae)
+> - *musings:* [Musings ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Tavares+Umbrafae)
+> - *aesthetics:* [Aesthetics ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Tavares+Umbrafae)
+> - *visage:* [Visage ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Tavares+Umbrafae)
+> - *playlist:* [Playlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Tavares+Umbrafae)
 
 ---
 # Universal Headcanons
 ## Headcanon
-> [!headcanon]- Headcanon ( Verse )
-> TBA
+> [!headcanon]+ Payment Due: Firstborn Child ( Multiverse )
+> Unbeknownst to Tavares, her life had been traded away as part of a Faerie contract with the Prince of Frost, sold to the Archfey by her father even before her conception in exchange for the Pale Prince's favor. When Tav is lured into the Feywild, she must serve the Archfey for the next "*seven years and a day*" — in which time over fifty years pass in the Prime Material Plane before she is able to return.
 
 
 
 ---
 # Canon Typical
-## Verse Headcanons
+## Absolute Crisis Headcanons
 > [!attention] Not Currently Available
 > 
 
@@ -41,7 +41,7 @@
 
 ---
 # Canon Divergent AUs
-## Verse AU Headcanons
+## Callidae Exile Headcanons
 > [!attention] Not Currently Available
 > 
 
@@ -50,15 +50,23 @@
 ---
 # Fandom Specific AUs
 ## Baldur's Gate AUs
-> [!attention] Not Currently Available
-> 
+### Scion of the Outer Planes Headcanons
+#### Headcanon
+> [!headcanon]- Headcanon — Crossover ( Baldur's Gate )
+> TBA
+
+### Astral Drifter Headcanons
+#### Headcanon
+> [!headcanon]- Headcanon — Crossover ( Baldur's Gate )
+> TBA
 
 
 
 ## Dragon Age AUs
-### Dragon Age AUs Headcanons
-> [!attention] Not Currently Available
-> 
+### Lights of Arlathan Headcanons
+#### Headcanon
+> [!headcanon]- Headcanon — Crossover ( Dragon Age )
+> TBA
 
 
 
@@ -136,17 +144,21 @@
 
 ---
 # Other Verses & AUs
-> [!attention] Not Currently Available
-> 
+
+## Planar Wanderer Headcanons
+### Headcanon
+> [!headcanon]- Headcanon — Another World ( Multiverse )
+> TBA
+
 
 
 
 ---
 # Private Verses & AUs
-## Partner - PartnerMuse
-### Private Verse ( PartnerMuse - Partner ) Headcanons
 > [!attention] Not Currently Available
 > 
+
+
 
 
 
