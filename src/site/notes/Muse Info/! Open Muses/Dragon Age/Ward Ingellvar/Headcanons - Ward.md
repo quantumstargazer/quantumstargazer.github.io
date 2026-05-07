@@ -25,15 +25,23 @@
 
 ---
 # Universal Headcanons
-## Headcanon
-> [!headcanon]- Headcanon ( Verse )
+## Spirit of Learning
+> [!headcanon]+ Spirit of Learning ( Multiverse )
+> TBA
+
+## Vorgoth's Ward
+> [!headcanon]+ Vorgoth's Ward ( Multiverse )
+> TBA
+
+## Ghost of the Necropolis
+> [!headcanon]+ Ghost of the Necropolis ( Multiverse )
 > TBA
 
 
 
 ---
 # Canon Typical
-## Verse Headcanons
+## Dragon Age Headcanons
 > [!attention] Not Currently Available
 > 
 
@@ -41,7 +49,49 @@
 
 ---
 # Canon Divergent AUs
-## Verse AU Headcanons
+## Ghost of the Necropolis Headcanons
+> [!attention] Not Currently Available
+> 
+
+
+
+## Inquisition's Ghost Headcanons
+### Headcanon
+> [!headcanon]+ Ghost of the Inquisition ( Inquisition's Ghost )
+> TBA
+### Varric's Shadow
+> [!headcanon]+ Varric's Shadow ( Inquisition's Ghost )
+> With Varric being the only familiar face beyond Solas at first, Ward is quick to be on the dwarf's heels, shadowing him around Haven, and later Skyhold. He becomes their *de facto* guardian when the Inquisition can't simply just send them back to Nevarra on their own, and Vorgoth is cryptic about them being "where they should be".
+> 
+> Eventually, it may come out that Ward is not unlike Cole, and the fact that *both* spirits attach themselves to Varric is certainly bound to raise some questions as to what it is about the man that attracts such spirits to him.
+
+
+
+## Ancient Times Headcanons
+> [!attention] Not Currently Available
+> 
+
+
+
+## Rebellion's Ghost Headcanons
+> [!attention] Not Currently Available
+> 
+
+
+
+## Spirit of Learning Headcanons
+> [!attention] Not Currently Available
+> 
+
+
+
+## VerseAU Headcanons
+> [!attention] Not Currently Available
+> 
+
+
+
+## VerseAU Headcanons
 > [!attention] Not Currently Available
 > 
 
@@ -93,8 +143,13 @@
 # Trapped In Another World AUs
 ## Baldur's Gate AWs
 ### Absolute Crisis Headcanons
-> [!attention] Not Currently Available
-> 
+
+#### Death Caller
+> [!headcanon]+ Death Caller — Another World ( Baldur's Gate )
+> TBA
+#### The Fade vs The Weave
+> [!headcanon]+ The Fade vs The Weave — Another World ( Baldur's Gate )
+> TBA
 
 
 
@@ -136,8 +191,11 @@
 
 ---
 # Other Verses & AUs
+## Eluvian Explorer Headcanons
 > [!attention] Not Currently Available
 > 
+
+
 
 
 
