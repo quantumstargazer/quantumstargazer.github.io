@@ -187,7 +187,7 @@
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]
 
 ## Spirit of Learning
-> [!verse]+ VerseTitle ( Dragon Age )
+> [!verse]+ Spirit of Learning ( Dragon Age )
 > - *Setting:* **Dragon Age**
 > - *Default Timeline:* **Ancient** *(Pre-Canon)*
 > - *Role:* **Companion *(Non-Combative)***

@@ -9,7 +9,7 @@
 > [!profile]+ Muse Info
 > - *name:* Ward Ingellvar 
 > - *nickname:* Ghost
-> - *alias:* Rook <small>(*verse dependent*)</small>
+> - *alias:* Rook <small>*(verse dependent)*</small>
 > - *gender:* Agender 
 > - *pronouns:* They/Them/Themself
 
@@ -109,7 +109,7 @@
 > 
 >> [!info]- Verse Navigation 
 >> - |Dossier]]
->> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]] 
+>> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]]
 >> - |Verse]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guide]]
 >> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlist]]  

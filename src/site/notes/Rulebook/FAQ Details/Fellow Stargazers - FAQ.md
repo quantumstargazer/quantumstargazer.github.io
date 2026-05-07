@@ -60,8 +60,10 @@ These are the people who I interact with the most, and whose interactions have a
 ## Baldur's Gate Muses
 > [!bfc]+ reigningmuses — *Multifandom Multimuse*
 > - **Baldur's Gate** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only* 
 > - ***Irregulars:*** *Gale Dekarios*
->
+> 
+> 
 > 
 
 
@@ -76,10 +78,12 @@ These are the people who I interact with the most, and whose interactions have a
 > 
 
 > [!bfc]+ reigningmuses — *Multifandom Multimuse*
+> 
 > - **Dragon Age** — *All Open Muses*
 > - ***By Request Only:*** *Lucanis Dellamorte, Vorgoth, Varric Tethras*
-> - ***Invitation Only:*** *Felassan, Bellara Lutare, Clark Kent, Bruce Wayne*
+> - ***Invitation Only:*** *Felassan, Bellara Lutare, Clark Kent, Bryce Wayne*
 > - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*
+> 
 > 
 
 
