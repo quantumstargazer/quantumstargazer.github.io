@@ -49,9 +49,10 @@ This *should* got without saying, *and yet...*[^1]
 
 ---
 # 21+ & Mutuals Only
+## 18+ Only To Follow
 > [!rule]- Must Be 18+ To Follow
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing with you until you are at least 21.
-
+## Rated For Mature Audiences
 > [!caution]- Viewer Discretion Is Advised
 > Most of my fandoms are *literally* **rated M for Mature Audiences**, and as such my blogs and wiki should be considered the same. See [[Rulebook/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]] for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.
 ## Only Interacts With 21+
