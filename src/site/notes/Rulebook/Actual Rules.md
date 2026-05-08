@@ -275,6 +275,7 @@ Because the [[Rulebook/Guidelines\|Guidelines]] are not entirely universal, depe
 
 ---
 # Rules Passwords
+## Will Not Send - No Exceptions
 > [!rule]+ Will Not Send - No Exceptions
 > **I do not send rules passwords.** I do not follow *anyone* without reading their rules first, so in fact, **I will not even follow first if your rules have a password *to* send**. 
 > 
