@@ -17,7 +17,7 @@
 
 
 ---
-# Friends Only 
+# Invitation Only 
 
 
 ---
