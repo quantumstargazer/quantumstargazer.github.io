@@ -198,6 +198,7 @@
 
 ---
 # Applicable Mods
+*This is **not** all of the mods I use — this is only some of the ones that directly apply to Tav:*
 - [Involved Warlock Patrons](https://www.nexusmods.com/baldursgate3/mods/16091)
 - [Pactbound - A Warlock Overhaul](https://www.nexusmods.com/baldursgate3/mods/12618)
 - [Tweaks to Pactbound - A Warlock Overhaul mod](https://www.nexusmods.com/baldursgate3/mods/13687)
