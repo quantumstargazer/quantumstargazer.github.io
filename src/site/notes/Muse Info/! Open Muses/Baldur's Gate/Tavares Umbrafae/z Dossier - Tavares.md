@@ -169,11 +169,54 @@
 
 ---
 # TV Tropes
-- —
+- [Anti-Hero](https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero "/pmwiki/pmwiki.php/Main/AntiHero") / [Nominal Hero](https://tvtropes.org/pmwiki/pmwiki.php/Main/NominalHero "/pmwiki/pmwiki.php/Main/NominalHero")
+- [Charm Person](https://tvtropes.org/pmwiki/pmwiki.php/Main/CharmPerson "/pmwiki/pmwiki.php/Main/CharmPerson")
+- [Cursed with Awesome](https://tvtropes.org/pmwiki/pmwiki.php/Main/CursedWithAwesome "/pmwiki/pmwiki.php/Main/CursedWithAwesome")
+- [Dark Is Not Evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil "/pmwiki/pmwiki.php/Main/DarkIsNotEvil")
+- [Deadpan Snarker](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker "/pmwiki/pmwiki.php/Main/DeadpanSnarker")
+- [De-Power](https://tvtropes.org/pmwiki/pmwiki.php/Main/DePower "/pmwiki/pmwiki.php/Main/DePower")
+- [Double Agent](https://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleAgent "/pmwiki/pmwiki.php/Main/DoubleAgent")
+- [Heroic Neutral](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicNeutral "/pmwiki/pmwiki.php/Main/HeroicNeutral")
+- [Mind Probe](https://tvtropes.org/pmwiki/pmwiki.php/Main/MindProbe "/pmwiki/pmwiki.php/Main/MindProbe")
+- [The Mole](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheMole "/pmwiki/pmwiki.php/Main/TheMole")
+- [My Species Doth Protest Too Much](https://tvtropes.org/pmwiki/pmwiki.php/Main/MySpeciesDothProtestTooMuch "/pmwiki/pmwiki.php/Main/MySpeciesDothProtestTooMuch")
+- [Pay Evil Unto Evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/PayEvilUntoEvil "/pmwiki/pmwiki.php/Main/PayEvilUntoEvil")
+- [Refuge in Audacity](https://tvtropes.org/pmwiki/pmwiki.php/Main/RefugeInAudacity "/pmwiki/pmwiki.php/Main/RefugeInAudacity")
+- [Talking The Monster To Death](https://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingTheMonsterToDeath "/pmwiki/pmwiki.php/Main/TalkingTheMonsterToDeath")
+- [Mustache Vandalism](https://tvtropes.org/pmwiki/pmwiki.php/Main/MustacheVandalism "/pmwiki/pmwiki.php/Main/MustacheVandalism")
+- [Spanner in the Works](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpannerInTheWorks "/pmwiki/pmwiki.php/Main/SpannerInTheWorks")
+- [Sticky Fingers](https://tvtropes.org/pmwiki/pmwiki.php/Main/StickyFingers "/pmwiki/pmwiki.php/Main/StickyFingers")
+- [Sugar-and-Ice Personality](https://tvtropes.org/pmwiki/pmwiki.php/Main/SugarAndIcePersonality "/pmwiki/pmwiki.php/Main/SugarAndIcePersonality")
+- [Too Kinky to Torture](https://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture "/pmwiki/pmwiki.php/Main/TooKinkyToTorture")
+- [Villain Protagonist](https://tvtropes.org/pmwiki/pmwiki.php/Main/VillainProtagonist "/pmwiki/pmwiki.php/Main/VillainProtagonist")
+- [Voluntary Vampire Victim](https://tvtropes.org/pmwiki/pmwiki.php/Main/VoluntaryVampireVictim "/pmwiki/pmwiki.php/Main/VoluntaryVampireVictim")
+- [Why Did It Have to Be Snakes?](https://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDidItHaveToBeSnakes "/pmwiki/pmwiki.php/Main/WhyDidItHaveToBeSnakes")
+- [You Are a Credit to Your Race](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreACreditToYourRace "/pmwiki/pmwiki.php/Main/YouAreACreditToYourRace")
+- [The Chosen Many](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenMany "/pmwiki/pmwiki.php/Main/TheChosenMany")
+- [Mysterious Past](https://tvtropes.org/pmwiki/pmwiki.php/Main/MysteriousPast "/pmwiki/pmwiki.php/Main/MysteriousPast")
+- [The Unchosen One](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnchosenOne "/pmwiki/pmwiki.php/Main/TheUnchosenOne")
 
 ---
 # Applicable Mods
-- —
+- [Involved Warlock Patrons](https://www.nexusmods.com/baldursgate3/mods/16091)
+- [Pactbound - A Warlock Overhaul](https://www.nexusmods.com/baldursgate3/mods/12618)
+- [Tweaks to Pactbound - A Warlock Overhaul mod](https://www.nexusmods.com/baldursgate3/mods/13687)
+- [Ninjoma's Warlock Viability](https://www.nexusmods.com/baldursgate3/mods/13779)
+- [Warlock Spell List Fixer](https://www.nexusmods.com/baldursgate3/mods/11239)
+- [Eldritch Blast Overhaul (Scarlet Warlock)](https://www.nexusmods.com/baldursgate3/mods/1462)
+- [2024 Pact of the Chain - WIP and Open](https://www.nexusmods.com/baldursgate3/mods/14542)
+- [Pact of the Shroud](https://www.nexusmods.com/baldursgate3/mods/6001)
+- [OneDnD Warlock - Pact of the Blade](https://www.nexusmods.com/baldursgate3/mods/6234)
+- [OneDnD Warlock - Pacts as Invocations](https://www.nexusmods.com/baldursgate3/mods/5794)
+- [OneDnD Warlock - Magical Cunning](https://www.nexusmods.com/baldursgate3/mods/5525)
+- [Pact of Tome Warlock - Spell level scaling and more Cantrips](https://www.nexusmods.com/baldursgate3/mods/8620)
+- [Frostborn - Cold Feat](https://www.nexusmods.com/baldursgate3/mods/6026)
+- [Freezing Grasp](https://www.nexusmods.com/baldursgate3/mods/2104)
+- [Misfortune Bringer Rogue Subclass](https://www.nexusmods.com/baldursgate3/mods/15283)
+- [Frozen Sorcery Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/16976)
+- [Drow Racial Passives](https://www.nexusmods.com/baldursgate3/mods/8561)
+- [Drow Unleashed](https://www.nexusmods.com/baldursgate3/mods/536)
+- [Astralities Elven Anthology](https://www.nexusmods.com/baldursgate3/mods/10230)
 
 ---
 # Additional Information
