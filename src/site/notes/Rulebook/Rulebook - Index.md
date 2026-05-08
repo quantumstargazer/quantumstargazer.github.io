@@ -5,7 +5,7 @@
 # QuantumStargazer Rulebook - Index
 
 > [!bug] UNDER CONSTRUCTION
-> **This page is still a work in progress.**
+> **This page is still a work in progress — and likely only temporary at the moment, as I intend to restructure the rules in the near future.**
 
 ---
 # The Actual Rules
