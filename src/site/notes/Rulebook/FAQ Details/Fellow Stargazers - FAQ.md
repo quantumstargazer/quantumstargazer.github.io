@@ -3,13 +3,13 @@
 ---
 
 # Fellow Stargazers
-These are the people who I interact with the most, and whose interactions have a large impact on the development of my muses within various verses &/or AUs.
+These are the people who I interact with the most, and whose interactions likely have a large impact on the development of my muses within various verses &/or AUs.
 
 ---
 # Exclusives
 > *I do **not** interact with duplicates of any of the following exclusive muses:*
 
-> [!main]- Jack Harkness (Doctor Who) — canspotatimeagent
+> [!main]- canspotatimeagent — Jack Harkness (Doctor Who)
 > **Currently On Hiatus**
 >  
 > - **Blogwide** — *All Open Muses*
@@ -19,115 +19,107 @@ These are the people who I interact with the most, and whose interactions have a
 > 
 > 
 
-
-
----
-# Mains
-> *I **do** interact with duplicates of any of my Mains that follow:*
-
-> [!main]+ lanternlit — *Multifandom Multimuse*
-> - **Blogwide** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-> [!main]+ corvusrookery — *Dragon Age Multimuse*
-> - **Dragon Age** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-
-
----
-# Permanent Interactions Call Members
-> *I **do** interact with duplicates of any of the **Permanent Interactions Call Members'** muses that follow:*
-## All Muses
-> [!main]+ lanternlit — *Multifandom Multimuse*
-> - **Blogwide** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-
-
-## Baldur's Gate Muses
-> [!bfc]+ reigningmuses — *Multifandom Multimuse*
-> - **Baldur's Gate** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only* 
-> - ***Irregulars:*** *Gale Dekarios*
-> 
-> 
-> 
-
-
-
-## Dragon Age Muses
-> [!main]+ corvusrookery — *Dragon Age Multimuse*
-> - **Dragon Age** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-> [!bfc]+ reigningmuses — *Multifandom Multimuse*
-> 
+---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!main]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA**Original Characters — FANDOM**
+> > - TBA---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA**(Baldur's Gate)**---
 > - **Dragon Age** — *All Open Muses*
 > - ***By Request Only:*** *Lucanis Dellamorte, Vorgoth, Varric Tethras*
 > - ***Invitation Only:*** *Felassan, Bellara Lutare, Clark Kent, Bryce Wayne*
-> - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*
-> 
-> 
+> - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA- **Baldur's Gate** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only* **(Baldur's Gate)**
+> - ***Irregulars:*** *Gale Dekarios*
+> ---[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA- ***By Request Only:*** *All By Request Only*
+> - ***Invitation Only:*** *All Invitation Only*
+> - ***Irregulars:*** *All Irregulars*[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA
+
+<!-- Table of Contents arrowType: Index | title: Index  | codeBlocks: n -->
+# Index
+1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Fellow Stargazers\|Fellow Stargazers]]
+2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Exclusives\|Exclusives]]
+3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Mains]]
+4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Permanent Interactions Call Members]]
+	1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|All Muses - Blogwide]]
+	2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Baldur's Gate Muses]]
+	3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Dragon Age Muses]]
+	4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Mass Effect Muses]]
+	5. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Other Fandom Muses]]
+5. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
+	1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Baldur's Gate Muses]]
+	2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Dragon Age Muses]]
+	3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Mass Effect Muses]]
+	4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Other Fandoms Muses]]
+
+<!-- End of TOC -->
 
 
-
-## Mass Effect Muses
-> [!bfc]+ codenamearchangel — Garrus Vakarian
-> - **Mass Effect** — *All Open Muses*
-> 
-> 
->  
-
-
-
-## Other Fandom Muses
-> [!attention] Not Currently Available
-> 
-
-
-
----
-# Ships & Dynamics Partners
-*These are connections with ships and/or Private Verses & AUs that don't quite fit into any of the above categories only.*
-> *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow:*
-
-> [!shipdyn]+ luctumvigilanties — Artis
-> - **Ship:** [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Shipping Partners\|Ward & Atris — luctumvigilanties]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+%%
