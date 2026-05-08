@@ -3,11 +3,11 @@
 ---
 
 # Guidelines
-
+## Read Rules Before Following
 > [!attention]+ Read Rules Before Following
 > 
 > If you haven't done so already, you should read the [Actual Rules](Rules%20&%20Guidelines/Actual%20Rules%5C) before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
-
+## Blanket Permissions
 > [!guideline] Blanket Permissions
 > 
 > See [Blanket Permissions](Blanket%20Permissions%20-%20Guidelines.md) for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
@@ -47,13 +47,13 @@ This continuity is based on an *individual partner basis* — the continuity wit
 I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Permanent Interactions Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Permanent Interactions Call form** to give me *permission* to do so.
 ### Write Starters For Me Whenever
 **This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. 
-
+## Automatic Starter Calls
 > [!guideline] Automatic Starter Calls
 > **So if you're hoping that I'll like your starter call, please just take this as permission to say that I did so and write me a starter.** If you want me to narrow down muses or anything, hit me up on discord or in my inbox, and I'll get back to you as soon as I'm able.
 
 ## Requesting Starters
-You can request for me to write starters for your muses from mine *at any time* by filling out the **Starter Call form** linked in the pinned post and/or on the homepage of this site.
-
+You can request for me to write starters for your muses from mine *at any time* by filling out the [[Interactive Forms#Starter Call\|Starter Call]] form.
+### Form Required - Starter Call
 > [!guideline] Form Required To Request Starters
 >
 > The form is very minimal, but is easier for me to keep track of what has and has not been filled than posts with "*like this post for a starter*", especially since I prefer it when people actually specify which muses and/or verses they want starters from.
@@ -84,13 +84,13 @@ You are *always* welcome to add context and/or expand on any meme and/or prompt 
 This is *especially* true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.
 ## Continue As Threads
 You are *always* welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as "**Closed Starter**", along with a thread tracking tag[^2], if I anticipate it to potentially continued as a thread.
-
+## Answered As Text Posts
 > [!guideline] Answered As Text Posts
 > As I *always* turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so *in the ask itself* so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.
 
 ## Prompts Never Expire
 There is no expiration date on *most* memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both [quantumstargazer](https://quantumstargazer.tumblr.com/) and [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/), and can be sent to either inbox.
-
+### Prompts/Meme Archive
 > [!info] Regarding quantumstar-rpmemes
 > **The archive, quantumstar-rpmemes, is a sideblog** where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog. 
 > 
@@ -98,12 +98,12 @@ There is no expiration date on *most* memes/prompts/etc. (I might side-eye you i
 
 ## Include Full Prompt When Sending
 I am not always able to fill memes and/or prompts right away, so please be sure to include the *full prompt* when sending anything that isn't simply a sentence starter (and/or *include a link to the meme* itself) so I can find it later for the context.
-
+### Send Full Prompt - Examples
 > [!guideline]+ Send Full Prompt For Anything NOT A Sentence Starter
 > 
 > **This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.**, but is *especially* important for anything involving emojis, as these are often repeated throughout many memes and are *impossible* to track down after a certain point.
 > 
-> Examples of what should be sent in the inbox include:
+> **Examples of what should be sent in the inbox include:**
 > - "Send 'This is an example' for a starter about *whatever the prompt is*."
 > - "Send ♥️ for *whatever the prompt is*."
 > - "\[prompt] for *whatever the prompt is*"
@@ -144,7 +144,7 @@ Romantic ships are *strictly* chemistry based — if the muses don't have chemis
 Sexual ships — which may be *independent* of a romantic ship, in cases of more casual sexual dynamics — are *also* reliant on chemistry for actual progression, though this may be less necessary for more casual sexual encounters than for other sexual dynamics.
 ### Smut
 **No Ship/Dynamic Required To Start** — While I am open to writing smut, it is *not* my primary focus. But some of my muses are open to more casual sexual encounters than others, so it's not impossible to have smut be a part of the muses' dynamics without there being a need for anything beyond mutual agreement to test things out through in character interactions.
-
+#### Spicy Prompts
 > [!guideline] Spicy Prompts Open To All Mutuals
 > This can be done simply my sending a prompt/meme from the ones tagged as "**Spicy**", for both in and/or out of character responses. 
 > 
