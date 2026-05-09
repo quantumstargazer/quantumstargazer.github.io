@@ -10,18 +10,22 @@
 
 ---
 # Open Muses 
+- *availability:* **Open To All Mutuals**
 
 
 ---
 # By Request Only 
+- *availability:* **Available By Request For All Mutuals**
 
 
 ---
 # Invitation Only 
+- *availability:* **Available Only By Ziggy's Invitation**
 
 
 ---
 # Irregulars 
+- *availability:* **For [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Mains]] & [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] Members Only**
 
 
 ---
