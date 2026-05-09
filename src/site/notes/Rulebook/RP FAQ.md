@@ -3,6 +3,7 @@
 ---
 
 # Frequently Asked Questions
+## If You Have Questions
 > [!faq] If You Have Questions, Just Ask!
 > You're always welcome to send any questions you might have[^1] for me to my inbox on tumblr or via discord.
 
@@ -64,9 +65,10 @@ If you're looking to start a thread with me, these are the best means to do so:
 
 ---
 # Verses & AUs
+## Fandom Matched By Default
 > [!rule]+ Fandom Matched By Default
 > **I will typically match fandom to fandom**, so whatever fandom your muse is being written in the setting of, I will use my corresponding verse and/or AU that matches that fandom. If I don't have an established verse already, I may create one for your muse's fandom, in either the Fandom Specific AUs and/or Trapped In Another World AUs variants.
-
+## Mix & Match Fandoms On Request
 > [!guideline]+ Mix & Match Fandoms On Request
 > **I am open to playing with mix & match fandom selections**, so if you want to explore a specific fandom setting with our muses from any combination of their available verses and AUs, then all you have to do is ask. The answer will almost always be "*yes*", so long as I'm even remotely familiar with the fandom you want to set things in.
 
@@ -92,19 +94,6 @@ If you're looking to start a thread with me, these are the best means to do so:
 > *For Further Details, See:* [[Rulebook/FAQ Details/Verses + AUs - FAQ\|Verses & AUs]]
 
 ---
-# Blocking & Following
-
-> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
-
----
-# Blocking
-**I make liberal use of the block button.** In most cases, it is nothing personal — I am simply using the feature to its fullest to curate my dash as I see fit.
-## Hard Block - Never Soft Block
-I have severe memory issues, so I do *not* soft block, even if that is *your* preference. My memory is not reliable enough to ensure I don't attempt to refollow anyone who isn't hard blocked, so I will *always* outright hard block anyone I do not wish to see on my dash at all. If you are bothered by people hard blocking you, then I may not be a suitable roleplay partner for you, in the event that blocking is ever needed in the future, because I will *not* be making exceptions to this for *anyone*.
-
-> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
-
----
 # Following
 ## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
@@ -123,7 +112,14 @@ If your rules change and suddenly become incompatible with my own, or your entir
 > *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
 
 ---
+# Blocking
+**I make liberal use of the block button.** In most cases, it is nothing personal — I am simply using the feature to its fullest to curate my dash as I see fit.
+## Hard Block - Never Soft Block
+I have severe memory issues, so I do *not* soft block, even if that is *your* preference. My memory is not reliable enough to ensure I don't attempt to refollow anyone who isn't hard blocked, so I will *always* outright hard block anyone I do not wish to see on my dash at all. If you are bothered by people hard blocking you, then I may not be a suitable roleplay partner for you, in the event that blocking is ever needed in the future, because I will *not* be making exceptions to this for *anyone*.
 
+> *For Further Details, See:* [[Rulebook/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
+
+---
 
 
 
