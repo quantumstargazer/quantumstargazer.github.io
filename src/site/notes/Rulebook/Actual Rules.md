@@ -250,6 +250,13 @@ If you are interested in exploring sexual ships and/or dynamics between our muse
 > - [[Rulebook/Rules Details/Fandom Specific Rules/Our Flag Means Death - Rules\|Our Flag Means Death]]
 > - [[Rulebook/Rules Details/Fandom Specific Rules/Supernatural - Rules\|Supernatural]]
 
+## NOTPs + Enough-TPs 
+**There are some ships I *won't write at all*, and some I will be *extremely selective* writing.** 
+- **NOTPs** - Do not approach about shipping anything I have explicitly stated I will not write — doing so will likely get you blocked. 
+- **Enough-TPs** - Ships that I am extremely selective about require a *lot* of in-character chemistry and plotting before I will even consider it.
+
+> *For Further Details, See:* [[Rulebook/Rules Details/NOTPs + Enough-TPs - Rules\|NOTPs & Enough-TPs]]
+
 ---
 # Additional Guidelines May Apply
 ## Guidelines
