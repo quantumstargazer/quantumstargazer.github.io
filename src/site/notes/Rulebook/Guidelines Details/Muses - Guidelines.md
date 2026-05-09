@@ -11,7 +11,7 @@
 ---
 # Open Muses 
 - *availability:* **Open To All Mutuals**
-## Assumed Interested
+## Mutuals Assumed Interested
 > [!rule]+ Interest Assumed Unless Told Otherwise
 > Unless you tell me you're *not* interested in them by filling out the **[[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]]** form, then these are the muses who I am more likely to throw your way at random, from ***any*** of their canon-based verses and/or fandom matched AUs (*ie I will match your muse's fandom with a verse/AU of my own for that muse, regardless of the muse's origin fandom — so if you write Dragon Age, I may send a Baldur's Gate and/or Mass Effect muse your way, but it will be from one of their corresponding Dragon Age verses/AUs, not their respective canon-based verses*).
 
