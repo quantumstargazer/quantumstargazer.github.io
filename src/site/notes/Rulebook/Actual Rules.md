@@ -5,7 +5,7 @@
 # The Actual Rules
 > [!ziggy]+ A Quick Note from Ziggy
 > 
-> Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply. 
+> Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply.[^9]
 > 
 > > [!spoiler]- Why Things Might Seem Overexplained
 > >  **AuDHD, C-PTSD, PTSD, and other comorbid conditions lend themselves to my being more comfortable with my boundaries being overexplained if necessary rather than leaving things to be "*read between the lines*".**
@@ -309,3 +309,5 @@ Because the [[Rulebook/Guidelines\|Guidelines]] are not entirely universal, depe
 [^7]: ie roleplaying as *actual people*, living or dead, *not* fictional versions of them from movies, television shows, games, fictional novels, etc.
 
 [^8]: The original Alien and Aliens, and the video game tie-ins for them, are fine.
+
+[^9]: See also: Ziggy's tendency to use Customer Service Voice when establishing boundaries, rather than casual conversion tone.
