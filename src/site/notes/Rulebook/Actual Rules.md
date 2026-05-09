@@ -14,7 +14,7 @@
 > >  
 > >  Many of my closest friends are also neurodivergent, and find the extent to which I explain my rules and boundaries to be far more welcoming to them than most, as they know *exactly* what to expect, rather than trying to parse out things from vague assumptions that can leave too many questions, and an uncertainty of if they can even ask for clarification if needed (which if there's anything here that you need further clarification and/or information on, I will gladly provide it if you ask). 
 > >  
-> >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following myself in the first place.
+> >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following me in the first place.
 > 
 ## Read Before Following
 > [!rule]- Read Rules Before Following
