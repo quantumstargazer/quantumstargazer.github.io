@@ -43,20 +43,20 @@
 
 ---
 # Canon Typical
-## Verse Guides
+## Dragon Age Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( Dragon Age )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( Dragon Age )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( FANDOM )
+> [!attention]- Hint ( Dragon Age )
 > 
 
 
