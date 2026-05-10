@@ -23,7 +23,7 @@ If we're mutuals, you do not have to wait for me to post invitations to send mem
 ---
 # Best Ways To Interact
 ## Prompts/Memes 
-**This is by far the easiest way for me to interact initially** — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
+**This is by far the easiest way for me to interact initially, and can always be turned into threads, no need to ask** — both ic and/or ooc, and both in terms of sending and/or receiving them. That said, I typically only send ic prompts/memes from my desktop, where I have the Outbox extension to help me keep tabs on what I sent so I don't accidentally spam someone with the same ic prompt over and over again.
 ## Discord
 Discord — whether DMs and/or private 1-on-1 servers for organizing plotting — is by far my preferred method for direct chatting/plotting/etc. I rely *heavily* on [Better Discord](https://betterdiscord.app/) to make the desktop app truly accessible for myself, and so for now it is where I am primarily.
 ### Stoat Available By Request Only
@@ -35,7 +35,7 @@ Tumblr IMs are inaccessible for me. Also, the notifications for them are broken 
 
 ---
 # Continuity
-I prefer to have a sense of continuity in the majority of my in character interactions. While strict one shots have their time and place, they're not what I really enjoy for the long term, allowing dynamics to build over time through in-character interactions and out-of-character plotting.
+**I prefer to have a sense of continuity in the majority of my in character interactions, meaning that the story continues between multiple threads to build a larger arc.** While strict one shots have their time and place, they're not what I really enjoy for the long term, allowing dynamics to build over time through in-character interactions and out-of-character plotting.
 ## Separate Multi-Verse Continuities
 This continuity is based on an *individual partner basis* — the continuity with one partner between our muses ***does not*** have an effect on the continuity between muses with another partner, even if they fall under the same general verse tag.
 
@@ -44,7 +44,7 @@ This continuity is based on an *individual partner basis* — the continuity wit
 ---
 # Starters
 ## Random Starters
-I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Permanent Interactions Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **Permanent Interactions Call form** to give me *permission* to do so.
+I do, on occasion, write random, unprompted starters for people, but *usually* this is reserved for my Mains and the Permanent Interactions Call Members. So if you'd like me to just send stuff at you randomly, please fill out the **[[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] form** to give me *permission* to do so.
 ### Write Starters For Me Whenever
 **This is blanket permission for *you* to write starters for me whenever you're interested in doing so.** I don't always catch every starter call that comes across the dash, and my anxiety often can interfere in my interacting with them even when I do see them. 
 ## Automatic Starter Calls
@@ -67,7 +67,7 @@ I have dozens of open starters available, which can be replied to at any time, r
 ### For Mutuals Only
 Open Starters are for *mutuals only*, as is indicated in the starter post itself. Beyond that, they are rarely limited in any other way, but please be sure to read the tags before replying if there are any limits or restrictions mentioned. 
 ### Customized Upon Request
-If the starter doesn't *quite* fit for your muse, verse, etc., I am more than happy to rewrite it as a closed starter for you instead. All you have to do is ask (either through discord, tumblr IMs, or the inbox) — just be sure to include the link to the original starter so I know which one it is you want me to base a closed starter on for you. 
+If the starter doesn't *quite* fit for your muse, verse, etc., or it's too generic for my muse's verse you want to interact with, I am more than happy to rewrite it as a closed starter for you instead. All you have to do is ask (either through discord, tumblr IMs, or the inbox) — just be sure to include the link to the original starter so I know which one it is you want me to base a closed starter on for you. 
 
 > *For Further Details, See:* [Starters](Starters%20-%20Guidelines.md)
 
@@ -181,7 +181,7 @@ As such, private verses are most likely available *only* for their intended part
 ### Strict Plotters
 > [!rule]+ Incompatible Partner for Strict Plotters
 > 
-> Plotting, for me, *cannot* be a strict railroaded outline — doing such means my brain will decide it's already been written, and the only way it can be written *again* is with changes and divergences made to it. 
+> **Plotting, for me, *cannot* be a strict railroaded outline** — doing such means my brain will decide it's already been written, and the only way it can be written *again* is with changes and divergences made to it. 
 > 
 > If you are someone who needs to have strict plotting to know *exactly* where things begin, end, and everything that happens in between, we are *not* going to be compatible with each other.
 
