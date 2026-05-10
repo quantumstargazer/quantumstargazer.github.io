@@ -70,15 +70,15 @@
 > 
 >> [!stats]+ Origin Attributes 
 >> - *class (primary):* Mourn Watch Reaper - *Warrior*
->> - *class (secondary):* 
->> - *class (tertiary):* 
+>> - *class (secondary):* —
+>> - *class (tertiary):* —
 >> - *class (additional support):* 
 >> - *fighting style:* Sword & Board
 >> 	- Dual Wield Blades
 >> 	- Two-Handed Weapons
 > 
 >> [!stats]+ Current Status
->> - *current moral alignment:* 
+>> - *current moral alignment:* Rebel Good
 
 > [!tags]- Tumblr Tags
 > - ***in character:*** [IC ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Bertrand+Ingellvar)
