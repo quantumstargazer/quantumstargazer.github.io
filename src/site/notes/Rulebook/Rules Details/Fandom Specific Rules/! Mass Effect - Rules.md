@@ -5,6 +5,15 @@
 # Mass Effect - Rules 
 
 ---
+# Timeline of Major Events
+- **2181 CE** - Construction of the SSV Normandy SR-1 begins.
+- **2182 CE** - Construction of the SSV Normandy SR-1 is complete. Crew assignments and training begins.
+- **2183 CE** - 
+- **2184 CE** - 
+- **2185 CE** - Shepard is revived by Cerberus.
+- **2186 CE** - 
+
+---
 # Galaxystates
 **I do not have a singular default galaxystate.** While I have *preferences* and biases towards certain outcomes, I also enjoy variety, and each muse has their own galaxystate that they default to, and occasionally alternate ones for specific verses. 
 
