@@ -5,6 +5,23 @@
 # Dragon Age - Rules
 
 ---
+# Timeline of Major Events
+These are defaults for *my worldstates*, and events in general if not otherwise specified in another timeline. 
+
+- **9:30 Dragon - Late Summer** - Battle of Ostagar (Fifth Blight begins).
+- **9:31 Dragon - Mid Spring** - Battle of Denerim (Fifth Blight ends).
+- **9:31 Dragon - Mid Autumn** - Amaranthine Crisis begins.
+- **9:32 Dragon - Early Summer** - Amaranthine Crisis ends.
+- **9:33 Dragon** - Morrigan leaves through the eluvian.
+- **9:37 Dragon** - Kirkwall Rebellions occur. 
+- **9:41 Dragon** - The Breach is opened, and the Inquisition is reborn.
+- **9:42 Dragon** - Corypheus is defeated. 
+- **9:44 Dragon** - The Exalted Council occurs. 
+- **9:45 Dragon** - The Summit of Talons of the Antivan Crows occurs.
+- **9:50 Dragon** - Rook is "exiled". Lucanis Dellamorte is "killed".
+- **9:51 Dragon** - Rook disrupts Solas' ritual. A Double Blight begins. 
+
+---
 # Worldstates
 **I do not have a singular default worldstate.** While I have *preferences* and biases towards certain outcomes, I also enjoy variety, and each muse has their own worldstate that they default to, and occasionally alternate ones for specific verses. 
 
