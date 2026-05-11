@@ -101,7 +101,7 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-#### In Time & Space Guides
+#### One Big Continuity Error Guides
 > [!attention] Not Currently Available
 > 
 
@@ -146,7 +146,7 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-#### Companion Guides
+#### Previously—Next Time Guides
 > [!attention] Not Currently Available
 > 
 

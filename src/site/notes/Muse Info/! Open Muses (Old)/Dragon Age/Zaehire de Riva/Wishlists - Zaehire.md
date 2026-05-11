@@ -67,7 +67,7 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-#### In Time & Space Wishlists
+#### One Big Continuity Error Wishlists
 > [!attention] Not Currently Available
 > 
 
@@ -112,7 +112,7 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-#### Companion Wishlists
+#### Previously—Next Time Wishlists
 > [!attention] Not Currently Available
 > 
 

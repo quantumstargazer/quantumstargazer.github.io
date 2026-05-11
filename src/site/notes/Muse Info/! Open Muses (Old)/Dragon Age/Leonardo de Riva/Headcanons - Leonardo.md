@@ -70,7 +70,7 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-#### In Time & Space Headcanons
+#### One Big Continuity Error Headcanons
 > [!attention] Not Currently Available
 > 
 
@@ -115,7 +115,7 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-#### Companion Headcanons
+#### Previously—Next Time Headcanons
 > [!attention] Not Currently Available
 > 
 

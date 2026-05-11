@@ -125,7 +125,7 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-#### In Time & Space Headcanons
+#### One Big Continuity Error Headcanons
 > [!headcanon]-
 > TBA
 
@@ -163,7 +163,7 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-#### Companion Headcanons
+#### Previously—Next Time Headcanons
 > [!headcanon]-
 > TBA
 

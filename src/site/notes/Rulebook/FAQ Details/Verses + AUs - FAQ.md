@@ -44,7 +44,7 @@
 ### Mass Effect 
 - **TBA** — *TBA*
 ### Other Fandoms 
-- **In Time & Space** (*Doctor Who*) — *TBA*
+- **One Big Continuity Error** (*Doctor Who*) — *TBA*
 - **Starfleet** (*Star Trek*) — *TBA*
 
 ## Trapped In Another World AUs 
@@ -61,7 +61,7 @@
 ### Mass Effect 
 - **Anomaly Detected** — *TBA*
 ### Other Fandoms 
-- **Companion** (*Doctor Who*) — *TBA*
+- **Previously—Next Time** (*Doctor Who*) — *TBA*
 - **Anomaly On Sensors** (*Star Trek*) — *TBA*
 
 ## Other Verses & AUs

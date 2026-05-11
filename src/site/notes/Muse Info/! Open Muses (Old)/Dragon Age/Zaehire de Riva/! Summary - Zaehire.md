@@ -152,7 +152,7 @@
 
 ## Other Fandoms AUs
 ### Doctor Who AUs
-> [!verse]- In Time & Space
+> [!verse]- One Big Continuity Error
 > - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
@@ -222,7 +222,7 @@
 
 ## Other Fandoms AWs
 ### Doctor Who AWs
-> [!verse]- Companion
+> [!verse]- Previously—Next Time
 > - *Setting:* **Varies (Multiverse)**
 > 
 > Summary goes here.
