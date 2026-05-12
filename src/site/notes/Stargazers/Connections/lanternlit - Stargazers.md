@@ -51,28 +51,31 @@
 # Mass Effect Muses 
 ## Isabela Shepard 
 ### Garrus Vakarian
-> [!main]+ Garrus — lanternlit
+> [!main]+ Garrus Vakarian — lanternlit
 > 
 > ***verse(s):*** 
 > - TBA
-> 
 >
 > *blog tag(s):*
 > - [lanternlit](https://quantumstargazer.tumblr.com/tagged/lanternlit)
-> 
+> - [lanternlit ( Garrus Vakarian )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+Garrus+Vakarian+))
 >
 > *connection(s):*
-> - [Connection ☾⭒ MuseName & PartnerMuse ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+&+PartnerMuse+(+lanternlit+))
-> 
+> - [Connection ☾⭒ Isabela & Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+&+Garrus+(+lanternlit+))
+> - [Connection ☾⭒ Isabela x Garrus ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Isabela+x+Garrus+(+lanternlit+))
 >
 > *ship/dyn:*
 > - TBA
 > 
-> 
 > ---
-> *dynamic(s):*
+> *dynamic(s):* <small><i>- (timeline dependent)</i></small>
 > - **Acquaintances**
-
+> - **Platonic**
+> - **Queerplatonic**
+> - **Romantic**
+> - **Sexual**
+> - **Antagonistic**
+> - **Other Dynamics**
 
 ## Nihlus Kryik 
 
@@ -157,7 +160,7 @@
 ---
 
 
-- [MuseName ☾⭒ VerseID ( PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+lanternlit+))- [lanternlit ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+lanternlit+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+lanternlit+))> - **Platonic**
+- [lanternlit ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/lanternlit+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+lanternlit+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+lanternlit+))> - **Platonic**
 > - **Queerplatonic**
 > - **Romantic**
 > - **Sexual**

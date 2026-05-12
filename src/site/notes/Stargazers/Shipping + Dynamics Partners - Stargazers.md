@@ -20,9 +20,9 @@
 ---
 # Dragon Age Muses 
 ## Ashina de Riva née Tabris 
-- **Andarateia Cantori** - [[Stargazers/Connections/corvusrookery - Stargazers\|corvusrookery]]
+- **Andarateia Cantori** - [[Stargazers/Connections/corvusrookery - Stargazers#Andarateia Cantori\|corvusrookery]]
 - **Garrus Vakarian** - [[Stargazers/Connections/lanternlit - Stargazers\|lanternlit]]
-- **Viago de Riva** - [[Stargazers/Connections/corvusrookery - Stargazers\|corvusrookery]]
+- **Viago de Riva** - [[Stargazers/Connections/corvusrookery - Stargazers#Viago de Riva\|corvusrookery]]
 
 ## Zaehire de Riva 
 - **Andarateia Cantori** - [[Stargazers/Connections/corvusrookery - Stargazers\|corvusrookery]]
@@ -52,7 +52,7 @@
 ---
 # Mass Effect Muses 
 ## Isabela Shepard 
-- **Garrus Vakarian** - [[Stargazers/Connections/lanternlit - Stargazers\|lanternlit]]
+- **Garrus Vakarian** - [[Stargazers/Connections/lanternlit - Stargazers#Garrus Vakarian\|lanternlit]]
 - **Tali'Zorah** - [[Stargazers/Connections/lanternlit - Stargazers\|lanternlit]]
 - **Wren Shepard** - [[Stargazers/Connections/lanternlit - Stargazers\|lanternlit]]
 

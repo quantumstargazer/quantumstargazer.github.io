@@ -22,7 +22,64 @@
 ---
 # Dragon Age Muses
 ## Ashina de Riva née Tabris 
+### Andarateia Cantori
+> [!main]+ Andarateia Cantori — corvusrookery
+> 
+> ***verses:*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Andarateia Cantori\|corvusrookery - Andarateia Cantori]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
+> 
+> *blog tag(s):* 
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Andarateia Cantori )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Andarateia+Cantori+))
+> 
+> *connection:* 
+> - [Connection ☾⭒ Ashina & Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Teia+(+corvusrookery+))
+> - [Connection ☾⭒ Ashina x Teia ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Teia+(+corvusrookery+))
+> 
+> *ship/dyn:* 
+> - TBA
+> 
+> ---
+> *dynamic(s):* <small><i>- (timeline dependent)</i></small>
+> - **Acquaintances**
+> - **Platonic**
+> - **Queerplatonic**
+> - **Romantic**
+> - **Sexual**
 
+> - **Other Dynamics**
+> 
+
+### Viago de Riva
+> [!main]+ Viago de Riva — corvusrookery
+> 
+> ***verse(s):*** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - Viago de Riva\|corvusrookery - Viago de Riva]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#corvusrookery - 3 Talons & Their Crow\|corvusrookery - 3 Talons & Their Crow]]
+> 
+>
+> *blog tag(s):*
+> - [corvusrookery](https://quantumstargazer.tumblr.com/tagged/corvusrookery) 
+> - [corvusrookery ( Viago de Riva )](https://quantumstargazer.tumblr.com/tagged/corvusrookery+(+Viago+de+Riva+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+Viago+(+corvusrookery+))
+> - [Connection ☾⭒ Ashina x Viago ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Viago+(+corvusrookery+))
+>
+> *ship/dyn:*
+> - [Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+To+Dance+Along+The+Edge+Of+A+Knife+(+Ashina+&+Viago+—+corvusrookery+))
+> 
+> ---
+> *dynamic(s):* <small><i>- (timeline dependent)</i></small>
+> - **Acquaintances**
+> - **Platonic**
+> - **Queerplatonic**
+> - **Romantic**
+> - **Sexual**
+
+> - **Other Dynamics**
+> 
 
 ## Zaehire de Riva 
 
