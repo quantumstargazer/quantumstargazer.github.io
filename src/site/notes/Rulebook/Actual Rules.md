@@ -39,7 +39,7 @@
 > **If I'm following you, I *want* to write with you.** It's that simple — I don't follow for follow, nor do I follow anyone who I'm not interested in interacting with.
 ### Hard Block If Not Interested
 > [!rule]- Hard Block If You're Not Interested
-> If you're not interested in writing with me, please **just hard block me — do *not* soft block**. I have severe memory issues (*medical issues*), and I honestly will not be able to remember if you simply soft block.
+> If you're not interested in writing with me, please **just hard block me — do *not* soft block**. I have severe memory issues (*medical issues*), and I honestly will not be able to remember if you simply soft block. This *includes* if we are already mutuals and you've decided you have changed your mind about us being mutuals. Just hard block me and move on — it's really no big deal, unless you actively try to make it one yourself.
 
 ---
 # Don't Be A Dick
