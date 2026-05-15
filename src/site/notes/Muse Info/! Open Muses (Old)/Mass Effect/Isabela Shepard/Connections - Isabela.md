@@ -26,6 +26,7 @@
 
 ---
 # Mains
+## lanternlit
 > [!main]- Wren Shepard — lanternlit
 > 
 > ***verse(s):*** 
@@ -97,6 +98,7 @@
 
 ---
 # Permanent Interactions Call Members
+## codenamearchangel
 > [!bfc]- Garrus Vakarian — codenamearchangel
 > 
 > ***verse(s):*** 
