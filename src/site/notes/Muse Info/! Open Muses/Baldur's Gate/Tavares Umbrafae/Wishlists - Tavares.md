@@ -26,7 +26,7 @@
 ---
 # Universal Wishlists
 ## Wishlist
-> [!wishlist]- Wishlist ( Verse )
+> [!wishlist]- Wishlist ( Multiverse )
 > TBA
 
 
