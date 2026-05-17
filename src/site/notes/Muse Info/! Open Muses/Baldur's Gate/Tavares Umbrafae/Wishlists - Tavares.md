@@ -33,7 +33,7 @@
 
 ---
 # Canon Typical
-## Verse Wishlists
+## Absolute Crisis Wishlists
 > [!attention] Not Currently Available
 > 
 
@@ -41,7 +41,7 @@
 
 ---
 # Canon Divergent AUs
-## Verse AU Wishlists
+## Callidae Exile Wishlists
 > [!attention] Not Currently Available
 > 
 
@@ -56,7 +56,7 @@
 
 
 ## Dragon Age AUs
-### Dragon Age AUs Wishlists
+### Lights of Arlathan Wishlists
 > [!attention] Not Currently Available
 > 
 
