@@ -10,6 +10,7 @@
 # A
 - Aevendrow
 - Ancunín
+- Archfey
 - Astarion Ancunín
 
 # B
@@ -49,6 +50,7 @@
 - Jaheira
 
 # K
+- Kagha
 - Karlach Cliffgate
 
 # L
@@ -58,7 +60,8 @@
 # M
 - Menzoberranzan
 - Minsc
-- Minthara Baenre 
+- Minthara Baenre
+- Mol
 
 # N
 - 
@@ -100,5 +103,5 @@
 - 
 
 # Z
-- 
+- Zevlor
 
