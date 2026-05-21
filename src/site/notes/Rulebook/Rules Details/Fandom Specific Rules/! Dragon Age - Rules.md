@@ -13,19 +13,29 @@ These are defaults for *my worldstates*, and events in general if not otherwise 
 - **9:31 Dragon - Mid Autumn** - Amaranthine Crisis begins.
 - **9:32 Dragon - Early Summer** - Amaranthine Crisis ends.
 - **9:33 Dragon** - Morrigan leaves through the eluvian.
-- **9:37 Dragon** - Kirkwall Rebellions occur. 
-- **9:41 Dragon** - The Breach is opened, and the Inquisition is reborn.
+- **9:37 Dragon** - Kirkwall Rebellions occur.
+- **9:40 Dragon - Late Summer** - Divine's Conclave is announced & invitations sent.
+- **9:41 Dragon - Early Spring** - The Breach is opened, & the Inquisition is reborn.
 - **9:42 Dragon** - Corypheus is defeated. 
 - **9:44 Dragon** - The Exalted Council occurs. 
 - **9:45 Dragon** - The Summit of Talons of the Antivan Crows occurs.
-- **9:50 Dragon** - Rook is "exiled". Lucanis Dellamorte is "killed".
-- **9:51 Dragon** - Rook disrupts Solas' ritual. A Double Blight begins. 
+- **9:50 Dragon - Late Autumn** - Rook is "exiled". Lucanis Dellamorte is "killed".
+- **9:51 Dragon - Mid Summer** - Rook disrupts Solas' ritual. A Double Blight begins. 
 
 ---
 # Worldstates
 **I do not have a singular default worldstate.** While I have *preferences* and biases towards certain outcomes, I also enjoy variety, and each muse has their own worldstate that they default to, and occasionally alternate ones for specific verses. 
 
 **I am *also* open to utilising my partners' worldstates, and/or crafting custom worldstates for private verses & AUs** — I am working on putting together a form to assist in crafting custom worldstates, though as I said, it will be limited to those with private verses & AUs, which typically require plotting via discord.
+
+## DNI Worldstate Conditions
+> [!rule]+ Dragon Age Worldstate Conditions
+> **I will *not* write in worldstates that utilize the following conditions — these are non-negotiable:**
+> - Zevran Arainai is killed (either by Warden or by the Crows)
+> - Sten is not freed and/or does not recover his sword
+> - Fenris is given to Denarius
+> - Isabela is given to the Qun
+> - Dorian Pavus reconciles with his father
 
 ---
 # Zevran Early Recruitment
