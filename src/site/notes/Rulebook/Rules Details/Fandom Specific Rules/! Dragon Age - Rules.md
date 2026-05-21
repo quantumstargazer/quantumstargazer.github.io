@@ -60,7 +60,10 @@ Zevran's ambush is along the Imperial Highway, so their intended destination aft
 ---
 # Antivan Crows
 
-**TBA** 
+**The Antivan Crows are *not* inherently the freedom fighters they are portrayed as in Veilguard.** I will *not* ignore their past, as it is what made Zevran who he is, among others, and even the Crows talking amongst themselves will hint about how brutal and traumatic their training often was, but this is not information for outsiders who would not understand. 
+
+## Black Shadow
+**Zevran becomes a true bane to the Crows as the Black Shadow** — he is responsible for the deaths of *several* Talons from House Arainai, as well as various Guildmasters and entire cells from a variety of Houses, and likely resulted in some of the minor houses being wiped out completely.
 
 ---
 
