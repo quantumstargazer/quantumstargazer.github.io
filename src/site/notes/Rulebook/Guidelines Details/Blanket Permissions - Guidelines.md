@@ -20,14 +20,14 @@
 	- Will create custom closed starters based on any upon request
 ## Request That I Send Memes
 - **Request That I Send Them Prompts/Memes**
-	- Use "Inbox Call" form
+	- Use [[Interactive Forms#Inbox Call\|Inbox Call]] form
 ## Request That I Write Starters
 - **Request That I Write Them Starters**
-	- Use "Starter Call" form
-	- Or join the "Permanent Interactions Call" members list by filling out that form
+	- Use [[Interactive Forms#Starter Call\|Starter Call]] form
+	- Or join the [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] members list by filling out that form
 ## Ask To Plot
 - **Ask To Plot For Threads, Verses, AUs, Etc.**
-	- Message on discord (only place I currently can handle plotting)
+	- Message on discord *(only place I currently can handle plotting)*
 ## Ask To Ship
 - **Ask To Ship, Plot Dynamics, Etc.**
 	- Message on discord &/or via tumblr inbox
