@@ -4,4 +4,4 @@
 
 # Renamed Things
 - phylactery - *tu'lw* (slightly incorrect Klingon: "find blood" - "*tuQ 'lw*" in actual Klingon)
-- Alienage - *ararcael* (Tel'Quessir Translator: "community" - re: similarity to "*aravel"*)
+- Alienage - *ararcael* ([Tel'Quessir Translator](https://funtranslations.com/translate/elvish): "community" - re: similarity to "*aravel"*)
