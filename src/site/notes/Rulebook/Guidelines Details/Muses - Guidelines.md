@@ -17,7 +17,7 @@
 
 ---
 # By Request Only 
-- *availability:* **Available By Request For All Mutuals**
+- *availability:* **Available By Request Only For All Mutuals**
 
 
 ---
