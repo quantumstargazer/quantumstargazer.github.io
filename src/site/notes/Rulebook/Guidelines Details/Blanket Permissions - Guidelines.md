@@ -12,7 +12,7 @@
 ## Write Starters
 - **Write Starters For My Muses**
 	- Unprompted Random Starters
-	- Fill Starter Calls - Ask To Specify If Needed
+	- Automatically Fill Starter Calls - Ask Me To Specify If Needed
 ## Reply To Open Starters
 - **Reply To Open Starters**
 	- Available to ALL Mutuals
@@ -33,7 +33,7 @@
 	- Message on discord &/or via tumblr inbox
 ## Add As Friend On Discord
 - **Add As Friend On Discord**
-	- Mutuals Only — info is in the pinned post
+	- Mutuals Only — ***lefae639605***
 
 
 
