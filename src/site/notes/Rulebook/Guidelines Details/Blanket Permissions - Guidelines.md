@@ -3,6 +3,8 @@
 ---
 
 # Blanket Permissions
+> *See also:* [[Rulebook/FAQ Details/Do's + Don'ts - FAQ\|Do's & Don'ts of Interacting]]
+
 ***Mutuals*** do not have to ask or wait for posts prompting them to do any of the following:
 ## Send Prompts To Inbox
 - **Send Prompts/Memes To Inbox**
@@ -35,8 +37,7 @@
 - **Add As Friend On Discord**
 	- Mutuals Only — ***lefae639605***
 
-
-
+---
 
 
 
