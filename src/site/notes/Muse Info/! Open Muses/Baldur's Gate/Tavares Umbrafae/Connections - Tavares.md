@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/connections-tavares/","tags":["connections"],"dg-note-properties":{"tags":["connections"],"aliases":["Connections"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/connections-tavares/","tags":["connections","open-muses","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["connections","open-muses","baldurs-gate","muse-tavares"],"aliases":["Connections"]}}
 ---
 
 # Connections - Tavares Umbrafae

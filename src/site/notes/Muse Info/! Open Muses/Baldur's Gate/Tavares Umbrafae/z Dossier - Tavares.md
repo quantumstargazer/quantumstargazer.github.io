@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/z-dossier-tavares/","tags":["dossier","baldurs-gate","muse-tavares"],"dg-note-properties":{"tags":["dossier","baldurs-gate","muse-tavares"],"aliases":["Dossier - VerseAU - Tavares"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/baldur-s-gate/tavares-umbrafae/z-dossier-tavares/","tags":["dossier","baldurs-gate","muse-tavares","open-muses"],"dg-note-properties":{"tags":["dossier","baldurs-gate","muse-tavares","open-muses"],"aliases":["Dossier - VerseAU - Tavares"]}}
 ---
 
 
