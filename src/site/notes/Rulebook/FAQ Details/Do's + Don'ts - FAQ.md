@@ -9,25 +9,25 @@
 # TL;DR 
 ## Do
 
-| Things                          | Do Them? |    Restrictions?     |
-| ------------------------------- | :------: | :------------------: |
-| Send unprompted asks            |  ✅ Yes   |        *None*        |
-| Send prompts/memes              |  ✅ Yes   | **Mutuals Priority** |
-| Add context to prompts/memes    |  ✅ Yes   |       *None *        |
-| Reverse any prompts/memes       |  ✅ Yes   |        *None*        |
-| Write me random starters        |  ✅ Yes   |   **Mutuals Only**   |
-| Reply to my open starters       |  ✅ Yes   |   **Mutuals Only**   |
-| Fill out interest forms         |  ✅ Yes   |        *None*        |
-| Read my stuff                   |  ✅ Yes   |        *None*        |
-| Take inspiration from my stuff  |  ✅ Yes   |        *None*        |
-| Ask questions about my stuff    |  ✅ Yes   |        *None*        |
-| Ask to start over               |  ✅ Yes   |        *None*        |
-| Tell me if you want to ship     |  ✅ Yes   |        *None*        |
-| Add me on discord               |  ✅ Yes   |   **Mutuals Only**   |
-| Discord message **(Open 24/7)** |  ✅ Yes   |   **Mutuals Only**   |
-| Throw random plot ideas at me   |  ✅ Yes   |        *None*        |
-| Like & comment on HCs           |  ✅ Yes   |        *None*        |
-| Leave ❤️ in the comments        |  ✅ Yes   |        *None*        |
+| Things                                                                 | Do Them? |    Restrictions?     |
+| ---------------------------------------------------------------------- | :------: | :------------------: |
+| Send unprompted asks                                                   |  ✅ Yes   |        *None*        |
+| Send prompts/memes                                                     |  ✅ Yes   | **Mutuals Priority** |
+| Add context to prompts/memes                                           |  ✅ Yes   |       *None *        |
+| Reverse any prompts/memes                                              |  ✅ Yes   |        *None*        |
+| Write me random starters                                               |  ✅ Yes   |   **Mutuals Only**   |
+| Reply to my open starters                                              |  ✅ Yes   |   **Mutuals Only**   |
+| Fill out [[Interactive Forms#Interest Tracking Forms\|interest forms]] |  ✅ Yes   |        *None*        |
+| Read my stuff                                                          |  ✅ Yes   |        *None*        |
+| Take inspiration from my stuff                                         |  ✅ Yes   |        *None*        |
+| Ask questions about my stuff                                           |  ✅ Yes   |        *None*        |
+| Ask to start over                                                      |  ✅ Yes   |        *None*        |
+| Tell me if you want to ship                                            |  ✅ Yes   |        *None*        |
+| Add me on discord                                                      |  ✅ Yes   |   **Mutuals Only**   |
+| Discord message **(Open 24/7)**                                        |  ✅ Yes   |   **Mutuals Only**   |
+| Throw random plot ideas at me                                          |  ✅ Yes   |        *None*        |
+| Like & comment on HCs                                                  |  ✅ Yes   |        *None*        |
+| Leave ❤️ in the comments                                               |  ✅ Yes   |        *None*        |
 
 ## Don't
 
