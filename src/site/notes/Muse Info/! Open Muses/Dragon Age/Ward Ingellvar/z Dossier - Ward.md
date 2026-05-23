@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/z-dossier-ward/","tags":["dossier"],"dg-note-properties":{"tags":["dossier"],"aliases":["Dossier - VerseAU - Muse"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/z-dossier-ward/","tags":["dossier","muse-ward","open-muses","dragon-age"],"dg-note-properties":{"tags":["dossier","muse-ward","open-muses","dragon-age"],"aliases":["Dossier - VerseAU - Ward"]}}
 ---
 
 

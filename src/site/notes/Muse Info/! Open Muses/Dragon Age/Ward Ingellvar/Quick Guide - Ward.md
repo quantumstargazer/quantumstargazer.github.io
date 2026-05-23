@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/quick-guide-ward/","tags":["quick-guide"],"dg-note-properties":{"tags":["quick-guide"],"aliases":["Quick Guide"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/quick-guide-ward/","tags":["quick-guide","muse-ward","open-muses","dragon-age"],"dg-note-properties":{"tags":["quick-guide","muse-ward","open-muses","dragon-age"],"aliases":["Quick Guide"]}}
 ---
 
 # Guides - Ward Ingellvar
@@ -43,20 +43,20 @@
 
 ---
 # Canon Typical
-## Dragon Age Guides
+## Verse Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( Dragon Age )
+> [!hint]- Hint ( CanonVerse )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( Dragon Age )
+> [!hint]- Hint ( CanonVerse )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( Dragon Age )
+> [!attention]- Hint ( CanonVerse )
 > 
 
 
@@ -65,17 +65,17 @@
 ## VerseAU Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( CanonVerse )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( FANDOM )
+> [!hint]- Hint ( CanonVerse )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( FANDOM )
+> [!attention]- Hint ( CanonVerse )
 > 
 
 

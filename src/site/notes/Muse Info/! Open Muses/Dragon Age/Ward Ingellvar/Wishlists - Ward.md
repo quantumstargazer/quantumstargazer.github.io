@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/wishlists-ward/","tags":["wishlists"],"dg-note-properties":{"tags":["wishlists"],"aliases":["Wishlists"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/wishlists-ward/","tags":["wishlists","muse-ward","open-muses","dragon-age"],"dg-note-properties":{"tags":["wishlists","muse-ward","open-muses","dragon-age"],"aliases":["Wishlists"]}}
 ---
 
 # Wishlists - Ward Ingellvar
@@ -26,7 +26,7 @@
 ---
 # Universal Wishlists
 ## Wishlist
-> [!wishlist]- Wishlist ( Verse )
+> [!wishlist]- Wishlist ( Multiverse )
 > TBA
 
 
@@ -41,7 +41,7 @@
 
 ---
 # Canon Divergent AUs
-## Verse AU Wishlists
+## VerseAU Wishlists
 > [!attention] Not Currently Available
 > 
 

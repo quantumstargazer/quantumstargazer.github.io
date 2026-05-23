@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/connections-ward/","tags":["connections"],"dg-note-properties":{"tags":["connections"],"aliases":["Connections"]}}
+{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ward-ingellvar/connections-ward/","tags":["connections","muse-ward","open-muses","dragon-age"],"dg-note-properties":{"tags":["connections","muse-ward","open-muses","dragon-age"],"aliases":["Connections"]}}
 ---
 
 # Connections - Ward Ingellvar
