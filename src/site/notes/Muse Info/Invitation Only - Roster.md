@@ -10,9 +10,8 @@
 # Baldur's Gate
 ## Prince of Frost 
 > [!profile]+ Prince of Frost (he/him)
-> > *Also written as an NPC as part of Tavares' interactions.*
-> 
 > ![[Placeholder_Person.jpg\|red]]
+> > *Also written as an NPC as part of Tavares' interactions.*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -26,8 +25,8 @@
 > - Wishlists
 ## Faertorithrue
 > [!profile]+ Faertorithrue (she/they)
-> *Fey'ri Tiefling — Witchlight Carnival Hand*
 > ![20250816030845.png\|red\|100](/img/user/z%20Assets/Attachments/20250816030845.png)
+> > *Fey'ri Tiefling — Witchlight Carnival Hand*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -41,8 +40,8 @@
 > - Wishlists
 ## Fenmaer Dawngazer
 > [!profile]+ Fenmaer Dawngazer (he/him)
-> *Sun Elf — Cleric of Corellon*
 > ![20250729084634.png\|red\|100](/img/user/z%20Assets/Attachments/20250729084634.png)
+> > *Sun Elf — Cleric of Corellon*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -56,8 +55,8 @@
 > - Wishlists
 ## Fisk (*The Enigma*)
 > [!profile]- Fisk (they/them)
-> *Mods-Inspired Heavily Canon-Divergent Dark Urge*
 > ![[Placeholder_Person.jpg\|red]]
+> > *Mods-Inspired Heavily Canon-Divergent Dark Urge*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -133,8 +132,8 @@
 > - Wishlists
 ## (Sentinel Elf - To Be Named)
 > [!profile]- TBD (he/him)
-> - *Sentinel of Mythal*
 > ![[Placeholder_Person.jpg\|red]]
+> > *Sentinel of Mythal*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -160,10 +159,24 @@
 > - Headcanons
 > - Quick Guides
 > - Wishlists
+## Merrill
+> [!profile]- Merrill (she/her)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
 ## Clark Kent
 > [!profile]- Clark Kent (he/him)
-> - *Canon (Easter egg) in Dragon Age: Origins*
 > ![[Placeholder_Person.jpg\|red]]
+> > *Canon (Easter egg) in Dragon Age: Origins*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -177,8 +190,8 @@
 > - Wishlists
 ## Bruce Wayne
 > [!profile]- Bruce Wayne (he/him)
-> - *Couldn't have Clark without Bruce*
 > ![[Placeholder_Person.jpg\|red]]
+> > *Couldn't have Clark without Bruce*
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
