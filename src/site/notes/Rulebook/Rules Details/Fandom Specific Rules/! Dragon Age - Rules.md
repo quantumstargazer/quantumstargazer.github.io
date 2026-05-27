@@ -3,6 +3,9 @@
 ---
 
 # Dragon Age - Rules
+## Default Timeline(s)
+> [!guideline]+ Defaults to Veilguard Era
+> ***Unless you request a specific timeline***, I will typically default to one of those of the Veilguard era — either **9:45 - 9:49 Dragon** (*the "Wolf Hunt" phase prior to the events of Veilguard*) or **9:50 - 9:54 Dragon** (*the actual events of Veilguard, including the 6+ months prior from the point when Rook is exiled by their faction leader*).
 
 ---
 # Timeline of Major Events
