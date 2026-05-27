@@ -9,7 +9,7 @@
 
 ---
 # Timeline of Major Events
-These are defaults for *my worldstates*, and events in general if not otherwise specified in another timeline. 
+These are defaults for *my worldstates*, and events in general[^1] if not otherwise specified in another timeline. 
 
 - **9:30 Dragon - Late Summer** - Battle of Ostagar (Fifth Blight begins).
 - **9:31 Dragon - Mid Spring** - Battle of Denerim (Fifth Blight ends).
@@ -86,3 +86,5 @@ Zevran's ambush is along the Imperial Highway, so their intended destination aft
 
 
 
+
+[^1]: Reference: [Dragon Age Timeline](https://docs.google.com/spreadsheets/u/0/d/1GR_4fTFK6Hn8iwvT3ek52wyF6YtDp0B3Eqv6O656rgE/htmlview)
