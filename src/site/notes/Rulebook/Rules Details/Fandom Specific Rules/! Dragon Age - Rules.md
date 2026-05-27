@@ -18,9 +18,10 @@ These are defaults for *my worldstates*, and events in general[^1] if not otherw
 - **9:33 Dragon** - Morrigan leaves through the eluvian.
 - **9:37 Dragon** - Kirkwall Rebellions occur.
 - **9:40 Dragon - Late Summer** - Divine's Conclave is announced & invitations sent.
+- **9:40 Dragon - Mid Winter** - Varric Tethras is interrogated about Hawke's whereabouts.
 - **9:41 Dragon - Early Spring** - The Breach is opened, & the Inquisition is reborn.
 - **9:42 Dragon** - Corypheus is defeated. 
-- **9:44 Dragon** - The Exalted Council occurs. 
+- **9:44 Dragon - Late Spring** - The Exalted Council occurs. 
 - **9:45 Dragon** - The Summit of Talons of the Antivan Crows occurs.
 - **9:50 Dragon - Late Autumn** - Rook is "exiled". Lucanis Dellamorte is "killed".
 - **9:51 Dragon - Mid Summer** - Rook disrupts Solas' ritual. A Double Blight begins. 
