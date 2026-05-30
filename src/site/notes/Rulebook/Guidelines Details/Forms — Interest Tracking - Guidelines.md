@@ -39,6 +39,8 @@ This form is *completely optional*, but recommended, especially if you're wantin
 > If we haven't even said so much as "hello" to each other yet, chances are it's too soon to fill this form out. This is effectively a *permanent starter call*, and if we've yet to start writing &/or plotting together, I'm not going to add you to the members list until we are.
 
 This is the closest thing I have to a **permanent starter call**, and it comes with additional benefits beyond my just sending you starters at random.
+## Potential Mains
+**This is where my Mains come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this list.
 ## Terms of Use
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 
