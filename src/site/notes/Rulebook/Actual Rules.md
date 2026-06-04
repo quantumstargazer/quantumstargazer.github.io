@@ -12,7 +12,7 @@
 > **Only the [[Rulebook/Actual Rules\|Actual Rules]] is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rulebook/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
 ## Accessibility Accommodations
 > [!rule]- Some Accommodations Required
-> - [[Interactive Forms\|Interactive Forms]] — I find "*like this post for*" style posts to be too unmanageable (such as for Starter Calls, (Reverse) Inbox Calls, Permanent Starter/Interaction Calls, etc.), especially given my severe memory issues, so some forms may be required, as they are the only method by which I accept the information where I can easily reference the responses later.
+> - [[Interactive Forms\|Interactive Forms]] — I find "*like this post for*" style posts to be too unmanageable (such as for Starter Calls, (Reverse) Inbox Calls, Permanent Starter/Interaction Calls, etc.), especially given my severe memory issues, so some forms may be required, as they are the only method by which I accept the information where I can easily reference the responses later. (For more details, see: [[Rulebook/Guidelines Details/Forms — Interaction - Guidelines\|Interaction Forms]])
 > 
 > *Currently incomplete FAQ:*
 > - [[Rulebook/FAQ Details/Accessibility - FAQ\|Accessibility]]
