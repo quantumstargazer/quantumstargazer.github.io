@@ -80,8 +80,9 @@
 
 
 ## Spirit of Learning Headcanons
-> [!attention] Not Currently Available
-> 
+### Wisdom's Pupil
+> [!headcanon]- Wisdom's Pupil ( Spirit of Learning )
+> TBA
 
 
 
