@@ -47,10 +47,10 @@ I *will not* follow and/or roleplay with you if:
 - You don't have an age range listed on your blog &/or in your rules.
 - You are under the age of 21.
 ## Only Interacts With Mutuals
-### If I Follow You First
-**If I follow first**, I *will not* interact with your blog until you have followed back, as I am *mutuals only*, and only follow those who I have an interest in writing with.
 ### If You Follow Me First
 **If you follow first**, I *will not* interact with you except through inbox prompts/memes that are tagged was "*Open For Everyone*" until I have had a chance to read your rules, check your blog out, and establish mutual status by following you back.
+### If I Follow You First
+**If I follow first**, I *will not* interact with your blog until you have followed back, as I am *mutuals only*, and only follow those who I have an interest in writing with.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/21+ + Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rulebook/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
 
