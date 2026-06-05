@@ -33,57 +33,153 @@
 > **Risk of Corruption**
 > - If corrupted, they may become something akin to the Librarians in the Shattered Library, a spirit of the fear of ignorance.
 > - Depending on *when* and how they are at risk of corruption, they could also became a spirit of Spite, for their desperation to learn one specific thing is fueled by spite to prove someone wrong.
-### Hint
-> [!hint]- Hint ( Multiverse )
+### Written As Autistic
+> [!hint]+ Written As Autistic ( Multiverse )
+> Ward is written as being AuDHD (autism + ADHD). They *will* ramble about topics that interest them — *especially* spirits, the Fade, necromancy, etc. — and they will get distracted and go off on side tangents while doing so. Their dialogue can get *very wordy* when this happens, but please understand:
 > 
+> **I do not expect you to respond to every bit of dialogue.** Rhetorical questions will be asked, or even questions they know the person they're talking to likely doesn't know the answer to — they work out a lot of their own thoughts through talking this way, and them being willing *to let you see this* of them is a fair sign that you've gained at least a little of their trust, as they typically present themself as being extremely quiet and reserved.
 
 ## Things Your Muse *Could* Know
-### Hint
-> [!hint]- Hint ( Multiverse )
+### Vorgoth's Ward
+> [!hint]+ Vorgoth's Ward ( Multiverse )
 > 
+> Ward is raised from infancy by Vorgoth within the Grand Necropolis. This contributes to many of their... eccentricities that they possess, including their being able to speak in the same manner as their guardian (ie they are able to use "THE VOICE LIKE THIS" when they wish to, and it is as startling as you can imagine for most people to experience).
+### Ghost of the Necropolis
+> [!hint]+ Ghost of the Necropolis ( Multiverse )
+> 
+> Ward acquired this moniker as a child for the way they move through the Necropolis so quietly and often unseen, besides maybe tiny barely there glimpses of a flash of shock white hair or deathly silver-white eyes peeking out from behind a pillar, or from behind Vorgoth.
+> 
+> As they continue this behavior even after they graduate as an apprentice and become a proper Watcher, they never quite leave this moniker behind.
+### Seeing & Hearing Spite
+> [!attention]+ Ward can likely see & hear Spite ( Multiverse )
+> 
+> - **Open To Plotting** — *Spite &/or Lucanis roleplayers only*
+### Understanding Manfred
+> [!attention]+ Ward can likely understand Manfred ( Multiverse )
+> 
+> - **Open To Plotting** — *Manfred &/or Emmrich roleplayers only*
 
 ## Things Your Muse Should *Not* Know
-### Hint
-> [!attention]- Hint ( Multiverse )
+### Spirit Turned Elf
+> [!attention]+ Spirit Turned Elf ( Multiverse )
 > 
+> **With very few exceptions**, no one should be able to recognize Ward for being a spirit turned elf, *especially* once they are past their newborn infancy state. (*verse/timeline dependent*)
+> 
+> **Pre-Approved Exceptions**
+> - *Exceptions may be made for the following:* 
+> 	- **Vorgoth**
+> 	- Spite (*and, by extension, potentially Lucanis if it's revealed by Spite*)
+> 	- Manfred
+> 	- Solas
+> 	- Felassan
+> 	- The Evanuris
+> 	- The Forgotten Ones
+> 	- Ancient Elves
+> 	- particularly powerful spirits & demons
+> 	- those who are extremely Fade sensitive
 
 
 ---
 # Canon Typical
-## Verse Guides
+## Dragon Age Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( CanonVerse )
+> [!hint]- Hint ( Dragon Age )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( CanonVerse )
+> [!hint]- Hint ( Dragon Age )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( CanonVerse )
+> [!attention]- Hint ( Dragon Age )
 > 
 
 
 ---
 # Canon Divergent AUs
-## VerseAU Guides
+## Ghost of the Necropolis Guides
 ### Things *You* Should Know
 #### Hint
-> [!hint]- Hint ( CanonVerse )
+> [!hint]- Hint ( Dragon Age )
 > 
 
 ### Things Your Muse *Could* Know
 #### Hint
-> [!hint]- Hint ( CanonVerse )
+> [!hint]- Hint ( Dragon Age )
 > 
 
 ### Things Your Muse Should *Not* Know
 #### Hint
-> [!attention]- Hint ( CanonVerse )
+> [!attention]- Hint ( Dragon Age )
 > 
+
+## Inquisition's Ghost Guides
+### Things *You* Should Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse *Could* Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse Should *Not* Know
+#### Hint
+> [!attention]- Hint ( Dragon Age )
+> 
+
+## Ancient Times Guides
+### Things *You* Should Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse *Could* Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse Should *Not* Know
+#### Hint
+> [!attention]- Hint ( Dragon Age )
+> 
+
+## Rebellion's Ghost Guides
+### Things *You* Should Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse *Could* Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse Should *Not* Know
+#### Hint
+> [!attention]- Hint ( Dragon Age )
+> 
+
+## Spirit of Learning Guides
+### Things *You* Should Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse *Could* Know
+#### Hint
+> [!hint]- Hint ( Dragon Age )
+> 
+
+### Things Your Muse Should *Not* Know
+#### Hint
+> [!attention]- Hint ( Dragon Age )
+> 
+
 
 
 ---
