@@ -26,6 +26,13 @@
 ---
 # Universal Guides
 ## Things *You* Should Know
+### Spirit of Learning
+> [!hint]+ Spirit of Learning ( Multiverse )
+> Ward began their existence as a curious little wisp with a desperate desire to learn, who was nurtured and taught by Wisdom (*Solas, unless plotted otherwise*), and who grew into a proper Spirit of Learning. 
+> 
+> **Risk of Corruption**
+> - If corrupted, they may become something akin to the Librarians in the Shattered Library, a spirit of the fear of ignorance.
+> - Depending on *when* and how they are at risk of corruption, they could also became a spirit of Spite, for their desperation to learn one specific thing is fueled by spite to prove someone wrong.
 ### Hint
 > [!hint]- Hint ( Multiverse )
 > 
