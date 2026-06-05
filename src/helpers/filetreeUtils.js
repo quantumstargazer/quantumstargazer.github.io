@@ -130,14 +130,7 @@ function getPermalinkMeta(note, key) {
         folders = []; // Handle unexpected cases gracefully
       }
     }
-    // Path rewrite rules produce a dg-path that already includes the ".md"
-    // extension (e.g. "Path Rewriting/note.md" -> "note.md"). Strip it before
-    // re-appending so we don't end up with a double extension ("note.md.md"),
-    // which would prevent the stem-based navigation ordering from matching.
-    const lastFolder = folders[folders.length - 1];
-    folders[folders.length - 1] =
-      (lastFolder.endsWith(".md") ? lastFolder.slice(0, -3) : lastFolder) +
-      ".md";
+    folders[folders.length - 1]+= ".md";
   } catch {
     //ignore
   }
@@ -146,9 +139,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  const lastKeyIndex = keyPath.length - 1;
-  for (let i = 0; i < lastKeyIndex; ++i) {
-    const key = keyPath[i];
+  lastKeyIndex = keyPath.length - 1;
+  for (var i = 0; i < lastKeyIndex; ++i) {
+    key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
