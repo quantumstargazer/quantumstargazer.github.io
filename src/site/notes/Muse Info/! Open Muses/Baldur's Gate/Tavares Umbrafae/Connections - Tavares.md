@@ -34,7 +34,7 @@
 > 
 
 ---
-# Shipping Partners
+# Ship & Dynamic Partners
 > [!attention] Not Currently Available
 > 
 
