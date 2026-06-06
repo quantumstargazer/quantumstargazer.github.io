@@ -5,6 +5,9 @@
 # Fellow Stargazers
 These are the people who I interact with the most, and whose interactions likely have a large impact on the development of my muses within various verses &/or AUs.
 
+> [!tracker]+ Sporadic Updates
+> Please be patient when you fill out the Permanent Interactions Call - it will take a while for me to have the time and energy to update everything to include you on all of the pages that reflect your selections in the form.
+
 ---
 # Exclusives
 > *I do **not** interact with duplicates of any of the following exclusive muses:*
