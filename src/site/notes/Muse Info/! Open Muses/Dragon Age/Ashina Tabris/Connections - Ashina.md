@@ -100,6 +100,45 @@
 > 
 
 
+## reigningmuses — Multimuse
+### Morrigan — reigningmuses
+> [!shipdyn]- PartnerMuse — reigningmuses
+> 
+> ***verse(s):*** 
+> - TBA
+> 
+>
+> *blog tag(s):*
+> - [reigningmuses](https://quantumstargazer.tumblr.com/tagged/reigningmuses)
+> - [reigningmuses ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/reigningmuses+(+PartnerMuse+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & PartnerMuse ( reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+PartnerMuse+(+reigningmuses+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+> 
+### Kieran — reigningmuses
+> [!shipdyn]- PartnerMuse — reigningmuses
+> 
+> ***verse(s):*** 
+> - TBA
+> 
+>
+> *blog tag(s):*
+> - [reigningmuses](https://quantumstargazer.tumblr.com/tagged/reigningmuses)
+> - [reigningmuses ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/reigningmuses+(+PartnerMuse+))
+>
+> *connection(s):*
+> - [Connection ☾⭒ Ashina & PartnerMuse ( reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+&+PartnerMuse+(+reigningmuses+))
+> 
+>
+> *ship/dyn:*
+> - TBA
+> 
+
+
 - [Ashina ☾⭒ VerseID ( PartnerMuse — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+corvusrookery+))- [Connection ☾⭒ Ashina x PartnerMuse ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+corvusrookery+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+corvusrookery+))- [Ashina ☾⭒ VerseID ( PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+lanternlit+))- [Connection ☾⭒ Ashina x PartnerMuse ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+lanternlit+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+lanternlit+))- [Ashina ☾⭒ VerseID ( PartnerMuse — reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+reigningmuses+))- [Connection ☾⭒ Ashina x PartnerMuse ( reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+reigningmuses+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+reigningmuses+))- [Ashina ☾⭒ VerseID ( Atris — luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+Atris+—+luctumvigilantes+))- [luctumvigilantes ( Atris )](https://quantumstargazer.tumblr.com/tagged/luctumvigilantes+(+Atris+))- [Connection ☾⭒ Ashina x Atris ( luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+Atris+(+luctumvigilantes+))- [Ship ☾⭒ QUOTE ( Ashina & Atris — luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+Atris+—+luctumvigilantes+))- [Ashina ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ Ashina x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+PartnerURL+))- [Ashina ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ Ashina x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+PartnerURL+))- [Ashina ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ Ashina x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+PartnerURL+))- [Ashina ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ Ashina x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+PartnerURL+))- [Ashina ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ Ashina x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+PartnerURL+))- [Ashina ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ashina+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ Ashina x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+Ashina+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( Ashina & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+Ashina+&+PartnerMuse+—+PartnerURL+))
 ### CanonMuse
 > [!wishlist]- 
