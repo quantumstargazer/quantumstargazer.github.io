@@ -12,7 +12,7 @@
 > - *nickname:* Ash
 > 	- Snapdragon (*Varric only*)
 > - *alias:* The Grey Raven (*Bane of the Antivan Crows - 9:31 to 9:33 Dragon*)
-> 	- The Dark Wolf of Denerim (*9:31 to 9:33 Dragon*)
+> 	- Dark Wolf of Denerim (*9:31 to 9:33 Dragon*)
 > 	- **Warden Tathas Arainai** - The Hero of Ferelden (*"deceased" as of 9:33 Dragon*)
 > - *gender:* Female
 > - *pronouns:* She/Her/Herself
