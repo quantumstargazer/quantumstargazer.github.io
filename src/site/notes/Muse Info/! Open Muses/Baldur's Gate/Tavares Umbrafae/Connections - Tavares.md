@@ -24,51 +24,31 @@
 > - *playlist:* [Playlist ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Tavares+Umbrafae)
 
 ---
-# Mains
-> [!main]- lanternlit — *Multifandom Multimuse*
-> - **Blogwide** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
+# Permanent Interactions Call
+> [!tracker]+ Permanent Interactions Call Members
 > 
+> > *To Join, Fill Out Form:* [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]]
 > 
-
-
-
----
-# Permanent Interactions Call Members
-> *To join [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|the list]], fill out the* [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] *form.*
-
-> [!main]- lanternlit — *Multifandom Multimuse*
-> - **Blogwide** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
+> - *Mains:* [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Fellow Stargazers (Mains & Exclusives)]]
+> - *Members:* [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Fellow Stargazers (Permanent Interactions Call Members)]]
 > 
-> 
-
-> [!bfc]- reigningmuses — *Multifandom Multimuse*
-> - **Baldur's Gate** — *All Open Muses*
-> - ***Irregulars:*** *Gale Dekarios*
->
-> 
-
-
 
 ---
 # Shipping Partners
 > [!attention] Not Currently Available
 > 
 
-
-
----
-# Desired Dynamics
-## Baldur's Gate
-> [!attention] Not Currently Available
+- [MuseName ☾⭒ VerseID ( PartnerMuse — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+corvusrookery+))- [Connection ☾⭒ MuseName x PartnerMuse ( corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+corvusrookery+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — corvusrookery )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+corvusrookery+))- [MuseName ☾⭒ VerseID ( PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+lanternlit+))- [Connection ☾⭒ MuseName x PartnerMuse ( lanternlit )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+lanternlit+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — lanternlit )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+lanternlit+))- [MuseName ☾⭒ VerseID ( PartnerMuse — reigningmuses )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+reigningmuses+))- [Connection ☾⭒ MuseName x PartnerMuse ( reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+reigningmuses+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — reigningmuses )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+reigningmuses+))- [MuseName ☾⭒ VerseID ( Atris — luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+Atris+—+luctumvigilantes+))- [luctumvigilantes ( Atris )](https://quantumstargazer.tumblr.com/tagged/luctumvigilantes+(+Atris+))- [Connection ☾⭒ MuseName x Atris ( luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+Atris+(+luctumvigilantes+))- [Ship ☾⭒ QUOTE ( MuseName & Atris — luctumvigilantes )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+Atris+—+luctumvigilantes+))- [MuseName ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+PartnerURL+))- [MuseName ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+PartnerURL+))- [MuseName ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+PartnerURL+))- [MuseName ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+PartnerURL+))- [MuseName ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+PartnerURL+))- [MuseName ☾⭒ VerseID ( PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/MuseName+☾⭒+VerseID+(+PartnerMuse+—+PartnerURL+))- [PartnerURL ( PartnerMuse )](https://quantumstargazer.tumblr.com/tagged/PartnerURL+(+PartnerMuse+))- [Connection ☾⭒ MuseName x PartnerMuse ( PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Connection+☾⭒+MuseName+x+PartnerMuse+(+PartnerURL+))- [Ship ☾⭒ QUOTE ( MuseName & PartnerMuse — PartnerURL )](https://quantumstargazer.tumblr.com/tagged/Ship+☾⭒+QUOTE+(+MuseName+&+PartnerMuse+—+PartnerURL+))
+### CanonMuse
+> [!wishlist]- 
 > 
+> ***LI potential:*** Maybe
+> 
+> *Approval:* Neutral (25)
+> 
+> *Dynamic:* TBA
 
-
+%%
 
 
 
