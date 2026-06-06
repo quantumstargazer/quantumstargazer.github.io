@@ -34,7 +34,7 @@
 > 
 
 ---
-# Shipping Partners
+# Ship & Dynamic Partners
 ## corvusrookery - Multimuse
 ### Solas — corvusrookery
 > [!main]- Solas — corvusrookery
