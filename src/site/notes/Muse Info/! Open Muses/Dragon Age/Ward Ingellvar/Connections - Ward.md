@@ -24,10 +24,19 @@
 > - *playlist:* [Playlist ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ward+Ingellvar)
 
 ---
-# Mains
-## corvusrookery
+# Permanent Interactions Call
+> [!tracker]+ Permanent Interactions Call Members
+> 
+> > *To Join, Fill Out Form:* [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]]
+> 
+> - *Mains:* [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Fellow Stargazers (Mains & Exclusives)]]
+> - *Members:* [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Fellow Stargazers (Permanent Interactions Call Members)]]
+> 
 
-### Solas
+---
+# Shipping Partners
+## corvusrookery - Multimuse
+### Solas — corvusrookery
 > [!main]- Solas — corvusrookery
 > 
 > ***verse(s):*** 
@@ -45,7 +54,7 @@
 > *ship/dyn:*
 > - TBA
 > 
-### Vilma Ingellvar
+### Vilma Ingellvar — corvusrookery
 > [!main]- Vilma Ingellvar — corvusrookery
 > 
 > ***verse(s):*** 
@@ -63,7 +72,7 @@
 > *ship/dyn:*
 > - TBA
 > 
-### Viago de Riva
+### Viago de Riva — corvusrookery
 > [!main]- Viago de Riva — corvusrookery
 > 
 > ***verse(s):*** 
@@ -81,7 +90,7 @@
 > *ship/dyn:*
 > - TBA
 > 
-### Andarateia Cantori
+### Andarateia Cantori — corvusrookery
 > [!main]- Andarateia Cantori — corvusrookery
 > 
 > ***verse(s):*** 
@@ -100,57 +109,7 @@
 > - TBA
 > 
 
-## lanternlit
-> [!main]- lanternlit — *Multifandom Multimuse*
-> - **Blogwide** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-
-
----
-# Permanent Interactions Call Members
-> *To join [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|the list]], fill out the* [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] *form.*
-
-## corvusrookery
-> [!main]- corvusrookery — *Dragon Age Multimuse*
-> - **Dragon Age** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-## lanternlit
-> [!main]- lanternlit — *Multifandom Multimuse*
-> - **Blogwide** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*
-> 
-> 
-
-## reigningmuses
-> [!bfc]- reigningmuses — *Multifandom Multimuse*
-> - **Baldur's Gate** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only* **(Baldur's Gate)**
-> - ***Irregulars:*** *Gale Dekarios*
-> ---
-> - **Dragon Age** — *All Open Muses*
-> - ***By Request Only:*** *Lucanis Dellamorte, Vorgoth, Varric Tethras*
-> - ***Invitation Only:*** *Felassan, Bellara Lutare, Clark Kent, Bryce Wayne*
-> - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*
-> 
-> 
-
-
-
----
-# Shipping Partners
-### luctumvigilantes — Atris
+## luctumvigilantes — Atris
 > [!shipdyn]- luctumvigilantes — Atris
 > 
 > ***verse(s):*** 
@@ -180,6 +139,8 @@
 > *Dynamic:* TBA
 
 %%
+
+
 
 
 
