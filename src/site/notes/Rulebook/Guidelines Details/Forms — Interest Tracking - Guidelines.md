@@ -35,11 +35,14 @@ This form is *completely optional*, but recommended, especially if you're wantin
 
 ---
 # Permanent Interactions Call
+> [!tracker]+ Fellow Stargazers
+> **Those who fill out this form will be listed as [[Rulebook/FAQ Details/Fellow Stargazers - FAQ\|Fellow Stargazers]]** — please be patient if and/or when you fill out this form, as I can typically only make updates to that page via the desktop rather than mobile, so you might not show up there right away.
+
 
 
 This is the closest thing I have to a **permanent starter call**, and it comes with additional benefits beyond my just sending you starters at random.
 ## Potential Mains
-**This is where my Mains come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this form.
+**This is where my [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains & Exclusives\|Mains]] come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this form.
 ## Terms of Use
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 
