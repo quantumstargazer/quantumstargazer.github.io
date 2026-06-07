@@ -6,7 +6,7 @@
 These are the people who I interact with the most, and whose interactions likely have a large impact on the development of my muses within various verses &/or AUs.
 
 > [!tracker]+ Sporadic Updates
-> Please be patient when you fill out the Permanent Interactions Call - it will take a while for me to have the time and energy to update everything to include you on this page, as I can only make those updates from the desktop rather than the minor updates I can manage on mobile.
+> Please be patient if and/or when you fill out the [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] - it will take a while for me to have the time and energy to update everything to include you on this page, as I can only make those updates from the desktop rather than the minor updates I can manage on mobile.
 
 ---
 # Mains & Exclusives
