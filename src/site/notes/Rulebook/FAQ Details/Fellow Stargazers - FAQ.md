@@ -6,7 +6,7 @@
 These are the people who I interact with the most, and whose interactions likely have a large impact on the development of my muses within various verses &/or AUs.
 
 > [!tracker]+ Sporadic Updates
-> Please be patient when you fill out the Permanent Interactions Call - it will take a while for me to have the time and energy to update everything to include you on all of the pages that reflect your selections in the form, as I can only make those updates from the desktop rather than the minor updates I can manage on mobile.
+> Please be patient when you fill out the Permanent Interactions Call - it will take a while for me to have the time and energy to update everything to include you on this page, as I can only make those updates from the desktop rather than the minor updates I can manage on mobile.
 
 ---
 # Mains & Exclusives
@@ -117,11 +117,23 @@ These are the people who I interact with the most, and whose interactions likely
 > > - TBA
 > > 
 > > **Original Characters — FANDOM**
-> > - TBA**(Baldur's Gate)**---
+> > - TBA[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA---
 > - **Dragon Age** — *All Open Muses*
 > - ***By Request Only:*** *Lucanis Dellamorte, Vorgoth, Varric Tethras*
 > - ***Invitation Only:*** *Felassan, Bellara Lutare, Clark Kent, Bryce Wayne*
 > - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
 > > *Blogwide for all muses, but especially the ones listed below:*
 > > ---**Canon Muses — FANDOM**
 > > - TBA
@@ -175,14 +187,27 @@ These are the people who I interact with the most, and whose interactions likely
 		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|canspotatimeagent]]
 3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Permanent Interactions Call Members]]
 	1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|All Muses - Blogwide]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|lanternlit]]
 	2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Baldur's Gate Muses]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|aetatedraconis]]
+		2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|reigningmuses]]
 	3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Dragon Age Muses]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|aetatedraconis]]
+		2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|corvusrookery]]
+		3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|reigningmuses]]
 	4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Mass Effect Muses]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|codenamearchangel]]
 	5. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Other Fandom Muses]]
 4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
 	1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Baldur's Gate Muses]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|lanternlit]]
 	2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Dragon Age Muses]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|corvusrookery]]
+		2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|luctumvigilanties]]
+		3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|reigningmuses]]
 	3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Mass Effect Muses]]
+		1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|codenamearchangel]]
+		2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|lanternlit]]
 	4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#\|Other Fandoms Muses]]
 
 <!-- End of TOC -->
