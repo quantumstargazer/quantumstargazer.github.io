@@ -35,8 +35,7 @@ This form is *completely optional*, but recommended, especially if you're wantin
 
 ---
 # Permanent Interactions Call
-> [!info]- Intended For Mutuals Who Have Already Started Interacting
-> If we haven't even said so much as "hello" to each other yet, chances are it's too soon to fill this form out. This is effectively a *permanent starter call*, and if we've yet to start writing &/or plotting together, I'm not going to add you to the members list until we are.
+
 
 This is the closest thing I have to a **permanent starter call**, and it comes with additional benefits beyond my just sending you starters at random.
 ## Potential Mains
