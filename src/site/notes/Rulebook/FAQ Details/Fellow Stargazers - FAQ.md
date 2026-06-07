@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook/faq-details/fellow-stargazers-faq/","tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"dg-note-properties":{"tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members"],"aliases":["Fellow Stargazers","Mains & Exclusives","Mains & Permanent Interactions Call Members","Permanent Interactions Call Members","Mains","Exclusives","Ship & Dynamics Partners"]}}
+{"dg-publish":true,"permalink":"/rulebook/faq-details/fellow-stargazers-faq/","tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members","corvusrookery","lanternlit","aetatedraconis","reigningmuses","luctumvigilantes","codenamearchangel"],"dg-note-properties":{"tags":["mains","exclusives","ship-partners","dynamic-partners","faq","rules","guidelines","pic-members","corvusrookery","lanternlit","aetatedraconis","reigningmuses","luctumvigilantes","codenamearchangel"],"aliases":["Fellow Stargazers","Mains & Exclusives","Mains & Permanent Interactions Call Members","Permanent Interactions Call Members","Mains","Exclusives","Ship & Dynamics Partners"]}}
 ---
 
 # Fellow Stargazers
