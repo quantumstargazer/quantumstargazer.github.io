@@ -39,7 +39,7 @@ This form is *completely optional*, but recommended, especially if you're wantin
 
 This is the closest thing I have to a **permanent starter call**, and it comes with additional benefits beyond my just sending you starters at random.
 ## Potential Mains
-**This is where my Mains come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this list.
+**This is where my Mains come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this form.
 ## Terms of Use
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 
