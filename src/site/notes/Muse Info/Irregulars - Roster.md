@@ -397,7 +397,7 @@
 > - Quick Guides
 > - Wishlists
 ### Iven Thorne
-> [!profile]- Iven Thorne (he/him)
+> [!profile]+ Iven Thorne (he/him)
 > *Dwarf — Former Warrior Caste of Orzammar*
 > ![[Placeholder_Person.jpg\|red]]
 > 
@@ -427,7 +427,7 @@
 > - Quick Guides
 > - Wishlists
 ### Redmond Thorne
-> [!profile]- Redmond Thorne (he/him)
+> [!profile]+ Redmond Thorne (he/him)
 > *Dwarf — Former Smith Caste of Orzammar*
 > ![[Placeholder_Person.jpg\|red]]
 > 
