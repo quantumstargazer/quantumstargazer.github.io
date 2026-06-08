@@ -150,6 +150,19 @@
 
 > [!todo] To Be Added Later
 
+## Inventory
+### Armor
+- Striking Misfortune
+- Orchestrator's Long Coat
+- Wanderer's Long Coat
+- Researcher's Coat
+### Weapons
+- Veilseeker (Arcane Staff)
+- Spiritcaller (Arcane Staff)
+- Fadelight (Arcane Orb)
+- Timeworn Mageknife
+### Miscellaneous
+
 
 ---
 # TV Tropes
