@@ -10,7 +10,7 @@
 > These are mostly written in the "*customer service voice*" to get the information across clearly, rather than my more casual way of *actually* talking. Each section is then explained in fuller detail in their respective *additional pages*, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there. 
 > 
 > **Only the [[Rulebook/Actual Rules\|Actual Rules]] is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.** For example, if you are interested in exploring sexual relationships between our muses, [[Rulebook/Rules Details/Sexual Content - Rules\|Sexual Content]] would be required as additional reading *for you*, but *not* for someone who *isn't* interested in writing such content.
-## Accessibility Accommodations
+## Accommodations Required
 > [!rule]- Some Accommodations Required
 > - [[Interactive Forms\|Interactive Forms]] — I find "*like this post for*" style posts to be too unmanageable (such as for Starter Calls, (Reverse) Inbox Calls, Permanent Starter/Interaction Calls, etc.), especially given my severe memory issues, so some forms may be required, as they are the only method by which I accept the information where I can easily reference the responses later. (For more details, see: [[Rulebook/Guidelines Details/Forms — Interaction - Guidelines\|Interaction Forms]])
 > 
@@ -18,13 +18,7 @@
 > - [[Rulebook/FAQ Details/Accessibility - FAQ\|Accessibility]]
 > - [[Rulebook/FAQ Details/Post Formatting - FAQ\|Post Formatting]]
 > 
-## Independent
-> [!attention]- No Groups &/or Server Interactions & Invitations
-> I am *only* interested in interacting with other independent roleplay blogs, *not* any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you *will* be blocked, and potentially reported for spam if you do so.
-## Selective
-> [!faq]- Selective Following
-> **If I'm following you, I *want* to write with you.** It's that simple — I don't follow for follow, nor do I follow anyone who I'm not interested in interacting with.
-### Hard Block If Not Interested
+## Hard Block If Not Interested
 > [!rule]- Hard Block If You're Not Interested
 > If you're not interested in writing with me, please **just hard block me — do *not* soft block**. I have severe memory issues (*medical issues*), and I honestly will not be able to remember if you simply soft block. This *includes* if we are already mutuals and you've decided you have changed your mind about us being mutuals. Just hard block me and move on — it's really no big deal, unless you actively try to make it one yourself.
 
@@ -51,6 +45,12 @@ I *will not* follow and/or roleplay with you if:
 **If you follow first**, I *will not* interact with you except through inbox prompts/memes that are tagged was "*Open For Everyone*" until I have had a chance to read your rules, check your blog out, and establish mutual status by following you back.
 ### If I Follow You First
 **If I follow first**, I *will not* interact with your blog until you have followed back, as I am *mutuals only*, and only follow those who I have an interest in writing with.
+## Independent
+> [!attention]- No Groups &/or Server Interactions & Invitations
+> I am *only* interested in interacting with other independent roleplay blogs, *not* any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you *will* be blocked, and potentially reported for spam if you do so.
+## Selective
+> [!faq]- Selective Following
+> **If I'm following you, I *want* to write with you.** It's that simple — I don't follow for follow, nor do I follow anyone who I'm not interested in interacting with.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/21+ + Mutuals Only - Rules\|21+ & Mutuals Only]] & [[Rulebook/FAQ Details/Mature Audiences Only - FAQ\|Content Warnings]]
 
@@ -62,6 +62,12 @@ If you don't like me, my muses, my verses, my blog, etc., then *just don't follo
 If you feel the need to block me at all for any reason, *hard block* me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. [^2]
 ## Disinterest Tracker
 **If you are disinterested in interacting with any muse(s) and/or verse(s), you *need* to fill out the [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]]** — all [[Muse Info/! Open Muses - Roster\|Open Muses]] are considered fair game for me to send your way so long as we're mutuals *unless* you have explicitly told me otherwise by filling out the form. I do *not* accept this information through any other means, as the forms are a form of accessibility accommodations for myself, given my severe memory issues.
+## Rules Passwords
+### Will Not Send - No Exceptions
+> [!rule]- Will Not Send - No Exceptions
+> **As I do not follow first for anyone who even *has* them, I do not send rules passwords.** I find them severely anxiety inducing, and thus tend to avoid blogs who require them to be sent. I never follow anyone without reading their rules, and then look over them again before actually interacting. I will often check back to them *frequently*, because my memory genuinely is shit, so it's for my own comfort that I revisit them regularly.
+> 
+> **If you follow *me* first**, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules. If you try to insist otherwise, I will break mutuals status and no longer interact with you.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rulebook/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 
@@ -142,8 +148,6 @@ The following content is banned or restricted due to *personal reasons*. All ban
 
 ---
 # Interacting
-## Do's & Don'ts
-**Be sure to check the [[Rulebook/FAQ Details/Do's + Don'ts - FAQ\|Do's & Don'ts of Interacting]] before you actually start interacting.** It'll likely help you better understand what to expect when interacting with me.
 ## RP Forms
 **All of my forms are now embedded in the [[Interactive Forms\|Interactive Forms]] page for your convenience.** This allows you to see all of the forms in one go, and fill out the ones that are applicable. 
 ### Interaction Calls
@@ -168,7 +172,7 @@ While the interest tracking forms are *optional*, they are highly recommended �
 > 	- If they're ***not* in the same fandom**, this will usually be the corresponding ***Trapped In Another Universe AU*** verse for that fandom, unless you *specifically* request for it to be the ***Fandom Specific AU*** verse instead.
 > 
 
-> *For Further Details (& Examples), See:* [[Rulebook/FAQ Details/Do's + Don'ts - FAQ\|Do's & Don'ts]], [[Rulebook/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rulebook/Guidelines Details/Interactions - Guidelines\|Interactions]]
+> *For Further Details (& Examples), See:* [[Rulebook/Guidelines Details/Inbox - Guidelines\|Inbox]], & [[Rulebook/Guidelines Details/Interactions - Guidelines\|Interactions]]
 
 ---
 # Additional Rules May Apply
@@ -269,13 +273,23 @@ Because the [[Rulebook/Guidelines\|Guidelines]] are not entirely universal, depe
 
 > *For Further Details, See:* [[Rulebook/Guidelines\|Guidelines]] 
 
----
-# Rules Passwords
-## Will Not Send - No Exceptions
-> [!rule]+ Will Not Send - No Exceptions
-> **I do not send rules passwords.** I do not follow *anyone* without reading their rules first, so in fact, **I will not even follow first if your rules have a password *to* send**. 
-> 
-> **If you follow *me* first**, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules. If you try to insist otherwise, I will break mutuals status and no longer interact with you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
