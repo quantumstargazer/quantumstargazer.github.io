@@ -30,7 +30,7 @@ These are defaults for *my worldstates*, and events in general[^1] if not otherw
 ---
 # OC & OC Interactions
 ## Flexibility Expected
-**I *welcome* both multi-protagonist interactions *and* interactions where a muse survives** where they might have otherwise died if they did not fall into the hero role themselves (which is the basis for many of Companion AUs for my DA muses). Even my most stubborn muses are capable of stepping back to let someone else take charge when it's deemed necessary.
+**I *welcome* both multi-protagonist interactions *and* interactions where a muse survives** where they might have otherwise died if they did not fall into the hero role themselves (which is the basis for many of Companion AUs for my DA muses). Even my most stubborn muses are capable of stepping back to let someone else take charge when it's deemed necessary, and I am *always* willing to adjust a worldstate to replace the default hero of another part of the timeline with yours and *their* choices.
 ## Multiple Heroes
 **I am very welcoming to having multiple Wardens (though likely only one would be deemed *the* Hero of Ferelden), additional Hawke siblings, a separate Herald and Inquisitor duo, etc.** 
 
