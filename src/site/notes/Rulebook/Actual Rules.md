@@ -25,6 +25,8 @@
 ---
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
+## Incompatible Rigidity
+**If you expect other people to change *their muses* to fit into your view of of your muses' canon, but are not willing to reciprocate in any way, then we are *not* compatible roleplaying partners.** While I am flexible about *a lot* of things regarding my muses (I wouldn't have so many AUs for them if I wasn't), I will *not* be made to compromise *my portrayal* of who they are at the core of their character just to fit into someone else's view of canon.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
 
