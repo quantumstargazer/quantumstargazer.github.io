@@ -25,8 +25,6 @@
 ---
 # Don't Be A Dick
 This *should* got without saying, *and yet...*[^1]
-## Incompatible Rigidity
-**If you expect other people to change *their muses* to fit into your view of of your muses' canon, but are not willing to reciprocate in any way, then we are *not* compatible roleplaying partners.** While I am flexible about *a lot* of things regarding my muses (I wouldn't have so many AUs for them if I wasn't), I will *not* be made to compromise *my portrayal* of who they are at the core of their character just to fit into someone else's view of canon.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/Don't Be A Dick - Rules\|Don't Be A Dick]]
 
@@ -70,6 +68,8 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > **As I do not follow first for anyone who even *has* them, I do not send rules passwords.** I find them severely anxiety inducing, and thus tend to avoid blogs who require them to be sent. I never follow anyone without reading their rules, and then look over them again before actually interacting. I will often check back to them *frequently*, because my memory genuinely is shit, so it's for my own comfort that I revisit them regularly.
 > 
 > **If you follow *me* first**, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules. If you try to insist otherwise, I will break mutuals status and no longer interact with you.
+## Incompatible Rigidity
+**If you expect other people to change *their muses* to fit into your view of of your muses' canon, but are not willing to reciprocate in any way, then we are *not* compatible roleplaying partners.** While I am flexible about *a lot* of things regarding my muses (I wouldn't have so many AUs for them if I wasn't), I will *not* be made to compromise *my portrayal* of who they are at the core of their character just to fit into someone else's view of canon.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rulebook/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 
