@@ -8,6 +8,7 @@
 - [[Muse Info/Quick Reference/Age - Quick Reference\|Age]]
 - [[Muse Info/Quick Reference/Gender & Pronouns - Quick Reference\|Gender & Pronouns]]
 - [[Muse Info/Quick Reference/Height - Quick Reference\|Height]]
+- [[Muse Info/Quick Reference/Morality - Quick Reference\|Morality]]
 - [[Muse Info/Quick Reference/Race & Ethnicity - Quick Reference\|Race & Ethnicity]]
 - [[Muse Info/Quick Reference/Sexuality - Quick Reference\|Sexuality]]
 
