@@ -15,11 +15,11 @@
 # Baldur's Gate
 *Current sexualities are as established for 1492 DR at the start of Baldur's Gate 3.*
 
-| Name                                        | Romantic Identity | Sexual Identity | Notable Preferences |
-| ------------------------------------------- | :---------------: | :-------------: | :-----------------: |
-| [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Tavares Umbrafae]]   |     Aromantic     |    Pansexual    |       *none*        |
-| [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Faeynore Moonstar]] |    Panromantic    |    Pansexual    |       *none*        |
-| [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dirge]]                |    Panromantic    |    Pansexual    |       *none*        |
+| Name                                                                                               | Romantic Identity | Sexual Identity |     Notable Preferences     |
+| -------------------------------------------------------------------------------------------------- | :---------------: | :-------------: | :-------------------------: |
+| [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Tavares Umbrafae]]    |     Aromantic     |    Pansexual    | **drow, elves**; *some fey* |
+| [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Faeynore Moonstar]] |    Panromantic    |    Pansexual    |           *none*            |
+| [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dirge]]                            |    Panromantic    |    Pansexual    |           *none*            |
 
 ---
 # Dragon Age
