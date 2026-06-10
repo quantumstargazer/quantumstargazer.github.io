@@ -143,10 +143,22 @@
 > > - TBA
 > > 
 > > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
 > > - TBA- **Baldur's Gate** — *All Open Muses*
 > - ***By Request Only:*** *All By Request Only* **(Baldur's Gate)**
 > - ***Irregulars:*** *Gale Dekarios*
 > ---[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA[!bfc]- Favored Muses
 > > *Blogwide for all muses, but especially the ones listed below:*
 > > ---**Canon Muses — FANDOM**
 > > - TBA
@@ -195,13 +207,15 @@
 	2. [[Stargazers/Fellow Stargazers#\|Baldur's Gate Muses]]
 		1. [[Stargazers/Fellow Stargazers#\|aetatedraconis]]
 		2. [[Stargazers/Fellow Stargazers#\|reigningmuses]]
-	3. [[Stargazers/Fellow Stargazers#\|Dragon Age Muses]]
+	3. [[Stargazers/Fellow Stargazers#\|soldraconis]]
+	4. [[Stargazers/Fellow Stargazers#\|Dragon Age Muses]]
 		1. [[Stargazers/Fellow Stargazers#\|aetatedraconis]]
 		2. [[Stargazers/Fellow Stargazers#\|corvusrookery]]
 		3. [[Stargazers/Fellow Stargazers#\|reigningmuses]]
-	4. [[Stargazers/Fellow Stargazers#\|Mass Effect Muses]]
+		4. [[Stargazers/Fellow Stargazers#\|soldraconis]]
+	5. [[Stargazers/Fellow Stargazers#\|Mass Effect Muses]]
 		1. [[Stargazers/Fellow Stargazers#\|codenamearchangel]]
-	5. [[Stargazers/Fellow Stargazers#\|Other Fandom Muses]]
+	6. [[Stargazers/Fellow Stargazers#\|Other Fandom Muses]]
 4. [[Stargazers/Fellow Stargazers#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
 	1. [[Stargazers/Fellow Stargazers#\|Baldur's Gate Muses]]
 		1. [[Stargazers/Fellow Stargazers#\|lanternlit]]
