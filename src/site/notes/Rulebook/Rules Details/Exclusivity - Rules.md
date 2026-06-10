@@ -14,12 +14,12 @@
 **I *do* have Mains and very rare Exclusives on my blog.** I also have the Permanent Interactions Call Members, and Ships & Dynamics Partners, that also gain priority for interactions, as these are the people I often interact with the most.
 
 *Muses I **won't** interact with duplicates of:*
-- [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Exclusives\|Exclusives]] 
+- [[Stargazers/Fellow Stargazers#Exclusives\|Exclusives]] 
 
 *Muses I **will** interact with duplicates of:*
-- [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Mains]] 
-- [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Permanent Interactions Call Members]] 
-- [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Ships & Dynamics\|Ships & Dynamics]] 
+- [[Stargazers/Fellow Stargazers#Mains\|Mains]] 
+- [[Stargazers/Fellow Stargazers#Permanent Interactions Call Members\|Permanent Interactions Call Members]] 
+- [[Stargazers/Fellow Stargazers#Ships & Dynamics\|Ships & Dynamics]] 
 
 ---
 # Other People's Exclusivity

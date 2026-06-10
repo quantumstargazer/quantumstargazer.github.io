@@ -29,8 +29,8 @@
 > 
 > > *To Join, Fill Out Form:* [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]]
 > 
-> - *Mains:* [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Fellow Stargazers (Mains & Exclusives)]]
-> - *Members:* [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Fellow Stargazers (Permanent Interactions Call Members)]]
+> - *Mains:* [[Stargazers/Fellow Stargazers#Mains\|Fellow Stargazers (Mains & Exclusives)]]
+> - *Members:* [[Stargazers/Fellow Stargazers#Permanent Interactions Call Members\|Fellow Stargazers (Permanent Interactions Call Members)]]
 > 
 
 ---

@@ -367,16 +367,16 @@
 4. [[Rulebook/FAQ Details/Do's + Don'ts - FAQ#Things You Should NOT Do\|Things You Should NOT Do]]
 
 ### Fellow Stargazers
-1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Fellow Stargazers\|Fellow Stargazers]]
-2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Exclusives\|Exclusives]]
-3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mains\|Mains]]
-4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Permanent Interactions Call Members\|Permanent Interactions Call Members]]
-	1. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#All Muses\|All Muses]]
-	2. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Baldur's Gate Muses\|Baldur's Gate Muses]]
-	3. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Dragon Age Muses\|Dragon Age Muses]]
-	4. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Mass Effect Muses\|Mass Effect Muses]]
-	5. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Other Fandom Muses\|Other Fandom Muses]]
-5. [[Rulebook/FAQ Details/Fellow Stargazers - FAQ#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
+1. [[Stargazers/Fellow Stargazers#Fellow Stargazers\|Fellow Stargazers]]
+2. [[Stargazers/Fellow Stargazers#Exclusives\|Exclusives]]
+3. [[Stargazers/Fellow Stargazers#Mains\|Mains]]
+4. [[Stargazers/Fellow Stargazers#Permanent Interactions Call Members\|Permanent Interactions Call Members]]
+	1. [[Stargazers/Fellow Stargazers#All Muses\|All Muses]]
+	2. [[Stargazers/Fellow Stargazers#Baldur's Gate Muses\|Baldur's Gate Muses]]
+	3. [[Stargazers/Fellow Stargazers#Dragon Age Muses\|Dragon Age Muses]]
+	4. [[Stargazers/Fellow Stargazers#Mass Effect Muses\|Mass Effect Muses]]
+	5. [[Stargazers/Fellow Stargazers#Other Fandom Muses\|Other Fandom Muses]]
+5. [[Stargazers/Fellow Stargazers#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
 
 ### Mature Audiences Only
 1. [[Rulebook/FAQ Details/Mature Audiences Only - FAQ#Rated M for Mature Audiences Only\|Rated M for Mature Audiences Only]]
