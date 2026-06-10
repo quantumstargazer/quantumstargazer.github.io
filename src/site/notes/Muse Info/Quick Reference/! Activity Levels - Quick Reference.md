@@ -46,11 +46,12 @@
 
 ---
 # Mass Effect
+**Due to personal reasons, all Mass Effect verses and AUs are currently on hold until further notice.** Any requests for interactions that take place within the Mass Effect universe will put on hold for when I am in a position to write it once more.
 
-| Name                                     | Availability | Interaction Speed |
-| ---------------------------------------- | :----------: | :---------------: |
-| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] |  Open Muse   |        Low        |
-| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]     |  Open Muse   |        Low        |
+| Name                                                                                        | Availability |   Interaction Speed    |
+| ------------------------------------------------------------------------------------------- | :----------: | :--------------------: |
+| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] |  Open Muse   | ***Crossovers Only***  |
+| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]        |  Open Muse   | ***Temporary Hiatus*** |
 
 ---
 
