@@ -69,7 +69,7 @@ If you feel the need to block me at all for any reason, *hard block* me, even if
 > 
 > **If you follow *me* first**, I will take that as indication that you have read *my rules*, and thus have agreed to this condition, and have wilfully made an exception to your own rules. If you try to insist otherwise, I will break mutuals status and no longer interact with you.
 ## Incompatible Rigidity
-**If you expect other people to change *their muses* to fit into your view of of your muses' canon, but are not willing to reciprocate in any way, then we are *not* compatible roleplaying partners.** While I am flexible about *a lot* of things regarding my muses (I wouldn't have so many AUs for them if I wasn't), I will *not* be made to compromise *my portrayal* of who they are at the core of their character just to fit into someone else's view of canon.
+**If you expect other people to change *their muses* to fit into your view of of your muses' canon, but are not willing to reciprocate in any way, then we are *not* compatible roleplaying partners.** While I am flexible about *a lot* of things regarding my muses (I wouldn't have so many AUs for them if I wasn't), I will *not* be made to compromise *my portrayal* of who they are at the core of their character just to fit into someone else's view of canon, nor will I be made to feel like I need to walk on eggshells *on my own blog* for wanting to maintain *who my muse is* at their core.
 
 > *For Further Details, See:* [[Rulebook/Rules Details/Curate Your Own Dash - Rules\|Curate Your Own Dash]] & [[Rulebook/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 
