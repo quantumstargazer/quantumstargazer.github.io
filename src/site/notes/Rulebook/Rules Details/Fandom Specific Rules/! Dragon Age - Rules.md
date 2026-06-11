@@ -71,9 +71,9 @@ Zevran's ambush is along the Imperial Highway, so their intended destination aft
 
 ---
 # Zevran's Romance 
-**Zevran may hold feelings for a Warden even if not romanced during the Fifth Blight.** This assumes that they have at least a high approval of friendliness with him, for when he would normally be open to romancing them. 
+**Zevran may hold feelings for a Warden even if not romanced during the Fifth Blight.** This is assuming that they have at least a high approval of friendliness with him, for when he would normally be open to romancing them. 
 
-**This can remain unrequited, or it can be explored with a potential chance of future romance later on in the timeline**, particularly after Zevran has secured his new position as the Eighth Talon of the Antivan Crows.
+**This can remain unrequited, or it can be explored with a potential chance of future romance later on in the timeline**, particularly after Zevran has secured his new position as the Eighth Talon of the Antivan Crows after the Talons' summit in 9:45 Dragon.
 
 ---
 # Dorian's Personal Quest
