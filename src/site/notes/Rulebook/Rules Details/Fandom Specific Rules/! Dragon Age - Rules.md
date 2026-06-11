@@ -88,11 +88,16 @@ Zevran's ambush is along the Imperial Highway, so their intended destination aft
 **Zevran becomes a true bane to the Crows as the Black Shadow** — he is responsible for the deaths of *several* Talons from House Arainai, as well as various Guildmasters and entire cells from a variety of Houses, and likely resulted in some of the minor houses being wiped out completely.
 
 ---
-
-
-
-
-
+# Sixth & Final Blights
+The following involve headcanons regarding the events that come *after* the Veilguard.
+## Fate of Southern Thedas
+**TBA**
+## Demands of the Qun
+**TBA**
+## Condition of the Veil
+**TBA**
+## Across the Sea
+**TBA**
 
 
 
