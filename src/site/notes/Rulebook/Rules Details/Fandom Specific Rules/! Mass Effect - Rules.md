@@ -17,12 +17,12 @@
 # Galaxystates
 **I do not have a singular default galaxystate.** While I have *preferences* and biases towards certain outcomes, I also enjoy variety, and each muse has their own galaxystate that they default to, and occasionally alternate ones for specific verses. 
 
-I am *also* open to utilising my partners' galaxystates, and/or crafting custom galaxystates for private verses & AUs — I am working on putting together a form to assist in crafting custom galaxystates, though as I said, it will be limited to those with private verses & AUs, which typically require plotting via discord.
+I am *also* open to utilising my partners' galaxystates[^1], and/or crafting custom galaxystates for private verses & AUs — I am working on putting together a form to assist in crafting custom galaxystates, though as I said, it will be limited to those with private verses & AUs, which typically require plotting via discord.
 
 ---
 # Integrating Andromeda
 
-**TBA** - *Essentially the Andromeda Initiative and it's respective timeline, NPCs, etc. exist within the greater Mass Effect timeline and universe, and are not ignored within my writing of the setting. Various characters, events, etc. are acknowledged by my Mass Effect muses, even if they are unaware of the events that will occur when the arks reach Andromeda itself.*
+**TBA** - *Essentially the Andromeda Initiative and it's respective timeline, NPCs, etc. exist within the greater Mass Effect timeline and universe, and are not ignored within my writing of the setting. Various characters, events, etc. are acknowledged by my Mass Effect Trilogy muses, even if they are unaware of the events that will occur when the arks reach Andromeda itself.*
 
 ---
 # Unnamed Shepard
@@ -59,3 +59,5 @@ However, I rely heavily on canon-divergence where the ending is concerned, much 
 
 
 
+
+[^1]: Assuming that you're flexible enough to actually incorporate my muse(s) into it — rigid worldstates where I feel like I have to completely walk on eggshells to stay within the limits of your strict view of canon is not going to be fun for me, so if that's how you roll with it, you do you, but I won't be joining in.
