@@ -32,12 +32,14 @@ This *should* got without saying, *and yet...*[^1]
 - racism
 - nazism
 - fascism
-- antiabortion &/or "prolife" (probirth)
+- antiabortion &/or "prolife" (pro-forced birth)
 - rape supporter &/or apologist
 - JK Rowling supporter &/or apologist
 - Trump supporter &/or apologist
 - MAGA and other far right political affiliations
 - any other bigoted behaviour and beliefs
+- pro-generative AI attitudes
+- generative AI use to replace human creativity
 
 
 
