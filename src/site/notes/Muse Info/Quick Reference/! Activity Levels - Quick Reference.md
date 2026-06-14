@@ -15,44 +15,47 @@
 ---
 # Fandom Activity
 
-| Fandom              | Activity Level  | Interaction Speed |
-| ------------------- | :-------------: | :---------------: |
-| ***Baldur's Gate*** | ***Secondary*** |  ***Moderate***   |
-| **Dragon Age**      |   **Primary**   |     **High**      |
-| *Mass Effect*       |   *Tertiary*    |    **ON HOLD**    |
-| Other Fandoms       |   Quaternary    |      Lowest       |
-
+| Fandom              | Activity Level  | Interaction Speed | HC Development |
+| ------------------- | :-------------: | :---------------: | :------------: |
+| ***Baldur's Gate*** | ***Secondary*** |  ***Moderate***   |       ⚠️       |
+| **Dragon Age**      |   **Primary**   |     **High**      |       ✅        |
+| *Mass Effect*       |   *Tertiary*    |    **ON HOLD**    |       ⛔        |
+| Other Fandoms       |   Quaternary    |      Lowest       |       ⛔        |
+## Headcanon Development Guide
+- ✅ - *Accepted* — unrestricted - feel free to send
+- ⚠️ - *Cautioned* — may or may not be answered at this time
+- ⛔ - *Restricted* — not currently welcomed at this time
 
 ---
 # Baldur's Gate
 
-| Name                                          | Availability  | Interaction Speed |
-| --------------------------------------------- | :-----------: | :---------------: |
-| **[[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Tavares Umbrafae]]** | **Open Muse** |     **High**      |
-| [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Faeynore Moonstar]]   |   Open Muse   |     Moderate      |
-| [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dirge]]                  |   Open Muse   |        Low        |
+| Name                                                                                                | Availability  | Interaction Speed | HC Development | NSFW HCs |
+| --------------------------------------------------------------------------------------------------- | :-----------: | :---------------: | :------------: | :------: |
+| **[[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Tavares Umbrafae]]** | **Open Muse** |     **High**      |       ✅        |    ✅     |
+| [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Faeynore Moonstar]]  |   Open Muse   |     Moderate      |       ✅        |    ⚠️    |
+| [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dirge]]                             |   Open Muse   |        Low        |       ⚠️       |    ⛔     |
 
 ---
 # Dragon Age
 
-| Name                                           | Availability  | Interaction Speed |
-| ---------------------------------------------- | :-----------: | :---------------: |
-| **[[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina de Riva]]**     | **Open Muse** |     **High**      |
-| [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Zaehire de Riva]]       |   Open Muse   |     Moderate      |
-| **[[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Leonardo de Riva]]** | **Open Muse** |     **High**      |
-| **[[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Ward Ingellvar]]**       | **Open Muse** |     **High**      |
-| [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Zevran Arainai]]         |   Open Muse   |     Moderate      |
-| [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Haleir Lavellan]]        |   Open Muse   |     Moderate      |
-| [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Bertrand Ingellvar]]   |   Open Muse   |        Low        |
+| Name                                                                                              | Availability  | Interaction Speed | HC Development | NSFW HCs |
+| ------------------------------------------------------------------------------------------------- | :-----------: | :---------------: | :------------: | :------: |
+| **[[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina de Riva]]**        | **Open Muse** |     **High**      |       ✅        |    ✅     |
+| [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Zaehire de Riva]]        |   Open Muse   |     Moderate      |       ✅        |    ⚠️    |
+| **[[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Leonardo de Riva]]** | **Open Muse** |     **High**      |       ✅        |    ⚠️    |
+| **[[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Ward Ingellvar]]**         | **Open Muse** |     **High**      |       ✅        |    ⚠️    |
+| [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Zevran Arainai]]           |   Open Muse   |     Moderate      |       ⚠️       |    ⚠️    |
+| [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Haleir Lavellan]]         |   Open Muse   |     Moderate      |       ✅        |    ✅     |
+| [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Bertrand Ingellvar]] |   Open Muse   |        Low        |       ⚠️       |    ⛔     |
 
 ---
 # Mass Effect
 **Due to personal reasons, all Mass Effect verses and AUs are currently on hold until further notice.** Any requests for interactions that take place within the Mass Effect universe will put on hold for when I am in a position to write it once more.
 
-| Name                                                                                        | Availability |   Interaction Speed    |
-| ------------------------------------------------------------------------------------------- | :----------: | :--------------------: |
-| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] |  Open Muse   | ***Crossovers Only***  |
-| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]        |  Open Muse   | ***Temporary Hiatus*** |
+| Name                                                                                        | Availability |   Interaction Speed    | HC Development | NSFW HCs |
+| ------------------------------------------------------------------------------------------- | :----------: | :--------------------: | :------------: | :------: |
+| [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Isabela Shepard]] |  Open Muse   | ***Crossovers Only***  |       ⚠️       |    ⚠️    |
+| [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Nihlus Kryik]]        |  Open Muse   | ***Temporary Hiatus*** |       ⛔        |    ⛔     |
 
 ---
 
