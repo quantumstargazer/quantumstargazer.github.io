@@ -109,13 +109,7 @@
 > 
 > 
 
-[!main]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA
+
 
 ## Exclusives
 > *I do **not** interact with duplicates of any of the following exclusive muses:*
@@ -149,13 +143,7 @@
 > 
 > 
 
-[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA
+
 
 ## Baldur's Gate Muses
 ### aetatedraconis
@@ -166,10 +154,6 @@
 > - ***Irregulars:*** *All Irregulars - Baldur's Gate*
 > 
 > > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
-> 
-> > 
-> >
-> > 
 > 
 > 
 ### reigningmuses
@@ -192,19 +176,9 @@
 > 
 > > *blog:* [soldraconis](https://soldraconis.tumblr.com/)
 > 
-> > 
-> >
-> > 
-> 
 > 
 
-[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA
+
 
 ## Dragon Age Muses
 ### aetatedraconis
@@ -215,10 +189,6 @@
 > - ***Irregulars:*** *All Irregulars - Dragon Age*
 > 
 > > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
-> 
-> > 
-> >
-> > 
 > 
 > 
 ### corvusrookery
@@ -241,10 +211,6 @@
 > 
 > > *blog:* [reigningmuses](https://reigningmuses.tumblr.com/)
 > 
-> > 
-> >
-> > 
-> 
 > 
 ### soldraconis
 > [!bfc]+ soldraconis — *Baldur's Gate/D&D Multimuse*
@@ -255,20 +221,10 @@
 > 
 > > *blog:* [soldraconis](https://soldraconis.tumblr.com/)
 > 
-> > 
-> >
-> > 
-> 
 > 
 
 
-[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA
+
 
 ## Mass Effect Muses
 ### codenamearchangel
@@ -278,31 +234,15 @@
 > 
 > > *blog:* [codenamearchangel](https://codenamearchangel.tumblr.com/)
 > 
-> > 
-> >
-> > 
-> 
 >  
 
-[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA
+
 
 ## Other Fandom Muses
 > [!attention] Not Currently Available
 > 
 
-[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA
+
 
 ---
 # Ships & Dynamics Partners
