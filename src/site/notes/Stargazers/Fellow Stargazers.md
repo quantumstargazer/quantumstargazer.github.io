@@ -115,76 +115,154 @@
 > > - TBA
 > > 
 > > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
+> > - TBA
+
+## Exclusives
+> *I do **not** interact with duplicates of any of the following exclusive muses:*
+### canspotatimeagent
+> [!main]- canspotatimeagent — Jack Harkness (Doctor Who)
+> **Currently On Hiatus**
+>  
+> - **Blogwide** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only*
+> - ***Invitation Only:*** *All Invitation Only*
+> - ***Irregulars:*** *All Irregulars*
+> 
+> > *blog:* [canspotatimeagent](https://canspotatimeagent.tumblr.com/)
+> 
+> 
+
+
+
+---
+# Permanent Interactions Call Members
+> *I **do** interact with duplicates of any of the **Permanent Interactions Call Members'** muses that follow:*
+## All Muses - Blogwide
+### lanternlit
+> [!main]+ lanternlit — *Multifandom Multimuse*
+> - **Blogwide** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Blogwide*
+> - ***Invitation Only:*** *All Invitation Only - Blogwide*
+> - ***Irregulars:*** *All Irregulars - Blogwide*
+> 
+> > *blog:* [lanternlit](https://lanternlit.tumblr.com/)
+> 
+> 
+
+[!bfc]- Favored Muses
 > > *Blogwide for all muses, but especially the ones listed below:*
 > > ---**Canon Muses — FANDOM**
 > > - TBA
 > > 
 > > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
+> > - TBA
+
+## Baldur's Gate Muses
+### aetatedraconis
+> [!bfc]+ aetatedraconis — *Dragon Age Multimuse*
+> - **Baldur's Gate** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Baldur's Gate*
+> - ***Invitation Only:*** *All Invitation Only - Baldur's Gate*
+> - ***Irregulars:*** *All Irregulars - Baldur's Gate*
+> 
+> > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
+> 
+> > 
+> >
+> > 
+> 
+> 
+### reigningmuses
+> [!bfc]+ reigningmuses — *Multifandom Multimuse*
+> - **Baldur's Gate** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Baldur's Gate*
+> - ***Irregulars:*** *Gale Dekarios*
+> 
+> > *blog:* [reigningmuses](https://reigningmuses.tumblr.com/)
+> 
+> 
+> 
+> 
+### soldraconis
+> [!bfc]+ soldraconis — *Baldur's Gate/D&D Multimuse*
+> - **Baldur's Gate** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Baldur's Gate*
+> - ***Invitation Only:*** *All Invitation Only - Baldur's Gate*
+> - ***Irregulars:*** *All Irregulars - Baldur's Gate*
+> 
+> > *blog:* [soldraconis](https://soldraconis.tumblr.com/)
+> 
+> > 
+> >
+> > 
+> 
+> 
+
+[!bfc]- Favored Muses
 > > *Blogwide for all muses, but especially the ones listed below:*
 > > ---**Canon Muses — FANDOM**
 > > - TBA
 > > 
 > > **Original Characters — FANDOM**
-> > - TBA---
+> > - TBA
+
+## Dragon Age Muses
+### aetatedraconis
+> [!bfc]+ aetatedraconis — *Dragon Age Multimuse*
+> - **Dragon Age** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Dragon Age*
+> - ***Invitation Only:*** *All Invitation Only - Dragon Age*
+> - ***Irregulars:*** *All Irregulars - Dragon Age*
+> 
+> > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
+> 
+> > 
+> >
+> > 
+> 
+> 
+### corvusrookery
+> [!main]+ corvusrookery — *Dragon Age Multimuse*
+> - **Dragon Age** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Dragon Age*
+> - ***Invitation Only:*** *All Invitation Only - Dragon Age*
+> - ***Irregulars:*** *All Irregulars - Dragon Age*
+> 
+> > *blog:* [corvusrookery](https://corvusrookery.tumblr.com/)
+> 
+> 
+### reigningmuses
+> [!bfc]+ reigningmuses — *Multifandom Multimuse*
+> 
 > - **Dragon Age** — *All Open Muses*
 > - ***By Request Only:*** *Lucanis Dellamorte, Vorgoth, Varric Tethras*
 > - ***Invitation Only:*** *Felassan, Bellara Lutare, Clark Kent, Bryce Wayne*
-> - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
+> - ***Irregulars:*** *Marian Hawke, Carver Hawke, Bethany Hawke, Fenris, Tamlen*
+> 
+> > *blog:* [reigningmuses](https://reigningmuses.tumblr.com/)
+> 
 > > 
-> > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
+> >
 > > 
-> > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
+> 
+> 
+### soldraconis
+> [!bfc]+ soldraconis — *Baldur's Gate/D&D Multimuse*
+> - **Dragon Age** — *All Open Muses*
+> - ***By Request Only:*** *All By Request Only - Dragon Age*
+> - ***Invitation Only:*** *All Invitation Only - Dragon Age*
+> - ***Irregulars:*** *All Irregulars - Dragon Age*
+> 
+> > *blog:* [soldraconis](https://soldraconis.tumblr.com/)
+> 
 > > 
-> > **Original Characters — FANDOM**
-> > - TBA- **Baldur's Gate** — *All Open Muses*
-> - ***By Request Only:*** *All By Request Only* **(Baldur's Gate)**
-> - ***Irregulars:*** *Gale Dekarios*
-> ---[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
+> >
 > > 
-> > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA- ***By Request Only:*** *All By Request Only*
-> - ***Invitation Only:*** *All Invitation Only*
-> - ***Irregulars:*** *All Irregulars*[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
-> > *Blogwide for all muses, but especially the ones listed below:*
-> > ---**Canon Muses — FANDOM**
-> > - TBA
-> > 
-> > **Original Characters — FANDOM**
-> > - TBA[!bfc]- Favored Muses
+> 
+> 
+
+
+[!bfc]- Favored Muses
 > > *Blogwide for all muses, but especially the ones listed below:*
 > > ---**Canon Muses — FANDOM**
 > > - TBA
@@ -192,44 +270,148 @@
 > > **Original Characters — FANDOM**
 > > - TBA
 
-<!-- Table of Contents arrowType: Index | title: Index  | codeBlocks: n -->
-# Index
-1. [[Stargazers/Fellow Stargazers#Fellow Stargazers\|Fellow Stargazers]]
-2. [[Stargazers/Fellow Stargazers#Mains & Exclusives\|Mains & Exclusives]]
-	1. [[Stargazers/Fellow Stargazers#\|Mains]]
-		1. [[Stargazers/Fellow Stargazers#\|corvusrookery]]
-		2. [[Stargazers/Fellow Stargazers#\|lanternlit]]
-	2. [[Stargazers/Fellow Stargazers#\|Exclusives]]
-		1. [[Stargazers/Fellow Stargazers#\|canspotatimeagent]]
-3. [[Stargazers/Fellow Stargazers#Permanent Interactions Call Members\|Permanent Interactions Call Members]]
-	1. [[Stargazers/Fellow Stargazers#\|All Muses - Blogwide]]
-		1. [[Stargazers/Fellow Stargazers#\|lanternlit]]
-	2. [[Stargazers/Fellow Stargazers#\|Baldur's Gate Muses]]
-		1. [[Stargazers/Fellow Stargazers#\|aetatedraconis]]
-		2. [[Stargazers/Fellow Stargazers#\|reigningmuses]]
-		3. [[Stargazers/Fellow Stargazers#\|soldraconis]]
-	3. [[Stargazers/Fellow Stargazers#\|Dragon Age Muses]]
-		1. [[Stargazers/Fellow Stargazers#\|aetatedraconis]]
-		2. [[Stargazers/Fellow Stargazers#\|corvusrookery]]
-		3. [[Stargazers/Fellow Stargazers#\|reigningmuses]]
-		4. [[Stargazers/Fellow Stargazers#\|soldraconis]]
-	4. [[Stargazers/Fellow Stargazers#\|Mass Effect Muses]]
-		1. [[Stargazers/Fellow Stargazers#\|codenamearchangel]]
-	5. [[Stargazers/Fellow Stargazers#\|Other Fandom Muses]]
-4. [[Stargazers/Fellow Stargazers#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
-	1. [[Stargazers/Fellow Stargazers#\|Baldur's Gate Muses]]
-		1. [[Stargazers/Fellow Stargazers#\|lanternlit]]
-	2. [[Stargazers/Fellow Stargazers#\|Dragon Age Muses]]
-		1. [[Stargazers/Fellow Stargazers#\|aetatedraconis]]
-		2. [[Stargazers/Fellow Stargazers#\|corvusrookery]]
-		3. [[Stargazers/Fellow Stargazers#\|luctumvigilanties]]
-		4. [[Stargazers/Fellow Stargazers#\|reigningmuses]]
-	3. [[Stargazers/Fellow Stargazers#\|Mass Effect Muses]]
-		1. [[Stargazers/Fellow Stargazers#\|codenamearchangel]]
-		2. [[Stargazers/Fellow Stargazers#\|lanternlit]]
-	4. [[Stargazers/Fellow Stargazers#\|Other Fandoms Muses]]
+## Mass Effect Muses
+### codenamearchangel
+> [!bfc]+ codenamearchangel — Garrus Vakarian
+> - **Mass Effect** — *All Open Muses*
+> 
+> 
+> > *blog:* [codenamearchangel](https://codenamearchangel.tumblr.com/)
+> 
+> > 
+> >
+> > 
+> 
+>  
 
-<!-- End of TOC -->
+[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA
+
+## Other Fandom Muses
+> [!attention] Not Currently Available
+> 
+
+[!bfc]- Favored Muses
+> > *Blogwide for all muses, but especially the ones listed below:*
+> > ---**Canon Muses — FANDOM**
+> > - TBA
+> > 
+> > **Original Characters — FANDOM**
+> > - TBA
+
+---
+# Ships & Dynamics Partners
+*These are connections with ships, dynamics, and/or Private Verses & AUs that don't quite fit into any of the above categories only. You do not have to be a Permanent Interactions Call Member to be added to this section.*
+> *I **do** interact with duplicates of any of the Ships & Dynamics muses that follow, unless otherwise noted as being exclusive:*
+
+## Baldur's Gate Muses
+### lanternlit
+> [!shipdyn]+ lanternlit — ***Multifandom Multimuse***
+> **Ships &/or Dynamics:** 
+> - Tavares & Astarion — lanternlit
+> -  Faeynore & Astarion — lanternlit
+> -  Dirge & Astarion — lanternlit
+> 
+> > *blog:* [lanternlit](https://lanternlit.tumblr.com/)
+> 
+>  
 
 
-%%
+## Dragon Age Muses
+### aetatedraconis
+> [!shipdyn]+ aetatedraconis — *Dragon Age Multimuse*
+> **Ships &/or Dynamics:** 
+> - Marian & Varric — aetatedraconis
+> 
+> > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
+> 
+>  
+### corvusrookery
+> [!shipdyn]+ corvusrookery — *Dragon Age Multimuse*
+> **Ships &/or Dynamics:** 
+> - Ashina & Viago — corvusrookery
+> - Ashina & Andarateia — corvusrookery
+> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Solas — corvusrookery\|Ward & Solas — corvusrookery]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Vilma Ingellvar — corvusrookery\|Ward & Vilma — corvusrookery]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Viago de Riva — corvusrookery\|Ward & Viago — corvusrookery]]
+> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#Andarateia Cantori — corvusrookery\|Ward & Andarateia — corvusrookery]]
+> - Zevran & Viago — corvusrookery
+> - Zevran & Andarateia — corvusrookery
+> - Haleir & Solas — corvusrookery
+> - Varric & Solas — corvusrookery
+> 
+> > *blog:* [corvusrookery](https://corvusrookery.tumblr.com/)
+> 
+>  
+### luctumvigilanties
+> [!shipdyn]+ luctumvigilanties — Artis
+> **Ships &/or Dynamics:** 
+> - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward#luctumvigilantes — Atris\|Ward & Atris — luctumvigilanties]]
+> 
+> > *blog:* [luctumvigilanties](https://luctumvigilanties.tumblr.com/)
+> 
+> 
+### reigningmuses
+> [!shipdyn]+ reigningmuses — ***Multifandom Multimuse***
+> **Ships &/or Dynamics:** 
+> - Ashina & Morrigan — reigningmuses
+> - Ashina & Kieran — reigningmuses
+> 
+> > *blog:* [reigningmuses](https://reigningmuses.tumblr.com/)
+> 
+>  
+
+
+## Mass Effect Muses
+### codenamearchangel
+> [!shipdyn]+ codenamearchangel — Garrus Vakarian
+> **Ships &/or Dynamics:** 
+> - Isabela & Garrus — codenamearchangel
+> 
+> > *blog:* [codenamearchangel](https://codenamearchangel.tumblr.com/)
+> 
+>  
+### lanternlit
+> [!shipdyn]+ lanternlit — ***Multifandom Multimuse***
+> **Ships &/or Dynamics:** 
+> - Isabela & Garrus — lanternlit
+> - Isabela & Tali — lanternlit
+> - Isabela & Wren — lanternlit
+> - Nihlus & Garrus — lanternlit
+> - Nihlus & Tali — lanternlit
+> - Nihlus & Wren — lanternlit
+> 
+> > *blog:* [lanternlit](https://lanternlit.tumblr.com/)
+> 
+>  
+
+
+## Other Fandoms Muses
+> [!attention] Not Currently Available
+> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
