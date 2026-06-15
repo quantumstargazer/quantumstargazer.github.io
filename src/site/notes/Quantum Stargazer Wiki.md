@@ -53,7 +53,7 @@
 ---
 # Muse Rosters
 > [!faq]- Activity Levels Based On Fandom - Not Individual Muse
-> - **Activity is based on the fandom as opposed to the individual muse.**
+> - **Activity is based on the fandom as opposed to the individual muse.** *See:* [[Muse Info/Quick Reference/! Activity Levels - Quick Reference\|Activity Levels (Quick Reference)]]
 > - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
 > - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
 
@@ -174,7 +174,7 @@
 
 
 
-[^1]: Incorporates **Forgotten Realms** and **D&D/AD&D** lore for individual characters and/or specific verses (some of which are based on **Planescape** and/or **Spelljammer** mechanics) as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters.
+[^1]: Incorporates **Forgotten Realms** and **D&D/AD&D** lore for individual characters and/or specific verses (some of which are based on **Planescape** and/or **Spelljammer** mechanics) as needed, mostly through BG3 mods, but occasionally just additional lore needed to further flesh out the characters, setting, and plots.
 
 [^2]: **Ships with chemistry only.** 
 
