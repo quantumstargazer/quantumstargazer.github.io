@@ -18,6 +18,12 @@
 **I do not have a singular default galaxystate.** While I have *preferences* and biases towards certain outcomes, I also enjoy variety, and each muse has their own galaxystate that they default to, and occasionally alternate ones for specific verses. 
 
 I am *also* open to utilising my partners' galaxystates[^1], and/or crafting custom galaxystates for private verses & AUs — I am working on putting together a form to assist in crafting custom galaxystates, though as I said, it will be limited to those with private verses & AUs, which typically require plotting via discord.
+## DNI Galaxystate Conditions
+> [!rule]+ Mass Effect Galaxystate Conditions
+> **I will *not* write in galaxystates that utilize the following conditions — these are non-negotiable:**
+> - *TBA*
+> 
+> 
 
 ---
 # Integrating Andromeda
