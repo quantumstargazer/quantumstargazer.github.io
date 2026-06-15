@@ -4,6 +4,7 @@
 
 # Irregulars Roster
 > [!WARNING] Mains & Permanent Interactions Call Members Only
+> In order to request and/or interact with these muses, you must have filled out the [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] form.
 
 ---
 # Baldur's Gate
