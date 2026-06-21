@@ -25,16 +25,17 @@
 > 
 > Exiled from her home in Callidae when she returned decades after her disappearance, her pact to the Pale Prince clear with the binding marks she soon learns to hide with a glamour, she ventures out of the frozen north in search of her ~~master's~~ Prince's consort and to fulfill her assigned duties.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation**
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/! Summary - Tavares\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Connections - Tavares\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Headcanons - Tavares\|Headcanons]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Tavares+Umbrafae)
 > - ***open starters:*** [Open Starter ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Tavares+Umbrafae)
 > - ***headcanons:*** [Headcanon ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Tavares+Umbrafae)
@@ -200,6 +201,7 @@
 > [!profile]+ Marian Hawke (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
+> > - ***Heavily Canon Divergent***
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
