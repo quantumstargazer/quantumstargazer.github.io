@@ -88,8 +88,8 @@ The following content is banned or restricted due to *personal reasons*. All ban
 > - sexual content with any muse &/or faceclaim under the age of 18
 > - scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.
 > - scenes involving sexual abuse, up to and including incest, pedophilia, etc.
-> - anything involving Alpha/Beta/Omega (*Omegaverse*) dynamics &/or settings
 > - anything involving Real Person Fiction (*RPF*) [^7]
+> - anything involving Alpha/Beta/Omega (*Omegaverse*) dynamics &/or settings [^10]
 
 > [!warning]+ Restricted Tropes & Themes
 > 
@@ -302,3 +302,7 @@ Because the [[Rulebook/Guidelines\|Guidelines]] are not entirely universal, depe
 [^8]: The original Alien and Aliens, and the video game tie-ins for them, are fine.
 
 [^9]: See also: Ziggy's tendency to use Customer Service Voice when establishing boundaries, rather than casual conversion tone.
+
+[^10]: This is an absolute hard limit of this I will not write at all, regardless of if the trope is being subverted, or if the focus is not on the sex aspects but rather the social aspects of the trope — it inherently is based around rape and the lack of choice due to hormones and animalistic instincts (that have also been proven scientifically incorrect).
+
+[^11]: 
