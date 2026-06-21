@@ -39,24 +39,8 @@
 
 ---
 # Dragon Age
-## Marian Hawke
-> [!profile]- Marian Hawke (she/her)
-> *Twin of Garrett Hawke*
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
-## Garrett Hawke
-> [!profile]- Garrett Hawke (he/him)
-> *Twin of Marian Hawke*
+## Sten
+> [!profile]- Sten (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
@@ -155,6 +139,35 @@
 > - Headcanons
 > - Quick Guides
 > - Wishlists
+## Shale
+> [!profile]- Shale (they/she)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
+## Sigrun
+> [!profile]- Sigrun (she/her)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
+
 ## Veterans of the Fifth Blight
 ### Aileas Cousland
 > [!profile]- Aileas Cousland (she/her)
@@ -176,20 +189,6 @@
 ### Bran Cousland
 > [!profile]- Bran Cousland (he/him)
 > *Twin of Aileas Cousland*
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
-### Isenril Mahariel
-> [!profile]- Isenril Mahariel (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.

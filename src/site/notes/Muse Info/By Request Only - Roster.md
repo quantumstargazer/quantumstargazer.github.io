@@ -8,6 +8,36 @@
 
 ---
 # Baldur's Gate
+## Faertorithrue
+> [!profile]+ Faertorithrue (she/they)
+> ![20250816030845.png\|red\|100](/img/user/z%20Assets/Attachments/20250816030845.png)
+> > *Fey'ri Tiefling — Witchlight Carnival Hand*
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
+## Fenmaer Dawngazer
+> [!profile]+ Fenmaer Dawngazer (he/him)
+> ![20250729084634.png\|red\|100](/img/user/z%20Assets/Attachments/20250729084634.png)
+> > *Sun Elf — Cleric of Corellon*
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
 ## Astarion Ancunín
 > [!profile]- Astarion Ancunín (he/him)
 > - *Defaults to Spawn*
@@ -52,9 +82,95 @@
 > - Headcanons
 > - Quick Guides
 > - Wishlists
+## Prince of Frost 
+> [!profile]- Prince of Frost (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> > *Also written as an NPC as part of Tavares' interactions.*
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
 
 ---
 # Dragon Age
+## Zaehire de Riva
+> [!profile]+ Zaehire de Riva (she/they)
+> ![Zae001.png\|red\|100](/img/user/z%20Assets/Attachments/Zae001.png)
+> > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
+> 
+> Purchased by a House Arainai from her noble hunter mother in Orzammar mere days after her birth, Zaehire is raised from infancy to be a Crow. She is later freed from House Arainai by the Black Shadow, who aids her in getting as far as Salle, where she is taken in by House de Riva.
+> 
+> As a fledgling of House de Riva, Zaehire becomes Viago's protégé, as well as an occasional thorn in his side with her impulsiveness. And yet she often manages to turn those impulsive tendencies into boons for House de Riva, such as when she manages to negotiate her way into acting as a liaison between the House and the Carta, securing a steady supply of lyrium for de Riva's mages, and ensuring Carta assassins don't interfere in de Riva contracts.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Connections - Zaehire\|Connections]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guides]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlists]]
+
+> [!tags]- Tumblr Tags
+> - ***in character:*** [IC ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zaehire+de+Riva)
+> - ***open starters:*** [Open Starter ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zaehire+de+Riva)
+> - ***headcanons:*** [Headcanon ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zaehire+de+Riva)
+> - ***wishlist:*** [Wishlist ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Zaehire+de+Riva)
+> - *desires:* [Desires ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Zaehire+de+Riva)
+> - *musings:* [Musings ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Zaehire+de+Riva)
+> - *aesthetics:* [Aesthetics ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Zaehire+de+Riva)
+> - *visage:* [Visage ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Zaehire+de+Riva)
+> - *playlist:* [Playlist ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Zaehire+de+Riva)
+
+## Bertrand Ingellvar
+> [!profile]+ Bertrand Ingellvar (he/him)
+> ![bert temp01.png\|red\|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
+> > *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
+> 
+> A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
+> 
+> ---
+>
+> **Muse Navigation** 
+> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
+> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Connections - Bertrand\|Connections]]
+> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]]
+> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guides]]
+> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlists]]
+
+> [!tags]- Tumblr Tags
+> - ***in character:*** [IC ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Bertrand+Ingellvar)
+> - ***open starters:*** [Open Starter ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Bertrand+Ingellvar)
+> - ***headcanons:*** [Headcanon ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Bertrand+Ingellvar)
+> - ***wishlist:*** [Wishlist ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Bertrand+Ingellvar)
+> - *desires:* [Desires ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Bertrand+Ingellvar)
+> - *musings:* [Musings ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Bertrand+Ingellvar)
+> - *aesthetics:* [Aesthetics ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Bertrand+Ingellvar)
+> - *visage:* [Visage ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Bertrand+Ingellvar)
+> - *playlist:* [Playlist ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Bertrand+Ingellvar)
+
+## Garrett Hawke
+> [!profile]- Garrett Hawke (he/him)
+> *Twin of Marian Hawke*
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
 ## Varric Tethras
 > [!profile]- Varric Tethras (he/him)
 > ![[Placeholder_Person.jpg\|red]]
@@ -169,48 +285,6 @@
 > - Wishlists
 ## Vorgoth
 > [!profile]- Vorgoth (they/them)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
-## Sten
-> [!profile]- Sten (he/him)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
-## Shale
-> [!profile]- Shale (they/she)
-> ![[Placeholder_Person.jpg\|red]]
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
-## Sigrun
-> [!profile]- Sigrun (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.

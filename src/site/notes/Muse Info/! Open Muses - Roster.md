@@ -74,33 +74,6 @@
 > - *visage:* [Visage ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Faeynore+Moonstar)
 > - *playlist:* [Playlist ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Faeynore+Moonstar)
 
-## Dirge
-> [!profile]+ Dirge (they/she)
-> ![Dirge temp01.png\|red\|100](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
-> > *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk*
-> 
-> Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/! Summary - Dirge\|Dossiers & Verses]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Connections - Dirge\|Connections]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Headcanons - Dirge\|Headcanons]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Quick Guide - Dirge\|Quick Guides]]
-> - [[Muse Info/! Open Muses/Baldur's Gate/Dirge/Wishlists - Dirge\|Wishlists]]
-
-> [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Dirge)
-> - ***open starters:*** [Open Starter ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Dirge)
-> - ***headcanons:*** [Headcanon ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Dirge)
-> - ***wishlist:*** [Wishlist ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Dirge)
-> - *desires:* [Desires ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Dirge)
-> - *musings:* [Musings ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Dirge)
-> - *aesthetics:* [Aesthetics ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Dirge)
-> - *visage:* [Visage ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Dirge)
-> - *playlist:* [Playlist ☾⭒ Dirge](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Dirge)
-
 ---
 # Dragon Age
 ## Ashina de Riva née Tabris
@@ -133,35 +106,6 @@
 > - *aesthetics:* [Aesthetics ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Ashina+Tabris)
 > - *visage:* [Visage ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ashina+Tabris)
 > - *playlist:* [Playlist ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ashina+Tabris) 
-
-## Zaehire de Riva
-> [!profile]+ Zaehire de Riva (she/they)
-> ![Zae001.png\|red\|100](/img/user/z%20Assets/Attachments/Zae001.png)
-> > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
-> 
-> Purchased by a House Arainai from her noble hunter mother in Orzammar mere days after her birth, Zaehire is raised from infancy to be a Crow. She is later freed from House Arainai by the Black Shadow, who aids her in getting as far as Salle, where she is taken in by House de Riva.
-> 
-> As a fledgling of House de Riva, Zaehire becomes Viago's protégé, as well as an occasional thorn in his side with her impulsiveness. And yet she often manages to turn those impulsive tendencies into boons for House de Riva, such as when she manages to negotiate her way into acting as a liaison between the House and the Carta, securing a steady supply of lyrium for de Riva's mages, and ensuring Carta assassins don't interfere in de Riva contracts.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/! Summary - Zaehire\|Dossiers & Verses]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Connections - Zaehire\|Connections]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Headcanons - Zaehire\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Quick Guide - Zaehire\|Quick Guides]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zaehire de Riva/Wishlists - Zaehire\|Wishlists]]
-
-> [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zaehire+de+Riva)
-> - ***open starters:*** [Open Starter ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zaehire+de+Riva)
-> - ***headcanons:*** [Headcanon ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zaehire+de+Riva)
-> - ***wishlist:*** [Wishlist ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Zaehire+de+Riva)
-> - *desires:* [Desires ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Zaehire+de+Riva)
-> - *musings:* [Musings ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Zaehire+de+Riva)
-> - *aesthetics:* [Aesthetics ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Zaehire+de+Riva)
-> - *visage:* [Visage ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Zaehire+de+Riva)
-> - *playlist:* [Playlist ☾⭒ Zaehire de Riva](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Zaehire+de+Riva)
 
 ## Leonardo de Riva
 > [!profile]+ Leonardo de Riva (he/they)
@@ -221,33 +165,6 @@
 > - *visage:* [Visage ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Ward+Ingellvar)
 > - *playlist:* [Playlist ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Ward+Ingellvar)
 
-## Zevran Arainai
-> [!profile]+ Zevran Arainai (he/him)
-> ![zev temp.png\|red\|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
-> > *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
-> 
-> In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
-> 
-> ---
-> 
-> **Muse Navigation** 
-> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Connections - Zevran\|Connections]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guides]]
-> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlists]]
-
-> [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zevran+Arainai)
-> - ***open starters:*** [Open Starter ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zevran+Arainai)
-> - ***headcanons:*** [Headcanon ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zevran+Arainai)
-> - ***wishlist:*** [Wishlist ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Zevran+Arainai)
-> - *desires:* [Desires ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Zevran+Arainai)
-> - *musings:* [Musings ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Zevran+Arainai)
-> - *aesthetics:* [Aesthetics ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Zevran+Arainai)
-> - *visage:* [Visage ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Zevran+Arainai)
-> - *playlist:* [Playlist ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Zevran+Arainai)
-
 ## Haleir Lavellan
 > [!profile]+ Haleir Lavellan (she/her)
 > ![Haleir Lavellan.png\|red\|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
@@ -279,32 +196,65 @@
 > - *visage:* [Visage ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Haleir+Lavellan)
 > - *playlist:* [Playlist ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Haleir+Lavellan)
 
-## Bertrand Ingellvar
-> [!profile]+ Bertrand Ingellvar (he/him)
-> ![bert temp01.png\|red\|100](/img/user/z%20Assets/Attachments/bert%20temp01.png)
-> > *Qunari — Mourn Watch — Grand Necropolis Reaper Guard*
+## Marian Hawke
+> [!profile]+ Marian Hawke (she/her)
+> ![[Placeholder_Person.jpg\|red]]
+> > *Human ~~Commoner~~ Noble — Kirkwall — Champion of Kirkwall*
 > 
-> A foundling of the Grand Necropolis, Bertrand was raised within the Mourn Watch, and despite not having the magical talent needed to be a necromancer, he is still a skilled Watcher, though he mostly serves as a guard in the Necropolis.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
 > ---
->
+> 
 > **Muse Navigation** 
-> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/! Summary - Bertrand\|Dossiers & Verses]]
-> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Connections - Bertrand\|Connections]]
-> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Headcanons - Bertrand\|Headcanons]]
-> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Quick Guide - Bertrand\|Quick Guides]]
-> - [[Muse Info/! Open Muses/Dragon Age/Bertrand Ingellvar/Wishlists - Bertrand\|Wishlists]]
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
+
+## Isenril Mahariel
+> [!profile]+ Isenril Mahariel (he/him)
+> ![[Placeholder_Person.jpg\|red]]
+> > *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~*
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - Dossiers & Verses
+> - Connections
+> - Headcanons
+> - Quick Guides
+> - Wishlists
+
+
+## Zevran Arainai
+> [!profile]+ Zevran Arainai (he/him)
+> ![zev temp.png\|red\|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
+> > *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
+> 
+> In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
+> 
+> ---
+> 
+> **Muse Navigation** 
+> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Connections - Zevran\|Connections]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guides]]
+> - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlists]]
 
 > [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Bertrand+Ingellvar)
-> - ***open starters:*** [Open Starter ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Bertrand+Ingellvar)
-> - ***headcanons:*** [Headcanon ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Bertrand+Ingellvar)
-> - ***wishlist:*** [Wishlist ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Bertrand+Ingellvar)
-> - *desires:* [Desires ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Bertrand+Ingellvar)
-> - *musings:* [Musings ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Bertrand+Ingellvar)
-> - *aesthetics:* [Aesthetics ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Bertrand+Ingellvar)
-> - *visage:* [Visage ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Bertrand+Ingellvar)
-> - *playlist:* [Playlist ☾⭒ Bertrand Ingellvar](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Bertrand+Ingellvar)
+> - ***in character:*** [IC ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zevran+Arainai)
+> - ***open starters:*** [Open Starter ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zevran+Arainai)
+> - ***headcanons:*** [Headcanon ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zevran+Arainai)
+> - ***wishlist:*** [Wishlist ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Zevran+Arainai)
+> - *desires:* [Desires ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Zevran+Arainai)
+> - *musings:* [Musings ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Zevran+Arainai)
+> - *aesthetics:* [Aesthetics ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Zevran+Arainai)
+> - *visage:* [Visage ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Zevran+Arainai)
+> - *playlist:* [Playlist ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Zevran+Arainai)
 
 
 ---
@@ -337,33 +287,6 @@
 > - *aesthetics:* [Aesthetics ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Isabela+Shepard)
 > - *visage:* [Visage ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Isabela+Shepard)
 > - *playlist:* [Playlist ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Isabela+Shepard)
-
-## Nihlus Kryik
-> [!profile]+ Nihlus Kryik (he/him)
-> ![nihlus000.png\|red\|100](/img/user/z%20Assets/Attachments/nihlus000.png)
-> > *Turian — Renegon — Council Spectre — Havoc Soldier*
-> 
-> Nihlus Kryik is one of the Council's most highly decorated Spectres. His once mentor, Saren Arterius, tries to murder him on Eden Prime by shooting at him from point blank range. Nihlus survives the attempt on his life, and joins his own protégé in their hunt to bring Saren to justice for the older Spectre's betrayal of the Council — and to hopefully find answers for himself for why Saren would betray *him*.
-> 
-> ---
->
-> **Muse Navigation** 
-> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/! Summary - Nihlus\|Dossiers & Verses]]
-> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Connections - Nihlus\|Connections]]
-> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Headcanons - Nihlus\|Headcanons]]
-> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Quick Guide - Nihlus\|Quick Guides]]
-> - [[Muse Info/! Open Muses/Mass Effect/Nihlus Kryik/Wishlists - Nihlus\|Wishlists]]
-
-> [!tags]- Tumblr Tags
-> - ***in character:*** [IC ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Nihlus+Kryik)
-> - ***open starters:*** [Open Starter ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Nihlus+Kryik)
-> - ***headcanons:*** [Headcanon ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Nihlus+Kryik)
-> - ***wishlist:*** [Wishlist ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Nihlus+Kryik)
-> - *desires:* [Desires ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Nihlus+Kryik)
-> - *musings:* [Musings ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Nihlus+Kryik)
-> - *aesthetics:* [Aesthetics ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Nihlus+Kryik)
-> - *visage:* [Visage ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Nihlus+Kryik)
-> - *playlist:* [Playlist ☾⭒ Nihlus Kryik](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Nihlus+Kryik)
 
 ---
 # Other Fandoms
