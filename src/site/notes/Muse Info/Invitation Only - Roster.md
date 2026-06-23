@@ -40,7 +40,8 @@
 ## Fisk (*The Enigma*)
 > [!profile]- Fisk (they/them)
 > ![[Placeholder_Person.jpg\|red]]
-> > *Mods-Inspired Heavily Canon-Divergent Dark Urge*
+> > *Mods-Inspired Alternative Dark Urge*
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -361,6 +362,7 @@
 > [!profile]+ Nihlus Kryik (he/him)
 > ![nihlus000.png\|red\|100](/img/user/z%20Assets/Attachments/nihlus000.png)
 > > *Turian — Renegon — Council Spectre — Havoc Soldier*
+> > - **Heavy Canon Divergence**
 > 
 > Nihlus Kryik is one of the Council's most highly decorated Spectres. His once mentor, Saren Arterius, tries to murder him on Eden Prime by shooting at him from point blank range. Nihlus survives the attempt on his life, and joins his own protégé in their hunt to bring Saren to justice for the older Spectre's betrayal of the Council — and to hopefully find answers for himself for why Saren would betray *him*.
 > 
