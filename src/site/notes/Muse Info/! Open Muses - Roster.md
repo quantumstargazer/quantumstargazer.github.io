@@ -35,6 +35,7 @@
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Quick Guide - Tavares\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Tavares Umbrafae/Wishlists - Tavares\|Wishlists]]
 > 
+> ---
 > **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Tavares+Umbrafae)
 > - ***open starters:*** [Open Starter ☾⭒ Tavares Umbrafae](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Tavares+Umbrafae)
@@ -55,16 +56,18 @@
 > 
 > They have a specialized interest in Faerie and Infernal contracts, for how often their investigations have turned out to have such contracts involved.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/! Summary - Faeynore\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Connections - Faeynore\|Connections]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Headcanons - Faeynore\|Headcanons]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Quick Guide - Faeynore\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Baldur's Gate/Faeynore Moonstar/Wishlists - Faeynore\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Faeynore+Moonstar)
 > - ***open starters:*** [Open Starter ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Faeynore+Moonstar)
 > - ***headcanons:*** [Headcanon ☾⭒ Faeynore Moonstar](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Faeynore+Moonstar)
@@ -88,16 +91,18 @@
 > 
 > In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon's Second.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Connections - Ashina\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Headcanons - Ashina\|Headcanons]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Quick Guide - Ashina\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/Wishlists - Ashina\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Ashina+Tabris)
 > - ***open starters:*** [Open Starter ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Ashina+Tabris)
 > - ***headcanons:*** [Headcanon ☾⭒ Ashina Tabris](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Ashina+Tabris)
@@ -117,16 +122,18 @@
 > 
 > When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. He doesn't give up on his rogue training, insisting that he can manage both it *and* his magical training, and while many expected him to fail, his sheer determination to prove himself worthy of being a de Riva leads to his eventually studying to be a Spellblade Assassin.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/! Summary - Leonardo\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Connections - Leonardo\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Headcanons - Leonardo\|Headcanons]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Quick Guide - Leonardo\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Leonardo de Riva/Wishlists - Leonardo\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Leonardo+de+Riva)
 > - ***open starters:*** [Open Starter ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Leonardo+de+Riva)
 > - ***headcanons:*** [Headcanon ☾⭒ Leonardo de Riva](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Leonardo+de+Riva)
@@ -146,16 +153,18 @@
 > 
 > Ward is quiet and often reserved, tending to prefer the company of spirits and the benevolent undead. They are largely inexperienced when it comes to interacting with the living, especially anyone outside of the Mourn Watch and the Grand Necropolis, though they are always willing to learn, even if others aren't always as receptive to them in return.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/! Summary - Ward\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Connections - Ward\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Headcanons - Ward\|Headcanons]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Quick Guide - Ward\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Ward Ingellvar/Wishlists - Ward\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Ward+Ingellvar)
 > - ***open starters:*** [Open Starter ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Ward+Ingellvar)
 > - ***headcanons:*** [Headcanon ☾⭒ Ward Ingellvar](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Ward+Ingellvar)
@@ -177,16 +186,18 @@
 > 
 > In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas *truly* is, instead joining him and his cause, following him through the eluvian.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/! Summary - Haleir\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Connections - Haleir\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Headcanons - Haleir\|Headcanons]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Quick Guide - Haleir\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Haleir Lavellan/Wishlists - Haleir\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Haleir+Lavellan)
 > - ***open starters:*** [Open Starter ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Haleir+Lavellan)
 > - ***headcanons:*** [Headcanon ☾⭒ Haleir Lavellan](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Haleir+Lavellan)
@@ -205,14 +216,27 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
+> - |Dossiers & Verses]]
+> - |Connections]]
+> - |Headcanons]]
+> - |Quick Guides]]
+> - |Wishlists]]
+> 
+> ---
+> **Tumblr Tags**
+> - ***in character:*** [IC ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Marian+Hawke)
+> - ***open starters:*** [Open Starter ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Marian+Hawke)
+> - ***headcanons:*** [Headcanon ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Marian+Hawke)
+> - ***wishlist:*** [Wishlist ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Marian+Hawke)
+> - *desires:* [Desires ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Marian+Hawke)
+> - *musings:* [Musings ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Marian+Hawke)
+> - *aesthetics:* [Aesthetics ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Marian+Hawke)
+> - *visage:* [Visage ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Marian+Hawke)
+> - *playlist:* [Playlist ☾⭒ Marian Hawke](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Marian+Hawke)
 
 ## Isenril Mahariel
 > [!profile]+ Isenril Mahariel (he/him)
@@ -221,15 +245,27 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
-> ---
 > 
-> **Muse Navigation** 
-> - Dossiers & Verses
-> - Connections
-> - Headcanons
-> - Quick Guides
-> - Wishlists
 
+> [!tags]- Navigation & Tumblr Tags
+> **Muse Navigation** 
+> - |Dossiers & Verses]]
+> - |Connections]]
+> - |Headcanons]]
+> - |Quick Guides]]
+> - |Wishlists]]
+> 
+> ---
+> **Tumblr Tags**
+> - ***in character:*** [IC ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Isenril+Mahariel)
+> - ***open starters:*** [Open Starter ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Isenril+Mahariel)
+> - ***headcanons:*** [Headcanon ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Isenril+Mahariel)
+> - ***wishlist:*** [Wishlist ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Isenril+Mahariel)
+> - *desires:* [Desires ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Isenril+Mahariel)
+> - *musings:* [Musings ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Isenril+Mahariel)
+> - *aesthetics:* [Aesthetics ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Isenril+Mahariel)
+> - *visage:* [Visage ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Isenril+Mahariel)
+> - *playlist:* [Playlist ☾⭒ Isenril Mahariel](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Isenril+Mahariel)
 
 ## Zevran Arainai
 > [!profile]+ Zevran Arainai (he/him)
@@ -238,16 +274,18 @@
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 > 
-> ---
 > 
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/! Summary - Zevran\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Connections - Zevran\|Connections]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Headcanons - Zevran\|Headcanons]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Quick Guide - Zevran\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Dragon Age/Zevran Arainai/Wishlists - Zevran\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Zevran+Arainai)
 > - ***open starters:*** [Open Starter ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Zevran+Arainai)
 > - ***headcanons:*** [Headcanon ☾⭒ Zevran Arainai](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Zevran+Arainai)
@@ -270,16 +308,18 @@
 > 
 > She often defies expectations, as she refuses to kowtow to the Alliance's demands of putting humanity's interests first. Once she is given Spectre status, she stops answering to the Alliance Brass, pushing the fact that she now answers to no one but the Council, and refusing to become the Alliance's puppet Spectre.
 > 
-> ---
 >
+
+> [!tags]- Navigation & Tumblr Tags
 > **Muse Navigation** 
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/! Summary - Isabela\|Dossiers & Verses]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Connections - Isabela\|Connections]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Headcanons - Isabela\|Headcanons]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Quick Guide - Isabela\|Quick Guides]]
 > - [[Muse Info/! Open Muses/Mass Effect/Isabela Shepard/Wishlists - Isabela\|Wishlists]]
-
-> [!tags]- Tumblr Tags
+> 
+> ---
+> **Tumblr Tags**
 > - ***in character:*** [IC ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Isabela+Shepard)
 > - ***open starters:*** [Open Starter ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Isabela+Shepard)
 > - ***headcanons:*** [Headcanon ☾⭒ Isabela Shepard](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Isabela+Shepard)
