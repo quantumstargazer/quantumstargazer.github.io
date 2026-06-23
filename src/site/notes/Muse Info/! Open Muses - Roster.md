@@ -84,6 +84,7 @@
 > [!profile]+ Ashina de Riva (she/her)
 > ![Ash001.png\|red\|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
+> > - **Heavily Canon Divergent**
 > 
 > Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the *de facto* Commander herself during the course of the Fifth Blight.
 > 
@@ -148,6 +149,7 @@
 > [!profile]+ Ward Ingellvar (they/them)
 > ![Ward temp02.png\|red\|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
+> > - **Heavily Canon Divergent**
 > 
 > Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead. As Vorgoth's ward, the elven child is raised within the Necropolis and the Mourn Watch. Their magic is awakened by the instability rippling through the Fade when the Breach opens in the south in 9:41 Dragon.
 > 
@@ -179,6 +181,7 @@
 > [!profile]+ Haleir Lavellan (she/her)
 > ![Haleir Lavellan.png\|red\|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
+> > - **Heavily Canon Divergent**
 > 
 > Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
@@ -244,6 +247,7 @@
 > [!profile]+ Isenril Mahariel (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > > *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~*
+> > - **Heavily Canon Divergent**
 > 
 > Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen's vallaslin, and become the clan's hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.
 > 
