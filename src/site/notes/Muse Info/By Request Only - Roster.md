@@ -185,6 +185,7 @@
 > [!profile]+ Zaehire de Riva (she/they)
 > ![Zae001.png\|red\|100](/img/user/z%20Assets/Attachments/Zae001.png)
 > > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
+> > - **Heavy Canon Divergence**
 > 
 > Purchased by a House Arainai from her noble hunter mother in Orzammar mere days after her birth, Zaehire is raised from infancy to be a Crow. She is later freed from House Arainai by the Black Shadow, who aids her in getting as far as Salle, where she is taken in by House de Riva.
 > 
@@ -244,7 +245,8 @@
 ## Garrett Hawke
 > [!profile]- Garrett Hawke (he/him)
 > ![[Placeholder_Person.jpg\|red]]
-> > *Twin of Marian Hawke*
+> > *Twin of* [[Muse Info/! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -525,7 +527,8 @@
 ## Orabela Aeducan
 > [!profile]- Orabela Aeducan (she/her)
 > ![[Placeholder_Person.jpg\|red]]
-> > *Canon Divergent Ruler of Orzammar*
+> > *Dwarf ~~Exile~~ Noble — Ruler of Orzammar*
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
