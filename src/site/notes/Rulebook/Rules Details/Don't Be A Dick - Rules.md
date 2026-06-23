@@ -13,7 +13,7 @@ This *should* got without saying, *and yet...*[^1]
 # Don't Misgender Muses
 > [!rule]+ Misgendered Muses
 > 
-> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, *and* on the [[Muse Info/Quick Reference - Open Muses\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes. There is *no excuse* for not knowing each muse's pronouns.
+> **Intentional misgendering will lead to you being blocked.** Muses' pronouns can be found on the rosters, in their individual summaries, on nearly every page of their further information, *and* on the [[Muse Info/Quick Reference\|Quick Reference]] page that is set up specifically to cover the most basic info typically needed for threads and memes. There is *no excuse* for not knowing each muse's pronouns.
 
 ---
 # Do Not Follow or Interact If
