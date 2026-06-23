@@ -84,7 +84,7 @@
 > [!profile]+ Ashina de Riva (she/her)
 > ![Ash001.png\|red\|100](/img/user/z%20Assets/Attachments/Ash001.png)
 > > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
-> > - **Heavily Canon Divergent**
+> > - **Heavy Canon Divergence**
 > 
 > Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the *de facto* Commander herself during the course of the Fifth Blight.
 > 
@@ -149,7 +149,7 @@
 > [!profile]+ Ward Ingellvar (they/them)
 > ![Ward temp02.png\|red\|100](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
-> > - **Heavily Canon Divergent**
+> > - **Heavy Canon Divergence**
 > 
 > Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead. As Vorgoth's ward, the elven child is raised within the Necropolis and the Mourn Watch. Their magic is awakened by the instability rippling through the Fade when the Breach opens in the south in 9:41 Dragon.
 > 
@@ -181,7 +181,7 @@
 > [!profile]+ Haleir Lavellan (she/her)
 > ![Haleir Lavellan.png\|red\|100](/img/user/z%20Assets/Attachments/Haleir%20Lavellan.png)
 > > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
-> > - **Heavily Canon Divergent**
+> > - **Heavy Canon Divergence**
 > 
 > Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
@@ -215,7 +215,7 @@
 > [!profile]+ Marian Hawke (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
-> > - **Heavily Canon Divergent**
+> > - **Heavy Canon Divergence**
 > 
 > The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven. At thirteen, Bethany's magic manifests at the age of nine, and the family is forced to move again, this time to Lothering in the Ferelden Hinterlands. When Malcolm dies in 9:27 Dragon, Marian takes over as the head of the family at the age of twenty, and is essentially left raising her younger siblings in their mother's negligence brought on by her grief from the loss of her husband.
 > 
@@ -247,7 +247,7 @@
 > [!profile]+ Isenril Mahariel (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > > *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~*
-> > - **Heavily Canon Divergent**
+> > - **Heavy Canon Divergence**
 > 
 > Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen's vallaslin, and become the clan's hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.
 > 
@@ -279,6 +279,7 @@
 > [!profile]+ Zevran Arainai (he/him)
 > ![zev temp.png\|red\|100](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > > *City Elf — Antivan Crows — Master Assassin — Eighth Talon* [^2]
+> > - **Heavy Canon Divergence**
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 > 
