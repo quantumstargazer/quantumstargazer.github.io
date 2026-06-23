@@ -212,9 +212,11 @@
 > [!profile]+ Marian Hawke (she/her)
 > ![[Placeholder_Person.jpg\|red]]
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
-> > - ***Heavily Canon Divergent***
+> > - **Heavily Canon Divergent**
 > 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven. At thirteen, Bethany's magic manifests at the age of nine, and the family is forced to move again, this time to Lothering in the Ferelden Hinterlands. When Malcolm dies in 9:27 Dragon, Marian takes over as the head of the family at the age of twenty, and is essentially left raising her younger siblings in their mother's negligence brought on by her grief from the loss of her husband.
+> 
+> In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when the Hawkes are once more forced to flee their home. Their destination: *Kirkwall*.
 > 
 > 
 
