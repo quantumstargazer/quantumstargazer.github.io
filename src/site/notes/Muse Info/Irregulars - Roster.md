@@ -181,6 +181,7 @@
 ## Tamlen
 > [!profile]- Tamlen (he/him)
 > ![[Placeholder_Person.jpg\|red]]
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -322,6 +323,7 @@
 ### Aileas Cousland
 > [!profile]- Aileas Cousland (she/her)
 > ![[Placeholder_Person.jpg\|red]]
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -350,6 +352,7 @@
 ### Bran Cousland
 > [!profile]- Bran Cousland (he/him)
 > ![[Placeholder_Person.jpg\|red]]
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -378,6 +381,7 @@
 ### Lailani Sabrae
 > [!profile]- Lailani Sabrae (she/her)
 > ![[Placeholder_Person.jpg\|red]]
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -462,6 +466,7 @@
 ### Kiran Brosca
 > [!profile]- Kiran Brosca (she/they)
 > ![[Placeholder_Person.jpg\|red]]
+> > - **Heavy Canon Divergence**
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
 > 
@@ -752,6 +757,7 @@
 > [!profile]+ Iven Thorne (he/him)
 > *Dwarf — Former Warrior Caste of Orzammar*
 > ![[Placeholder_Person.jpg\|red]]
+> > - **Heavy Canon Divergence**
 > 
 > Iven became disillusioned with the entirety of the noble caste after the events of the Fifth Blight, choosing to head to Weisshaupt to join the Grey Wardens himself rather than return to Orzammar following the death of the archdemon.
 > 
