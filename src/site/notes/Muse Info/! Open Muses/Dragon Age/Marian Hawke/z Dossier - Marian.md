@@ -53,6 +53,7 @@
 - *name:* Marian Josette Hawke
 - *nickname:* Mari
 - *alias:* Hawke
+	- Champion
 - *gender:* Female
 - *pronouns:* She/Her/Herself
 - *apparent age:* XX +/- years (*9:51 Dragon*)
