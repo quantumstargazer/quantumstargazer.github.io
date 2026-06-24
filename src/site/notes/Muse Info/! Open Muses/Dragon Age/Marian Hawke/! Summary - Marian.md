@@ -8,7 +8,8 @@
 > 
 > - *name:* Marian Hawke
 > - *nickname:* Mari
-> - *alias:* Hawke - Champion
+> - *alias:* Hawke 
+> 	- Champion
 > - *gender:* Female (*GNC*)
 > - *pronouns:* She/Her/Herself
 
