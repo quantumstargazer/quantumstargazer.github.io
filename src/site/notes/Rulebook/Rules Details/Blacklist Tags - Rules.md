@@ -32,7 +32,7 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 | pregnancy complications                                   | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
 | childbirth                                                | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
 | miscarriage                                               | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
-| abortion                                                  | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
+| abortion (*incl. being denied one*)                       | **yes** — *if tagged*                                   |              **yes** — *if tagged*              |
 | infant death                                              | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
 | child death                                               | **yes** — *if warned about*                             |              **yes** — *if tagged*              |
 | child abuse                                               | **yes** — *if warned about*                             |           **yes** — *if warned about*           |
@@ -41,23 +41,24 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 ## Real Life Events
 **This is my *escapism* blog** — I have a separate account for things involving politics and whatnot, and for the most part, am more on bluesky and reddit than on tumblr for such — so I don't wish to see politics and the world being its dumpster fire self when I'm just trying to focus on playing dolls in order to forget about it all for a little while.
 
-| content to be tagged                   | will follow/interact if<br>posted regularly |
-| -------------------------------------- | :-----------------------------------------: |
-| politics (*especially US politics*)    |                   **no**                    |
-| Donald Trump & Family                  |                   **no**                    |
-| US Republican Party                    |                   **no**                    |
-| Conservatives (Political)              |                   **no**                    |
-| current events                         |                   **no**                    |
-| terrorist attacks                      |                   **no**                    |
-| police brutality                       |                   **no**                    |
-| hate crimes                            |                   **no**                    |
-| ICE raids                              |                   **no**                    |
-| mass shootings                         |                   **no**                    |
-| JK Rowling & works (ie "Harry Potter") |                   **no**                    |
-| COVID-19                               |                  **maybe**                  |
-| tornado damage (*especially photos*)   |                  **maybe**                  |
-| suicide (*including inclination*)[^1]  |                  **maybe**                  |
-| negativity (*venting*)[^2]             |                  **maybe**                  |
+| content to be tagged                       | will follow/interact if<br>posted regularly |
+| ------------------------------------------ | :-----------------------------------------: |
+| politics (*especially US politics*)        |                   **no**                    |
+| Donald Trump & Family                      |                   **no**                    |
+| US Republican Party                        |                   **no**                    |
+| Conservatives (Political)                  |                   **no**                    |
+| current events                             |                   **no**                    |
+| terrorist attacks                          |                   **no**                    |
+| police brutality                           |                   **no**                    |
+| hate crimes                                |                   **no**                    |
+| ICE raids                                  |                   **no**                    |
+| mass shootings                             |                   **no**                    |
+| prolife (*anti-abortion/pro-forced birth*) |                   **no**                    |
+| JK Rowling & works (ie "Harry Potter")     |                   **no**                    |
+| COVID-19                                   |                  **maybe**                  |
+| tornado damage (*especially photos*)       |                  **maybe**                  |
+| suicide (*including inclination*)[^1]      |                  **maybe**                  |
+| negativity (*venting*)[^2]                 |                  **maybe**                  |
 
 ---
 # Migraine Triggers
