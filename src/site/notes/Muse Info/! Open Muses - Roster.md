@@ -213,7 +213,7 @@
 
 ## Marian Hawke
 > [!profile]+ Marian Hawke (she/her)
-> ![[Placeholder_Person.jpg\|red]]
+> ![Screenshot_20260624-090622.png\|red\|100](/img/user/z%20Assets/Attachments/Screenshot_20260624-090622.png)
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
 > > - **Heavy Canon Divergence**
 > 
