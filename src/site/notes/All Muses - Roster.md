@@ -11,8 +11,8 @@
 ---
 # Baldur's Gate
 ## Open Muses
-- Tavares Umbrafae
-- Faeynore Moonstar
+- [[Muse Info/! Open Muses - Roster#Tavares Umbrafae\|Tavares Umbrafae]]
+- [[Muse Info/! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
 ## By Request Only 
 - Faertorithrue
 - Fenmaer Dawngazer
@@ -33,13 +33,13 @@
 ---
 # Dragon Age
 ## Open Muses
-- Ashina de Riva née Tabris 
-- Ward Ingellvar
-- Leonardo de Riva 
-- Haleir Lavellan 
-- Marian Hawke 
-- Isenril Mahariel 
-- Zevran Arainai 
+- [[Muse Info/! Open Muses - Roster#Ashina de Riva née Tabris\|Ashina de Riva née Tabris]]
+- [[Muse Info/! Open Muses - Roster#Ward Ingellvar\|Ward Ingellvar]]
+- [[Muse Info/! Open Muses - Roster#Leonardo de Riva\|Leonardo de Riva]]
+- [[Muse Info/! Open Muses - Roster#Haleir Lavellan\|Haleir Lavellan]]
+- [[Muse Info/! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
+- [[Muse Info/! Open Muses - Roster#Isenril Mahariel\|Isenril Mahariel]]
+- [[Muse Info/! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
 ## By Request Only 
 - Zaehire de Riva 
 - Bertrand Ingellvar 
@@ -96,7 +96,7 @@
 ---
 # Mass Effect
 ## Open Muses
-- Isabela Shepard
+- [[Muse Info/! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
 ## By Request Only 
 - Sara Ryder
 - Scott Ryder
