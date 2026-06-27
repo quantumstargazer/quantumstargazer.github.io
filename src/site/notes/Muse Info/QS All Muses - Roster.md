@@ -3,14 +3,13 @@
 ---
 
 # Full Roster
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] 
+- [[Muse Info/By Request Only - Roster\|By Request Only]] 
+- [[Muse Info/Invitation Only - Roster\|Invitation Only]] 
+- [[Muse Info/Irregulars - Roster\|Irregulars]] 
 
 ---
 # Baldur's Gate
-> [!important]- Forgotten Realms
-> 
-> 
-> 
-
 ## Open Muses
 - Tavares Umbrafae
 - Faeynore Moonstar
@@ -60,6 +59,7 @@
 - Abelas 
 - (Sentinel of Dirthamen)
 - Bellara Lutare 
+- Heir
 - Merrill
 - Anders
 - Clark Kent 
