@@ -21,10 +21,10 @@
 - Minthara Baenre
 - Prince of Frost
 ## Invitation Only 
-- Dirge (The Dark Urge)
+- [[Muse Info/Invitation Only - Roster#Dirge\|Dirge (The Dark Urge)]]
 - Fisk (The Enigma)
 - Halima
-- <strike>Karlach Cliffgate</strike>
+- [[Muse Info/Invitation Only - Roster#Karlach Cliffgate [Private]\|Karlach Cliffgate]] (*Private Muse - lanternlit only*)
 ## Irregulars 
 - Gale Dekarios
 - Minsc
@@ -41,8 +41,8 @@
 - [[Muse Info/! Open Muses - Roster#Isenril Mahariel\|Isenril Mahariel]]
 - [[Muse Info/! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
 ## By Request Only 
-- Zaehire de Riva 
-- Bertrand Ingellvar 
+- [[Muse Info/By Request Only - Roster#Zaehire de Riva\|Zaehire de Riva]]
+- [[Muse Info/By Request Only - Roster#Bertrand Ingellvar\|Bertrand Ingellvar]]
 - Garrett Hawke
 - Varric Tethras
 - Dorian Pavus 
@@ -104,7 +104,7 @@
 - Jaal Ama Darav
 - Reyes Vidal
 ## Invitation Only 
-- Nihlus Kryik
+- [[Muse Info/Invitation Only - Roster#Nihlus Kryik\|Nihlus Kryik]]
 - Avitus Rix
 - Thane Krios 
 - Mordin Solus 
