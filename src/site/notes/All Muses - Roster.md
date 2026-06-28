@@ -74,24 +74,28 @@
 - Antoine 
 - Shale
 - Sigrun
-- Aileas Cousland
-- Bran Cousland
-- Lailani Sabrae
-- Satu Surana
-- Selena Amell
-- Kiran Brosca
-- Rowan Hawke
-- Quincy Hawke
-- Garahel Ithalanas Lavellan
-- Rubi Cadash
-- Tamik Adaar
-- Darcy Mercer
-- Esha Laidir
-- Gertrude Ingellvar
-- Hakiem Aldwir
-- Iven Thorne
-- Nikolas Mercer
-- Redmond Thorne
+- **Veterans of the Fifth Blight**
+	- Aileas Cousland
+	- Bran Cousland
+	- Lailani Sabrae
+	- Satu Surana
+	- Selena Amell
+	- Kiran Brosca
+- **Veterans of Kirkwall Rebellions**
+	- Rowan Hawke
+	- Quincy Hawke
+- **Veterans of the Inquisition**
+	- Garahel Ithalanas Lavellan
+	- Rubi Cadash
+	- Tamik Adaar
+- **Veterans of the Veilguard**
+	- Darcy Mercer
+	- Esha Laidir
+	- Gertrude Ingellvar
+	- Hakiem Aldwir
+	- Iven Thorne
+	- Nikolas Mercer
+	- Redmond Thorne
 
 ---
 # Mass Effect
