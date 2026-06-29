@@ -14,16 +14,16 @@
 - [[Muse Info/! Open Muses - Roster#Tavares Umbrafae\|Tavares Umbrafae]]
 - [[Muse Info/! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
 ## By Request Only 
-- Faertorithrue
-- Fenmaer Dawngazer
-- Astarion Ancunín
-- Jaheira
-- Minthara Baenre
-- Prince of Frost
+- [[Muse Info/By Request Only - Roster#Faertorithrue\|Faertorithrue]]
+- [[Muse Info/By Request Only - Roster#Fenmaer Dawngazer\|Fenmaer Dawngazer]]
+- [[Muse Info/By Request Only - Roster#Astarion Ancunín\|Astarion Ancunín]]
+- [[Muse Info/By Request Only - Roster#Jaheira\|Jaheira]]
+- [[Muse Info/By Request Only - Roster#Minthara Baenre\|Minthara Baenre]]
+- [[Muse Info/By Request Only - Roster#Prince of Frost\|Prince of Frost]]
 ## Invitation Only 
 - [[Muse Info/Invitation Only - Roster#Dirge\|Dirge (The Dark Urge)]]
-- Fisk (The Enigma)
-- Halima
+- [[Muse Info/Invitation Only - Roster#Fisk (*The Enigma*)\|Fisk (The Enigma)]]
+- [[Muse Info/Invitation Only - Roster#Halima\|Halima]]
 - [[Muse Info/Invitation Only - Roster#Karlach Cliffgate [Private]\|Karlach Cliffgate]] (*Private Muse - lanternlit only*)
 ## Irregulars 
 - Gale Dekarios
@@ -43,27 +43,27 @@
 ## By Request Only 
 - [[Muse Info/By Request Only - Roster#Zaehire de Riva\|Zaehire de Riva]]
 - [[Muse Info/By Request Only - Roster#Bertrand Ingellvar\|Bertrand Ingellvar]]
-- Garrett Hawke
-- Varric Tethras
-- Dorian Pavus 
-- Viago de Riva 
-- Andarateia Cantori 
-- Lucanis Dellamorte 
-- Spite
-- Emmrich Volkarin 
-- Manfred
-- Vorgoth
-- Orabela Aeducan 
-## Invitation Only 
-- Felassan 
-- Abelas 
-- (Sentinel of Dirthamen)
-- Bellara Lutare 
-- Heir
-- Merrill
-- Anders
-- Clark Kent 
-- Bruce Wayne 
+- [[Muse Info/By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]
+- [[Muse Info/By Request Only - Roster#Varric Tethras\|Varric Tethras]]
+- [[Muse Info/By Request Only - Roster#Dorian Pavus\|Dorian Pavus]]
+- [[Muse Info/By Request Only - Roster#Viago de Riva\|Viago de Riva]]
+- [[Muse Info/By Request Only - Roster#Andarateia Cantori\|Andarateia Cantori]]
+- [[Muse Info/By Request Only - Roster#Lucanis Dellamorte\|Lucanis Dellamorte]]
+- [[Muse Info/By Request Only - Roster#Spite\|Spite]]
+- [[Muse Info/By Request Only - Roster#Emmrich Volkarin\|Emmrich Volkarin]]
+- [[Muse Info/By Request Only - Roster#Manfred\|Manfred]]
+- [[Muse Info/By Request Only - Roster#Vorgoth\|Vorgoth]]
+- [[Muse Info/By Request Only - Roster#Orabela Aeducan\|Orabela Aeducan]]
+## Invitation Only
+- [[Muse Info/Invitation Only - Roster#Felassan\|Felassan]]
+- [[Muse Info/Invitation Only - Roster#Abelas\|Abelas]]
+- [[Muse Info/Invitation Only - Roster#(Sentinel Elf - To Be Named)\|(Sentinel of Dirthamen)]]
+- [[Muse Info/Invitation Only - Roster#Bellara Lutare\|Bellara Lutare]]
+- [[Muse Info/Invitation Only - Roster#Heir\|Heir]]
+- [[Muse Info/Invitation Only - Roster#Merrill\|Merrill]]
+- [[Muse Info/Invitation Only - Roster#Anders\|Anders]]
+- [[Muse Info/Invitation Only - Roster#Clark Kent\|Clark Kent]]
+- [[Muse Info/Invitation Only - Roster#Bruce Wayne\|Bruce Wayne]]
 ## Irregulars 
 - Sten
 - Carver Hawke
@@ -102,17 +102,17 @@
 ## Open Muses
 - [[Muse Info/! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
 ## By Request Only 
-- Sara Ryder
-- Scott Ryder
-- Evfra de Tershaav
-- Jaal Ama Darav
-- Reyes Vidal
+- [[Muse Info/By Request Only - Roster#Sara Ryder\|Sara Ryder]]
+- [[Muse Info/By Request Only - Roster#Scott Ryder\|Scott Ryder]]
+- [[Muse Info/By Request Only - Roster#Evfra de Tershaav\|Evfra de Tershaav]]
+- [[Muse Info/By Request Only - Roster#Jaal Ama Darav\|Jaal Ama Darav]]
+- *Reyes Vidal*
 ## Invitation Only 
 - [[Muse Info/Invitation Only - Roster#Nihlus Kryik\|Nihlus Kryik]]
-- Avitus Rix
-- Thane Krios 
-- Mordin Solus 
-- Javik
+- [[Muse Info/Invitation Only - Roster#Avitus Rix\|Avitus Rix]]
+- [[Muse Info/Invitation Only - Roster#Thane Krios\|Thane Krios]]
+- [[Muse Info/Invitation Only - Roster#Mordin Solus\|Mordin Solus]]
+- [[Muse Info/Invitation Only - Roster#Javik\|Javik]]
 ## Irregulars 
 - Urdnot Wrex
 - Garrus Vakarian
@@ -126,14 +126,14 @@
 # Other Fandoms
 ## Elder Scrolls
 ### Invitation Only 
-- Razum-dar
-- Inigo
-- Courier
+- *Razum-dar*
+- [[Muse Info/Invitation Only - Roster#Inigo\|Inigo]]
+- [[Muse Info/Invitation Only - Roster#Courier\|Courier]]
 ## Stardew Valley
 ### Invitation Only 
-- Magnus Rasmodius
-- Elliot
-- Gunter
+- [[Muse Info/Invitation Only - Roster#Magnus Rasmodius\|Magnus Rasmodius]]
+- [[Muse Info/Invitation Only - Roster#Elliot\|Elliot]]
+- [[Muse Info/Invitation Only - Roster#Gunter\|Gunter]]
 
 
 
