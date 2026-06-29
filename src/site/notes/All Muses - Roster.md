@@ -8,7 +8,7 @@
 > - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
 > - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
 
-- [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to everyone*
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to all mutuals*
 - [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
 - [[Muse Info/Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
 - [[Muse Info/Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*

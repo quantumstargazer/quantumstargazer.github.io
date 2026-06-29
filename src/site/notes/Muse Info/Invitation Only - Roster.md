@@ -241,6 +241,34 @@
 > - *visage:* [Visage ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Musename)
 > - *playlist:* [Playlist ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Musename)
 
+## Heir
+> [!profile]- Heir (she/her)
+> ![[Placeholder_Person.jpg\|red]]
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut. Morbi blandit vehicula nisl, laoreet pellentesque enim pellentesque eu.
+> 
+> 
+
+> [!tags]- Navigation & Tumblr Tags
+> **Muse Navigation** 
+> - |Dossiers & Verses]]
+> - |Connections]]
+> - |Headcanons]]
+> - |Quick Guides]]
+> - |Wishlists]]
+> 
+> ---
+> **Tumblr Tags**
+> - ***in character:*** [IC ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/IC+☾⭒+Musename)
+> - ***open starters:*** [Open Starter ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Musename)
+> - ***headcanons:*** [Headcanon ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Headcanon+☾⭒+Musename)
+> - ***wishlist:*** [Wishlist ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Wishlist+☾⭒+Musename)
+> - *desires:* [Desires ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Desires+☾⭒+Musename)
+> - *musings:* [Musings ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Musings+☾⭒+Musename)
+> - *aesthetics:* [Aesthetics ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Aesthetics+☾⭒+Musename)
+> - *visage:* [Visage ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Musename)
+> - *playlist:* [Playlist ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Musename)
+
 ## Merrill
 > [!profile]- Merrill (she/her)
 > ![[Placeholder_Person.jpg\|red]]
