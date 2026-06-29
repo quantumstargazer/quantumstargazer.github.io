@@ -26,8 +26,8 @@
 - [[Muse Info/Invitation Only - Roster#Halima\|Halima]]
 - [[Muse Info/Invitation Only - Roster#Karlach Cliffgate [Private]\|Karlach Cliffgate]] (*Private Muse - lanternlit only*)
 ## Irregulars 
-- Gale Dekarios
-- Minsc
+- [[Muse Info/Irregulars - Roster#Gale Dekarios\|Gale Dekarios]]
+- [[Muse Info/Irregulars - Roster#Minsc\|Minsc]]
 - *Hope*
 
 ---
@@ -65,37 +65,37 @@
 - [[Muse Info/Invitation Only - Roster#Clark Kent\|Clark Kent]]
 - [[Muse Info/Invitation Only - Roster#Bruce Wayne\|Bruce Wayne]]
 ## Irregulars 
-- Sten
-- Carver Hawke
-- Bethany Hawke
-- Fenris 
-- Tamlen 
-- Evka Ivo 
-- Antoine 
-- Shale
-- Sigrun
+- [[Muse Info/Irregulars - Roster#Sten\|Sten]]
+- [[Muse Info/Irregulars - Roster#Carver Hawke\|Carver Hawke]]
+- [[Muse Info/Irregulars - Roster#Bethany Hawke\|Bethany Hawke]]
+- [[Muse Info/Irregulars - Roster#Fenris\|Fenris]]
+- [[Muse Info/Irregulars - Roster#Tamlen\|Tamlen]]
+- [[Muse Info/Irregulars - Roster#Evka Ivo\|Evka Ivo]]
+- [[Muse Info/Irregulars - Roster#Antoine\|Antoine]]
+- [[Muse Info/Irregulars - Roster#Shale\|Shale]]
+- [[Muse Info/Irregulars - Roster#Sigrun\|Sigrun]]
 - **Veterans of the Fifth Blight**
-	- Aileas Cousland
-	- Bran Cousland
-	- Lailani Sabrae
-	- Satu Surana
-	- Selena Amell
-	- Kiran Brosca
+	- [[Muse Info/Irregulars - Roster#Aileas Cousland\|Aileas Cousland]]
+	- [[Muse Info/Irregulars - Roster#Bran Cousland\|Bran Cousland]]
+	- [[Muse Info/Irregulars - Roster#Lailani Sabrae\|Lailani Sabrae]]
+	- [[Muse Info/Irregulars - Roster#Satu Surana\|Satu Surana]]
+	- [[Muse Info/Irregulars - Roster#Selena Amell\|Selena Amell]]
+	- [[Muse Info/Irregulars - Roster#Kiran Brosca\|Kiran Brosca]]
 - **Veterans of Kirkwall Rebellions**
-	- Rowan Hawke
-	- Quincy Hawke
+	- [[Muse Info/Irregulars - Roster#Rowan Hawke\|Rowan Hawke]]
+	- [[Muse Info/Irregulars - Roster#Quincy Hawke\|Quincy Hawke]]
 - **Veterans of the Inquisition**
-	- Garahel Ithalanas Lavellan
-	- Rubi Cadash
-	- Tamik Adaar
+	- [[Muse Info/Irregulars - Roster#Garahel Ithalanas Lavellan\|Garahel Ithalanas Lavellan]]
+	- [[Muse Info/Irregulars - Roster#Rubi Cadash\|Rubi Cadash]]
+	- [[Muse Info/Irregulars - Roster#Tamik Adaar\|Tamik Adaar]]
 - **Veterans of the Veilguard**
-	- Darcy Mercer
-	- Esha Laidir
-	- Gertrude Ingellvar
-	- Hakiem Aldwir
-	- Iven Thorne
-	- Nikolas Mercer
-	- Redmond Thorne
+	- [[Muse Info/Irregulars - Roster#Darcy Mercer\|Darcy Mercer]]
+	- [[Muse Info/Irregulars - Roster#Esha Laidir\|Esha Laidir]]
+	- [[Muse Info/Irregulars - Roster#Gertrude Ingellvar\|Gertrude Ingellvar]]
+	- [[Muse Info/Irregulars - Roster#Hakiem Aldwir\|Hakiem Aldwir]]
+	- [[Muse Info/Irregulars - Roster#Iven Thorne\|Iven Thorne]]
+	- [[Muse Info/Irregulars - Roster#Nikolas Mercer\|Nikolas Mercer]]
+	- [[Muse Info/Irregulars - Roster#Redmond Thorne\|Redmond Thorne]]
 
 ---
 # Mass Effect
@@ -114,13 +114,13 @@
 - [[Muse Info/Invitation Only - Roster#Mordin Solus\|Mordin Solus]]
 - [[Muse Info/Invitation Only - Roster#Javik\|Javik]]
 ## Irregulars 
-- Urdnot Wrex
-- Garrus Vakarian
-- Tali'Zorah
-- Jeff "Joker" Moreau
-- Karin Chakwas
-- Aria T'Loak
-- Aethyta
+- [[Muse Info/Irregulars - Roster#Urdnot Wrex\|Urdnot Wrex]]
+- [[Muse Info/Irregulars - Roster#Garrus Vakarian\|Garrus Vakarian]]
+- [[Muse Info/Irregulars - Roster#Tali'Zorah\|Tali'Zorah]]
+- [[Muse Info/Irregulars - Roster#Jeff "Joker" Moreau\|Jeff "Joker" Moreau]]
+- [[Muse Info/Irregulars - Roster#Karin Chakwas\|Karin Chakwas]]
+- [[Muse Info/Irregulars - Roster#Aria T'Loak\|Aria T'Loak]]
+- [[Muse Info/Irregulars - Roster#Aethyta\|Aethyta]]
 
 ---
 # Other Fandoms
