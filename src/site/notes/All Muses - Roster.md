@@ -62,7 +62,7 @@
 ## Invitation Only
 - [[Muse Info/Invitation Only - Roster#Felassan\|Felassan]]
 - [[Muse Info/Invitation Only - Roster#Abelas\|Abelas]]
-- [[Muse Info/Invitation Only - Roster#(Sentinel Elf - To Be Named)\|(Sentinel of Dirthamen)]]
+- [[Muse Info/Invitation Only - Roster#(Sentinel Elf - To Be Named)\|Sentinel of Dirthamen]]
 - [[Muse Info/Invitation Only - Roster#Bellara Lutare\|Bellara Lutare]]
 - [[Muse Info/Invitation Only - Roster#Heir\|Heir]]
 - [[Muse Info/Invitation Only - Roster#Merrill\|Merrill]]
