@@ -3,10 +3,15 @@
 ---
 
 # Full Roster
-- [[Muse Info/! Open Muses - Roster\|Open Muses]] 
-- [[Muse Info/By Request Only - Roster\|By Request Only]] 
-- [[Muse Info/Invitation Only - Roster\|Invitation Only]] 
-- [[Muse Info/Irregulars - Roster\|Irregulars]] 
+> [!faq]- Activity Levels Based On Fandom - Not Individual Muse
+> - **Activity is based on the fandom as opposed to the individual muse.** *See:* [[Muse Info/Quick Reference/! Activity Levels - Quick Reference\|Activity Levels (Quick Reference)]]
+> - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
+> - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
+
+- [[Muse Info/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to everyone*
+- [[Muse Info/By Request Only - Roster\|By Request Only]] - *available only on request*
+- [[Muse Info/Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
+- [[Muse Info/Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
 
 ---
 # Baldur's Gate
