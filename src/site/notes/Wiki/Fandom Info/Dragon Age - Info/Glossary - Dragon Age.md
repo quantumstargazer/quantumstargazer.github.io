@@ -34,7 +34,7 @@
 - Blackwall
 - Brecilian Forest
 - Brecilian Ruins
-- Broodmother
+- broodmother
 - Brosca
 - 
 
@@ -56,12 +56,12 @@
 - Denerim
 - Dirthamen
 - Dorian Pavus
-- Dwarf
-- Dwarva
+- dwarf
+- dwarva
 
 ---
 # E
-- Elf
+- elf
 - Elgar'nan
 - Elven
 - Elvhen
@@ -70,7 +70,7 @@
 
 ---
 # F
-- The Fade
+- the Fade
 - Falon'Din
 - Fen'Harel
 - Fenris
@@ -93,7 +93,7 @@
 ---
 # I
 - Illario Dellamorte
-- Ir abelas (*"I'm sorry"*)
+- ir abelas (*"I'm sorry"*)
 - The Iron Bull
 - Isabela
 
@@ -103,7 +103,7 @@
 
 ---
 # K
-- Kadan 
+- kadan 
 - Kinloch Hold
 - Korcari Wilds
 
@@ -112,16 +112,16 @@
 - Lace Harding
 - Lavellan
 - Leliana
-- Lethallan (*fem.*)
-- Lethallen (*gender neutral*)
-- Lethallin (*masc.*)
+- lethallan (*fem.*)
+- lethallen (*gender neutral*)
+- lethallin (*masc.*)
 - Lords of Fortune
 - Lothering
 - Lucanis Dellamorte
 
 ---
 # M
-- Ma serannas (*"My thanks." / "Thank you."*)
+- ma serannas (*"My thanks." / "Thank you."*)
 - Mahariel
 - Manfred
 - Marian Hawke
@@ -143,18 +143,18 @@
 # O
 - Oghren
 - Orlais
-- The Orlesian Empire
+- the Orlesian Empire
 - Orzammar
 - Ossuary
 
 ---
 # P
-- The Proving
+- the Proving
 
 ---
 # Q
 - Qun
-- Qunari
+- qunari
 - 
 
 ---
@@ -188,6 +188,7 @@
 - Tevinter Imperium
 - Thedas
 - Theirin
+- thaig
 - Thorne
 - Trian Aeducan
 - Trevelyan
@@ -201,12 +202,12 @@
 ---
 # V
 - Val Royeaux
-- Vallaslin
+- vallaslin
 - Varric Tethras
 - Vaughan Kendells
-- The Veil
+- the Veil
 - Veil Jumpers
-- The Veilguard
+- the Veilguard
 - Vir Dirthara (*Shattered Library*)
 - Vorgoth
 
