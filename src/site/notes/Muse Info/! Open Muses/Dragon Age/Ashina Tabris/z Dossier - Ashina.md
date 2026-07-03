@@ -8,7 +8,7 @@
 > 
 > ![Ash001.png\|cover](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
-> 
+> ![antivan_crows~2 2.jpg\|icon](/img/user/z%20Assets/Attachments/antivan_crows~2%202.jpg)
 > 
 > ## Antivan Crows
 > | *name* | Ashina de Riva |
