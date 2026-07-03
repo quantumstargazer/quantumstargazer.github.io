@@ -8,7 +8,7 @@
 > 
 > ![Ward temp02.png\|cover](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
-> ![mournwatch.png\|icon](/img/user/z%20Assets/Attachments/mournwatch.png)
+> ![mourn_watch~2 2.jpg\|icon](/img/user/z%20Assets/Attachments/mourn_watch~2%202.jpg)
 > 
 > ## Mourn Watch
 > | *name* | Ward Ingellvar |

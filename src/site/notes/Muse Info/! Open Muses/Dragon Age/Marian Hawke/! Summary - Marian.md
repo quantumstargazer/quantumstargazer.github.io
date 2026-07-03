@@ -6,7 +6,7 @@
 > [!profile]+ Muse Info
 > ![Screenshot_20260624-090622.png](/img/user/z%20Assets/Attachments/Screenshot_20260624-090622.png)
 > 
-> - *name:* Marian Hawke
+> - *name:* Marian Josette Hawke
 > - *nickname:* Mari
 > - *alias:* Hawke 
 > 	- Champion
