@@ -30,7 +30,8 @@
 # Types of Available Verses & AUs
 ## Canon-Based Verses & AUs 
 - *Includes **Canon Typical** & **Canon Divergent AUs***
-- These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*)
+- These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*).
+- Timelines often span the course of the series whenever possible, with the exception of Baldur's Gate, which is focused more strictly to the Baldur's Gate 3 timeline.
 
 ## Fandom Specific AUs 
 - **Secondary option for most crossover interactions**
