@@ -13,6 +13,9 @@
 - [[Muse Info/Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
 - [[Muse Info/Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
 
+> [!important]+ Verses & AUs
+> All muses have verses to support interactions within the expanded Baldur's Gate, Dragon Age, and/or Mass Effect universes — though the most common ones are the "Trapped In Another World" AUs, where the muse finds themselves displaced into the other fandom's universe. See [[Rulebook/FAQ Details/Verses + AUs - FAQ\|Verses & AUs]] for more information.
+
 ---
 # Baldur's Gate
 ## Open Muses
