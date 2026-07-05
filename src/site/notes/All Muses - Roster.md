@@ -16,21 +16,27 @@
 ---
 # Baldur's Gate
 ## Open Muses
+### Original Characters
 - [[Muse Info/! Open Muses - Roster#Tavares Umbrafae\|Tavares Umbrafae]]
 - [[Muse Info/! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
 ## By Request Only 
+### Original Characters
 - [[Muse Info/By Request Only - Roster#Faertorithrue\|Faertorithrue]]
 - [[Muse Info/By Request Only - Roster#Fenmaer Dawngazer\|Fenmaer Dawngazer]]
+### Canon Characters
 - [[Muse Info/By Request Only - Roster#Astarion Ancunín\|Astarion Ancunín]]
 - [[Muse Info/By Request Only - Roster#Jaheira\|Jaheira]]
 - [[Muse Info/By Request Only - Roster#Minthara Baenre\|Minthara Baenre]]
 - [[Muse Info/By Request Only - Roster#Prince of Frost\|Prince of Frost]]
 ## Invitation Only 
+### Original Characters
 - [[Muse Info/Invitation Only - Roster#Dirge\|Dirge (The Dark Urge)]]
 - [[Muse Info/Invitation Only - Roster#Fisk (*The Enigma*)\|Fisk (The Enigma)]]
 - [[Muse Info/Invitation Only - Roster#Halima\|Halima]]
+### Canon Characters
 - [[Muse Info/Invitation Only - Roster#Karlach Cliffgate [Private]\|Karlach Cliffgate]] (*Private Muse - lanternlit only*)
 ## Irregulars 
+### Canon Characters
 - [[Muse Info/Irregulars - Roster#Gale Dekarios\|Gale Dekarios]]
 - [[Muse Info/Irregulars - Roster#Minsc\|Minsc]]
 - *Hope*
@@ -38,17 +44,22 @@
 ---
 # Dragon Age
 ## Open Muses
+### Original Characters
 - [[Muse Info/! Open Muses - Roster#Ashina de Riva née Tabris\|Ashina de Riva née Tabris]]
 - [[Muse Info/! Open Muses - Roster#Ward Ingellvar\|Ward Ingellvar]]
 - [[Muse Info/! Open Muses - Roster#Leonardo de Riva\|Leonardo de Riva]]
 - [[Muse Info/! Open Muses - Roster#Haleir Lavellan\|Haleir Lavellan]]
 - [[Muse Info/! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
 - [[Muse Info/! Open Muses - Roster#Isenril Mahariel\|Isenril Mahariel]]
+### Canon Characters
 - [[Muse Info/! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
 ## By Request Only 
+### Original Characters
 - [[Muse Info/By Request Only - Roster#Zaehire de Riva\|Zaehire de Riva]]
 - [[Muse Info/By Request Only - Roster#Bertrand Ingellvar\|Bertrand Ingellvar]]
 - [[Muse Info/By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]
+- [[Muse Info/By Request Only - Roster#Orabela Aeducan\|Orabela Aeducan]]
+### Canon Characters
 - [[Muse Info/By Request Only - Roster#Varric Tethras\|Varric Tethras]]
 - [[Muse Info/By Request Only - Roster#Dorian Pavus\|Dorian Pavus]]
 - [[Muse Info/By Request Only - Roster#Viago de Riva\|Viago de Riva]]
@@ -58,27 +69,20 @@
 - [[Muse Info/By Request Only - Roster#Emmrich Volkarin\|Emmrich Volkarin]]
 - [[Muse Info/By Request Only - Roster#Manfred\|Manfred]]
 - [[Muse Info/By Request Only - Roster#Vorgoth\|Vorgoth]]
-- [[Muse Info/By Request Only - Roster#Orabela Aeducan\|Orabela Aeducan]]
 ## Invitation Only
+### Original Characters
+- [[Muse Info/Invitation Only - Roster#(Sentinel Elf - To Be Named)\|Sentinel of Dirthamen]]
+- [[Muse Info/Invitation Only - Roster#Clark Kent\|Clark Kent]]
+- [[Muse Info/Invitation Only - Roster#Bruce Wayne\|Bruce Wayne]]
+### Canon Characters
 - [[Muse Info/Invitation Only - Roster#Felassan\|Felassan]]
 - [[Muse Info/Invitation Only - Roster#Abelas\|Abelas]]
-- [[Muse Info/Invitation Only - Roster#(Sentinel Elf - To Be Named)\|Sentinel of Dirthamen]]
 - [[Muse Info/Invitation Only - Roster#Bellara Lutare\|Bellara Lutare]]
 - [[Muse Info/Invitation Only - Roster#Heir\|Heir]]
 - [[Muse Info/Invitation Only - Roster#Merrill\|Merrill]]
 - [[Muse Info/Invitation Only - Roster#Anders\|Anders]]
-- [[Muse Info/Invitation Only - Roster#Clark Kent\|Clark Kent]]
-- [[Muse Info/Invitation Only - Roster#Bruce Wayne\|Bruce Wayne]]
 ## Irregulars 
-- [[Muse Info/Irregulars - Roster#Sten\|Sten]]
-- [[Muse Info/Irregulars - Roster#Carver Hawke\|Carver Hawke]]
-- [[Muse Info/Irregulars - Roster#Bethany Hawke\|Bethany Hawke]]
-- [[Muse Info/Irregulars - Roster#Fenris\|Fenris]]
-- [[Muse Info/Irregulars - Roster#Tamlen\|Tamlen]]
-- [[Muse Info/Irregulars - Roster#Evka Ivo\|Evka Ivo]]
-- [[Muse Info/Irregulars - Roster#Antoine\|Antoine]]
-- [[Muse Info/Irregulars - Roster#Shale\|Shale]]
-- [[Muse Info/Irregulars - Roster#Sigrun\|Sigrun]]
+### Original Characters
 - **Veterans of the Fifth Blight**
 	- [[Muse Info/Irregulars - Roster#Aileas Cousland\|Aileas Cousland]]
 	- [[Muse Info/Irregulars - Roster#Bran Cousland\|Bran Cousland]]
@@ -101,24 +105,39 @@
 	- [[Muse Info/Irregulars - Roster#Iven Thorne\|Iven Thorne]]
 	- [[Muse Info/Irregulars - Roster#Nikolas Mercer\|Nikolas Mercer]]
 	- [[Muse Info/Irregulars - Roster#Redmond Thorne\|Redmond Thorne]]
+### Canon Characters
+- [[Muse Info/Irregulars - Roster#Sten\|Sten]]
+- [[Muse Info/Irregulars - Roster#Carver Hawke\|Carver Hawke]]
+- [[Muse Info/Irregulars - Roster#Bethany Hawke\|Bethany Hawke]]
+- [[Muse Info/Irregulars - Roster#Fenris\|Fenris]]
+- [[Muse Info/Irregulars - Roster#Tamlen\|Tamlen]]
+- [[Muse Info/Irregulars - Roster#Evka Ivo\|Evka Ivo]]
+- [[Muse Info/Irregulars - Roster#Antoine\|Antoine]]
+- [[Muse Info/Irregulars - Roster#Shale\|Shale]]
+- [[Muse Info/Irregulars - Roster#Sigrun\|Sigrun]]
 
 ---
 # Mass Effect
 ## Open Muses
+### Original Characters
 - [[Muse Info/! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
 ## By Request Only 
+### Original Characters
 - [[Muse Info/By Request Only - Roster#Sara Ryder\|Sara Ryder]]
 - [[Muse Info/By Request Only - Roster#Scott Ryder\|Scott Ryder]]
+### Canon Characters
 - [[Muse Info/By Request Only - Roster#Evfra de Tershaav\|Evfra de Tershaav]]
 - [[Muse Info/By Request Only - Roster#Jaal Ama Darav\|Jaal Ama Darav]]
 - *Reyes Vidal*
 ## Invitation Only 
+### Canon Characters
 - [[Muse Info/Invitation Only - Roster#Nihlus Kryik\|Nihlus Kryik]]
 - [[Muse Info/Invitation Only - Roster#Avitus Rix\|Avitus Rix]]
 - [[Muse Info/Invitation Only - Roster#Thane Krios\|Thane Krios]]
 - [[Muse Info/Invitation Only - Roster#Mordin Solus\|Mordin Solus]]
 - [[Muse Info/Invitation Only - Roster#Javik\|Javik]]
 ## Irregulars 
+### Canon Characters
 - [[Muse Info/Irregulars - Roster#Urdnot Wrex\|Urdnot Wrex]]
 - [[Muse Info/Irregulars - Roster#Garrus Vakarian\|Garrus Vakarian]]
 - [[Muse Info/Irregulars - Roster#Tali'Zorah\|Tali'Zorah]]
@@ -131,11 +150,15 @@
 # Other Fandoms
 ## Elder Scrolls
 ### Invitation Only 
+#### Canon Characters
 - *Razum-dar*
 - [[Muse Info/Invitation Only - Roster#Inigo\|Inigo]]
 - [[Muse Info/Invitation Only - Roster#Courier\|Courier]]
 ## Stardew Valley
 ### Invitation Only 
+#### Original Characters
+- *TBA*
+#### Canon Characters
 - [[Muse Info/Invitation Only - Roster#Magnus Rasmodius\|Magnus Rasmodius]]
 - [[Muse Info/Invitation Only - Roster#Elliot\|Elliot]]
 - [[Muse Info/Invitation Only - Roster#Gunter\|Gunter]]
