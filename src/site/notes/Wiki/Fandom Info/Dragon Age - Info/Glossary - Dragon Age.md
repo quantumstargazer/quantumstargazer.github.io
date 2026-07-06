@@ -6,6 +6,15 @@
 ## Summary
 **TBA**
 
+## Fictional Languages
+### Elven
+- [Elven Language (fandom wiki)](https://dragonage.miraheze.org/wiki/Elven_language)
+- [The Danish Dish on tumblr](https://the-dalish-dish.tumblr.com/language)
+### Qunlat
+
+### Dwarven
+
+
 ---
 # A
 - Adaar
