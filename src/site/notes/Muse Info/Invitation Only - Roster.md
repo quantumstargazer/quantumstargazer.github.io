@@ -184,8 +184,8 @@
 > - *visage:* [Visage ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Visage+☾⭒+Musename)
 > - *playlist:* [Playlist ☾⭒ Musename](https://quantumstargazer.tumblr.com/tagged/Playlist+☾⭒+Musename)
 
-## (Sentinel Elf - To Be Named)
-> [!profile]- TBD (he/him)
+## Banal’ras
+> [!profile]- Banal’ras (he/him)
 > ![[Placeholder_Person.jpg\|red]]
 > > *Sentinel of Dirthamen*
 > 

@@ -74,7 +74,7 @@
 - [[Muse Info/By Request Only - Roster#Vorgoth\|Vorgoth]]
 ## Invitation Only
 ### Original Characters
-- [[Muse Info/Invitation Only - Roster#(Sentinel Elf - To Be Named)\|Sentinel of Dirthamen]]
+- [[Muse Info/Invitation Only - Roster#Banal’ras\|Banal’ras]]
 - [[Muse Info/Invitation Only - Roster#Clark Kent\|Clark Kent]]
 - [[Muse Info/Invitation Only - Roster#Bruce Wayne\|Bruce Wayne]]
 ### Canon Characters

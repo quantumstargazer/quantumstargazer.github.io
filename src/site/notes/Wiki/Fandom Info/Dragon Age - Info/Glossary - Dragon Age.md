@@ -8,8 +8,8 @@
 
 ## Fictional Languages
 ### Elven
-- [Elven Language (fandom wiki)](https://dragonage.miraheze.org/wiki/Elven_language)
-- [The Danish Dish on tumblr](https://the-dalish-dish.tumblr.com/language)
+- [Elven Language (wiki)](https://dragonage.miraheze.org/wiki/Elven_language)
+- [Dalishious Elvhen Dictionary (by Dalishious on AO3)](https://archiveofourown.org/works/35630167?view_full_work=true)
 ### Qunlat
 
 ### Dwarven
