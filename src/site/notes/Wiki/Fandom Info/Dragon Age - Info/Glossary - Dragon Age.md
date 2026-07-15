@@ -11,9 +11,9 @@
 - [Elven Language (wiki)](https://dragonage.miraheze.org/wiki/Elven_language)
 - [Dalishious Elvhen Dictionary (by Dalishious on AO3)](https://archiveofourown.org/works/35630167?view_full_work=true)
 ### Qunlat
-
+- *TBA*
 ### Dwarven
-
+- *TBA*
 
 ---
 # A
