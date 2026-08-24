@@ -18,43 +18,43 @@ Codex ☾⭒ Ward Ingellvar
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Ward Ingellvar
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Ward Ingellvar
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Ward Ingellvar
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Ward Ingellvar
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Ward Ingellvar
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Ward Ingellvar
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Codex ☾⭒ Ward Ingellvar
 ```
 
 ---

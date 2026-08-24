@@ -18,43 +18,43 @@ Codex ☾⭒ Marian Hawke
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Marian Hawke
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Marian Hawke
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Marian Hawke
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Marian Hawke
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Marian Hawke
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Marian Hawke
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Marian Hawke
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Marian Hawke, Codex ☾⭒ Marian Hawke
 ```
 
 ---

@@ -10,7 +10,7 @@ IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Isabela Shepard,
 
 ---
 # Codex
-
+- [ ] #task-updatetags Add Codex tag to posts for Izzy 🔺 
 ```
 Codex ☾⭒ Isabela Shepard
 ```
@@ -18,43 +18,43 @@ Codex ☾⭒ Isabela Shepard
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Isabela Shepard
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Isabela Shepard
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Isabela Shepard
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Isabela Shepard
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Isabela Shepard
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Isabela Shepard
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isabela Shepard
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isabela Shepard, Codex ☾⭒ Isabela Shepard
 ```
 
 ---

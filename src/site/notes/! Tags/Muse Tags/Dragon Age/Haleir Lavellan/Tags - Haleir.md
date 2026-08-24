@@ -18,43 +18,43 @@ Codex ☾⭒ Haleir Lavellan
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Haleir Lavellan
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Haleir Lavellan
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Haleir Lavellan
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Haleir Lavellan
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Haleir Lavellan
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Haleir Lavellan
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Haleir Lavellan
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Haleir Lavellan, Codex ☾⭒ Haleir Lavellan
 ```
 
 ---

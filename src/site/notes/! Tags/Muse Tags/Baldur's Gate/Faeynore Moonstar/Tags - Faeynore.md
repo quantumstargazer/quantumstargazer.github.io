@@ -18,89 +18,59 @@ Codex ☾⭒ Faeynore Moonstar
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Faeynore Moonstar
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Faeynore Moonstar
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Faeynore Moonstar
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Faeynore Moonstar
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Faeynore Moonstar
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Faeynore Moonstar
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Faeynore Moonstar
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Faeynore Moonstar, Codex ☾⭒ Faeynore Moonstar
 ```
 
 ---
 # Verses
 
 ## Canon Typical
-### 0.1 Verse
+### 0.1 Private Investigator
 ```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 0.2 Verse
-```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 0.3 Verse
-```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
+Faeynore ☾⭒ Private Investigator ( Baldur's Gate )
 ```
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Absolute Crisis
 ```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.2 Verse
-```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.3 Verse
-```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.4 Verse
-```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.5 Verse
-```
-Faeynore ☾⭒ QuickID ( Baldur's Gate )
+Faeynore ☾⭒ Absolute Crisis ( Baldur's Gate )
 ```
 
 ---
@@ -213,30 +183,30 @@ Faeynore ☾⭒ Crucible BS — Another World ( Multiverse )
 ## Private Verses & AUs
 
 
-### PartnerURL - PartnerFaeynore
-#### 5.1 Verse
+### lanternlit - Astarion Ancunín
+#### 5.1 Private Investigator
 ```
-Faeynore ☾⭒ QuickID ( Partner — PartnerURL )
+Faeynore ☾⭒ Private Investigator ( Astarion — lanternlit )
 ```
 
-#### 5.2 Verse
+#### 5.2 Absolute Crisis
 ```
-Faeynore ☾⭒ QuickID ( Partner — PartnerURL )
+Faeynore ☾⭒ Absolute Crisis ( Astarion — lanternlit )
 ```
 
 #### 5.3 Verse
 ```
-Faeynore ☾⭒ QuickID ( Partner — PartnerURL )
+Faeynore ☾⭒ QuickID ( Astarion — lanternlit )
 ```
 
 #### 5.4 Verse
 ```
-Faeynore ☾⭒ QuickID ( Partner — PartnerURL )
+Faeynore ☾⭒ QuickID ( Astarion — lanternlit )
 ```
 
 #### 5.5 Verse
 ```
-Faeynore ☾⭒ QuickID ( Partner — PartnerURL )
+Faeynore ☾⭒ QuickID ( Astarion — lanternlit )
 ```
 
 ---

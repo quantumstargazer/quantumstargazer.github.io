@@ -18,89 +18,59 @@ Codex ☾⭒ Tavares Umbrafae
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Tavares Umbrafae
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Tavares Umbrafae
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Tavares Umbrafae
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Tavares Umbrafae
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Tavares Umbrafae
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Tavares Umbrafae
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Tavares Umbrafae
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Tavares Umbrafae, Codex ☾⭒ Tavares Umbrafae
 ```
 
 ---
 # Verses
 
 ## Canon Typical
-### 0.1 Verse
+### 0.1 Absolute Crisis
 ```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 0.2 Verse
-```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 0.3 Verse
-```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
+Tavares ☾⭒ Absolute Crisis ( Baldur's Gate )
 ```
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Callidae Exile
 ```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.2 Verse
-```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.3 Verse
-```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.4 Verse
-```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
-```
-
-### 1.5 Verse
-```
-Tavares ☾⭒ QuickID ( Baldur's Gate )
+Tavares ☾⭒ Callidae Exile ( Baldur's Gate )
 ```
 
 ---
@@ -213,30 +183,30 @@ Tavares ☾⭒ Crucible BS — Another World ( Multiverse )
 ## Private Verses & AUs
 
 
-### PartnerURL - PartnerTavares
-#### 5.1 Verse
+### lanternlit - Astarion Ancunin
+#### 5.1 Absolute Crisis
 ```
-Tavares ☾⭒ QuickID ( Partner — PartnerURL )
+Tavares ☾⭒ Absolute Crisis ( Astarion — lanternlit )
 ```
 
-#### 5.2 Verse
+#### 5.2 Callidae Exile
 ```
-Tavares ☾⭒ QuickID ( Partner — PartnerURL )
+Tavares ☾⭒ Callidae Exile ( Astarion — lanternlit )
 ```
 
 #### 5.3 Verse
 ```
-Tavares ☾⭒ QuickID ( Partner — PartnerURL )
+Tavares ☾⭒ QuickID ( Astarion — lanternlit )
 ```
 
 #### 5.4 Verse
 ```
-Tavares ☾⭒ QuickID ( Partner — PartnerURL )
+Tavares ☾⭒ QuickID ( Astarion — lanternlit )
 ```
 
 #### 5.5 Verse
 ```
-Tavares ☾⭒ QuickID ( Partner — PartnerURL )
+Tavares ☾⭒ QuickID ( Astarion — lanternlit )
 ```
 
 ---

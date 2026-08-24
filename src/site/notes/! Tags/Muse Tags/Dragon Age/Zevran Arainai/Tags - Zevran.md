@@ -18,43 +18,43 @@ Codex ☾⭒ Zevran Arainai
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Zevran Arainai
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Zevran Arainai
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Zevran Arainai
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Zevran Arainai
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Zevran Arainai
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Zevran Arainai
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Zevran Arainai
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Zevran Arainai, Codex ☾⭒ Zevran Arainai
 ```
 
 ---

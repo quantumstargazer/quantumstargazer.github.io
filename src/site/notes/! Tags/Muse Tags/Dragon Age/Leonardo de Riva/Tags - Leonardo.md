@@ -18,43 +18,43 @@ Codex ☾⭒ Leonardo de Riva
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Leonardo de Riva
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Leonardo de Riva
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Leonardo de Riva
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Leonardo de Riva
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Leonardo de Riva
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Leonardo de Riva
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Leonardo de Riva
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Leonardo de Riva, Codex ☾⭒ Leonardo de Riva
 ```
 
 ---

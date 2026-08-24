@@ -18,43 +18,43 @@ Codex ☾⭒ Isenril Mahariel
 ## Headcanon
 
 ```
-Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Isenril Mahariel
+Headcanon ☾⭒ We Look At The Same Stars & See Such Different Things, Headcanon ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ## Wishlist
 
 ```
-Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Isenril Mahariel
+Wishlist ☾⭒ Come Spinning Out Of Nothingness, Wishlist ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ## Visage
 
 ```
-Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Isenril Mahariel
+Visage ☾⭒ Stars In Their Eyes, Visage ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ## Aesthetics
 
 ```
-Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Isenril Mahariel
+Aesthetics ☾⭒ Go Out And Paint The Stars, Aesthetics ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ## Desires
 
 ```
-Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Isenril Mahariel
+Desires ☾⭒ The Kind Of Kiss That Inspires Stars, Desires ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ## Musings
 
 ```
-Musings ☾⭒ Written In The Stars, Musings ☾⭒ Isenril Mahariel
+Musings ☾⭒ Written In The Stars, Musings ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ## Playlist
 
 ```
-Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isenril Mahariel
+Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isenril Mahariel, Codex ☾⭒ Isenril Mahariel
 ```
 
 ---
