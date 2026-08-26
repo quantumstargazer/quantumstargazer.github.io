@@ -178,7 +178,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -209,7 +209,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -240,7 +240,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -271,7 +271,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -302,7 +302,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -333,7 +333,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -364,7 +364,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -395,7 +395,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -426,7 +426,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -457,7 +457,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -489,7 +489,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -520,7 +520,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -551,7 +551,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -582,7 +582,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -613,7 +613,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -644,7 +644,7 @@
 > | Timeline | 2183 - 21XX CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -676,7 +676,7 @@
 > | Timeline | 2160 - 21XX CE |
 > | Condition | Multi-Shepards - Earthborn |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -707,7 +707,7 @@
 > | Timeline | 2160 - 21XX CE |
 > | Condition | Multi-Shepards - Colonist |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -738,7 +738,7 @@
 > | Timeline | 2160 - 21XX CE |
 > | Condition | Multi-Shepards - Spacer |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -769,7 +769,7 @@
 > | Timeline | 2184 - 21XX CE |
 > | Condition | Clone |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -800,7 +800,7 @@
 > | Timeline | 2184 - 21XX CE |
 > | Condition | Clone |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -858,7 +858,7 @@
 > | Timeline | *Varies* |
 > | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -1091,7 +1091,7 @@
 > | Timeline | — |
 > | Condition | — |
 > | Open To Plotting | Yes - partnerurl Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | partnerurl Only - Not Open For Request |
 >
 > **Summary**

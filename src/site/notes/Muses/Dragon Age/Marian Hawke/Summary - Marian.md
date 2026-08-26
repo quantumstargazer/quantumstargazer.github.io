@@ -160,7 +160,7 @@
 > | Timeline | — |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -202,7 +202,7 @@
 > | Timeline | — |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -271,7 +271,7 @@
 > | Timeline | *Varies* |
 > | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -504,7 +504,7 @@
 > | Timeline | — |
 > | Condition | — |
 > | Open To Plotting | Yes - partnerurl Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | partnerurl Only - Not Open For Request |
 >
 > **Summary**

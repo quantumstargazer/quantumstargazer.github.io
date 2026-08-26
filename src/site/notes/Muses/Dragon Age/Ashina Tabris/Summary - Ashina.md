@@ -120,16 +120,19 @@ TBA
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:50 - 9:54 Dragon |
-> | Condition | Warden - HoF - Crow |
+> | Condition | Warden - HoF - Crow - Rook |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is the former Hero of Ferelden, & the Talon's Second of House de Riva.*
 > 
-> TBA
+> One thing Ashina can never turn her back on is slavery, especially after the incident in the Denerim Alienage during the Fifth Blight, so there was simply no way she was going to ignore the Antaam slavers, *especially* when she spotted one of her own friends in their cages — not even to report in to her Talon for instruction.
+> 
+> Her actions disrupt the Talons' plans — plans she hadn't been at all aware of — and as a result, she is sent on an extended contract to hunt the Dread Wolf when Varric Tethras shows up requesting her help in stopping Solas from destroying the world.
 > 
 > **Tumblr Tags**
 > 
@@ -162,16 +165,19 @@ TBA
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:44 Dragon |
-> | Condition | Warden - HoF - Crow |
+> | Condition | Warden - HoF - Crow - Herald - Inquisitor |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is the former Hero of Ferelden, & a Master Crow of House de Riva.*
 > 
-> TBA
+> Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
+> 
+> When Ashina wakes up in the dungeon under Haven's chantry with now real memory of what happened at the temple, and a magical hole in her hand, she dreads having to send word back to the Talons to provide her report and try to explain how a Master Assassin is being accused of murdering the Divine, and worse still, once the Breach is calmed, is being called the Herald of Andraste.
 > 
 > **Tumblr Tags**
 > 
@@ -204,16 +210,17 @@ TBA
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:44 Dragon |
-> | Condition | Crow |
+> | Condition | Crow - Herald - Inquisitor |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is a Master Crow, sent to spy on the Conclave by the First Talon.*
 > 
-> TBA
+> Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
 > 
 > **Tumblr Tags**
 > 
@@ -248,6 +255,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
 > | Availability | Open To Everyone |
 >
@@ -255,7 +263,9 @@ TBA
 > 
 > > *Ashina is arrested after killing Vaughan & freed from the dungeons by the Crows.*
 > 
-> TBA
+> Ashina escapes the Arl's Palace with her cousins and the other kidnapped women after she killed the Arl's son, his noble lackies, and all the guards that stood between her and the other elven women who had been taken to Vaughan Kendall's bedroom to be raped and/or killed. The city guard arrive shortly after the elves do, so Ashina claims sole responsibility for the slaughter at the practice and is immediately arrested and thrown into the palace dungeons for the Arl to decide her fate once he returns from Ostagar.
+> 
+> Ashina has no intention of *staying* in the dungeons, waiting to be executed, so she looks for any way she can to escape her cell. When a Crow appears, she takes the offer for assistance getting out of the palace and Denerim in return for service to the Antivan Crows.
 > 
 > **Tumblr Tags**
 > 
@@ -290,8 +300,9 @@ TBA
 > | Timeline | 9:20 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -334,8 +345,9 @@ TBA
 > | Timeline | 9:20 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -379,8 +391,9 @@ TBA
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | Crow - House Arainai |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -424,8 +437,9 @@ TBA
 > | Timeline | 9:54 - 9:69 Dragon |
 > | Condition | Warden - HoF - Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -490,7 +504,7 @@ TBA
 > | Timeline | 2184 - 2188 CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -534,7 +548,7 @@ TBA
 > | Timeline | *Varies* |
 > | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -792,7 +806,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -884,7 +898,7 @@ TBA
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -976,7 +990,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1068,7 +1082,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1160,7 +1174,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1252,7 +1266,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1344,7 +1358,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1436,7 +1450,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1528,7 +1542,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1627,7 +1641,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**

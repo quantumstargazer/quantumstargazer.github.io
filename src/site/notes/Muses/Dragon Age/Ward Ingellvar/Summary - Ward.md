@@ -158,7 +158,7 @@
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -200,7 +200,7 @@
 > | Timeline | — |
 > | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -242,7 +242,7 @@
 > | Timeline | — |
 > | Condition | Newly Formed Spirit-Elf |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -284,7 +284,7 @@
 > | Timeline | — |
 > | Condition | Spirit of Learning |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -326,7 +326,7 @@
 > | Timeline | 9:45 - 9:54 Dragon |
 > | Condition | Child Herald / Inquisitor |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -395,7 +395,7 @@
 > | Timeline | *Varies* |
 > | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -628,7 +628,7 @@
 > | Timeline | — |
 > | Condition | — |
 > | Open To Plotting | Yes - partnerurl Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | partnerurl Only - Not Open For Request |
 >
 > **Summary**
