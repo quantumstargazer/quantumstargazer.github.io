@@ -4,7 +4,7 @@
 
 # Dossiers & Verses
 > [!infobox] Marian Hawke
-> ![Exploring-the-Multiverse-255006320.jpg\|272x272](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> ![marian.png\|272x272](/img/user/z%20Assets/Attachments/marian.png)
 > 
 > // Basic Info
 > 
@@ -42,7 +42,7 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Marian Hawke
+- *Muse:* [[! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
 - *Fandom:* Dragon Age
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Marian Hawke/Tags - Marian\|Tags - Marian Hawke]]
 

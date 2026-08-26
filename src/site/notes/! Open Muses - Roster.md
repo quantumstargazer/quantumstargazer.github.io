@@ -238,7 +238,7 @@
 ## Marian Hawke
 
 > [!profilebox] Marian Hawke (she/her/herself)
-> ![Dragon-Age-Dreadwolf-4128522568 1.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568%201.jpg)
+> ![marian.png\|150x150](/img/user/z%20Assets/Attachments/marian.png)
 > 
 > **Basic Info**
 > 
@@ -277,7 +277,7 @@
 ## Isenril Mahariel
 
 > [!profilebox] Isenril Mahariel (he/him/himself)
-> ![Dragon-Age-Dreadwolf-4128522568 1.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568%201.jpg)
+> ![mahariel fen.png\|150x150](/img/user/z%20Assets/Attachments/mahariel%20fen.png)
 > 
 > **Basic Info**
 > 

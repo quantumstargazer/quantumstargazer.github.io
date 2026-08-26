@@ -4,7 +4,7 @@
 
 # Dossiers & Verses
 > [!infobox] Isenril Mahariel
-> ![Exploring-the-Multiverse-255006320.jpg\|272x272](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> ![mahariel fen.png\|272x272](/img/user/z%20Assets/Attachments/mahariel%20fen.png)
 > 
 > // Basic Info
 > 
