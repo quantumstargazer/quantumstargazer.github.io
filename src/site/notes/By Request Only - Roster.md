@@ -331,7 +331,7 @@
 > **Summary**
 > 
 > > *Dwarf ~~Exile~~ Noble — House Aeducan Royal Family — King of Orzammar*
-> > **Heavy Canon Divergence** — *Returns to Orzammar as the Paragon's choice for King*
+> > **Heavy Canon Divergence** — *Returns to Orzammar as the Paragon's choice for King* 
 > 
 > TBA
 > 
