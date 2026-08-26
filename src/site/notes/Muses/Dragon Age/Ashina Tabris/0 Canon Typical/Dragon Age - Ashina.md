@@ -9,7 +9,9 @@
 > // Basic Info
 > 
 > Name -> Ashina de Riva
+>  -> ~~Ashina Tabris~~
 > Nickname -> Ash
+>  -> Snapdragon (*Varric only*)
 > Alias -> Tabris Arainai [^1]
 >  -> Dark Wolf of Denerim
 >  -> Grey Raven (*Crows Only*)
@@ -42,7 +44,7 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Ashina de Riva née Tabris
+- *Muse:* [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina\|Ashina de Riva née Tabris]]
 - *Fandom:* Dragon Age
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina#0.1 Dragon Age (Mainverse)\|Dragon Age (Mainverse)]]
 
@@ -1807,4 +1809,4 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ---
 # Footnotes
-[^1]: Conditional: Must have been conscripted into the Grey Wardens — Only goes by this name from 9:30 to 9:33 Dragon prior to joining House de Riva and the Antivan Crows; no one who didn't know her prior to her Joining should know her name is Ashina Tabris, as she only uses "Tathas Arainai" as a Grey Warden, and then Ashina de Riva as an Antivan Crow.
+[^1]: **Conditional: Must have been conscripted into the Grey Wardens** — Goes only by this name from 9:30 to 9:33 Dragon prior to joining House de Riva and the Antivan Crows; no one who didn't know her prior to her Joining should know her name is Ashina Tabris, as she only uses "Tathas Arainai" as a Grey Warden, and then Ashina de Riva as an Antivan Crow.
