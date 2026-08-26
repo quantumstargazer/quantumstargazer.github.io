@@ -7,6 +7,7 @@
     "Irregulars - Roster",
     "Muse Roster - Index",
     "Muses",
+    "Worldstates",
     "Wiki",
     "! Tags",
     "Rulebook (Old)",
@@ -14,10 +15,18 @@
     "Interactive Forms"
   ],
   "/Muses": [
-    "Dragon Age"
+    "Dragon Age",
+    "Baldur's Gate",
+    "Mass Effect"
   ],
   "/Muses/Dragon Age": [
-    "Ashina Tabris"
+    "Ashina Tabris",
+    "Haleir Lavellan",
+    "Isenril Mahariel",
+    "Leonardo de Riva",
+    "Marian Hawke",
+    "Ward Ingellvar",
+    "Zevran Arainai"
   ],
   "/Muses/Dragon Age/Ashina Tabris": [
     "Summary - Ashina",
@@ -25,6 +34,46 @@
   ],
   "/Muses/Dragon Age/Ashina Tabris/0 Canon Typical": [
     "Dragon Age - Ashina"
+  ],
+  "/Muses/Dragon Age/Haleir Lavellan": [
+    "Summary - Haleir"
+  ],
+  "/Muses/Dragon Age/Isenril Mahariel": [
+    "Summary - Mahariel"
+  ],
+  "/Muses/Dragon Age/Leonardo de Riva": [
+    "Summary - Leonardo"
+  ],
+  "/Muses/Dragon Age/Marian Hawke": [
+    "Summary - Marian"
+  ],
+  "/Muses/Dragon Age/Ward Ingellvar": [
+    "Summary - Ward"
+  ],
+  "/Muses/Dragon Age/Zevran Arainai": [
+    "Summary - Zevran"
+  ],
+  "/Muses/Baldur's Gate": [
+    "Faeynore Moonstar",
+    "Tavares Umbrafae"
+  ],
+  "/Muses/Baldur's Gate/Faeynore Moonstar": [
+    "Summary - Faeynore"
+  ],
+  "/Muses/Baldur's Gate/Tavares Umbrafae": [
+    "Summary - Tavares"
+  ],
+  "/Muses/Mass Effect": [
+    "Isabela Shepard"
+  ],
+  "/Muses/Mass Effect/Isabela Shepard": [
+    "Summary - Isabela"
+  ],
+  "/Worldstates": [
+    "Dragon Age Worldstates"
+  ],
+  "/Worldstates/Dragon Age Worldstates": [
+    "Double Trouble - Marian"
   ],
   "/Wiki": [
     "Fandom Info"
@@ -47,13 +96,55 @@
     "Muse Tags"
   ],
   "/! Tags/Muse Tags": [
-    "Dragon Age"
+    "Dragon Age",
+    "Baldur's Gate",
+    "Mass Effect"
   ],
   "/! Tags/Muse Tags/Dragon Age": [
-    "Ashina Tabris"
+    "Ashina Tabris",
+    "Haleir Lavellan",
+    "Isenril Mahariel",
+    "Leonardo de Riva",
+    "Marian Hawke",
+    "Ward Ingellvar",
+    "Zevran Arainai"
   ],
   "/! Tags/Muse Tags/Dragon Age/Ashina Tabris": [
     "Tags - Ashina"
+  ],
+  "/! Tags/Muse Tags/Dragon Age/Haleir Lavellan": [
+    "Tags - Haleir"
+  ],
+  "/! Tags/Muse Tags/Dragon Age/Isenril Mahariel": [
+    "Tags - Mahariel"
+  ],
+  "/! Tags/Muse Tags/Dragon Age/Leonardo de Riva": [
+    "Tags - Leonardo"
+  ],
+  "/! Tags/Muse Tags/Dragon Age/Marian Hawke": [
+    "Tags - Marian"
+  ],
+  "/! Tags/Muse Tags/Dragon Age/Ward Ingellvar": [
+    "Tags - Ward"
+  ],
+  "/! Tags/Muse Tags/Dragon Age/Zevran Arainai": [
+    "Tags - Zevran"
+  ],
+  "/! Tags/Muse Tags/Baldur's Gate": [
+    "Faeynore Moonstar",
+    "Tavares Umbrafae"
+  ],
+  "/! Tags/Muse Tags/Baldur's Gate/Faeynore Moonstar": [
+    "Tags - Faeynore"
+  ],
+  "/! Tags/Muse Tags/Baldur's Gate/Tavares Umbrafae": [
+    "Tags - Tavares"
+  ],
+  "/! Tags/Muse Tags/Mass Effect": [
+    "Isabela Shepard"
+  ],
+  "/! Tags/Muse Tags/Mass Effect/Isabela Shepard": [
+    "Tags - Isabela"
   ],
   "/Rulebook (Old)": [
     "FAQ Details",
