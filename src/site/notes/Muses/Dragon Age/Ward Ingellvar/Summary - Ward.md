@@ -79,7 +79,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
+> 
+> In 9:50 Dragon, when the War of the Banners breaks out within the Necropolis, Ward is surprisingly at the forefront, leading to the destruction of the Baron and the other noble undead that took part in the uprising. With the living nobles up in arms over their tactics, Vorgoth and Myrna encourage Ward to leave the Necropolis for a time and see the world until tempers and minds can be calmed. It's during this time that Ward encounters Varric Tethras, who takes them under his wing as they join him and Harding in their quest to stop the Dread Wolf from destroying the world.
 >  
 > **Tumblr Tags**
 > 
@@ -117,13 +119,15 @@
 > | Condition | Companion |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Open To Everyone (*Default If Other Rook Is Present*) |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
-> TBA
+> Ward is a foundling of the Grand Necropolis, discovered as an infant in one of the ancient tombs deep within the lower levels of the Necropolis by some benevolent undead, who notified Vorgoth of the strange living interloper where few senior Watchers even dared to venture. The elven infant was subsequently taken in by Vorgoth as their own ward, who would give answers so cryptic to questions of *why* they would do so that eventually the other Watchers simply left the entity be to raise the elf as they see fit, especially when it's seen that the child grows up happy, if a *little bit strange*, given the circumstances of their childhood and who their guardian is.
+> 
+> When word reaches the Grand Necropolis of a new Blight plaguing Thedas, and the adventurers seeking to stop what is said to be ancient elven gods from blighting and destroying the world, they make their willingness to provide their own assistance known when Rook seeks to recruit Emmrich Volkarin for the Veilguard.
 >  
 > **Tumblr Tags**
 > 
@@ -157,15 +161,18 @@
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Time Travel Shenanigans |
+> | | Physical Age: 10+/- years - Mental Age: 21+/- years |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Ward is displaced through time and space into their own 10-year-old self's body upon the very morning their magic first manifested, while retaining all of their knowledge and experiences as "Rook" and their hunt for Solas thanks to the blood binding them to the Dread Wolf.*
 > 
-> TBA
+> When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and wakes up back in their own quarters within Vorgoth's apartments in the Grand Necropolis — only it's a shockingly familiar moment in their past they wake to when they find their room coated in a thin layer of ice when their magic awakened triggered by the ripples in the Fade from the Breach opening in the south.
+> 
+> It is now 9:41 Dragon, Ward is inexplicably their twenty-something year old self's mind in their ten-year-old self's body, and Vorgoth is being as cryptic as always. Despite their unusual circumstances, they are likely the only one in the world who has even a *chance* of convincing Solas to change his plans, and so they are given the nigh impossible task of getting close to the Dread Wolf and try to convince him that *this world* is worth living in.
 >  
 > **Tumblr Tags**
 > 
@@ -207,7 +214,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> When Solas is bound to the Veil, magic goes wild once it's faced with the spirit he had inadvertently bound to him with blood magic during his initial ritual to tear down the Veil. Ward is caught up in the wild magic, and finds themself at the very moment of the Veil's creation, faced with a distraught ancient elf who is not quite so ancient in this time...
 >  
 > **Tumblr Tags**
 > 
@@ -249,7 +256,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Determined to prove there was another way, a Spirit of Learning — once Wisdom's pupil — seeks to learn how to take on physical form *without* the stolen blood of the titans. When they finally achieve such, the results aren't exactly... *ideal*, given their very obvious physical youth as an elven child — and a *very small one*, at that — but they are now in the material world, *physically*, and can go confront Solas with undeniable proof that they were correct that the Evanuris were not the *'wise and all knowing'* beings they liked to try to portray themselves as.
+> 
+> They quickly find themself in the midst of Fen'Harel's rebellion against the Evanuris, and little do they know just how precarious their own situation has become since taking on physical form as a result...
 >  
 > **Tumblr Tags**
 > 
@@ -291,7 +300,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> What begins as a curious little wisps with a desperate desire to *learn* becomes a Spirit of Learning with the guidance, teaching, and nurturing of a greater Spirit of Wisdom. When the Evanuris begin taking on physical form using the stolen blood of the Titans, Learning is among those spirits who are forced to flee lest they are captured and forced to take form against their will.
 >  
 > **Tumblr Tags**
 > 
@@ -324,7 +333,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:45 - 9:54 Dragon |
-> | Condition | Child Herald / Inquisitor |
+> | Condition | Child Herald / Inquisitor - Age: 10+/- years |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
