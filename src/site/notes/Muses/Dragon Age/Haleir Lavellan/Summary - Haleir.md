@@ -79,7 +79,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Haleir is the First of Clan Lavellan, sent to spy on the Conclave for the Dalish clan in 9:41 Dragon, only to find herself in the midst of a conspiracy when the Temple of Sacred Ashes is destroyed and the Breach has torn open the Veil into the Fade.
+> 
+> In 9:44 Dragon, Haleir abandons the Inquisition in favor of joining Solas and his cause, leaving with him through the eluvian.
 >  
 > **Tumblr Tags**
 > 
@@ -123,7 +125,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Haleir has always had a fascination with Fen'Harel, seeing the god in a much more favorable light than most Dalish. For most of her life, this has led to her being seen as an outcast, as many feared her interest in the god would draw his attention to the clans.
 >  
 > **Tumblr Tags**
 > 
@@ -198,7 +200,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | — |
-> | Condition | — |
+> | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -207,7 +209,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, long before the formation of the Veil.
 >  
 > **Tumblr Tags**
 > 
@@ -240,7 +242,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | — |
-> | Condition | — |
+> | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -249,7 +251,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> When wild magic casts her back in time, Haleir wakes to find herself in the time it the ancient elves, right in the midst of Fen'Harel's rebellion against the Evanuris.
 >  
 > **Tumblr Tags**
 > 
@@ -282,7 +284,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | — |
-> | Condition | — |
+> | Condition | Ancient Elvhen |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -291,7 +293,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Haleir is a servant of Mythal, bound to the All Mother by her vallaslin.
 >  
 > **Tumblr Tags**
 > 
