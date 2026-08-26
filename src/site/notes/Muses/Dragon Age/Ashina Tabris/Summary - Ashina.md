@@ -308,7 +308,7 @@ TBA
 > 
 > > *Ashina is taken to be trained by the Crows after Adaia is killed in 9:24 Dragon.*
 > 
-> TBA
+> The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
 > 
 > **Tumblr Tags**
 > 
@@ -354,7 +354,7 @@ TBA
 > > *Ashina is taken to be trained by the Crows after Adaia is killed in 9:24 Dragon.*
 > > ***Darker paths await*** *as she is sent to assassinate Vaughan in 9:30 Dragon.*
 > 
-> TBA
+> Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
 > 
 > **Tumblr Tags**
 > 
@@ -391,7 +391,6 @@ TBA
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | Crow - House Arainai |
 > | Open To Plotting | Yes |
-> | | — Alt Crow Houses (*Cantori, Dellamorte*) |
 > | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
@@ -444,8 +443,11 @@ TBA
 > **Summary**
 > 
 > > *Ashina is unable to find a cure for the blight, only to return some time later...*
+> > **CW: Major Character Death (*Temporary*)**
 > 
-> TBA
+> Despite her decades-long search, Ashina eventually succumbs to the blight in her veins, overcome by the Calling she has tried to avoid for so long. Refusing to keep the Warden tradition of fighting in the Deep Roads until her death — *or worse* — she instead turns to the Crows for a final contract to end her life. 
+> 
+> But the world isn't finished with her yet, when she finds herself waking in a pile of shattered lyrium, and she's faced with being changed in a new way — no longer blighted, but now she isn't quite sure *what* she is anymore...
 > 
 > **Tumblr Tags**
 > 
