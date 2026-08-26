@@ -119,7 +119,7 @@
 > | Condition | Companion - Follower of Fen'Harel |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Open To Everyone ( *Default If Herald/Inquisitor Is Present* ) |
 >
 > **Summary**
 > 

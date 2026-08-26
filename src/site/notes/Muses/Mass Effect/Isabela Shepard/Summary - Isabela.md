@@ -81,7 +81,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> When sentient biomechanical starships from dark space threaten all advanced civilizations in the Milky Way galaxy, it's up to Isabela Shepard and the crew of the Normandy to try to find a way to put a stop to them once and for all and end the cycle of galactic extinction that has taken place every fifty-thousand years since time immemorial. 
 >  
 > **Tumblr Tags**
 > 
@@ -121,7 +121,7 @@
 > 
 > > *TBA*
 > 
-> TBA
+> With the Reaper threat ended, the galaxy is in shambles and a new future must rise from the ashes of the old ways of life. Isabela Shepard is one of many survivors who is fighting for a better future for *all* species in the Milky Way galaxy.
 >  
 > **Tumblr Tags**
 > 
@@ -151,7 +151,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Orphaned at the age of six, Isabela Shepard grew up on the streets, where she would eventually join the Tenth Street Reds gang in order to survive. At fourteen, she is exposed to a significant amount of element zero, that leads to her developing powerful, albeit limited, biotic abilities. 
+> 
+> At seventeen, her biotics are detected and she is registered and implanted with an L3 biotic amplifier, with the Alliance keeping her housed until she is of age to enlist to protect her from the Reds' retaliation when she abandons the gang in favour of getting off Earth by joining the marines.
 >  
 > **Tumblr Tags**
 > 
@@ -176,7 +178,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
-> | Condition | — |
+> | Condition | Alt Origin |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -185,7 +187,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
+> 
+> Trained from the age of six as an assassin alongside the drell children in the Compact, Isabela is sent back to Earth ten years later to reintegrate into human society in order to infiltrate the Alliance.
 >  
 > **Tumblr Tags**
 > 
@@ -207,7 +211,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
-> | Condition | — |
+> | Condition | Alt Origin |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -216,7 +220,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Isabela stows away on a ship bound for the Citadel when she is orphaned at the age of six, forced to survive as a duct rat once aboard the station. She is found, weeks later, by a drell in the Compact, who offers her a "better life" than that on the streets.
+> 
+> Trained from the age of six as an assassin alongside the drell children in the Compact, Isabela is often assigned as support for drell assassins, handling diversions and sabotage during contracts, though she is capable of handling assassinations on her own as well when necessary.
 >  
 > **Tumblr Tags**
 > 
@@ -238,7 +244,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
-> | Condition | — |
+> | Condition | Alt History - Alt Origin - No Reapers |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -269,7 +275,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
-> | Condition | — |
+> | Condition | Alt History - Alt Origin |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -300,7 +306,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
-> | Condition | — |
+> | Condition | Alt History |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -331,7 +337,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
-> | Condition | — |
+> | Condition | Alt History |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |

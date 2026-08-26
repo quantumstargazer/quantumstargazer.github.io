@@ -71,7 +71,7 @@
 > | Verse/AU Type | Mainverse - Canon Typical |
 > | Setting | Dragon Age |
 > | Timeline | — |
-> | Condition | — |
+> | Condition | Crow - Warden's Companion - Black Shadow - Talon |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
 > | Availability | Open To Everyone ( *Default Verse* ) |
@@ -80,7 +80,11 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Zevran Arainai is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
+> 
+> After the Blight, he turns his attention to his personal fight for survival against House Arainai of the Antivan Crows, which eventually extends to the other houses as well, earning him the moniker of the Black Shadow after the deaths of several Talons, Guildmasters, and many Crows over the years. 
+> 
+> In 9:45 Dragon, Zevran takes advantage of the chaotic state of the Houses with the death of four Talons, sending warnings to Houses de Riva, Cantori, and Dellamorte to not intervene before he takes control of House Arainai and the seat of the Eighth Talon himself.
 >  
 > **Tumblr Tags**
 > 
@@ -116,7 +120,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
-> | Condition | Warden's Companion - Black Shadow |
+> | Condition | Crow - Warden's Companion - Black Shadow |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
 > | Availability | Open To Everyone |
@@ -125,7 +129,9 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Zevran Arainai is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
+> 
+> After the Blight, he turns his attention to his personal fight for survival against House Arainai of the Antivan Crows, which eventually extends to the other houses as well, earning him the moniker of the Black Shadow after the deaths of several Talons, Guildmasters, and many Crows over the years. 
 >  
 > **Tumblr Tags**
 > 
@@ -158,7 +164,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:50 - 9:54 Dragon |
-> | Condition | Eighth Talon - Rook |
+> | Condition | Crow - Black Shadow - Talon - Rook |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -200,7 +206,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:54 Dragon |
-> | Condition | Inquisitor |
+> | Condition | Crow - Inquisitor |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -242,7 +248,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
-> | Condition | Returned To Or Never Left To The Crows |
+> | Condition | Crow |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -284,7 +290,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
-> | Condition | Warden |
+> | Condition | Crow - Warden - Black Shadow |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
@@ -326,7 +332,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
-> | Condition | Warden's Companion |
+> | Condition | Crow - Warden's Companion - Black Shadow - Talon |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |

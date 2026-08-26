@@ -119,7 +119,7 @@
 > | Condition | Companion |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone (*Default If Other Rook Is Present*) |
+> | Availability | Open To Everyone (*Default If Rook Is Present*) |
 >
 > **Summary**
 > 

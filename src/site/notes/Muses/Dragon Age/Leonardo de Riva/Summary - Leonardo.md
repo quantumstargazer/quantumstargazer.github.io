@@ -80,7 +80,11 @@
 > 
 > > *TBA*
 > 
-> TBA
+> Leonardo is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10. 
+> 
+> Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
+>
+> In 9:50 Dragon, Leonardo frees the captives of an Antaam patrol, unknowingly interfering with the Talons' plans for dealing with the Antaam invaders in Treviso. He is subsequently sent away on an extended contract with Varric Tethras to stop the Dread Wolf from tearing down the Veil and destroying the world.
 >  
 > **Tumblr Tags**
 > 
@@ -118,13 +122,17 @@
 > | Condition | Companion |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Open To Everyone ( *Default If Rook Is Present* ) |
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Leo is often found in the Diamond's lounge within sight of Viago and Teia, whenever he is not otherwise on a contract, patrol, or some other assignment.*
 > 
-> TBA
+> Leonardo de Riva is a Spellblade Assassin of House de Riva, and Viago's protégé. The sole survivor of a contract against his family for his father's gambling debts, Leonardo was brought into House de Riva at the age of 9, where be began his training as a rogue, at least until his magic manifests some months later before he turns 10.
+> 
+> Terrified of being sent away to a Circle to be made tranquil, Leonardo begs to be allowed to continue training as a rogue *in addition* to the training now required of him as a mage. In time, when he is kept from fledging at the age of 15 along side his peers, this additional training works in his favour, as he is able to utilise his skills as a rogue to enhance his magical training where his combat skills are concerned, swapping out his staff for an orb and dagger as his primary weapons of choice. He becomes a fully fledged Crow and Spellblade Assassin of House de Riva in 9:44 Dragon at the age of 17.
+>
+> In 9:50 Dragon, Leonardo is among one of many Crows within House de Riva that were chosen to remain by their Talon's side as the Talons organise their combined efforts to free Treviso from the Antaam occupation and stop the invasion of Antiva.
 >  
 > **Tumblr Tags**
 > 
