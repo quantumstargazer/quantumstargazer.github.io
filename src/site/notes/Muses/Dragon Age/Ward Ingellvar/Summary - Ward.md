@@ -622,23 +622,23 @@
 
 
 
-## PartnerURL - PartnerMuse
-### VerseID
+## luctumvigilantes - Atris
+### Dragon Age
 
-> [!statsbox]+ VerseID ( PartnerMuse - PartnerURL )
+> [!statsbox]+ Dragon Age ( Atris - luctumvigilantes )
 >
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Verse/AU Details | VerseID |
+> | Verse/AU Details | Dragon Age |
 > | Verse/AU Type | Private - Private Verses & AUs |
-> | Setting | VerseFandom |
-> | Timeline | — |
+> | Setting | Dragon Age |
+> | Timeline | 9:45 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - partnerurl Only |
+> | Open To Plotting | Yes - luctumvigilantes Only |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | partnerurl Only - Not Open For Request |
+> | Availability | luctumvigilantes Only - Not Open For Request |
 >
 > **Summary**
 > 
@@ -650,13 +650,13 @@
 > 
 > > *TBA*
 > 
-> > [!profilebox]- PartnerMuse
+> > [!profilebox]- Atris
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > > 
 > > | | |
 > > |---|---|
-> > | Name | PartnerMuse |
-> > | Portrayal | PartnerURL |
+> > | Name | Atria |
+> > | Portrayal | luctumvigilantes |
 > > | Dynamic | — |
 > > | Awareness | — |
 > > | Involvement | — |
@@ -692,17 +692,17 @@
 > 
 > | | |
 > |---|---|
-> | Verse | Ward ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | ~~Ward ☾⭒ Dragon Age ( Atris — luctumvigilantes )~~ |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | 9:50 - 9:54 Dragon | Ward ☾⭒ 9:50 - 9:54 Dragon ( Atris — luctumvigilantes ) |
+> > | 9:45 - 9:49 Dragon | Ward ☾⭒ 9:45 - 9:49 Dragon ( Atris — luctumvigilantes ) |
+> > | 9:40 - 9:44 Dragon | Ward ☾⭒ 9:40 - 9:44 Dragon ( Atris — luctumvigilantes ) |
+> > | 9:35 - 9:39 Dragon | Ward ☾⭒ 9:35 - 9:39 Dragon ( Atris — luctumvigilantes ) |
+> > | 9:30 - 9:34 Dragon | Ward ☾⭒ 9:30 - 9:34 Dragon ( Atris — luctumvigilantes ) |
 > > 
 > 
 > 
@@ -710,9 +710,9 @@
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Ward x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Ward & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Ward & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Ward x Atris ( luctumvigilantes ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Ward & Atris ( luctumvigilantes ) |
+> > | Relationship | Rel ☾⭒ TBA ( Ward & Atris — luctumvigilantes )  |
 > > 
 > 
 
