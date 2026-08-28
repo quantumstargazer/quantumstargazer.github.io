@@ -40,7 +40,7 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Ward Ingellvar
+- *Muse:* [[! Open Muses - Roster#Ward Ingellvar\|Ward Ingellvar]]
 - *Fandom:* Dragon Age
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Ward Ingellvar/Tags - Ward\|Tags - Ward Ingellvar]]
 
