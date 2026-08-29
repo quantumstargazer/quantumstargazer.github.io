@@ -89,7 +89,7 @@
 > |---|---|
 > | Verse | ~~Ward ☾⭒ Dragon Age ( Dragon Age )~~ |
 > 
-> > [!statsbox]- Timeline Tags
+> > [!statsbox]+ Timeline Tags
 > >
 > > | | |
 > > |---|---|
@@ -187,8 +187,6 @@
 > > | 9:50 - 9:54 Dragon | Ward ☾⭒ Inquisition's Ghost — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ward ☾⭒ Inquisition's Ghost — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ward ☾⭒ Inquisition's Ghost — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ward ☾⭒ Inquisition's Ghost — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ward ☾⭒ Inquisition's Ghost — 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -227,10 +225,6 @@
 > > | | |
 > > |---|---|
 > > | 9:50 - 9:54 Dragon | Ward ☾⭒ Ancient Times — 9:50 - 9:54 Dragon ( Dragon Age ) |
-> > | 9:45 - 9:49 Dragon | Ward ☾⭒ Ancient Times — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ward ☾⭒ Ancient Times — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ward ☾⭒ Ancient Times — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ward ☾⭒ Ancient Times — 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -266,17 +260,6 @@
 > |---|---|
 > | Verse | Ward ☾⭒ Rebellion's Ghost ( Dragon Age ) |
 > 
-> > [!statsbox]- Timeline Tags
-> >
-> > | | |
-> > |---|---|
-> > | 9:50 - 9:54 Dragon | Ward ☾⭒ Rebellion's Ghost — 9:50 - 9:54 Dragon ( Dragon Age ) |
-> > | 9:45 - 9:49 Dragon | Ward ☾⭒ Rebellion's Ghost — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ward ☾⭒ Rebellion's Ghost — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ward ☾⭒ Rebellion's Ghost — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ward ☾⭒ Rebellion's Ghost — 9:30 - 9:34 Dragon ( Dragon Age ) |
-> > 
-> 
 > 
 
 ## Spirit of Learning
@@ -307,17 +290,6 @@
 > | | |
 > |---|---|
 > | Verse | Ward ☾⭒ Spirit of Learning ( Dragon Age ) |
-> 
-> > [!statsbox]- Timeline Tags
-> >
-> > | | |
-> > |---|---|
-> > | 9:50 - 9:54 Dragon | Ward ☾⭒ Spirit of Learning — 9:50 - 9:54 Dragon ( Dragon Age ) |
-> > | 9:45 - 9:49 Dragon | Ward ☾⭒ Spirit of Learning — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ward ☾⭒ Spirit of Learning — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ward ☾⭒ Spirit of Learning — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ward ☾⭒ Spirit of Learning — 9:30 - 9:34 Dragon ( Dragon Age ) |
-> > 
 > 
 > 
 
@@ -357,8 +329,6 @@
 > > | 9:50 - 9:54 Dragon | Ward ☾⭒ Inquisitor — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ward ☾⭒ Inquisitor — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ward ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ward ☾⭒ Inquisitor — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ward ☾⭒ Inquisitor — 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
