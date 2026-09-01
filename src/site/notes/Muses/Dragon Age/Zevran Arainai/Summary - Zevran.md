@@ -54,7 +54,7 @@
 
 > [!quote] Zevran Arainai
 > 
-> "Quote"
+> "I'm still waiting for a reason not to slit her throat and toss her in the river. I haven't heard it yet." 
 > 
 
 ---
