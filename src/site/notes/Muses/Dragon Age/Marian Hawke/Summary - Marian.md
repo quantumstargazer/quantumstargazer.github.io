@@ -50,6 +50,8 @@
 > 
 > Marian *defaults* to her [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] in most verses, with Garrett, Bethany, and Carver Hawke all being *my* portrayals of them by default. Plotting is likely needed when interacting with another Hawke sibling to where I will not be writing all four siblings myself.
 > 
+> For a more "canon" portrayal of Hawke without her having a twin, you may request the [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Last One Standing\|Last One Standing]] verse, which follows the more canon-typical DA2 storyline per the actual gameplay — that verse is available *only on request*, and I will never default to it on my own.
+> 
 
 ---
 # Quick Info
@@ -125,7 +127,8 @@
 > | Condition | "Canon"-esque Hawke Story |
 > | Open To Plotting | Yes — Defaults To Carver Dying En Route To Kirkwall |
 > | Crossovers | Yes |
-> | Availability | Specify To Request Verse |
+> | Availability | By Request Only — Must Specify To Interact Within Verse |
+> |  | Ziggy Will *Never* Initiate New Interactions With This Verse |
 >
 > **Summary**
 > 
