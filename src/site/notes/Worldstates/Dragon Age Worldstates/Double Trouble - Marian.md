@@ -56,6 +56,17 @@
 > **AU:** *Varric's A Lying Liar Who Lies*
 > 
 > **NOTICE:** *The premise of this AU is that Varric lied to Cassandra and the world in the Tale of the Champion in order to protect the Hawkes, but especially Marian, who he may or may not be romantically involved with.*
+> 
+
+> [!guideline] Garrett Hawke — Marian's Twin
+> 
+>  Marian's *default* twin is my own portrayal of Garrett, and thus any references to Garrett within this worldstate and her verses are specifically to *my own portrayal*. I am more than happy to play within someone else's worldstate for *their* portrayal of Garrett and/or another female Hawke as Marian's twin or slightly younger sibling before Bethany and Carver are born. Marian is written to be the "eldest" of the Hawke siblings (or at least one of the eldest, in the case of twin portrayals), and has been parentized, and all that comes with *that*.
+>  
+
+> [!guideline] Fates of Bethany & Carver Hawke
+> 
+> The fates of Bethany and/or Carver Hawke are *default only for Marian within this worldstate* and for the verses that utilize this worldstate, and rely on *my own portrayal* of Bethany and Carver themselves. These fates will likely be ignored when interacting with *anyone else's* Bethany and/or Carver or even Garrett or another elder Hawke sibling, unless otherwise plotted to work out how to make things work within a combined worldstate. I am extremely flexible regarding these events whenever I'm not the one writing all four Hawkes myself — it's just easier to have a singular set worldstate to play off when I *am* the one writing them all.
+>  
 
 ---
 # Quick Info
