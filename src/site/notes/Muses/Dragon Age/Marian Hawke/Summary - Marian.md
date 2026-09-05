@@ -110,6 +110,48 @@
 
 ---
 # Canon Divergent AUs
+## Last One Standing
+
+> [!statsbox]+ Last One Standing ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse/AU Details | Last One Standing |
+> | Verse/AU Type | Altverse - Canon Divergent AU |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | "Canon"-esque Hawke Story |
+> | Open To Plotting | Yes — Defaults To Carver Dying En Route To Kirkwall |
+> | Crossovers | Yes |
+> | Availability | Specify To Request Verse |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+>  
+> **Tumblr Tags**
+> 
+> | | |
+> |---|---|
+> | Verse | Marian ☾⭒ Last One Standing ( Dragon Age ) |
+> 
+> > [!statsbox]- Timeline Tags
+> >
+> > | | |
+> > |---|---|
+> > | 9:50 - 9:54 Dragon | Marian ☾⭒ Last One Standing — 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:45 - 9:49 Dragon | Marian ☾⭒ Last One Standing — 9:45 - 9:49 Dragon ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon | Marian ☾⭒ Last One Standing — 9:40 - 9:44 Dragon ( Dragon Age ) |
+> > | 9:35 - 9:39 Dragon | Marian ☾⭒ Last One Standing — 9:35 - 9:39 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon | Marian ☾⭒ Last One Standing — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > 
+> 
+> 
+
 ## Fade Lost
 
 > [!statsbox]+ Fade Lost ( Dragon Age )
@@ -123,6 +165,7 @@
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
+> |  | Inquisitor Choice: Hawke Left Behind In Fade |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
@@ -163,7 +206,7 @@
 > | Verse/AU Details | Rook |
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
-> | Timeline | — |
+> | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
@@ -205,7 +248,7 @@
 > | Verse/AU Details | Inquisitor |
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
-> | Timeline | — |
+> | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
