@@ -63,6 +63,7 @@
 > > *blog:* [callidusdryadalis](https://callidusdryadalis.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
@@ -80,6 +81,7 @@
 > > *blog:* [luctumvigilanties](https://luctumvigilanties.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
@@ -96,6 +98,7 @@
 > > *blog:* [mortiscustos](https://mortiscustos.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
@@ -121,6 +124,7 @@
 > > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
@@ -137,6 +141,7 @@
 > > *blog:* [codenamearchangel](https://codenamearchangel.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
@@ -156,6 +161,7 @@
 > > *blog:* [reigningmuses](https://reigningmuses.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
@@ -173,6 +179,7 @@
 > > *blog:* [soldraconis](https://soldraconis.tumblr.com/)
 > 
 > > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
 > >
 > > **Established Relationships**
 > > 
