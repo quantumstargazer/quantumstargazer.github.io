@@ -57,7 +57,21 @@
 
 ---
 ## Ships & Dynamics
+### callidusdryadalis
 
+> [!shipdyn] callidusdryadalis — *Sorros (Baldur's Gate OC)*
+> > *blog:* [callidusdryadalis](https://callidusdryadalis.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Tavares & Sorros |
+> > |  | — |
+> >
+> 
 
 
 ### luctumvigilanties
@@ -76,7 +90,21 @@
 > >
 > 
 
+### mortiscustos
 
+> [!shipdyn] mortiscustos — *Osiris (Dragon Age OC)*
+> > *blog:* [mortiscustos](https://mortiscustos.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Ward & Osiris |
+> > |  | — |
+> >
+> 
 
 
 
