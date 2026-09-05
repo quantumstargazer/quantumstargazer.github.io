@@ -50,6 +50,12 @@
 # Quick Info
 ## Summary
 
+*TBA*
+
+> [!abstract] "Double Trouble" Worldstate
+> 
+> Marian *defaults* to her [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] in most verses, with Garrett, Bethany, and Carver Hawke all being *my* portrayals of them by default. Plotting is likely needed when interacting with another Hawke sibling to where I will not be writing all four siblings myself.
+> 
 
 ## Quote
 
