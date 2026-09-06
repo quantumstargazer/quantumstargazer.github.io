@@ -41,8 +41,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Faeynore Moonstar
-- *Fandom:* Baldur's Gate
+- *Muse:* [[! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
+- *Fandom:* [[Muse Roster - Index#Baldur's Gate\|Baldur's Gate]]
 - *Tags:* [[! Tags/Muse Tags/Baldur's Gate/Faeynore Moonstar/Tags - Faeynore\|Tags - Faeynore Moonstar]]
 
 ---

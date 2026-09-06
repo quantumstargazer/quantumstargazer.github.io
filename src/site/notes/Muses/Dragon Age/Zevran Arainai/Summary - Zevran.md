@@ -41,8 +41,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Zevran Arainai
-- *Fandom:* Dragon Age
+- *Muse:* [[! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Zevran Arainai/Tags - Zevran\|Tags - Zevran Arainai]]
 
 ---

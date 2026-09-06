@@ -41,7 +41,7 @@
 > 
 
 - *Muse:* [[! Open Muses - Roster#Ward Ingellvar\|Ward Ingellvar]]
-- *Fandom:* Dragon Age
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Ward Ingellvar/Tags - Ward\|Tags - Ward Ingellvar]]
 
 ---

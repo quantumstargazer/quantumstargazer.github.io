@@ -42,8 +42,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Isabela Shepard
-- *Fandom:* Mass Effect
+- *Muse:* [[! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
+- *Fandom:* [[Muse Roster - Index#Mass Effect\|Mass Effect]]
 - *Tags:* [[! Tags/Muse Tags/Mass Effect/Isabela Shepard/Tags - Isabela\|Tags - Isabela Shepard]]
 
 ---

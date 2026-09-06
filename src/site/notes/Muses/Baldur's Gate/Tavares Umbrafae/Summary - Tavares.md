@@ -40,8 +40,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Tavares Umbrafae
-- *Fandom:* Baldur's Gate
+- *Muse:* [[! Open Muses - Roster#Tavares Umbrafae\|Tavares Umbrafae]]
+- *Fandom:* [[Muse Roster - Index#Baldur's Gate\|Baldur's Gate]]
 - *Tags:* [[! Tags/Muse Tags/Baldur's Gate/Tavares Umbrafae/Tags - Tavares\|Tags - Tavares Umbrafae]]
 
 ---

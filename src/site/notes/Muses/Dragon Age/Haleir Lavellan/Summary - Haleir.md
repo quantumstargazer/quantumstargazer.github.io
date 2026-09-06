@@ -40,8 +40,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Haleir Lavellan
-- *Fandom:* Dragon Age
+- *Muse:* [[! Open Muses - Roster#Haleir Lavellan\|Haleir Lavellan]]
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Haleir Lavellan/Tags - Haleir\|Tags - Haleir Lavellan]]
 
 ---

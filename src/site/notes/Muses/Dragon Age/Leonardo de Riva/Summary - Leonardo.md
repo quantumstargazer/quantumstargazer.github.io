@@ -15,7 +15,7 @@
 > Pronouns -> He/Him/Himself
 >  -> They/Them/Themself
 > Orientation -> Panromantic Pansexual
-> Approx. Age -> XX +/- years (*YEAR*)
+> Approx. Age -> XX +/- years (*9:51*)
 > 
 > // Tumblr Tags
 > 
@@ -41,8 +41,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Leonardo de Riva
-- *Fandom:* Dragon Age
+- *Muse:* [[! Open Muses - Roster#Leonardo de Riva\|Leonardo de Riva]]
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Leonardo de Riva/Tags - Leonardo\|Tags - Leonardo de Riva]]
 
 ---

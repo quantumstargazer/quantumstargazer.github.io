@@ -40,8 +40,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Isenril Mahariel
-- *Fandom:* Dragon Age
+- *Muse:* [[! Open Muses - Roster#Isenril Mahariel\|Isenril Mahariel]]
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Isenril Mahariel/Tags - Mahariel\|Tags - Mahariel]]
 
 ---

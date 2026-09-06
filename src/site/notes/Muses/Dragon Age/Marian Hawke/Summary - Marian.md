@@ -43,7 +43,7 @@
 > 
 
 - *Muse:* [[! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
-- *Fandom:* Dragon Age
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Marian Hawke/Tags - Marian\|Tags - Marian Hawke]]
 
 > [!abstract] "Double Trouble" Worldstate
