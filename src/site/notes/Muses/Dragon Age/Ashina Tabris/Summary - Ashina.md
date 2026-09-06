@@ -46,7 +46,7 @@
 
 - *Muse:* [[! Open Muses - Roster#Ashina de Riva née Tabris\|Ashina de Riva née Tabris]]
 - *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
-- *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina\|Tags - Ashina]]
+- *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina\|Tags - Ashina de Riva née Tabris]]
 
 ---
 # Quick Info

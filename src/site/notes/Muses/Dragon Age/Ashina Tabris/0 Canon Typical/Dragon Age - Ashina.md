@@ -174,8 +174,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | | |
 > |---|---|
 > | Beliefs | Faithless |
-> | Patron Deity | — |
-> | Pantheon | — |
+> | Patron Deity | ~~The Maker~~ |
+> | Pantheon | ~~Andrastian~~ |
 >
 > **Combat Classes**
 >
@@ -226,9 +226,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ---
 # Connections
-
-> [!guideline] Guideline
-> *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
 
 
 
@@ -1776,13 +1773,13 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 ## Quotes & Catchphrases
 
 - "I killed them like dogs, Shianni. Not just them. All the humans who hurt you." — *said to her cousin, Shianni, after freeing her and the other women stolen from the Alienage - 9:30 Dragon.*
-- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or ashkaati, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
+- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or *ashkaati*, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
 
 ---
 ## Trivia
 
 - Ashina's first kills were the ones she made freeing herself after being kidnapped, and she killed *each and every guard and human noble* that she came across, leaving a river of blood trailing behind her as she fought to try to reach Shianni in time.
-- If she ever meets Varric Tethras, he is likely to call her "**Snapdragon**", between her often fiery attitude and her penchant for carrying gear made from the very dragons she's slain in the past during the Fifth Blight.
+- If she ever meets Varric Tethras, he is likely to call her "**Snapdragon**", between her often fiery attitude and her penchant for carrying gear made from the very dragons she's slain in the past during the Fifth Blight, and his tendency of giving female elves flower nicknames.
 
 ---
 ## TV Tropes
