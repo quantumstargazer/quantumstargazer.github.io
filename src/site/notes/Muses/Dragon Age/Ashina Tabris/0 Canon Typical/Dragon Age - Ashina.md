@@ -227,7 +227,19 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 ---
 # Connections
 
-
+ **Mains**
+> 
+> | | |
+> |---|---|
+> | Main - PartnerURL | — |
+> 
+> **Ships & Dynamics**
+> 
+> | | |
+> |---|---|
+> | Ship - PartnerURL | — |
+> | Dynamic - PartnerURL | — |
+> 
 
 > [!profilebox]- Adaia Tabris née Arainai (she/her/herself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -248,18 +260,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 > [!profilebox]- Cyrion Tabris (he/him/himself)
@@ -281,18 +282,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 > [!profilebox]- Soris (he/him/himself)
@@ -314,28 +304,17 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
-> [!profilebox]- Shiani (she/her/herself)
+> [!profilebox]- Shianni (she/her/herself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | Shiani |
+> | Name | Shianni |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
 > | Connection | Platonic (*familial*) | 
@@ -343,22 +322,11 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 >
 > **Summary**
 > 
-> > *Shiani is Ashina's cousin, and Cyrion Tabris' neice.*
+> > *Shianni is Ashina's cousin, and Cyrion Tabris' niece.*
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 > [!profilebox]- Nelaros (he/him/himself)
@@ -380,18 +348,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 ---

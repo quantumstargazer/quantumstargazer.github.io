@@ -15,7 +15,7 @@
 > Pronouns -> He/Him/Himself
 >  -> They/Them/Themself
 > Orientation -> Panromantic Pansexual
-> Approx. Age -> XX +/- years (*9:51*)
+> Approx. Age -> 24 +/- years (*9:51*)
 > 
 > // Tumblr Tags
 > 
