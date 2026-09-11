@@ -134,7 +134,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Species | Elf |
 > | Race | City Elf |
 > | Ethnicity | Antivan / Ferelden |
-> | Height | 157 cm / 5 ft 1.81 in |
+> | Height | 157 cm |
+> |  | 5 ft 1.81 in |
 > | Body Type | — |
 > | Hair | Black / Dark Brown |
 > | Eyes | Amber Brown |
