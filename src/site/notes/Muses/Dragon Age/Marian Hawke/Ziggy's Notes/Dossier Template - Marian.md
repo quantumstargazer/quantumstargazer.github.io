@@ -113,13 +113,13 @@
 > |---|---|
 > | Species | Human |
 > | Race | Human ~~Commoner~~ Noble |
-> | Ethnicity | — |
+> | Ethnicity | Ferelden |
 > | Height | XXX cm |
 > |  | x ft xx in |
 > | Body Type | — |
 > | Hair | Black |
 > | Eyes | Cobalt Blue |
-> | Complexion | — |
+> | Complexion | Tanned Skin |
 >
 > **Demographics**
 >
@@ -148,7 +148,7 @@
 > | Organization(s) | — |
 > | Employer(s) | — |
 > | Occupation(s) | Freelancer |
-> | Title(s) | — |
+> | Title(s) | Champion of Kirkwall |
 >
 > **Spiritual Beliefs**
 >
@@ -163,7 +163,8 @@
 > | | |
 > |---|---|
 > | Primary Class | Rogue — Archery - Poisons - Dual Wield |
-> |  | Shadow - Assassin |
+> |  | Shadow (*Rogue*)  |
+> |  | Assassin (*Rogue*) |
 > | Secondary Class | — |
 > | Tertiary Class | — |
 > | Additional Support(s) | — |
@@ -175,7 +176,7 @@
 >
 > | | |
 > |---|---|
-> | Moral Alignment | — |
+> | Moral Alignment | Chaotic Neutral |
 > | General Demeanor | — |
 > 
 

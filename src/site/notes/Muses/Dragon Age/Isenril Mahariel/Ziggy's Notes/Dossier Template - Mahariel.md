@@ -110,8 +110,8 @@
 > | | |
 > |---|---|
 > | Species | Elf |
-> | Race | Danish Elf |
-> | Ethnicity | — |
+> | Race | Dalish Elf |
+> | Ethnicity | Ferelden |
 > | Height | XXX cm |
 > |  | x ft xx in |
 > | Body Type | — |
@@ -147,6 +147,7 @@
 > | Organization(s) | \[*REDACTED*] |
 > | Employer(s) | \[*REDACTED*] |
 > | Occupation(s) | Hunter of Secrets |
+> |  | Grey Warden |
 > | Title(s) | \[*REDACTED*] |
 > |  | Warden-Commander of Ferelden |
 > |  | Hero of Ferelden |
@@ -163,11 +164,16 @@
 >
 > | | |
 > |---|---|
-> | Primary Class | Ranger (*Rogue*) |
-> | Secondary Class | Assassin (*Rogue*) |
-> | Tertiary Class | Shadow (*Rogue*) |
+> | Primary Class | Rogue — Archery - Poisons - Dual Wield |
+> |  | Ranger (*Rogue*) |
+> |  | Assassin (*Rogue*) |
+> |  | Shadow (*Rogue*) |
+> | Secondary Class | — |
+> | Tertiary Class | — |
 > | Additional Support(s) | Arcane Archer (*Mage*) |
-> | Fighting Style(s) | — |
+> | Fighting Style(s) | Archery |
+> |  | Poisons |
+> |  | Dual Wield Blades |
 >
 > **Personality**
 >
