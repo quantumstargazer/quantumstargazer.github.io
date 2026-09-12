@@ -94,7 +94,7 @@
 - [[Irregulars - Roster#Satu Surana\|Satu Surana]]
 - [[Irregulars - Roster#Selena Amell\|Selena Amell]]
 - [[Irregulars - Roster#Kiran Brosca\|Kiran Brosca]]
-#### Veterans of Kirkwall Rebellions
+#### Veterans of the Kirkwall Rebellions
 - [[Irregulars - Roster#Rowan Hawke\|Rowan Hawke]]
 - [[Irregulars - Roster#Quincy Hawke\|Quincy Hawke]]
 #### Veterans of the Inquisition
