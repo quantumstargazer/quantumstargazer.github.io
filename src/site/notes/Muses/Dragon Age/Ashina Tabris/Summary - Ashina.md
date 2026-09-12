@@ -53,7 +53,7 @@
 ## Summary
 
 > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
-> Heavy Canon Divergence** *after the events in Origins - Awakening*
+> **Heavy Canon Divergence** *after the events in Origins - Awakening*
 
 TBA
 ## Quote
