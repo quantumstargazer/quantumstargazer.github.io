@@ -79,7 +79,9 @@
 > 
 > > *Mahariel is a Grey Warden and is named the Hero of Ferelden in 9:31 Dragon.*
 > 
-> TBA
+> Mahariel is sickened with the blight after he and Tamlen find an ancient mirror hidden away in a forgotten ruin within the Brecilian Forest. He is found by the Warden-Commander and taken back to Clan Sabrae's camp, where the Keeper does what she can to slow the progression of the taint in his blood.
+> 
+> When he is unable to find Tamlen, and Duncan conscripts Mahariel into the Grey Wardens against his will, and when Mahariel continues to resist, Keeper Marethari exiles him from the clan entirely.
 >  
 > **Tumblr Tags**
 > 
