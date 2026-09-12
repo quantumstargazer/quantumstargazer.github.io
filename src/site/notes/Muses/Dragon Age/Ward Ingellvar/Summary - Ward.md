@@ -304,7 +304,7 @@
 > | Verse/AU Details | Inquisitor |
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
-> | Timeline | 9:45 - 9:54 Dragon |
+> | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Child Herald / Inquisitor - Age: 10+/- years |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Requested |
@@ -312,7 +312,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Ward accompanies Vorgoth and Myrna to the Conclave, only to find themself in the middle of a conspiracy and the sole survivor of the destruction of the Temple of Sacred Ashes.*
 > 
 > TBA
 >  
