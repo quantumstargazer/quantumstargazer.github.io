@@ -18,8 +18,10 @@
 > >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following me in the first place.
 > 
 
-> [!sticky] Under Construction Overhaul
+> [!sticky]- Under Construction Overhaul
 > I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.
+> 
+> Currently, some sections have limited information available while I am restructuring the site, while others are simply the old version that I've put in place for now until I can get the new pages put together (like everything in the Rulebook section). I'm trying to keep the old stuff to a minimum, but it's a bit difficult to have a rp blog without any rules up, y'know?
 
 ---
 ## QuantumStargazer
@@ -32,16 +34,23 @@
 
 ---
 # Quick Navigation
-## Rules & Guidelines
-- [[Rulebook/Rules\|Rules]]
-- [[Rulebook/Guidelines\|Guidelines]]
-- [[Rulebook/RP FAQs\|FAQ]]
+## Rulebook (Old)
+> *These are the original rules from the older version of my site — nothing's changed, but I am working on restructuring things and streamlining the information, so these pages are only temporary for now.*
+- [[Rulebook (Old)/Actual Rules\|Actual Rules]]
+- [[Rulebook (Old)/Guidelines\|Guidelines]]
+- [[Rulebook (Old)/RP FAQ\|RP FAQ]]
 
 ---
 ## Muse Rosters
+
+> [!coffeetime]+ Prioritizing Muses' Info
+> 
+> **If there is a muse you would like me to prioritize information on, please let me know.** I am *only* working on those in the [[! Open Muses - Roster\|Open Muses]] right now, but beyond that, I'm willing to prioritize any muse that someone is actively wanting more info on, so just drop me a note on tumblr, in discord, or even on github by [filing an issue report](https://github.com/quantumstargazer/quantumstargazer.github.io/issues) and I'll get to it as soon as I am able.
+> 
+
 ### Open Muses Roster
 
-> [!statsbox]+ Open Muses Roster
+> [!statsbox]+ Open Muses Roster - Open to Everyone
 >
 > **Priority Muses - Interest Assumed Unless Told Otherwise**
 > 
@@ -56,7 +65,7 @@
 
 ### By Request Only Roster
 
-> [!statsbox]+ By Request Only Roster
+> [!statsbox]- By Request Only Roster - Specifying Requested Muse Required
 >
 > **Secondary Muses - Available Only On Request**
 > 
@@ -72,7 +81,7 @@
 
 ### Invitation Only Roster
 
-> [!statsbox]+ Invitation Only Roster
+> [!statsbox]- Invitation Only Roster - Requires Invite From Ziggy
 >
 > **Invite Only Muses - Must Be Invited To Interact**
 > 
@@ -88,7 +97,7 @@
 
 ### Irregulars Roster
 
-> [!statsbox]+ Irregulars Roster
+> [!statsbox]- Irregulars Roster - Requires Permanent Interactions Call &/or Invite
 >
 > **Irregulars - For Mains & Permanent Interactions Call Only**
 > 
@@ -104,7 +113,7 @@
 
 ### Muse Roster Index
 
-> [!statsbox]- Muse Roster - Index
+> [!statsbox]- Muse Roster - Index Of All Muses
 >
 > **Lists Names Only - Links To Muse Profiles On Their Appropriate Rosters**
 > 
@@ -200,7 +209,7 @@
 
 > [!abstract] All-In-One Location
 > 
-> For your convenience, *all* of the forms are embedded onto [[Interactive Forms\|Interactive Forms]], so you can simply fill out whichever one(s) you want/need to without leaving this site. Links to the individual forms themselves are also provided on that page, if you prefer to fill them out on the service's site.
+> For your convenience, *all* of the forms are embedded onto [[Interactive Forms\|Interactive Forms]], so you can simply fill out whichever one(s) you want/need to without leaving this site. Links to the individual forms themselves are also [[Interactive Forms#Direct Form Links\|provided on that page]], if you prefer to fill them out on the form service's site.
 > 
 
 ### Disinterest Tracker
@@ -216,7 +225,7 @@
 > 
 > **All Crossovers Are Fandom Matched Unless Requested**
 > 
-> All Fandom Specific AUs & Trapped In Another World AUs are ***fandom matched***, meaning I *won't* send any variant of my muses your way for fandoms that you yourself do not write unless we've explicitly plotted it &/or you've otherwise given me permission to do so.
+> All Fandom Specific AUs & Trapped In Another World AUs are ***fandom matched*** by default — meaning I *won't* send any variant of my muses your way for fandoms that you yourself do not write unless we've explicitly plotted it &/or you've otherwise given me permission to do so.
 >
 
 ### RP Preferences Tracker
@@ -267,21 +276,31 @@
 > | Join The Cosmos | [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] |
 > 
 
-### Interaction Calls
+### Interactions Call
 
-> [!statsbox]+ Interaction Call Forms
+> [!statsbox]+ Interactions Call Form
 >
-> **Interaction Calls — Explicitly Request I Initiate RP**
+> **Interactions Call — Explicitly Request I Initiate RP**
 > 
 > | | |
 > |---|---|
-> | Request That I Write Starters | [[Interactive Forms#Starter Call\|Starter Call]] |
-> | Request That I Send Inbox Prompts | [[Interactive Forms#Inbox Call\|Inbox Call]] |
+> | Request Starters | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Request Inbox Prompts | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> 
+> **Interactions Call — Plotting & Shipping/Dynamics**
+> 
+> | | |
+> |---|---|
+> | Getting Together To Plot | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Discuss Ships/Dynamics| [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> 
+> This is intended for if we're not yet friends on discord, *so that you can share your discord handle with me and we'll have a place to start without awkward ice breakers in chat (again, I'm extremely socially anxious due to a disorder, and this can help some with that if we have a point to discuss rather than being expected to make small talk)*.
 > 
 
 ---
 # Thread Tracking
 ## Where You Can See What's Tracked
+### Active Threads
 
 > [!statsbox]+ RP Thread Tracker
 > 
@@ -289,13 +308,13 @@
 > 
 > | | |
 > |---|---|
-> | Your (& Theirs) Turn | [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) |
+> | Your (*& Theirs*) Turn | [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) |
 > 
 > **Active Threads On Ziggy's Turn**
 > 
 > | | |
 > |---|---|
-> | My Turn | [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) |
+> | My (*Ziggy's*) Turn | [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) |
 > 
 > **All Currently Active Threads**
 > 
@@ -306,6 +325,8 @@
 > **Looking For A Thread That's Not Listed?**
 > 
 > If it has been two months or longer, it has probably been sent to the Inactive Tracker instead — meaning I've marked it as "queued" if it was on my turn (I never put ic stuff in the actual tumblr queue, this is just the easiest way for me to manage it and get the desired result of moving it off the active list), or I've archived it for the moment so I can keep easier tabs on the number of active threads I currently have.
+> 
+> **Not Dropped Just Because They're Archived**
 > 
 > Archived threads are *not dropped* — it's just that my anxiety goes a bit haywire when so many of my threads sit inactive for months at a time (regardless of whose turn it is), so this is the easiest way I can manage it, while also helping make sure I don't lose things due to my really shitty memory.
 > 
@@ -353,15 +374,6 @@
 > - Threads that are outright dropped and/or otherwise ended will be marked as such in the tracker by similarly adding either "**(Dropped)**", "**(Ended)**", or another suitable descriptor for why the thread is no longer being continued to the end of the title.
 
 ---
-
-
-
-
-
-
-
-
----
 # About Mun
 
 > [!profilebox] QuantumStargazer
@@ -389,7 +401,7 @@
 > 
 > | | |
 > |---|---|
-> | Gaming | Extremely Eclectic Genres - Favorite: Choice-Based RPGs |
+> | Gaming | Extremely Eclectic Genres - *Favorite:* Choice-Based RPGs |
 > | Writing | Fan Fiction & Original Works of Fiction |
 > | Art | Digital Art & Photography |
 > | Music | Multi-Instrumentalist - Flute, French Horn, Violin, etc. |
@@ -401,11 +413,11 @@
 > > 
 > > | | |
 > > |---|---|
-> > | Video Games | Baldur's Gate 3, Dragon Age (series), Mass Effect (series), Stardew Valley, Slime Rancher, The Elder Scrolls V: Skyrim |
+> > | Video Games | Baldur's Gate 3, Dragon Age (series), Mass Effect (series), Stardew Valley, Slime Rancher (series), The Elder Scrolls V: Skyrim, The Elder Scrolls Online |
 > > | TV Shows | Doctor Who (1963), The *Real* Ghostbusters (1986), Meerkat Manor |
 > > | Movies | Doctor Who (1996), Ghostbusters (1984) |
 > > | Books | Discworld Series (Terry Pratchett), Hitchhiker's Guide Series (Douglas Adams) |
-> > | Music | David Bowie, Nightwish, lots of 80s & 90s music, lots of heavy metal |
+> > | Music | "Weird Al" Yankovic, David Bowie, Nightwish, lots of 80s & 90s music, most heavy metal, New Orleans Jazz, most classical |
 > 
 
 > [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
@@ -434,39 +446,6 @@
 
 
 
-
+---
+# Footnotes
 [^1]: Includes Forgotten Realms and expanded Dungeons & Dragons lore.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

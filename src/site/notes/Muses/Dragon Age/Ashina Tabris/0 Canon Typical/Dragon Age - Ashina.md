@@ -9,12 +9,16 @@
 > // Basic Info
 > 
 > Name -> Ashina de Riva
+>  -> ~~Ashina Tabris~~
 > Nickname -> Ash
-> Alias -> Tabris Arainai (*Warden Only*)
-> Gender -> Female
+>  -> Snapdragon (*Varric only*)
+> Alias -> Tabris Arainai [^1]
+>  -> Dark Wolf of Denerim
+>  -> Grey Raven (*Crows Only*)
+> Gender -> Female (*GNC*)
 > Pronouns -> She/Her/Herself
 > Orientation -> Biromantic Bisexual
-> Approx. Age -> 45 +/- years (*9:50 Dragon*)
+> Approx. Age -> 45 +/- years (*9:51*)
 > 
 > // Tumblr Tags
 > 
@@ -40,8 +44,8 @@
 > Restrictions -> —
 > 
 
-- *Muse:* Ashina de Riva née Tabris
-- *Fandom:* Dragon Age
+- *Muse:* [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina\|Ashina de Riva née Tabris]]
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina#0.1 Dragon Age (Mainverse)\|Dragon Age (Mainverse)]]
 
 ---
@@ -130,7 +134,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Species | Elf |
 > | Race | City Elf |
 > | Ethnicity | Antivan / Ferelden |
-> | Height | 157 cm / 5 ft 1.81 in |
+> | Height | 157 cm |
+> |  | 5 ft 1.81 in |
 > | Body Type | — |
 > | Hair | Black / Dark Brown |
 > | Eyes | Amber Brown |
@@ -170,8 +175,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | | |
 > |---|---|
 > | Beliefs | Faithless |
-> | Patron Deity | — |
-> | Pantheon | — |
+> | Patron Deity | ~~The Maker~~ |
+> | Pantheon | ~~Andrastian~~ |
 >
 > **Combat Classes**
 >
@@ -223,10 +228,19 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 ---
 # Connections
 
-> [!guideline] Guideline
-> *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
-
-
+ **Mains**
+> 
+> | | |
+> |---|---|
+> | Main - PartnerURL | — |
+> 
+> **Ships & Dynamics**
+> 
+> | | |
+> |---|---|
+> | Ship - PartnerURL | — |
+> | Dynamic - PartnerURL | — |
+> 
 
 > [!profilebox]- Adaia Tabris née Arainai (she/her/herself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -247,18 +261,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 > [!profilebox]- Cyrion Tabris (he/him/himself)
@@ -280,18 +283,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 > [!profilebox]- Soris (he/him/himself)
@@ -313,28 +305,17 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
-> [!profilebox]- Shiani (she/her/herself)
+> [!profilebox]- Shianni (she/her/herself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | Shiani |
+> | Name | Shianni |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
 > | Connection | Platonic (*familial*) | 
@@ -342,22 +323,11 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 >
 > **Summary**
 > 
-> > *Shiani is Ashina's cousin, and Cyrion Tabris' neice.*
+> > *Shianni is Ashina's cousin, and Cyrion Tabris' niece.*
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 > [!profilebox]- Nelaros (he/him/himself)
@@ -379,18 +349,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Mains**
 > 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
 > 
 
 ---
@@ -1772,13 +1731,13 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 ## Quotes & Catchphrases
 
 - "I killed them like dogs, Shianni. Not just them. All the humans who hurt you." — *said to her cousin, Shianni, after freeing her and the other women stolen from the Alienage - 9:30 Dragon.*
-- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or ashkaati, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
+- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or *ashkaati*, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
 
 ---
 ## Trivia
 
 - Ashina's first kills were the ones she made freeing herself after being kidnapped, and she killed *each and every guard and human noble* that she came across, leaving a river of blood trailing behind her as she fought to try to reach Shianni in time.
-- If she ever meets Varric Tethras, he is likely to call her "**Snapdragon**", between her often fiery attitude and her penchant for carrying gear made from the very dragons she's slain in the past during the Fifth Blight.
+- If she ever meets Varric Tethras, he is likely to call her "**Snapdragon**", between her often fiery attitude and her penchant for carrying gear made from the very dragons she's slain in the past during the Fifth Blight, and his tendency of giving female elves flower nicknames.
 
 ---
 ## TV Tropes
@@ -1803,7 +1762,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 
 
-
-
-
-
+---
+# Footnotes
+[^1]: **Conditional: Must have been conscripted into the Grey Wardens** — Goes only by this name from 9:30 to 9:33 Dragon prior to joining House de Riva and the Antivan Crows; no one who didn't know her prior to her Joining should know her name is Ashina Tabris, as she only uses "Tathas Arainai" as a Grey Warden, and then Ashina de Riva as an Antivan Crow.

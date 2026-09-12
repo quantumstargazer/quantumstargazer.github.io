@@ -39,13 +39,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Tavares\|Tavares Umbrafae]] |
-> | Mainverses | [[Summary - Tavares#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Tavares#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Tavares#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Tavares#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares\|Tavares Umbrafae]] |
+> | Mainverses | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Faeynore Moonstar
 
@@ -65,6 +65,7 @@
 > **Summary**
 > 
 > > *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
+> > ***Pre-Established Connection*** — *Knew Astarion Ancunín as a Magistrate in Baldur's Gate*
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior. 
 > 
@@ -74,13 +75,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Faeynore\|Faeynore Moonstar]] |
-> | Mainverses | [[Summary - Faeynore#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Faeynore#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Faeynore#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Faeynore#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore\|Faeynore Moonstar]] |
+> | Mainverses | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Dragon Age
@@ -103,6 +104,7 @@
 > **Summary**
 > 
 > > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
+> > **Pre-Established Connection** — *Likely serves as Viago's Second after he takes over as Talon*
 > > **Heavy Canon Divergence** *after the events in Origins - Awakening*
 > 
 > Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the *de facto* Commander herself during the course of the Fifth Blight.
@@ -141,7 +143,8 @@
 > **Summary**
 > 
 > > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
-> > **Heavy Canon Divergence** *during the events in Veilguard*
+> > **Pre-Established Connection** — *Was one of Solas' students when they were both still spirits*
+> > **Heavy Canon Divergence** *in background origin & during the events in Veilguard*
 > 
 > Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead. As Vorgoth's ward, the elven child is raised within the Necropolis and the Mourn Watch. Their magic is awakened by the instability rippling through the Fade when the Breach opens in the south in 9:41 Dragon.
 > 
@@ -151,13 +154,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Ward\|Ward Ingellvar]] |
-> | Mainverses | [[Summary - Ward#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Ward#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Ward#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Ward#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward\|Ward Ingellvar]] |
+> | Mainverses | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Leonardo de Riva
 
@@ -186,13 +189,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Leonardo\|Leonardo de Riva]] |
-> | Mainverses | [[Summary - Leonardo#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Leonardo#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Leonardo#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Leonardo#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo\|Leonardo de Riva]] |
+> | Mainverses | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Haleir Lavellan
 
@@ -212,7 +215,7 @@
 > **Summary**
 > 
 > > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
-> > **Heavy Canon Divergence** *after the events in Inquisition*
+> > **Heavy Canon Divergence** *after the events in Inquisition & Trespasser*
 > 
 > Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
@@ -224,18 +227,18 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Haleir\|Haleir Lavellan]] |
-> | Mainverses | [[Summary - Haleir#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Haleir#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Haleir#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Haleir#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir\|Haleir Lavellan]] |
+> | Mainverses | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Marian Hawke
 
 > [!profilebox] Marian Hawke (she/her/herself)
-> ![Dragon-Age-Dreadwolf-4128522568 1.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568%201.jpg)
+> ![marian.png\|150x150](/img/user/z%20Assets/Attachments/marian.png)
 > 
 > **Basic Info**
 > 
@@ -250,7 +253,7 @@
 > **Summary**
 > 
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
-> > **Heavy Canon Divergence** — *"Double Trouble" Twin of Garrett Hawke*
+> > **Heavy Canon Divergence** — *[[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] — Twin of [[By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]*
 > 
 > The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven. 
 > 
@@ -262,19 +265,19 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Marian\|Marian Hawke]] |
-> | Mainverses | [[Summary - Marian#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Marian#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Marian#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Marian#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Marian Hawke/Summary - Marian\|Marian Hawke]] |
+> | Mainverses | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 ## Isenril Mahariel
 
 > [!profilebox] Isenril Mahariel (he/him/himself)
-> ![Dragon-Age-Dreadwolf-4128522568 1.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568%201.jpg)
+> ![mahariel fen.png\|150x150](/img/user/z%20Assets/Attachments/mahariel%20fen.png)
 > 
 > **Basic Info**
 > 
@@ -288,8 +291,8 @@
 >
 > **Summary**
 > 
-> *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~*
-> > **Heavy Canon Divergence**
+> *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~ \[Redacted]*
+> > **Heavy Canon Divergence** — *Marethari's pact with Flemeth to secure her place as Keeper*
 > 
 > Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen's vallaslin, and become the clan's hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.
 > 
@@ -299,13 +302,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Mahariel\|Isenril Mahariel]] |
-> | Mainverses | [[Summary - Mahariel#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Mahariel#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Mahariel#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Mahariel#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel\|Isenril Mahariel]] |
+> | Mainverses | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Zevran Arainai
 
@@ -324,8 +327,9 @@
 >
 > **Summary**
 > 
-> > *City Elf — Antivan Crows — Master Assassin — Eighth Talon*
-> > **Heavy Canon Divergence** — *Eighth Talon of the Crows as of 9:45 Dragon*
+> > *City Elf — Antivan Crows — Master Assassin — ~~Black Shadow~~ Eighth Talon*
+> > **Heavy Canon Divergence** — *Operates as the Black Shadow from 9:31 to 9:45 Dragon 
+> > — Eighth Talon of the Crows & Head of House Arainai as of 9:45 Dragon*
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 > 
@@ -333,13 +337,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Zevran\|Zevran Arainai]] |
-> | Mainverses | [[Summary - Zevran#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Zevran#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Zevran#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Zevran#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran\|Zevran Arainai]] |
+> | Mainverses | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Mass Effect
@@ -362,7 +366,7 @@
 > **Summary**
 > 
 > > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
-> > **Heavy Canon Divergence** 
+> > **Heavy Canon Divergence** — *Pre-enlistment history & attitude towards the Alliance*
 > 
 > Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.
 > 
@@ -372,13 +376,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Isabela\|Isabela Shepard]] |
-> | Mainverses | [[Summary - Isabela#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Isabela#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Isabela#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Isabela#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela\|Isabela Shepard]] |
+> | Mainverses | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 ---
@@ -387,4 +391,84 @@
 > [!attention] None Available At This Time
 > 
 
+---
+# Muse Rosters
+## Open Muses Roster
+
+> [!statsbox]+ Open Muses Roster - Open to Everyone
+>
+> **Priority Muses - Interest Assumed Unless Told Otherwise**
+> 
+> | | |
+> |---|---|
+> | Roster | [[! Open Muses - Roster\|Open Muses]] |
+> | Availability Restrictions | must fill out [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]] if not interested in a muse |
+> | Baldur's Gate | [[! Open Muses - Roster#Baldur's Gate\|Baldur's Gate - Open Muses]] |
+> | Dragon Age | [[! Open Muses - Roster#Dragon Age\|Dragon Age - Open Muses]] |
+> | Mass Effect | [[! Open Muses - Roster#Mass Effect\|Mass Effect - Open Muses]] |
+> | Other Fandoms | [[! Open Muses - Roster#Other Fandoms\|Other Fandoms - Open Muses]] |
+
+## By Request Only Roster
+
+> [!statsbox]- By Request Only Roster - Specifying Requested Muse Required
+>
+> **Secondary Muses - Available Only On Request**
+> 
+> | | |
+> |---|---|
+> | Roster | [[By Request Only - Roster\|By Request Only]] |
+> | Availability Restrictions | must specify muse in request to interact with them |
+> | Baldur's Gate | [[By Request Only - Roster#Baldur's Gate\|Baldur's Gate - By Request Only]] |
+> | Dragon Age | [[By Request Only - Roster#Dragon Age\|Dragon Age - By Request Only]] |
+> | Mass Effect | [[By Request Only - Roster#Mass Effect\|Mass Effect - By Request Only]] |
+> | Other Fandoms | [[By Request Only - Roster#Other Fandoms\|Other Fandoms - By Request Only]] |
+> 
+
+## Invitation Only Roster
+
+> [!statsbox]- Invitation Only Roster - Requires Invite From Ziggy
+>
+> **Invite Only Muses - Must Be Invited To Interact**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Invitation Only - Roster\|Invitation Only]] |
+> | Availability Restrictions | request invite via the [[Interactive Forms\|Permanent Interactions Call]] form |
+> | Baldur's Gate | [[Invitation Only - Roster#Baldur's Gate\|Baldur's Gate - Invitation Only]] |
+> | Dragon Age | [[Invitation Only - Roster#Dragon Age\|Dragon Age - Invitation Only]] |
+> | Mass Effect | [[Invitation Only - Roster#Mass Effect\|Mass Effect - Invitation Only]] |
+> | Other Fandoms | [[Invitation Only - Roster#Other Fandoms\|Other Fandoms - Invitation Only]] |
+> 
+
+## Irregulars Roster
+
+> [!statsbox]- Irregulars Roster - Requires Permanent Interactions Call &/or Invite
+>
+> **Irregulars - For Mains & Permanent Interactions Call Only**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Irregulars - Roster\|Irregulars]] |
+> | Availability Restrictions | must fill out the [[Interactive Forms\|Permanent Interactions Call]] form |
+> | Baldur's Gate | [[Irregulars - Roster#Baldur's Gate\|Baldur's Gate - Irregulars]] |
+> | Dragon Age | [[Irregulars - Roster#Dragon Age\|Dragon Age - Irregulars]] |
+> | Mass Effect | [[Irregulars - Roster#Mass Effect\|Mass Effect - Irregulars]] |
+> | Other Fandoms | [[Irregulars - Roster#Other Fandoms\|Other Fandoms - Irregulars]] |
+> 
+
+## Muse Roster Index
+
+> [!statsbox]- Muse Roster - Index Of All Muses
+>
+> **Lists Names Only - Links To Muse Profiles On Their Appropriate Rosters**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Muse Roster - Index\|Roster Index]] |
+> |  | — |
+> | Baldur's Gate | [[Muse Roster - Index#Baldur's Gate\|Baldur's Gate - Roster Index]] |
+> | Dragon Age | [[Muse Roster - Index#Dragon Age\|Dragon Age - Roster Index]] |
+> | Mass Effect | [[Muse Roster - Index#Mass Effect\|Mass Effect - Roster Index]] |
+> | Other Fandoms | [[Muse Roster - Index#Other Fandoms\|Other Fandoms - Roster Index]] |
+> 
 

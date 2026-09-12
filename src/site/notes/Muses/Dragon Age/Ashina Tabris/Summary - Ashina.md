@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary","muse-ashina"],"dg-note-properties":{"tags":["directory","summary","muse-ashina"],"aliases":["Dossiers & Verses"]}}
+{"dg-publish":true,"permalink":"/muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary","open-muses","dragon-age","muse-ashina"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-ashina"],"aliases":["Dossiers & Verses","Ashina Tabris","Ashina de Riva","Ashina de Riva née Tabris","Tathas Arainai"]}}
 ---
 
 # Dossiers & Verses
@@ -9,12 +9,16 @@
 > // Basic Info
 > 
 > Name -> Ashina de Riva
+>  -> ~~Ashina Tabris~~
 > Nickname -> Ash
-> Alias -> Tabris Arainai (*Warden Only*)
-> Gender -> Female
+>  -> Snapdragon (*Varric only*)
+> Alias -> Tabris Arainai [^1]
+>  -> Dark Wolf of Denerim
+>  -> Grey Raven (*Crows Only*)
+> Gender -> Female (*GNC*)
 > Pronouns -> She/Her/Herself
 > Orientation -> Biromantic Bisexual
-> Approx. Age -> 45 +/- years (*9:50 Dragon*)
+> Approx. Age -> 45 +/- years (*9:51*)
 > 
 > // Tumblr Tags
 > 
@@ -40,9 +44,9 @@
 > Restrictions -> n/a
 > 
 
-- *Muse:* Ashina de Riva née Tabris
-- *Fandom:* Dragon Age
-- *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina\|Ashina Tabris]]
+- *Muse:* [[! Open Muses - Roster#Ashina de Riva née Tabris\|Ashina de Riva née Tabris]]
+- *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
+- *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina\|Tags - Ashina de Riva née Tabris]]
 
 ---
 # Quick Info
@@ -56,6 +60,7 @@ TBA
 
 > [!quote] Ashina Tabris - *9:30 Dragon*
 > "I killed them like dogs, Shianni. Not just them. All the humans who hurt you."
+> 
 
 ---
 # Canon Typical
@@ -67,7 +72,7 @@ TBA
 > 
 > | | |
 > |---|---|
-> | Verse/AU Details | Dragon Age |
+> | Verse/AU Details | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
 > | Verse/AU Type | Mainverse - Canon Typical |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
@@ -117,16 +122,19 @@ TBA
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:50 - 9:54 Dragon |
-> | Condition | Warden - HoF - Crow |
+> | Condition | Warden - HoF - Crow - Rook |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is the former Hero of Ferelden, & the Talon's Second of House de Riva.*
 > 
-> TBA
+> One thing Ashina can never turn her back on is slavery, especially after the incident in the Denerim Alienage during the Fifth Blight, so there was simply no way she was going to ignore the Antaam slavers, *especially* when she spotted one of her own friends in their cages — not even to report in to her Talon for instruction.
+> 
+> Her actions disrupt the Talons' plans — plans she hadn't been at all aware of — and as a result, she is sent on an extended contract to hunt the Dread Wolf when Varric Tethras shows up requesting her help in stopping Solas from destroying the world.
 > 
 > **Tumblr Tags**
 > 
@@ -159,16 +167,19 @@ TBA
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:44 Dragon |
-> | Condition | Warden - HoF - Crow |
+> | Condition | Warden - HoF - Crow - Herald - Inquisitor |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is the former Hero of Ferelden, & a Master Crow of House de Riva.*
 > 
-> TBA
+> Ashina hadn't wanted anything to do with the Divine's Conclave, nor the Mage-Templar conflict, but she has no choice when the First Talon orders her to go spy on the meetings. When she finds signs of a Grey Warden presence at the Conclave, she knows *something* isn't right, and heads to where she suspects the records might be kept to check the list of expected attendees, only to stumble across the Warden mages in the middle of a blood magic ritual, and the Divine their intended sacrifice.
+> 
+> When Ashina wakes up in the dungeon under Haven's chantry with now real memory of what happened at the temple, and a magical hole in her hand, she dreads having to send word back to the Talons to provide her report and try to explain how a Master Assassin is being accused of murdering the Divine, and worse still, once the Breach is calmed, is being called the Herald of Andraste.
 > 
 > **Tumblr Tags**
 > 
@@ -201,16 +212,17 @@ TBA
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:44 Dragon |
-> | Condition | Crow |
+> | Condition | Crow - Herald - Inquisitor |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is a Master Crow, sent to spy on the Conclave by the First Talon.*
 > 
-> TBA
+> Ashina is tasked by the First Talon to spy on the Conclave, only to end up in the midst of a conspiracy regarding who caused the explosion and killed the Divine. While she is being hailed as a murderer one minute — "*Assassin*, thank you," — and the Herald of Andraste the next, she must find a way to send report to her Talon and hope things don't somehow get any worse...
 > 
 > **Tumblr Tags**
 > 
@@ -245,6 +257,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
 > | Availability | Open To Everyone |
 >
@@ -252,7 +265,9 @@ TBA
 > 
 > > *Ashina is arrested after killing Vaughan & freed from the dungeons by the Crows.*
 > 
-> TBA
+> Ashina escapes the Arl's Palace with her cousins and the other kidnapped women after she killed the Arl's son, his noble lackies, and all the guards that stood between her and the other elven women who had been taken to Vaughan Kendall's bedroom to be raped and/or killed. The city guard arrive shortly after the elves do, so Ashina claims sole responsibility for the slaughter at the practice and is immediately arrested and thrown into the palace dungeons for the Arl to decide her fate once he returns from Ostagar.
+> 
+> Ashina has no intention of *staying* in the dungeons, waiting to be executed, so she looks for any way she can to escape her cell. When a Crow appears, she takes the offer for assistance getting out of the palace and Denerim in return for service to the Antivan Crows.
 > 
 > **Tumblr Tags**
 > 
@@ -287,14 +302,15 @@ TBA
 > | Timeline | 9:20 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is taken to be trained by the Crows after Adaia is killed in 9:24 Dragon.*
 > 
-> TBA
+> The Crows finally catch up with Adaia — a runaway Crow from House Arainai — in 9:24 Dragon, and completing the contract against her. Finding that she has had a child since fleeing Antiva, they capture Ashina, taking her back to Antiva and into the House to finish the training Adaia had begun. A child born of a Crow *becomes* a Crow, and Ashina is no exception.
 > 
 > **Tumblr Tags**
 > 
@@ -331,15 +347,16 @@ TBA
 > | Timeline | 9:20 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is taken to be trained by the Crows after Adaia is killed in 9:24 Dragon.*
 > > ***Darker paths await*** *as she is sent to assassinate Vaughan in 9:30 Dragon.*
 > 
-> TBA
+> Trained as a Crow after having been taken by force into the Crows and the House, Ashina is among one of many Crows sent to Ferelden during the Fifth Blight, though her target is Vaughan Kendall, the Arl of Denerim's son, who is known for his particular... *tastes*, and the broken elven bodies that usually are the result.
 > 
 > **Tumblr Tags**
 > 
@@ -377,7 +394,7 @@ TBA
 > | Condition | Crow - House Arainai |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -421,14 +438,18 @@ TBA
 > | Timeline | 9:54 - 9:69 Dragon |
 > | Condition | Warden - HoF - Crow |
 > | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | By Request Only |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina is unable to find a cure for the blight, only to return some time later...*
+> > **CW: Major Character Death (*Temporary*)**
 > 
-> TBA
+> Despite her decades-long search, Ashina eventually succumbs to the blight in her veins, overcome by the Calling she has tried to avoid for so long. Refusing to keep the Warden tradition of fighting in the Deep Roads until her death — *or worse* — she instead turns to the Crows for a final contract to end her life. 
+> 
+> But the world isn't finished with her yet, when she finds herself waking in a pile of shattered lyrium, and she's faced with being changed in a new way — no longer blighted, but now she isn't quite sure *what* she is anymore...
 > 
 > **Tumblr Tags**
 > 
@@ -475,7 +496,7 @@ TBA
 ## Mass Effect AUs
 ### Mercenary Assassin
 
-> [!statsbox]+ Mercenary Assassin ( Mass Effect )
+> [!statsbox]+ Mercenary Assassin — Alt Universe ( Mass Effect )
 >
 > **Basic Info**
 > 
@@ -487,7 +508,7 @@ TBA
 > | Timeline | 2184 - 2188 CE |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -500,15 +521,15 @@ TBA
 > 
 > | | |
 > |---|---|
-> | Verse | Ashina ☾⭒ Mercenary Assassin ( Mass Effect ) |
+> | Verse | Ashina ☾⭒ Mercenary Assassin — Alt Universe ( Mass Effect ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | 2186 - 2188 CE | Ashina ☾⭒ Mercenary Assassin — 2186 CE ( Mass Effect ) |
-> > | 2185 - 2186 CE (*Default*) | Ashina ☾⭒ Mercenary Assassin — 2185 CE ( Mass Effect ) |
-> > | 2183 - 2184 CE | Ashina ☾⭒ Mercenary Assassin — 2183 CE ( Mass Effect ) |
+> > | 2186 - 2188 CE | Ashina ☾⭒ Mercenary Assassin — 2186 CE — Alt Universe ( Mass Effect ) |
+> > | 2185 - 2186 CE (*Default*) | Ashina ☾⭒ Mercenary Assassin — 2185 CE — Alt Universe ( Mass Effect ) |
+> > | 2183 - 2184 CE | Ashina ☾⭒ Mercenary Assassin — 2183 CE — Alt Universe ( Mass Effect ) |
 > > 
 > 
 > 
@@ -529,17 +550,17 @@ TBA
 > | Verse/AU Type | Alt Universe - Fandom Specific AU |
 > | Setting | Doctor Who |
 > | Timeline | *Varies* |
-> | Condition | — |
+> | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
-> | Availability | Intended For Doctor Who & Other Time Travellers |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
-> > *Ashina encounters a strange person with a stranger ability to travel through time.*
+> > *TBA*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -547,6 +568,8 @@ TBA
 > | Verse | Ashina ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who ) |
 > 
 > 
+
+
 
 ### Elder Scrolls AUs
 
@@ -576,11 +599,11 @@ TBA
 > | Verse/AU Details | Absolute Crisis |
 > | Verse/AU Type | Crossover - Trapped In Another World AU |
 > | Setting | Baldur's Gate ( *Forgotten Realms* ) |
-> | Timeline | Info |
-> | Condition | — |
+> | Timeline | — |
+> | Condition | Default for Baldur's Gate ( *Forgotten Realms* ) Muses |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Default for Baldur's Gate ( *Forgotten Realms* ) Muses |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -621,7 +644,7 @@ TBA
 > > *This is not the Thedas that Ashina knows...*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -632,11 +655,11 @@ TBA
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon (*Default*) | Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon ( Dragon Age ) |
-> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon — Another World ( Dragon Age ) |
+> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:45 - 9:49 Dragon — Another World ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:40 - 9:44 Dragon — Another World ( Dragon Age ) |
+> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:35 - 9:39 Dragon — Another World ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:30 - 9:34 Dragon — Another World ( Dragon Age ) |
 > > 
 > 
 > 
@@ -657,14 +680,14 @@ TBA
 > | Condition | — |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Default for Mass Effect muses |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina finds herself on a different world far from her own...*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -675,13 +698,12 @@ TBA
 > >
 > > | | |
 > > |---|---|
-> > | 2186 - 2188 CE | Ashina ☾⭒ Anomaly Detected — 2186 CE ( Mass Effect ) |
-> > | 2184 - 2186 CE | Ashina ☾⭒ Anomaly Detected — 2185 CE ( Mass Effect ) |
-> > | 2183 - 2184 CE | Ashina ☾⭒ Anomaly Detected — 2183 CE ( Mass Effect ) |
+> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR — Another World ( Mass Effect ) |
+> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR — Another World ( Mass Effect ) |
+> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR — Another World ( Mass Effect ) |
 > > 
 > 
 > 
-
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Previously—Next Time
@@ -696,17 +718,17 @@ TBA
 > | Verse/AU Type | Crossover - Trapped In Another World AU |
 > | Setting | Doctor Who |
 > | Timeline | *Varies* |
-> | Condition | — |
+> | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Intended For Doctor Who & Other Time Travellers |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -768,76 +790,11 @@ TBA
 
 
 
+
 ---
 # Private Verses & AUs
 
-> [!attention] Not Currently Available
-> 
 
-
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  
 ## corvusrookery - Viago de Riva
 ### Dragon Age
 
@@ -853,7 +810,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -904,71 +861,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -992,7 +884,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1010,7 +902,7 @@ TBA
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1061,71 +953,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1149,7 +976,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1167,7 +994,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1218,71 +1045,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1306,7 +1068,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1324,7 +1086,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1375,71 +1137,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1463,7 +1160,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1481,7 +1178,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1532,71 +1229,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1620,7 +1252,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1638,7 +1270,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1689,71 +1321,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1777,7 +1344,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1795,7 +1362,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -1846,71 +1413,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1934,7 +1436,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -1952,7 +1454,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -2003,71 +1505,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -2091,7 +1528,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -2109,7 +1546,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -2160,71 +1597,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -2248,7 +1620,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
 > > 
 > 
 
@@ -2273,7 +1645,7 @@ TBA
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Plotted |
+> | Crossovers | Fandom Matched Unless Otherwise Requested |
 > | Availability | corvusrookery Only - Not Open For Request |
 >
 > **Summary**
@@ -2324,71 +1696,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> %%
-> **Timeline**
-> 
-> > [!statsbox]- Timeline of Events
-> >
-> > | | |
-> > |---|---|
-> > | 9:54 Dragon | Info |
-> > | 9:53 Dragon | Info |
-> > | 9:52 Dragon | Info |
-> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
-> > | 9:50 Dragon | Antaam invade Treviso. |
-> > | 9:49 Dragon | Info |
-> > | 9:48 Dragon | Info |
-> > | 9:47 Dragon | Info |
-> > | 9:46 Dragon | Info |
-> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
-> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
-> > | 9:43 Dragon | Info |
-> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
-> > | 9:41 Dragon | Info |
-> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
-> > | 9:39 Dragon | Info |
-> > | 9:38 Dragon | Info |
-> > | 9:37 Dragon | Info |
-> > | 9:36 Dragon | Info |
-> > | 9:35 Dragon | Info |
-> > | 9:34 Dragon | Info |
-> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
-> > | 9:32 Dragon | Info |
-> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
-> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
-> > | 9:29 Dragon | Info |
-> > | 9:28 Dragon | Info |
-> > | 9:27 Dragon | Info |
-> > | 9:26 Dragon | Info |
-> > | 9:25 Dragon | Info |
-> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
-> > | 9:23 Dragon | Info |
-> > | 9:22 Dragon | Info |
-> > | 9:21 Dragon | Info |
-> > | 9:20 Dragon | Info |
-> > | 9:19 Dragon | Info |
-> > | 9:18 Dragon | Info |
-> > | 9:17 Dragon | Info |
-> > | 9:16 Dragon | Info |
-> > | 9:15 Dragon | Info |
-> > | 9:14 Dragon | Info |
-> > | 9:13 Dragon | Info |
-> > | 9:12 Dragon | Info |
-> > | 9:11 Dragon | Info |
-> > | 9:10 Dragon | Info |
-> > | 9:09 Dragon | Info |
-> > | 9:08 Dragon | Info |
-> > | 9:07 Dragon | Info |
-> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
-> > | 9:05 Dragon | Info |
-> > | 9:04 Dragon | Info |
-> > | 9:03 Dragon | Info |
-> > | 9:02 Dragon | Info |
-> > | 9:01 Dragon | Info |
-> > | 9:00 Dragon | Info |
-> > 
->  %%
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -2415,7 +1722,7 @@ TBA
 > > |---|---|
 > > | Connection - Platonic Dynamic | Connection ☾⭒ 3 Talons & Their Crow ( corvusrookery ) |
 > > | Connection - Romantic/Sexual | Connection ☾⭒ 3 Talons x Their Crow ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ TBA ( 3 Talons & Their Crow — corvusrookery )  |
+> > | Relationship | Rel ☾⭒ TBA ( 3 Talons & Their Crow — corvusrookery )  |
 > > 
 > > 
 > 
@@ -2431,5 +1738,6 @@ TBA
 
 
 
-
-
+---
+# Footnotes
+[^1]: **Conditional: Must have been conscripted into the Grey Wardens** — Goes only by this name from 9:30 to 9:33 Dragon prior to joining House de Riva and the Antivan Crows; no one who didn't know her prior to her Joining should know her name is Ashina Tabris, as she only uses "Tathas Arainai" as a Grey Warden, and then Ashina de Riva as an Antivan Crow.
