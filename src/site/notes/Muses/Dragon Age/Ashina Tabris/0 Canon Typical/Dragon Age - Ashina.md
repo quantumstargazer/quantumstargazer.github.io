@@ -146,10 +146,10 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | | |
 > |---|---|
 > | Planet of Origin | Thedas (*planet name unknown*) |
-> | Place of Birth | Denerim, Ferelden |
+> | Place of Birth | Denerim - Ferelden |
 > | Homeworld | Thedas (*planet name unknown*) |
 > | Nationality | Antivan |
-> | Home Town | Salle, Antiva |
+> | Home Town | Salle - Antiva |
 >
 > **Languages**
 >
@@ -157,18 +157,22 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > |---|---|
 > | Primary | Common Trade Tongue |
 > | Native | Antivan |
-> | Known | Qunlat, Elvhen (*Ancient*) |
+> | Known | Qunlat |
+> |  | Elvhen (*Ancient*) |
 >
 > **Social Standings & Affiliations**
 >
 > | | |
 > |---|---|
-> | Faction(s) | Grey Wardens (*defected*) - Antivan Crows |
-> | Patron(s) | Fifth Talon - Viago de Riva |
+> | Faction(s) | Antivan Crows |
+> |  | Grey Wardens (*defected*) |
+> | Patron(s) | Fifth Talon |
+> |  | Viago de Riva |
 > | Organization(s) | House de Riva |
 > | Employer(s) | House of Crows |
 > | Occupation(s) | Master Assassin |
-> | Title(s) | Talon's Second - Master Crow |
+> | Title(s) | Talon's Second |
+> |  | Master Crow |
 >
 > **Spiritual Beliefs**
 >
@@ -186,7 +190,9 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Secondary Class | Duelist (*Rogue*) |
 > | Tertiary Class | Shadow (*Rogue*) |
 > | Additional Support(s) | Bard (*Rogue*) |
-> | Fighting Style(s) | Duel Wield Blades, Archery, Poison |
+> | Fighting Style(s) | Duel Wield Blades |
+> |  | Archery |
+> |  | Poisons |
 >
 > **Personality**
 >
@@ -227,7 +233,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ---
 # Connections
-
  **Mains**
 > 
 > | | |
