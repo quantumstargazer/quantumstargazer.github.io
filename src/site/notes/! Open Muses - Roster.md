@@ -291,7 +291,7 @@
 >
 > **Summary**
 > 
-> *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~ \[Redacted]*
+> > *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~ \[Redacted]*
 > > **Heavy Canon Divergence** — *Marethari's pact with Flemeth to secure her place as Keeper*
 > 
 > Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen's vallaslin, and become the clan's hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.
