@@ -123,7 +123,7 @@
 > | Condition | Crow - Warden's Companion - Black Shadow |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -166,7 +166,7 @@
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | Crow - Black Shadow - Talon - Rook |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -208,7 +208,7 @@
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Crow - Inquisitor |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -250,7 +250,7 @@
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | Crow |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -292,7 +292,7 @@
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | Crow - Warden - Black Shadow |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -334,7 +334,7 @@
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | Crow - Warden's Companion - Black Shadow - Talon |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**

@@ -163,7 +163,7 @@
 > | Condition | Time Travel Shenanigans |
 > | | Physical Age: 10+/- years - Mental Age: 21+/- years |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -205,7 +205,7 @@
 > | Timeline | — |
 > | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -243,7 +243,7 @@
 > | Timeline | — |
 > | Condition | Newly Formed Spirit-Elf |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -276,7 +276,7 @@
 > | Timeline | — |
 > | Condition | Spirit of Learning |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -307,7 +307,7 @@
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Child Herald / Inquisitor - Age: 10+/- years |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**

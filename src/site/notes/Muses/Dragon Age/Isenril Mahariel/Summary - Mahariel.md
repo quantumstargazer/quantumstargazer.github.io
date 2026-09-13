@@ -160,7 +160,7 @@
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | Grey Warden - Keeper - \[Redacted] |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -200,7 +200,7 @@
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | Grey Warden - \[Redacted] - Rook |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -242,7 +242,7 @@
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Warden - \[Redacted] - Inquisitor |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -284,7 +284,7 @@
 > | Timeline | — |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -326,7 +326,7 @@
 > | Timeline | — |
 > | Condition | — |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -368,7 +368,7 @@
 > | Timeline | — |
 > | Condition | Ancient Elvhenan |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**

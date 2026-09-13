@@ -212,7 +212,7 @@
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -254,7 +254,7 @@
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**

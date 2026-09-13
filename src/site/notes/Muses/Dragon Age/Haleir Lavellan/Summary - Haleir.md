@@ -160,7 +160,7 @@
 > | Timeline | 9:40 - 9:54 Dragon |
 > | Condition | Herald - Inquisitor - Solas Romance |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -202,7 +202,7 @@
 > | Timeline | — |
 > | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -244,7 +244,7 @@
 > | Timeline | — |
 > | Condition | Time Travel Shenanigans |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**
@@ -286,7 +286,7 @@
 > | Timeline | — |
 > | Condition | Ancient Elvhen |
 > | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
+> | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
 >
 > **Summary**

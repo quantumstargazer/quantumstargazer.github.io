@@ -259,7 +259,7 @@ TBA
 > | Open To Plotting | Yes |
 > | | — Alt Crow Houses (*Arainai, Cantori, Dellamorte*) |
 > | Crossovers | Yes |
-> | Availability | Open To Everyone |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
