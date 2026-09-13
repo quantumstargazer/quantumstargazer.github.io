@@ -13,7 +13,7 @@
 # Baldur's Gate
 ## Dirge ( The Dark Urge )
 
-> [!profilebox] Dirge (they/them/themselves & she/her/herself)
+> [!profilebox] Dirge (they/them & she/her)
 > ![Dirge temp01.png\|150x150](/img/user/z%20Assets/Attachments/Dirge%20temp01.png)
 > 
 > **Basic Info**
@@ -80,7 +80,7 @@
 
 ## Halima
 
-> [!profilebox] Halima (she/her/herself)
+> [!profilebox] Halima (she/her)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -113,7 +113,7 @@
 
 ## Karlach Cliffgate
 
-> [!profilebox] Karlach Cliffgate (she/her/herself)
+> [!profilebox] Karlach Cliffgate (she/her)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -148,7 +148,7 @@
 # Dragon Age
 ## Felassan
 
-> [!profilebox] Felassan (he/him/himself)
+> [!profilebox] Felassan (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -181,7 +181,7 @@
 
 ## Abelas
 
-> [!profilebox] Abelas (he/him/himself)
+> [!profilebox] Abelas (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -214,7 +214,7 @@
 
 ## Banal'ras
 
-> [!profilebox] Banal'ras (he/him/himself)
+> [!profilebox] Banal'ras (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -247,7 +247,7 @@
 
 ## Bellara Lutare
 
-> [!profilebox] Bellara Lutare (she/her/herself)
+> [!profilebox] Bellara Lutare (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -280,7 +280,7 @@
 
 ## Heir
 
-> [!profilebox] Heir (she/her/herself)
+> [!profilebox] Heir (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -313,7 +313,7 @@
 
 ## Merrill
 
-> [!profilebox] Merrill (she/her/herself)
+> [!profilebox] Merrill (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -346,7 +346,7 @@
 
 ## Anders
 
-> [!profilebox] Anders (he/him/himself)
+> [!profilebox] Anders (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -379,7 +379,7 @@
 
 ## Clark Kent
 
-> [!profilebox] Clark Kent (he/him/himself)
+> [!profilebox] Clark Kent (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -412,7 +412,7 @@
 
 ## Bruce Wayne
 
-> [!profilebox] Bruce Wayne (he/him/himself)
+> [!profilebox] Bruce Wayne (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -447,7 +447,7 @@
 # Mass Effect
 ## Nihlus Kryik
 
-> [!profilebox] Nihlus Kryik (he/him/himself)
+> [!profilebox] Nihlus Kryik (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -481,7 +481,7 @@
 
 ## Avitus Rix
 
-> [!profilebox] Avitus Rix (he/him/himself)
+> [!profilebox] Avitus Rix (he/him)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
@@ -514,7 +514,7 @@
 
 ## Mordin Solus
 
-> [!profilebox] Mordin Solus (he/him/himself)
+> [!profilebox] Mordin Solus (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -547,7 +547,7 @@
 
 ## Thane Krios
 
-> [!profilebox] Thane Krios (he/him/himself)
+> [!profilebox] Thane Krios (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -581,7 +581,7 @@
 
 ## Javik
 
-> [!profilebox] Javik (he/him/himself)
+> [!profilebox] Javik (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -617,7 +617,7 @@
 ## Elder Scrolls
 ### Razum-dar
 
-> [!profilebox] Razum-dar (he/him/himself)
+> [!profilebox] Razum-dar (he/him)
 > ![razum_dar_eso-99977599.jpg\|150x150](/img/user/z%20Assets/Attachments/razum_dar_eso-99977599.jpg)
 > 
 > **Basic Info**
@@ -650,7 +650,7 @@
 
 ### Inigo
 
-> [!profilebox] Inigo (he/him/himself)
+> [!profilebox] Inigo (he/him)
 > ![communityIcon_n8dxjxfgeng31-3818848783.jpg\|150x150](/img/user/z%20Assets/Attachments/communityIcon_n8dxjxfgeng31-3818848783.jpg)
 > 
 > **Basic Info**
@@ -683,7 +683,7 @@
 
 ### Courier
 
-> [!profilebox] Courier (he/him/himself)
+> [!profilebox] Courier (he/him)
 > ![bab60233d5b0f10ebfb1c206249df29efc7fad5c-3522406978.jpg\|150x150](/img/user/z%20Assets/Attachments/bab60233d5b0f10ebfb1c206249df29efc7fad5c-3522406978.jpg)
 > 
 > **Basic Info**
@@ -717,7 +717,7 @@
 ## Stardew Valley
 ### Magnus Rasmodius
 
-> [!profilebox] Magnus Rasmodius (he/him/himself)
+> [!profilebox] Magnus Rasmodius (he/him)
 > ![stardew-valley-575533301.jpg\|150x150](/img/user/z%20Assets/Attachments/stardew-valley-575533301.jpg)
 > 
 > **Basic Info**
@@ -750,7 +750,7 @@
 
 ### Elliot
 
-> [!profilebox] Elliot (he/him/himself)
+> [!profilebox] Elliot (he/him)
 > ![stardew-valley-575533301.jpg\|150x150](/img/user/z%20Assets/Attachments/stardew-valley-575533301.jpg)
 > 
 > **Basic Info**
@@ -783,7 +783,7 @@
 
 ### Gunter
 
-> [!profilebox] Gunter (he/him/himself)
+> [!profilebox] Gunter (he/him)
 > ![stardew-valley-575533301.jpg\|150x150](/img/user/z%20Assets/Attachments/stardew-valley-575533301.jpg)
 > 
 > **Basic Info**

@@ -49,7 +49,7 @@
 
 ## Faeynore Moonstar
 
-> [!profilebox] Faeynore Moonstar (they/them/themself & she/her/herself)
+> [!profilebox] Faeynore Moonstar (they/them & she/her)
 > ![20250726145030.png\|150x150](/img/user/z%20Assets/Attachments/20250726145030.png)
 > 
 > **Basic Info**
@@ -88,7 +88,7 @@
 
 ## Ashina de Riva née Tabris
 
-> [!profilebox] Ashina de Riva née Tabris (she/her/herself)
+> [!profilebox] Ashina de Riva née Tabris (she/her)
 > ![Ash001.png\|150x150](/img/user/z%20Assets/Attachments/Ash001.png)
 > 
 > **Basic Info**
@@ -127,7 +127,7 @@
 
 ## Ward Ingellvar
 
-> [!profilebox] Ward Ingellvar (they/them/themself)
+> [!profilebox] Ward Ingellvar (they/them)
 > ![Ward temp02.png\|150x150](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
 > **Basic Info**
@@ -164,7 +164,7 @@
 
 ## Leonardo de Riva
 
-> [!profilebox] Leonardo de Riva (he/him/himself & they/them/themself)
+> [!profilebox] Leonardo de Riva (he/him & they/them)
 > ![Dragon Age The Veilguard Screenshot 2025.09.04 - 02.52.10.11.png\|150x150](/img/user/z%20Assets/Attachments/Dragon%20Age%20The%20Veilguard%20Screenshot%202025.09.04%20-%2002.52.10.11.png)
 > 
 > **Basic Info**
@@ -199,7 +199,7 @@
 
 ## Haleir Lavellan
 
-> [!profilebox] Haleir Lavellan (she/her/herself)
+> [!profilebox] Haleir Lavellan (she/her)
 > ![Haleir Lavellan (fullsize).png\|150x150](/img/user/z%20Assets/Attachments/Haleir%20Lavellan%20(fullsize).png)
 > 
 > **Basic Info**
@@ -237,7 +237,7 @@
 
 ## Marian Hawke
 
-> [!profilebox] Marian Hawke (she/her/herself)
+> [!profilebox] Marian Hawke (she/her)
 > ![marian.png\|150x150](/img/user/z%20Assets/Attachments/marian.png)
 > 
 > **Basic Info**
@@ -276,7 +276,7 @@
 
 ## Isenril Mahariel
 
-> [!profilebox] Isenril Mahariel (he/him/himself)
+> [!profilebox] Isenril Mahariel (he/him)
 > ![mahariel fen.png\|150x150](/img/user/z%20Assets/Attachments/mahariel%20fen.png)
 > 
 > **Basic Info**
@@ -312,7 +312,7 @@
 
 ## Zevran Arainai
 
-> [!profilebox] Zevran Arainai (he/him/himself)
+> [!profilebox] Zevran Arainai (he/him)
 > ![zev temp.png\|150x150](/img/user/z%20Assets/Attachments/zev%20temp.png)
 > 
 > **Basic Info**
@@ -350,7 +350,7 @@
 
 ## Isabela Shepard
 
-> [!profilebox] Isabela Shepard (she/her/herself & they/them/themself)
+> [!profilebox] Isabela Shepard (she/her & they/them)
 > ![20250818152450 (1).png\|150x150](/img/user/z%20Assets/Attachments/20250818152450%20(1).png)
 > 
 > **Basic Info**

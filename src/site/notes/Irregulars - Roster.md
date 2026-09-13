@@ -13,7 +13,7 @@
 # Baldur's Gate
 ## Gale Dekarios
 
-> [!profilebox] Gale Dekarios (he/him/himself)
+> [!profilebox] Gale Dekarios (he/him)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -46,7 +46,7 @@
 
 ## Minsc
 
-> [!profilebox] Minsc (he/him/himself)
+> [!profilebox] Minsc (he/him)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -79,7 +79,7 @@
 
 ## Hope
 
-> [!profilebox] Hope (she/her/herself)
+> [!profilebox] Hope (she/her)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -112,7 +112,7 @@
 
 ---
 # Dragon Age
-> [!profilebox] Sten (he/him/himself)
+> [!profilebox] Sten (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -145,7 +145,7 @@
 
 ## Bethany Hawke
 
-> [!profilebox] Bethany Hawke (she/her/herself)
+> [!profilebox] Bethany Hawke (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -179,7 +179,7 @@
 
 ## Carver Hawke
 
-> [!profilebox] Carver Hawke (he/him/himself)
+> [!profilebox] Carver Hawke (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -213,7 +213,7 @@
 
 ## Fenris
 
-> [!profilebox] Fenris (he/him/himself)
+> [!profilebox] Fenris (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -246,7 +246,7 @@
 
 ## Tamlen
 
-> [!profilebox] Tamlen (he/him/himself)
+> [!profilebox] Tamlen (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -279,7 +279,7 @@
 
 ## Evka Ivo
 
-> [!profilebox] Evka Ivo (she/her/herself)
+> [!profilebox] Evka Ivo (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -312,7 +312,7 @@
 
 ## Antoine
 
-> [!profilebox] Antoine (he/him/himself)
+> [!profilebox] Antoine (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -345,7 +345,7 @@
 
 ## Shale
 
-> [!profilebox] Shale (they/them/themself & she/her/herself)
+> [!profilebox] Shale (they/them & she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -378,7 +378,7 @@
 
 ## Sigrun
 
-> [!profilebox] Sigrun (she/her/herself)
+> [!profilebox] Sigrun (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -412,7 +412,7 @@
 ## Veterans of the Fifth Blight
 ### Aileas Cousland
 
-> [!profilebox] Aileas Cousland (she/her/herself)
+> [!profilebox] Aileas Cousland (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -445,7 +445,7 @@
 
 ### Bran Cousland
 
-> [!profilebox] Bran Cousland (he/him/himself)
+> [!profilebox] Bran Cousland (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -478,7 +478,7 @@
 
 ### Lailani Sabrae
 
-> [!profilebox] Lailani Sabrae (she/her/herself)
+> [!profilebox] Lailani Sabrae (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -511,7 +511,7 @@
 
 ### Satu Surana
 
-> [!profilebox] Satu Surana (she/her/herself)
+> [!profilebox] Satu Surana (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -544,7 +544,7 @@
 
 ### Selena Amell
 
-> [!profilebox] Selena Amell (she/her/herself)
+> [!profilebox] Selena Amell (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -577,7 +577,7 @@
 
 ### Kiran Brosca
 
-> [!profilebox] Kiran Brosca (she/her/herself & they/them/themself)
+> [!profilebox] Kiran Brosca (she/her & they/them)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -611,7 +611,7 @@
 ## Veterans of the Kirkwall Rebellions
 ### Rowan Hawke
 
-> [!profilebox] Rowan Hawke (she/her/herself)
+> [!profilebox] Rowan Hawke (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -644,7 +644,7 @@
 
 ### Quincy Hawke
 
-> [!profilebox] Quincy Hawke (he/him/himself)
+> [!profilebox] Quincy Hawke (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -678,7 +678,7 @@
 ## Veterans of the Inquisition
 ### Garahel Ithalanas Lavellan
 
-> [!profilebox] Garahel Ithalanas Lavellan (he/him/himself)
+> [!profilebox] Garahel Ithalanas Lavellan (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -711,7 +711,7 @@
 
 ### Rubi Cadash
 
-> [!profilebox] Rubi Cadash (she/her/herself & they/them/themself)
+> [!profilebox] Rubi Cadash (she/her & they/them)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -744,7 +744,7 @@
 
 ### Tamik Adaar
 
-> [!profilebox] Tamik Adaar (she/her/herself)
+> [!profilebox] Tamik Adaar (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -778,7 +778,7 @@
 ## Veterans of the Veilguard
 ### Darcy Mercer
 
-> [!profilebox] Darcy Mercer (they/them/themself)
+> [!profilebox] Darcy Mercer (they/them)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -811,7 +811,7 @@
 
 ### Esha Laidir
 
-> [!profilebox] Esha Laidir (she/her/herself)
+> [!profilebox] Esha Laidir (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -844,7 +844,7 @@
 
 ### Gertrude Ingellvar
 
-> [!profilebox] Gertrude Ingellvar (she/her/herself)
+> [!profilebox] Gertrude Ingellvar (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -877,7 +877,7 @@
 
 ### Hakiem Aldwir
 
-> [!profilebox] Hakiem Aldwir (he/him/himself)
+> [!profilebox] Hakiem Aldwir (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -910,7 +910,7 @@
 
 ### Iven Thorne
 
-> [!profilebox] Iven Thorne (he/him/himself)
+> [!profilebox] Iven Thorne (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -943,7 +943,7 @@
 
 ### Nikolas Mercer
 
-> [!profilebox] Nikolas Mercer (he/him/himself)
+> [!profilebox] Nikolas Mercer (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -976,7 +976,7 @@
 
 ### Redmond Thorne
 
-> [!profilebox] Redmond Thorne (he/him/himself)
+> [!profilebox] Redmond Thorne (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -1011,7 +1011,7 @@
 # Mass Effect
 ## Urdnot Wrex
 
-> [!profilebox] Urdnot Wrex (he/him/himself)
+> [!profilebox] Urdnot Wrex (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1044,7 +1044,7 @@
 
 ## Garrus Vakarian
 
-> [!profilebox] Garrus Vakarian (he/him/himself)
+> [!profilebox] Garrus Vakarian (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1077,7 +1077,7 @@
 
 ## Tali'Zorah
 
-> [!profilebox] Tali'Zorah (she/her/herself)
+> [!profilebox] Tali'Zorah (she/her)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1110,7 +1110,7 @@
 
 ## Jeff ''Joker'' Moreau
 
-> [!profilebox] Jeff ''Joker'' Moreau (he/him/himself)
+> [!profilebox] Jeff ''Joker'' Moreau (he/him)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1143,7 +1143,7 @@
 
 ## Karin Chakwas
 
-> [!profilebox] Karin Chakwas (she/her/herself)
+> [!profilebox] Karin Chakwas (she/her)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1176,7 +1176,7 @@
 
 ## Aria T'Loak
 
-> [!profilebox] Aria T'Loak (she/her/herself)
+> [!profilebox] Aria T'Loak (she/her)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1209,7 +1209,7 @@
 
 ## Aethyta
 
-> [!profilebox] Aethyta (she/her/herself)
+> [!profilebox] Aethyta (she/her)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**

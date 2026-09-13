@@ -12,7 +12,7 @@
 ---
 # Baldur's Gate
 ## Faertorithrue
-> [!profilebox] Faertorithrue (she/her/herself & they/them/themself)
+> [!profilebox] Faertorithrue (she/her & they/them)
 > ![20250816030845.png\|150x150](/img/user/z%20Assets/Attachments/20250816030845.png)
 > 
 > **Basic Info**
@@ -45,7 +45,7 @@
 
 ## Fenmaer Dawngazer
 
-> [!profilebox] Fenmaer Dawngazer (he/him/himself)
+> [!profilebox] Fenmaer Dawngazer (he/him)
 > ![20250729084634.png\|150x150](/img/user/z%20Assets/Attachments/20250729084634.png)
 > 
 > **Basic Info**
@@ -78,7 +78,7 @@
 
 ## Astarion Ancunín
 
-> [!profilebox] Astarion Ancunín (he/him/himself)
+> [!profilebox] Astarion Ancunín (he/him)
 > ![Portrait_Astarion-827447668.png\|150x150](/img/user/z%20Assets/Attachments/Portrait_Astarion-827447668.png)
 > 
 > **Basic Info**
@@ -111,7 +111,7 @@
 
 ## Jaheira
 
-> [!profilebox] Jaheira (she/her/herself)
+> [!profilebox] Jaheira (she/her)
 > ![Portrait_Jaheira-1062166814.png\|150x150](/img/user/z%20Assets/Attachments/Portrait_Jaheira-1062166814.png)
 > 
 > **Basic Info**
@@ -144,7 +144,7 @@
 
 ## Minthara Baenre
 
-> [!profilebox] Minthara Baenre (she/her/herself)
+> [!profilebox] Minthara Baenre (she/her)
 > ![download.png\|150x150](/img/user/z%20Assets/Attachments/download.png)
 > 
 > **Basic Info**
@@ -177,7 +177,7 @@
 
 ## Prince of Frost
 
-> [!profilebox] Prince of Frost (he/him/himself)
+> [!profilebox] Prince of Frost (he/him)
 > ![38762a30ac75e909aef173da30242a53-2968035018.jpg\|150x150](/img/user/z%20Assets/Attachments/38762a30ac75e909aef173da30242a53-2968035018.jpg)
 > 
 > **Basic Info**
@@ -212,7 +212,7 @@
 # Dragon Age
 ## Zaehire de Riva
 
-> [!profilebox] Zaehire de Riva (she/her/herself & they/them/themself)
+> [!profilebox] Zaehire de Riva (she/her & they/them)
 > ![Zae002.png\|150x150](/img/user/z%20Assets/Attachments/Zae002.png)
 > 
 > **Basic Info**
@@ -248,7 +248,7 @@
 
 ## Bertrand Ingellvar
 
-> [!profilebox] Bertrand Ingellvar (he/him/himself)
+> [!profilebox] Bertrand Ingellvar (he/him)
 > ![bert temp00.png\|150x150](/img/user/z%20Assets/Attachments/bert%20temp00.png)
 > 
 > **Basic Info**
@@ -281,7 +281,7 @@
 
 ## Garrett Hawke
 
-> [!profilebox] Garrett Hawke (he/him/himself)
+> [!profilebox] Garrett Hawke (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -315,7 +315,7 @@
 
 ## Orabela Aeducan
 
-> [!profilebox] Orabela Aeducan (she/her/herself)
+> [!profilebox] Orabela Aeducan (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -349,7 +349,7 @@
 
 ## Varric Tethras
 
-> [!profilebox] Varric Tethras (he/him/himself)
+> [!profilebox] Varric Tethras (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -383,7 +383,7 @@
 
 ## Dorian Pavus
 
-> [!profilebox] Dorian Pavus (he/him/himself)
+> [!profilebox] Dorian Pavus (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -416,7 +416,7 @@
 
 ## Viago de Riva
 
-> [!profilebox] Viago de Riva (he/him/himself)
+> [!profilebox] Viago de Riva (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -449,7 +449,7 @@
 
 ## Andarateia Cantori
 
-> [!profilebox] Andarateia Cantori (she/her/herself)
+> [!profilebox] Andarateia Cantori (she/her)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -482,7 +482,7 @@
 
 ## Lucanis Dellamorte
 
-> [!profilebox] Lucanis Dellamorte (he/him/himself)
+> [!profilebox] Lucanis Dellamorte (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -515,7 +515,7 @@
 
 ## Spite
 
-> [!profilebox] Spite (he/him/himself & it/its/itself)
+> [!profilebox] Spite (he/him & it/its/itself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -548,7 +548,7 @@
 
 ## Emmrich Volkarin
 
-> [!profilebox] Emmrich Volkarin (he/him/himself)
+> [!profilebox] Emmrich Volkarin (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -581,7 +581,7 @@
 
 ## Manfred
 
-> [!profilebox] Manfred (he/him/himself)
+> [!profilebox] Manfred (he/him)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -614,7 +614,7 @@
 
 ## Vorgoth
 
-> [!profilebox] Vorgoth (they/them/themselves)
+> [!profilebox] Vorgoth (they/them)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -649,7 +649,7 @@
 # Mass Effect
 ## Sara Ryder
 
-> [!profilebox] Sara Ryder (she/her/herself & they/them/themself)
+> [!profilebox] Sara Ryder (she/her & they/them)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
@@ -682,7 +682,7 @@
 
 ## Scott Ryder
 
-> [!profilebox] Scott Ryder (he/him/himself & they/them/themself)
+> [!profilebox] Scott Ryder (he/him & they/them)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
@@ -715,7 +715,7 @@
 
 ## Evfra de Tershaav
 
-> [!profilebox] Evfra de Tershaav (he/him/himself)
+> [!profilebox] Evfra de Tershaav (he/him)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
@@ -748,7 +748,7 @@
 
 ## Jaal Ama Darav
 
-> [!profilebox] Jaal Ama Darav (he/him/himself)
+> [!profilebox] Jaal Ama Darav (he/him)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
@@ -781,7 +781,7 @@
 
 ## Reyes Vidal
 
-> [!profilebox] Reyes Vidal (he/him/himself)
+> [!profilebox] Reyes Vidal (he/him)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
