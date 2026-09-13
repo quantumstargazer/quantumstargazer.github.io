@@ -97,7 +97,7 @@
 > |---|---|
 > | Verse | ~~Marian ☾⭒ Dragon Age ( Dragon Age )~~ |
 > 
-> > [!statsbox]- Timeline Tags
+> > [!statsbox]+ Timeline Tags
 > >
 > > | | |
 > > |---|---|
