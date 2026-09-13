@@ -50,6 +50,9 @@
 > > | Private Verses & AUs | Tavares & Astarion |
 > > |  | Faeynore & Astarion |
 > > |  | Isabela & Astarion |
+> > |  | Isabela & Garrus |
+> > |  | Isabela & Tali |
+> > |  | Isabela & Wren |
 > > |  | Karlach & Wren |
 > > |  | — |
 > >
@@ -189,10 +192,6 @@
 > > |  | — |
 > >
 > 
-
-
-
-
 
 
 
