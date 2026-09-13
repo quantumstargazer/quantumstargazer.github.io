@@ -93,7 +93,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *~~Moon Elf~~ Vampire Spawn — Debonaire Rogue & College of Eloquence Bard*
 > 
 > TBA
 > 
@@ -126,7 +126,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *High Half-Elf — Circle of the Land Druid*
 > 
 > TBA
 > 
@@ -159,7 +159,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Loth-Sworn Drow — Oath of Vengeance Paladin*
 > 
 > TBA
 > 
@@ -192,7 +192,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Archfey — Lord of the Long Night*
 > 
 > TBA
 > 
