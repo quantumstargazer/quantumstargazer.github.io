@@ -168,13 +168,13 @@
 
 ## Drell-Hanari Compact
 
-> [!statsbox]+ VerseID ( Mass Effect )
+> [!statsbox]+ Drell-Hanari Compact ( Mass Effect )
 >
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Verse/AU Details | VerseID |
+> | Verse/AU Details | Drell-Hanari Compact |
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 21XX CE |
@@ -195,7 +195,7 @@
 > 
 > | | |
 > |---|---|
-> | Verse | Isabela ☾⭒ VerseID ( Mass Effect ) |
+> | Verse | Isabela ☾⭒ Drell-Hanari Compact ( Mass Effect ) |
 >
 >
 
