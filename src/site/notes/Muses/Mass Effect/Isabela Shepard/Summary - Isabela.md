@@ -72,7 +72,7 @@
 > | Verse/AU Type | Mainverse - Canon Typical |
 > | Setting | Mass Effect |
 > | Timeline | 2183 - 2189 CE |
-> | Condition | Cmdr Shepard |
+> | Condition | Cmdr Shepard - Destroy Ending |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
 > | Availability | Open To Everyone ( *Default Verse* ) |
