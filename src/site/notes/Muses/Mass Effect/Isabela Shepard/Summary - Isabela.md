@@ -89,14 +89,13 @@
 > |---|---|
 > | Verse | Isabela ☾⭒ Reaper War ( Mass Effect ) |
 > 
-> > [!statsbox]- Timeline Tags
+> > [!statsbox]+ Timeline Tags
 > >
 > > | | |
 > > |---|---|
 > > | 2186 - 2189 CE | Isabela ☾⭒ 2186 - 2189 CE ( Mass Effect ) |
 > > | 2184 - 2186 CE | Isabela ☾⭒ 2184 - 2186 CE ( Mass Effect ) |
-> > | 2183 - 2184 CE | Isabela ☾⭒ 2183 - 2184 CE ( Mass Effect ) |
-> > | 2180 - 2182 CE | Isabela ☾⭒ VerseID — YEAR ( Mass Effect ) |
+> > | 2182 - 2184 CE | Isabela ☾⭒ 2182 - 2184 CE ( Mass Effect ) |
 > > 
 > 
 > 
