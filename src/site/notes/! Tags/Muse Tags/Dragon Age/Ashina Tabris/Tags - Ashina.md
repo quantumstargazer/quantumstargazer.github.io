@@ -165,208 +165,208 @@ Ashina ☾⭒ Inquisitor — 9:60 - 9:64 Dragon ( Dragon Age )
 Ashina ☾⭒ Inquisitor — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.3 Verse
+### 1.3 Inquisitor Crow
 ```
-Ashina ☾⭒ QuickID ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow ( Dragon Age )
 ```
 #### 1.3 Dragon Age Timeline (Series Canon)
 ```
-Ashina ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:50 - 9:54 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:45 - 9:49 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:40 - 9:44 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:35 - 9:39 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.3a Dragon Age Timeline (Pre-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:25 - 9:29 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:20 - 9:24 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:15 - 9:19 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:10 - 9:14 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:05 - 9:09 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.3b Dragon Age Timeline (Post-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:95 - 9:99 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:90 - 9:94 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:85 - 9:89 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:80 - 9:84 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:75 - 9:79 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:70 - 9:74 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:65 - 9:69 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:60 - 9:64 Dragon ( Dragon Age )
+Ashina ☾⭒ Inquisitor Crow — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.4 Verse
+### 1.4 Antivan Crows
 ```
-Ashina ☾⭒ QuickID ( Dragon Age )
+Ashina ☾⭒ Antivan Crows ( Dragon Age )
 ```
 #### 1.4 Dragon Age Timeline (Series Canon)
 ```
-Ashina ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:50 - 9:54 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:45 - 9:49 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:40 - 9:44 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:35 - 9:39 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.4a Dragon Age Timeline (Pre-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:25 - 9:29 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:20 - 9:24 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:15 - 9:19 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:10 - 9:14 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:05 - 9:09 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.4b Dragon Age Timeline (Post-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:95 - 9:99 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:90 - 9:94 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:85 - 9:89 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:80 - 9:84 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:75 - 9:79 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:70 - 9:74 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:65 - 9:69 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:60 - 9:64 Dragon ( Dragon Age )
+Ashina ☾⭒ Antivan Crows — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.5 Verse
+### 1.5 Crows' Due
 ```
-Ashina ☾⭒ QuickID ( Dragon Age )
+Ashina ☾⭒ Crows' Due ( Dragon Age )
 ```
 #### 1.5 Dragon Age Timeline (Series Canon)
 ```
-Ashina ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:50 - 9:54 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:45 - 9:49 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:40 - 9:44 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:35 - 9:39 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.5a Dragon Age Timeline (Pre-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:25 - 9:29 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:20 - 9:24 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:15 - 9:19 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:10 - 9:14 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:05 - 9:09 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.5b Dragon Age Timeline (Post-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:95 - 9:99 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:90 - 9:94 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:85 - 9:89 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:80 - 9:84 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:75 - 9:79 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:70 - 9:74 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:65 - 9:69 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:60 - 9:64 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Due — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.6 Verse
+### 1.6 Crows' Design
 ```
-Ashina ☾⭒ QuickID ( Dragon Age )
+Ashina ☾⭒ Crows' Design ( Dragon Age )
 ```
 #### 1.6 Dragon Age Timeline (Series Canon)
 ```
-Ashina ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:50 - 9:54 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:45 - 9:49 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:40 - 9:44 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:35 - 9:39 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.6a Dragon Age Timeline (Pre-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:25 - 9:29 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:20 - 9:24 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:15 - 9:19 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:10 - 9:14 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:05 - 9:09 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.6b Dragon Age Timeline (Post-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:95 - 9:99 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:90 - 9:94 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:85 - 9:89 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:80 - 9:84 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:75 - 9:79 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:70 - 9:74 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:65 - 9:69 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:60 - 9:64 Dragon ( Dragon Age )
+Ashina ☾⭒ Crows' Design — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.7 Verse
+### 1.7 Arainai Deflector
 ```
-Ashina ☾⭒ QuickID ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector ( Dragon Age )
 ```
 #### 1.7 Dragon Age Timeline (Series Canon)
 ```
-Ashina ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:50 - 9:54 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:45 - 9:49 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:40 - 9:44 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:35 - 9:39 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.7a Dragon Age Timeline (Pre-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:25 - 9:29 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:20 - 9:24 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:15 - 9:19 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:10 - 9:14 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:05 - 9:09 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.7b Dragon Age Timeline (Post-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:95 - 9:99 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:90 - 9:94 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:85 - 9:89 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:80 - 9:84 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:75 - 9:79 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:70 - 9:74 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:65 - 9:69 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:60 - 9:64 Dragon ( Dragon Age )
+Ashina ☾⭒ Arainai Deflector — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.8 Verse
+### 1.8 Lyrium Ghost
 ```
-Ashina ☾⭒ QuickID ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost ( Dragon Age )
 ```
 #### 1.8 Dragon Age Timeline (Series Canon)
 ```
-Ashina ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:50 - 9:54 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:45 - 9:49 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:40 - 9:44 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:35 - 9:39 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.8a Dragon Age Timeline (Pre-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:25 - 9:29 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:20 - 9:24 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:15 - 9:19 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:10 - 9:14 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:05 - 9:09 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.8b Dragon Age Timeline (Post-Canon)
 ```
-Ashina ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
-Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:95 - 9:99 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:90 - 9:94 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:85 - 9:89 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:80 - 9:84 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:75 - 9:79 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:70 - 9:74 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:65 - 9:69 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:60 - 9:64 Dragon ( Dragon Age )
+Ashina ☾⭒ Lyrium Ghost — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
 ---
