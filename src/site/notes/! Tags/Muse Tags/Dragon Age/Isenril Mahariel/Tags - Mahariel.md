@@ -165,121 +165,257 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isenril Mahariel, Co
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Blighted Exile
 ```
- Mahariel ☾⭒ QuickID ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile ( Dragon Age )
 ```
 #### 1.1 Dragon Age Timeline (Series Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.1a Dragon Age Timeline (Pre-Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.1b Dragon Age Timeline (Post-Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Blighted Exile — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.2 Verse
+### 1.2 Wandering Keeper
 ```
- Mahariel ☾⭒ QuickID ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper ( Dragon Age )
 ```
 #### 1.2 Dragon Age Timeline (Series Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.2a Dragon Age Timeline (Pre-Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.2b Dragon Age Timeline (Post-Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Wandering Keeper — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.3 Verse
+### 1.3 Rook
 ```
- Mahariel ☾⭒ QuickID ( Dragon Age )
+ Mahariel ☾⭒ Rook ( Dragon Age )
 ```
 #### 1.3 Dragon Age Timeline (Series Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.3a Dragon Age Timeline (Pre-Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.3b Dragon Age Timeline (Post-Canon)
 ```
- Mahariel ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rook — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.4 Verse
+### 1.4 Inquisitor
 ```
- Mahariel ☾⭒ QuickID ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor ( Dragon Age )
 ```
 #### 1.4 Dragon Age Timeline (Series Canon)
 ```
+ Mahariel ☾⭒ Inquisitor — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.4a Dragon Age Timeline (Pre-Canon)
+```
+ Mahariel ☾⭒ Inquisitor — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.4b Dragon Age Timeline (Post-Canon)
+```
+ Mahariel ☾⭒ Inquisitor — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Inquisitor — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.5 Ancient Times
+```
+ Mahariel ☾⭒ Ancient Times ( Dragon Age )
+```
+#### 1.5 Dragon Age Timeline (Series Canon)
+```
+ Mahariel ☾⭒ Ancient Times — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.5a Dragon Age Timeline (Pre-Canon)
+```
+ Mahariel ☾⭒ Ancient Times — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.5b Dragon Age Timeline (Post-Canon)
+```
+ Mahariel ☾⭒ Ancient Times — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Ancient Times — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.6 Rebellion
+```
+ Mahariel ☾⭒ Rebellion ( Dragon Age )
+```
+#### 1.6 Dragon Age Timeline (Series Canon)
+```
+ Mahariel ☾⭒ Rebellion — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.6a Dragon Age Timeline (Pre-Canon)
+```
+ Mahariel ☾⭒ Rebellion — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.6b Dragon Age Timeline (Post-Canon)
+```
+ Mahariel ☾⭒ Rebellion — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Rebellion — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.7 Elvhenan
+```
+ Mahariel ☾⭒ Elvhenan ( Dragon Age )
+```
+#### 1.7 Dragon Age Timeline (Series Canon)
+```
+ Mahariel ☾⭒ Elvhenan — 9:50 - 9:54 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:45 - 9:49 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:40 - 9:44 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:35 - 9:39 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.7a Dragon Age Timeline (Pre-Canon)
+```
+ Mahariel ☾⭒ Elvhenan — 9:25 - 9:29 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:20 - 9:24 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:15 - 9:19 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:10 - 9:14 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:05 - 9:09 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.7b Dragon Age Timeline (Post-Canon)
+```
+ Mahariel ☾⭒ Elvhenan — 9:95 - 9:99 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:90 - 9:94 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:85 - 9:89 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:80 - 9:84 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:75 - 9:79 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:70 - 9:74 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:65 - 9:69 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:60 - 9:64 Dragon ( Dragon Age )
+ Mahariel ☾⭒ Elvhenan — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.8 Verse
+```
+ Mahariel ☾⭒ QuickID ( Dragon Age )
+```
+#### 1.8 Dragon Age Timeline (Series Canon)
+```
  Mahariel ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
-##### 1.4a Dragon Age Timeline (Pre-Canon)
+##### 1.8a Dragon Age Timeline (Pre-Canon)
 ```
  Mahariel ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
@@ -288,7 +424,7 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isenril Mahariel, Co
  Mahariel ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
-##### 1.4b Dragon Age Timeline (Post-Canon)
+##### 1.8b Dragon Age Timeline (Post-Canon)
 ```
  Mahariel ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
  Mahariel ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
@@ -301,39 +437,12 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Isenril Mahariel, Co
  Mahariel ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.5 Verse
-```
- Mahariel ☾⭒ QuickID ( Dragon Age )
-```
-#### 1.5 Dragon Age Timeline (Series Canon)
-```
- Mahariel ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
-```
-##### 1.5a Dragon Age Timeline (Pre-Canon)
-```
- Mahariel ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
-```
-##### 1.5b Dragon Age Timeline (Post-Canon)
-```
- Mahariel ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Mahariel ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
-```
+
+
+
+
+
+
 
 ---
 ## Fandom Specific AUs
