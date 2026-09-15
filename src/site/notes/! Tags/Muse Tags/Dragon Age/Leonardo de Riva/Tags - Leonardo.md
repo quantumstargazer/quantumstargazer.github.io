@@ -165,38 +165,38 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Leonardo de Riva, Co
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Talon's Spellblade
 ```
- Leonardo ☾⭒ QuickID ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade ( Dragon Age )
 ```
 #### 1.1 Dragon Age Timeline (Series Canon)
 ```
- Leonardo ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:50 - 9:54 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:45 - 9:49 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:40 - 9:44 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:35 - 9:39 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.1a Dragon Age Timeline (Pre-Canon)
 ```
- Leonardo ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:25 - 9:29 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:20 - 9:24 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:15 - 9:19 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:10 - 9:14 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:05 - 9:09 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.1b Dragon Age Timeline (Post-Canon)
 ```
- Leonardo ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Leonardo ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:95 - 9:99 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:90 - 9:94 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:85 - 9:89 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:80 - 9:84 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:75 - 9:79 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:70 - 9:74 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:65 - 9:69 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:60 - 9:64 Dragon ( Dragon Age )
+ Leonardo ☾⭒ Talon's Spellblade — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
 ### 1.2 Verse
