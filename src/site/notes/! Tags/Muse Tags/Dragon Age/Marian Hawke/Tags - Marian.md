@@ -165,140 +165,140 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Marian Hawke, Codex 
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Last One Standing
 ```
- Marian ☾⭒ QuickID ( Dragon Age )
+ Marian ☾⭒ Last One Standing ( Dragon Age )
 ```
 #### 1.1 Dragon Age Timeline (Series Canon)
 ```
- Marian ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:50 - 9:54 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:45 - 9:49 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:40 - 9:44 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:35 - 9:39 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.1a Dragon Age Timeline (Pre-Canon)
 ```
- Marian ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:25 - 9:29 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:20 - 9:24 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:15 - 9:19 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:10 - 9:14 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:05 - 9:09 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.1b Dragon Age Timeline (Post-Canon)
 ```
- Marian ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:95 - 9:99 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:90 - 9:94 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:85 - 9:89 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:80 - 9:84 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:75 - 9:79 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:70 - 9:74 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:65 - 9:69 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:60 - 9:64 Dragon ( Dragon Age )
+ Marian ☾⭒ Last One Standing — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.2 Verse
+### 1.2 Fade Lost
 ```
- Marian ☾⭒ QuickID ( Dragon Age )
+ Marian ☾⭒ Fade Lost ( Dragon Age )
 ```
 #### 1.2 Dragon Age Timeline (Series Canon)
 ```
- Marian ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:50 - 9:54 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:45 - 9:49 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:40 - 9:44 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:35 - 9:39 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.2a Dragon Age Timeline (Pre-Canon)
 ```
- Marian ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:25 - 9:29 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:20 - 9:24 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:15 - 9:19 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:10 - 9:14 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:05 - 9:09 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.2b Dragon Age Timeline (Post-Canon)
 ```
- Marian ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:95 - 9:99 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:90 - 9:94 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:85 - 9:89 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:80 - 9:84 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:75 - 9:79 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:70 - 9:74 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:65 - 9:69 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:60 - 9:64 Dragon ( Dragon Age )
+ Marian ☾⭒ Fade Lost — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.3 Verse
+### 1.3 Rook
 ```
- Marian ☾⭒ QuickID ( Dragon Age )
+ Marian ☾⭒ Rook ( Dragon Age )
 ```
 #### 1.3 Dragon Age Timeline (Series Canon)
 ```
- Marian ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:50 - 9:54 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:45 - 9:49 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:40 - 9:44 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:35 - 9:39 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.3a Dragon Age Timeline (Pre-Canon)
 ```
- Marian ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:25 - 9:29 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:20 - 9:24 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:15 - 9:19 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:10 - 9:14 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:05 - 9:09 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.3b Dragon Age Timeline (Post-Canon)
 ```
- Marian ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:95 - 9:99 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:90 - 9:94 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:85 - 9:89 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:80 - 9:84 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:75 - 9:79 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:70 - 9:74 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:65 - 9:69 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:60 - 9:64 Dragon ( Dragon Age )
+ Marian ☾⭒ Rook — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.4 Verse
+### 1.4 Inquisitor
 ```
- Marian ☾⭒ QuickID ( Dragon Age )
+ Marian ☾⭒ Inquisitor ( Dragon Age )
 ```
 #### 1.4 Dragon Age Timeline (Series Canon)
 ```
- Marian ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:50 - 9:54 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:45 - 9:49 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:35 - 9:39 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.4a Dragon Age Timeline (Pre-Canon)
 ```
- Marian ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:25 - 9:29 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:20 - 9:24 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:15 - 9:19 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:10 - 9:14 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:05 - 9:09 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.4b Dragon Age Timeline (Post-Canon)
 ```
- Marian ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Marian ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:95 - 9:99 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:90 - 9:94 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:85 - 9:89 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:80 - 9:84 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:75 - 9:79 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:70 - 9:74 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:65 - 9:69 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:60 - 9:64 Dragon ( Dragon Age )
+ Marian ☾⭒ Inquisitor — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
 ### 1.5 Verse
