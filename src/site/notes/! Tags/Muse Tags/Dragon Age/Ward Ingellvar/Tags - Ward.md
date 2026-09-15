@@ -165,121 +165,223 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Code
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Ghost of the Necropolis
 ```
- Ward ☾⭒ QuickID ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis ( Dragon Age )
 ```
 #### 1.1 Dragon Age Timeline (Series Canon)
 ```
- Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.1a Dragon Age Timeline (Pre-Canon)
 ```
- Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.1b Dragon Age Timeline (Post-Canon)
 ```
- Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ Ghost of the Necropolis — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.2 Verse
+### 1.2 Inquisition's Ghost
 ```
- Ward ☾⭒ QuickID ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost ( Dragon Age )
 ```
 #### 1.2 Dragon Age Timeline (Series Canon)
 ```
- Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.2a Dragon Age Timeline (Pre-Canon)
 ```
- Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.2b Dragon Age Timeline (Post-Canon)
 ```
- Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisition's Ghost — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.3 Verse
+### 1.3 Ancient Times
 ```
- Ward ☾⭒ QuickID ( Dragon Age )
+ Ward ☾⭒ Ancient Times ( Dragon Age )
 ```
 #### 1.3 Dragon Age Timeline (Series Canon)
 ```
- Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.3a Dragon Age Timeline (Pre-Canon)
 ```
- Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.3b Dragon Age Timeline (Post-Canon)
 ```
- Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ Ancient Times — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.4 Verse
+### 1.4 Rebellion's Ghost
 ```
- Ward ☾⭒ QuickID ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost ( Dragon Age )
 ```
 #### 1.4 Dragon Age Timeline (Series Canon)
 ```
+ Ward ☾⭒ Rebellion's Ghost — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.4a Dragon Age Timeline (Pre-Canon)
+```
+ Ward ☾⭒ Rebellion's Ghost — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.4b Dragon Age Timeline (Post-Canon)
+```
+ Ward ☾⭒ Rebellion's Ghost — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ Rebellion's Ghost — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.5 Spirit of Learning
+```
+ Ward ☾⭒ Spirit of Learning ( Dragon Age )
+```
+#### 1.5 Dragon Age Timeline (Series Canon)
+```
+ Ward ☾⭒ Spirit of Learning — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.5a Dragon Age Timeline (Pre-Canon)
+```
+ Ward ☾⭒ Spirit of Learning — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.5b Dragon Age Timeline (Post-Canon)
+```
+ Ward ☾⭒ Spirit of Learning — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ Spirit of Learning — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.6 Inquisitor
+```
+ Ward ☾⭒ Inquisitor ( Dragon Age )
+```
+#### 1.6 Dragon Age Timeline (Series Canon)
+```
+ Ward ☾⭒ Inquisitor — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.6a Dragon Age Timeline (Pre-Canon)
+```
+ Ward ☾⭒ Inquisitor — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.6b Dragon Age Timeline (Post-Canon)
+```
+ Ward ☾⭒ Inquisitor — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ Inquisitor — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.7 Verse
+```
+ Ward ☾⭒ QuickID ( Dragon Age )
+```
+#### 1.7 Dragon Age Timeline (Series Canon)
+```
  Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
-##### 1.4a Dragon Age Timeline (Pre-Canon)
+##### 1.7a Dragon Age Timeline (Pre-Canon)
 ```
  Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
@@ -288,7 +390,7 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Code
  Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
-##### 1.4b Dragon Age Timeline (Post-Canon)
+##### 1.7b Dragon Age Timeline (Post-Canon)
 ```
  Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
@@ -301,11 +403,11 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Code
  Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.5 Verse
+### 1.8 Verse
 ```
  Ward ☾⭒ QuickID ( Dragon Age )
 ```
-#### 1.5 Dragon Age Timeline (Series Canon)
+#### 1.8 Dragon Age Timeline (Series Canon)
 ```
  Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
@@ -313,7 +415,7 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Code
  Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
-##### 1.5a Dragon Age Timeline (Pre-Canon)
+##### 1.8a Dragon Age Timeline (Pre-Canon)
 ```
  Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
@@ -322,7 +424,7 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Code
  Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
-##### 1.5b Dragon Age Timeline (Post-Canon)
+##### 1.8b Dragon Age Timeline (Post-Canon)
 ```
  Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
@@ -334,6 +436,75 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar, Code
  Ward ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
  Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
+
+### 1.9 Verse
+```
+ Ward ☾⭒ QuickID ( Dragon Age )
+```
+#### 1.9 Dragon Age Timeline (Series Canon)
+```
+ Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.9a Dragon Age Timeline (Pre-Canon)
+```
+ Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.9b Dragon Age Timeline (Post-Canon)
+```
+ Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
+### 1.10 Verse
+```
+ Ward ☾⭒ QuickID ( Dragon Age )
+```
+#### 1.10 Dragon Age Timeline (Series Canon)
+```
+ Ward ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+```
+##### 1.10a Dragon Age Timeline (Pre-Canon)
+```
+ Ward ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+```
+##### 1.10b Dragon Age Timeline (Post-Canon)
+```
+ Ward ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
+ Ward ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+```
+
 
 ---
 ## Fandom Specific AUs
