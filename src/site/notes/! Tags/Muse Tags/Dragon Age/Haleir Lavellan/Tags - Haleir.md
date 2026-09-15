@@ -165,174 +165,174 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Haleir Lavellan, Cod
 
 ---
 ## Canon Divergent AUs
-### 1.1 Verse
+### 1.1 Guided By The Wolf
 ```
- Haleir ☾⭒ QuickID ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf ( Dragon Age )
 ```
 #### 1.1 Dragon Age Timeline (Series Canon)
 ```
- Haleir ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:50 - 9:54 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:45 - 9:49 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:40 - 9:44 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:35 - 9:39 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.1a Dragon Age Timeline (Pre-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:25 - 9:29 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:20 - 9:24 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:15 - 9:19 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:10 - 9:14 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:05 - 9:09 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.1b Dragon Age Timeline (Post-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:95 - 9:99 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:90 - 9:94 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:85 - 9:89 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:80 - 9:84 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:75 - 9:79 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:70 - 9:74 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:65 - 9:69 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:60 - 9:64 Dragon ( Dragon Age )
+ Haleir ☾⭒ Guided By The Wolf — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.2 Verse
+### 1.2 Wolf's Blessing
 ```
- Haleir ☾⭒ QuickID ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing ( Dragon Age )
 ```
 #### 1.2 Dragon Age Timeline (Series Canon)
 ```
- Haleir ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:50 - 9:54 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:45 - 9:49 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:40 - 9:44 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:35 - 9:39 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.2a Dragon Age Timeline (Pre-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:25 - 9:29 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:20 - 9:24 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:15 - 9:19 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:10 - 9:14 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:05 - 9:09 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.2b Dragon Age Timeline (Post-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:95 - 9:99 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:90 - 9:94 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:85 - 9:89 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:80 - 9:84 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:75 - 9:79 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:70 - 9:74 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:65 - 9:69 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:60 - 9:64 Dragon ( Dragon Age )
+ Haleir ☾⭒ Wolf's Blessing — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.3 Verse
+### 1.3 Ancient Times
 ```
- Haleir ☾⭒ QuickID ( Dragon Age )
+ Haleir ☾⭒ Ancient Times ( Dragon Age )
 ```
 #### 1.3 Dragon Age Timeline (Series Canon)
 ```
- Haleir ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:50 - 9:54 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:45 - 9:49 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:40 - 9:44 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:35 - 9:39 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.3a Dragon Age Timeline (Pre-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:25 - 9:29 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:20 - 9:24 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:15 - 9:19 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:10 - 9:14 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:05 - 9:09 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.3b Dragon Age Timeline (Post-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:95 - 9:99 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:90 - 9:94 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:85 - 9:89 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:80 - 9:84 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:75 - 9:79 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:70 - 9:74 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:65 - 9:69 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:60 - 9:64 Dragon ( Dragon Age )
+ Haleir ☾⭒ Ancient Times — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.4 Verse
+### 1.4 Rebellion
 ```
- Haleir ☾⭒ QuickID ( Dragon Age )
+ Haleir ☾⭒ Rebellion ( Dragon Age )
 ```
 #### 1.4 Dragon Age Timeline (Series Canon)
 ```
- Haleir ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:50 - 9:54 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:45 - 9:49 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:40 - 9:44 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:35 - 9:39 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.4a Dragon Age Timeline (Pre-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:25 - 9:29 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:20 - 9:24 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:15 - 9:19 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:10 - 9:14 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:05 - 9:09 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.4b Dragon Age Timeline (Post-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:95 - 9:99 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:90 - 9:94 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:85 - 9:89 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:80 - 9:84 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:75 - 9:79 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:70 - 9:74 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:65 - 9:69 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:60 - 9:64 Dragon ( Dragon Age )
+ Haleir ☾⭒ Rebellion — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
-### 1.5 Verse
+### 1.5 Elvhenan
 ```
- Haleir ☾⭒ QuickID ( Dragon Age )
+ Haleir ☾⭒ Elvhenan ( Dragon Age )
 ```
 #### 1.5 Dragon Age Timeline (Series Canon)
 ```
- Haleir ☾⭒ QuickID — 9:50 - 9:54 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:45 - 9:49 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:40 - 9:44 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:35 - 9:39 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:30 - 9:34 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:50 - 9:54 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:45 - 9:49 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:40 - 9:44 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:35 - 9:39 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:30 - 9:34 Dragon ( Dragon Age )
 ```
 ##### 1.5a Dragon Age Timeline (Pre-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:25 - 9:29 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:20 - 9:24 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:15 - 9:19 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:10 - 9:14 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:05 - 9:09 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:00 - 9:04 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:25 - 9:29 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:20 - 9:24 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:15 - 9:19 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:10 - 9:14 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:05 - 9:09 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:00 - 9:04 Dragon ( Dragon Age )
 ```
 ##### 1.5b Dragon Age Timeline (Post-Canon)
 ```
- Haleir ☾⭒ QuickID — 9:95 - 9:99 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:90 - 9:94 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:85 - 9:89 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:80 - 9:84 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:75 - 9:79 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:70 - 9:74 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:65 - 9:69 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:60 - 9:64 Dragon ( Dragon Age )
- Haleir ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:95 - 9:99 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:90 - 9:94 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:85 - 9:89 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:80 - 9:84 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:75 - 9:79 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:70 - 9:74 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:65 - 9:69 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:60 - 9:64 Dragon ( Dragon Age )
+ Haleir ☾⭒ Elvhenan — 9:55 - 9:59 Dragon ( Dragon Age )
 ```
 
 ---
