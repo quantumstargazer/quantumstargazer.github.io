@@ -57,7 +57,7 @@
 
 > **AU:** *Antivan Crow as of 9:33 Dragon*
 > 
-> **NOTICE:** *The HoF is known only as "Tathas Arainai", who was 'killed' by the Crows in 9:33 Dragon. Few people knew that Tathas was not truly her name, or that she joined the Crows after fleeing Ferelden after the events in Amaranthine.*
+> **NOTICE:** *The HoF is known only as "**Tathas Arainai**", who was 'killed' by the Crows in 9:33 Dragon. Few people knew that Tathas was never truly her name, or that she joins the Crows after fleeing Ferelden following the events in Amaranthine.*
 
 ---
 # Quick Info
