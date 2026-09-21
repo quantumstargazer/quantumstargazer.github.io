@@ -84,11 +84,11 @@
 > | | |
 > |---|---|
 > | 1492 DR | 99 +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
+> | 1400 DR | XX +/- years |
+> | 1393 DR | 0 +/- years |
+> | 1367 DR | — |
+> | 1300 DR | — |
+> | 1067 DR | — |
 >
 > **Birthdate**
 >

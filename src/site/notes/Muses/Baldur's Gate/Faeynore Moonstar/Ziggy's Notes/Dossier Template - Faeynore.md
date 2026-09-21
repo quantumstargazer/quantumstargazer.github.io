@@ -85,11 +85,11 @@
 > | | |
 > |---|---|
 > | 1492 DR | 326 +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
-> | YEAR | XX +/- years |
+> | 1400 DR | XX +/- years |
+> | 1367 DR | XX +/- years |
+> | 1300 DR | XX +/- years |
+> | 1166 DR | 0 +/- years |
+> | 1067 DR | — |
 >
 > **Birthdate**
 >
@@ -164,7 +164,7 @@
 >
 > | | |
 > |---|---|
-> | Primary Class | Medium (*Investigator*) |
+> | Primary Class | Medium (*Investigator*)[^1] |
 > | Secondary Class | College of Glamour Bard |
 > | Tertiary Class | — |
 > | Additional Support(s) | — |
@@ -426,3 +426,5 @@
 
 ---
 # Footnotes
+
+[^1]: **Mediums** use their trinkets to mix between this world and the Etheral Plane. With one foot in life and one in the grave, the dead guide their hand (and their rolls). — [The Investigator](https://www.nexusmods.com/baldursgate3/mods/12687) mod.
