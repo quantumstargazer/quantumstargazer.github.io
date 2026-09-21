@@ -239,7 +239,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Connections
 ## Adaia Tabris
 
-> [!profilebox]- Adaia Tabris née Arainai (she/her)
+> [!profilebox]+ Adaia Tabris née Arainai (she/her)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -263,7 +263,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Cyrion Tabris
 
-> [!profilebox]- Cyrion Tabris (he/him)
+> [!profilebox]+ Cyrion Tabris (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -287,7 +287,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Soris
 
-> [!profilebox]- Soris (he/him)
+> [!profilebox]+ Soris (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -311,7 +311,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Shianni
 
-> [!profilebox]- Shianni (she/her)
+> [!profilebox]+ Shianni (she/her)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -335,7 +335,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Nelaros
 
-> [!profilebox]- Nelaros (he/him)
+> [!profilebox]+ Nelaros (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -361,7 +361,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Headcanons
 ## Adaia's Death
 
-> [!statsbox]- Adaia's Death
+> [!statsbox]+ Adaia's Death
 >
 > **Basic Info**
 > 
@@ -394,7 +394,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Ancient Memories
 
-> [!statsbox]- Ancient Memories
+> [!statsbox]+ Ancient Memories
 >
 > **Basic Info**
 > 
@@ -429,7 +429,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Wishlists
 ## Secrets Revealed
 
-> [!statsbox]- Secrets Revealed
+> [!statsbox]+ Secrets Revealed
 >
 > **Basic Info**
 > 
@@ -460,7 +460,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Crow Negotiations
 
-> [!statsbox]- Crow Negotiations
+> [!statsbox]+ Crow Negotiations
 >
 > **Basic Info**
 > 
@@ -495,7 +495,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Not "Self-Sacrificing Hero" Material
 
-> [!statsbox]- Not "Self-Sacrificing Hero" Material
+> [!statsbox]+ Not "Self-Sacrificing Hero" Material
 >
 > **Basic Info**
 > 
@@ -528,7 +528,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Ashina Tabris Is "Dead"
 
-> [!statsbox]- Ashina Tabris Is "Dead"
+> [!statsbox]+ Ashina Tabris Is "Dead"
 >
 > **Basic Info**
 > 
@@ -559,7 +559,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Adaia Was An Antivan Crow
 
-> [!statsbox]- Adaia Was An Antivan Crow Of House Arainai
+> [!statsbox]+ Adaia Was An Antivan Crow Of House Arainai
 >
 > **Basic Info**
 > 
@@ -593,7 +593,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Questions Of Paternity
 
-> [!statsbox]- Questions Of Paternity
+> [!statsbox]+ Questions Of Paternity
 >
 > **Basic Info**
 > 
@@ -626,7 +626,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Ability: Blight Obfuscation
 
-> [!statsbox]- Warden Ability: Blight Obfuscation
+> [!statsbox]+ Warden Ability: Blight Obfuscation
 >
 > **Basic Info**
 > 
@@ -660,7 +660,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Ability: Power of Blood
 
-> [!statsbox]- Warden Ability: Power of Blood
+> [!statsbox]+ Warden Ability: Power of Blood
 >
 > **Basic Info**
 > 
@@ -691,7 +691,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Languages Spoken: Common & Antivan
 
-> [!statsbox]- Languages Spoken: Common & Antivan
+> [!statsbox]+ Languages Spoken: Common & Antivan
 >
 > **Basic Info**
 > 
@@ -722,7 +722,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Language Learned: Qunlat
 
-> [!statsbox]- Language Learned: Qunlat
+> [!statsbox]+ Language Learned: Qunlat
 >
 > **Basic Info**
 > 
@@ -755,7 +755,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Conscripted Against Her Will
 
-> [!statsbox]- Conscripted Against Her Will
+> [!statsbox]+ Conscripted Against Her Will
 >
 > **Basic Info**
 > 
@@ -786,7 +786,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Tathas Is Killed In 9:33 Dragon
 
-> [!statsbox]- Warden Tathas Is Killed In 9:33 Dragon
+> [!statsbox]+ Warden Tathas Is Killed In 9:33 Dragon
 >
 > **Basic Info**
 > 
@@ -817,7 +817,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Tathas Is Wanted By Weisshaupt
 
-> [!statsbox]- Warden Tathas Is Wanted By Weisshaupt
+> [!statsbox]+ Warden Tathas Is Wanted By Weisshaupt
 >
 > **Basic Info**
 > 
@@ -850,7 +850,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Arranged Marriage Wedding Disaster
 
-> [!statsbox]- Arranged Marriage Wedding Disaster
+> [!statsbox]+ Arranged Marriage Wedding Disaster
 >
 > **Basic Info**
 > 
@@ -881,7 +881,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### First Kills
 
-> [!statsbox]- First Kills
+> [!statsbox]+ First Kills
 >
 > **Basic Info**
 > 
@@ -914,7 +914,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Tathas: Hero of Ferelden
 
-> [!statsbox]- Warden Tathas: Hero of Ferelden
+> [!statsbox]+ Warden Tathas: Hero of Ferelden
 >
 > **Basic Info**
 > 
@@ -966,7 +966,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Searching For A Cure
 
-> [!statsbox]- Searching For A Cure
+> [!statsbox]+ Searching For A Cure
 >
 > **Basic Info**
 > 
@@ -987,48 +987,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
 > - Ashina does not immediately involve many people in her search, in part because of the conditions of her contract with House de Riva and the Crows that ensures the contracts that were taken out against "*Tathas Arainai*" are considered complete now that "Warden Tathas" is dead and *she* is a de Riva.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Morrigan
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Morrigan |
-> > | Dynamic | Best Friends |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Zevran Arainai
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Zevran Arainai |
-> > | Dynamic | Best Friends |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1042,7 +1000,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Language Learned: Ancient Elvhen
 
-> [!statsbox]- Language Learned: Ancient Elvhen
+> [!statsbox]+ Language Learned: Ancient Elvhen
 >
 > **Basic Info**
 > 
@@ -1061,29 +1019,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, of which she can use little of herself, as well as the elvhen language from its memories that it shares with her.
 >  
 >  She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly *how* she learned it in the first place.
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 

@@ -210,7 +210,7 @@
 > 
 > | | |
 > |---|---|
-> | Name | Prince of Frost |
+> | Name | [[By Request Only - Roster#Prince of Frost\|Prince of Frost]] |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
 > | Pre-Established | Yes |
 > | Connection | ~~Master~~ Patron |

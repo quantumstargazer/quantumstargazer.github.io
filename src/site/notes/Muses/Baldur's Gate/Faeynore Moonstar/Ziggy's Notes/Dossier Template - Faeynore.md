@@ -191,26 +191,32 @@
 
 ---
 # Connections
-## NPC
+## Astarion Ancunín
 
-> [!profilebox]+ NPCName (PRONOUNS)
-> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> [!profilebox]+ Astarion Ancunín (he/him)
+> ![Portrait_Astarion-827447668.png\|150x150](/img/user/z%20Assets/Attachments/Portrait_Astarion-827447668.png)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Astarion Ancunín |
+> | Fandom | Baldur's Gate (*Forgotten Realms*) |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | Acquaintances |
 > | Status | Alive |
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Faeynore has served in Astarion's courtroom as an expert witness on several occasions.*
 > 
 > TBA
+> 
+> **Mains**
+> 
+> | | |
+> |---|---|
+> | Main - [[Shining Stars + Stargazers#lanternlit\|lanternlit]] | Faeynore & Astarion |
 > 
 > 
 > 
