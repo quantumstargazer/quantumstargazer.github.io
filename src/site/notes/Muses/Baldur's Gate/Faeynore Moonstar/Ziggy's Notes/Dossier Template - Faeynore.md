@@ -407,7 +407,7 @@
 ---
 ## Applicable Mods
 
-- *TBA*
+- [The Investigator](https://www.nexusmods.com/baldursgate3/mods/12687)
 
 
 
