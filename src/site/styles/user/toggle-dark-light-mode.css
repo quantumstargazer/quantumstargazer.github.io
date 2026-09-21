@@ -2,10 +2,10 @@
 
 #floating-control {
 position: fixed;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
 color: var(--link-color);
-bottom: 1vmax;
+top: 1vmax;
 left: 1vmax;
 font-size: 24px;
 z-index: 999999;
