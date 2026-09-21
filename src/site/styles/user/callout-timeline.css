@@ -10,7 +10,6 @@
   /* links */
   
   & a {
-    color: inherit;
     font-weight: inherit;
     text-decoration: underline solid; 
     font-style: inherit;   
@@ -28,7 +27,6 @@
 
     &:hover {
       text-decoration: underline solid;
-      color: inherit;
     }
   } 
   
