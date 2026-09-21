@@ -125,9 +125,9 @@
 > | | |
 > |---|---|
 > | Planet of Origin | Toril |
-> | Place of Birth | Drelagara - Evermeet - Trackless Sea - The Feywild |
+> | Place of Birth | Drelagara - Evermeet - Trackless Sea - Feywild |
 > | Homeworld | Toril |
-> | Nationality | — |
+> | Nationality | Baldurian |
 > | Home Town | Baldur's Gate - Storm Coast - Faerûn |
 >
 > **Languages**
