@@ -174,7 +174,7 @@
 > |---|---|
 > | Primary Class | Long Night Scion (*Archfey Warlock*) |
 > | Secondary Class | Misfortune Bringer ( *Rogue* ) |
-> | Tertiary Class | Frozen Sorcery ( *~~Sorcerer~~ — Wintertouched* )[^1] |
+> | Tertiary Class | Frozen Sorcery ( *~~Sorcerer~~ Wintertouched* )[^1] |
 > | Additional Support(s) | — |
 > | Fighting Style(s) | Spellblade |
 > |  | Ice (*Cold*) Magic |
