@@ -361,7 +361,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Headcanons
 ## Adaia's Death
 
-> [!statsbox]- Adaia's Death ( Dragon Age )
+> [!statsbox]- Adaia's Death
 >
 > **Basic Info**
 > 
@@ -394,7 +394,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Ancient Memories
 
-> [!statsbox]- Ancient Memories ( Dragon Age )
+> [!statsbox]- Ancient Memories
 >
 > **Basic Info**
 > 
@@ -429,7 +429,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Wishlists
 ## Secrets Revealed
 
-> [!statsbox]- Secrets Revealed ( Dragon Age )
+> [!statsbox]- Secrets Revealed
 >
 > **Basic Info**
 > 
@@ -460,7 +460,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Crow Negotiations
 
-> [!statsbox]- Crow Negotiations ( Dragon Age )
+> [!statsbox]- Crow Negotiations
 >
 > **Basic Info**
 > 
@@ -495,7 +495,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Not "Self-Sacrificing Hero" Material
 
-> [!statsbox]- Not "Self-Sacrificing Hero" Material ( Dragon Age )
+> [!statsbox]- Not "Self-Sacrificing Hero" Material
 >
 > **Basic Info**
 > 
@@ -528,7 +528,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Ashina Tabris Is "Dead"
 
-> [!statsbox]- Ashina Tabris Is "Dead" ( Dragon Age )
+> [!statsbox]- Ashina Tabris Is "Dead"
 >
 > **Basic Info**
 > 
@@ -559,7 +559,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Adaia Was An Antivan Crow
 
-> [!statsbox]- Adaia Was An Antivan Crow Of House Arainai ( Dragon Age )
+> [!statsbox]- Adaia Was An Antivan Crow Of House Arainai
 >
 > **Basic Info**
 > 
@@ -593,7 +593,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Questions Of Paternity
 
-> [!statsbox]- Questions Of Paternity ( Dragon Age )
+> [!statsbox]- Questions Of Paternity
 >
 > **Basic Info**
 > 
@@ -626,7 +626,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Ability: Blight Obfuscation
 
-> [!statsbox]- Warden Ability: Blight Obfuscation ( Dragon Age )
+> [!statsbox]- Warden Ability: Blight Obfuscation
 >
 > **Basic Info**
 > 
@@ -660,7 +660,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Ability: Power of Blood
 
-> [!statsbox]- Warden Ability: Power of Blood ( Dragon Age )
+> [!statsbox]- Warden Ability: Power of Blood
 >
 > **Basic Info**
 > 
@@ -691,7 +691,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Languages Spoken: Common & Antivan
 
-> [!statsbox]- Languages Spoken: Common & Antivan ( Dragon Age )
+> [!statsbox]- Languages Spoken: Common & Antivan
 >
 > **Basic Info**
 > 
@@ -722,7 +722,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Language Learned: Qunlat
 
-> [!statsbox]- Language Learned: Qunlat ( Dragon Age )
+> [!statsbox]- Language Learned: Qunlat
 >
 > **Basic Info**
 > 
@@ -755,7 +755,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Conscripted Against Her Will
 
-> [!statsbox]- Conscripted Against Her Will ( Dragon Age )
+> [!statsbox]- Conscripted Against Her Will
 >
 > **Basic Info**
 > 
@@ -786,7 +786,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Tathas Is Killed In 9:33 Dragon
 
-> [!statsbox]- Warden Tathas Is Killed In 9:33 Dragon ( Dragon Age )
+> [!statsbox]- Warden Tathas Is Killed In 9:33 Dragon
 >
 > **Basic Info**
 > 
@@ -817,7 +817,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Tathas Is Wanted By Weisshaupt
 
-> [!statsbox]- Warden Tathas Is Wanted By Weisshaupt ( Dragon Age )
+> [!statsbox]- Warden Tathas Is Wanted By Weisshaupt
 >
 > **Basic Info**
 > 
@@ -850,7 +850,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Arranged Marriage Wedding Disaster
 
-> [!statsbox]- Arranged Marriage Wedding Disaster ( Dragon Age )
+> [!statsbox]- Arranged Marriage Wedding Disaster
 >
 > **Basic Info**
 > 
@@ -881,7 +881,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### First Kills
 
-> [!statsbox]- First Kills ( Dragon Age )
+> [!statsbox]- First Kills
 >
 > **Basic Info**
 > 
@@ -914,7 +914,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Warden Tathas: Hero of Ferelden
 
-> [!statsbox]- Warden Tathas: Hero of Ferelden ( Dragon Age )
+> [!statsbox]- Warden Tathas: Hero of Ferelden
 >
 > **Basic Info**
 > 
@@ -966,7 +966,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Searching For A Cure
 
-> [!statsbox]- Searching For A Cure ( Dragon Age )
+> [!statsbox]- Searching For A Cure
 >
 > **Basic Info**
 > 
@@ -1042,7 +1042,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Language Learned: Ancient Elvhen
 
-> [!statsbox]- Language Learned: Ancient Elvhen ( Dragon Age )
+> [!statsbox]- Language Learned: Ancient Elvhen
 >
 > **Basic Info**
 > 
