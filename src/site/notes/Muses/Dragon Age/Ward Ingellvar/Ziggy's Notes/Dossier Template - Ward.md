@@ -201,19 +201,43 @@
 
 ---
 # Connections
-## NPC
+## Vorgoth
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ Vorgoth (they/them/themselves)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Vorgoth |
+> | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | Platonic - *Familial* |
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+## Myrna
+
+> [!profilebox]+ Myrna (she/her)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Myrna |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Mentor - Tutor |
+> |  | Platonic - *Family Friend* |
 > | Status | Alive |
 >
 > **Summary**

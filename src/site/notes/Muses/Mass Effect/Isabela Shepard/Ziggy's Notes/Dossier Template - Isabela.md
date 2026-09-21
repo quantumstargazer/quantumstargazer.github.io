@@ -211,20 +211,21 @@
 
 ---
 # Connections
-## NPC
+## Nihlus Kryik
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ Nihlus Kryik (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Nihlus Kryik |
+> | Fandom | Mass Effect |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
-> | Status | Alive |
+> | Connection | Potential Love Interest (*Default*) |
+> |  | Platonic - Queerplatonic |
+> | Status | Deceased - *2183 CE* |
 >
 > **Summary**
 > 

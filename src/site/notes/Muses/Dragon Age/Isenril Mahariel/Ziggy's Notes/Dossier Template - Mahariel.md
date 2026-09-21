@@ -196,19 +196,69 @@
 
 ---
 # Connections
-## NPC
+## Tamlen
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ Tamlen (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Tamlen |
+> | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | Platonic - Queerplatonic |
+> |  | Potential Love Interest |
+> | Status | Deceased - *9:30 Dragon* |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+
+## Merrill
+
+> [!profilebox]+ Merrill (she/her)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Merrill |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - Queerplatonic |
+> |  | Potential Love Interest |
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+
+## Marethari
+
+> [!profilebox]+ Marethari (she/her)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Marethari |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Antagonistic |
 > | Status | Alive |
 >
 > **Summary**

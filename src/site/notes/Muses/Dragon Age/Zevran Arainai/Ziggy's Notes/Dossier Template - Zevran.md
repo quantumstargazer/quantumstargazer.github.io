@@ -200,20 +200,21 @@
 
 ---
 # Connections
-## NPC
+## The Warden
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ The Warden (they/them)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
-> | Pre-Established | Yes |
-> | Connection | Platonic |
-> | Status | Alive |
+> | Name | The Warden |
+> | Fandom | Dragon Age |
+> | Pre-Established | No |
+> | Connection | Potential Love Interest (*Default*) |
+> |  | Platonic - Queerplatonic |
+> | Status | Deceased (*Default*) |
 >
 > **Summary**
 > 

@@ -193,19 +193,135 @@
 
 ---
 # Connections
-## NPC
+## Garrett Hawke
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ Garrett Hawke (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Garrett Hawke |
+> | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | Platonic - *Familial* |
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+## Bethany Hawke
+
+> [!profilebox]+ Bethany Hawke (she/her)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Bethany Hawke |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - *Familial* |
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+## Carver Hawke
+
+> [!profilebox]+ Carver Hawke (he/him)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Carver Hawke |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - Familial |
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+## Malcolm Hawke
+
+> [!profilebox]+ Malcolm Hawke (he/him)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Malcolm Hawke |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - *Familial* |
+> | Status | Deceased - *9:27 Dragon* |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+## Leandra Hawke née Amell
+
+> [!profilebox]+ Leandra Hawke née Amell (she/her)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Leandra Hawke née Amell |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - *Familial* |
+> | Status | Deceased - *9:35 Dragon* |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
+> 
+> 
+## Varric Tethras
+
+> [!profilebox]+ Varric Tethras (he/him)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Varric Tethras |
+> | Fandom | Dragon Age |
+> | Pre-Established | No |
+> | Connection | Potential Love Interest (*Default*) |
+> |  | Platonic - Queerplatonic |
 > | Status | Alive |
 >
 > **Summary**

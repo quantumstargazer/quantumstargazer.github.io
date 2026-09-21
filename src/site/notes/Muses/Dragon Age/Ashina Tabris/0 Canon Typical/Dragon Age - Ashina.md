@@ -236,7 +236,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 *TBA*
 
 ---
-# Connections
+Connections
 ## Adaia Tabris
 
 > [!profilebox]+ Adaia Tabris née Arainai (she/her)
@@ -249,7 +249,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Name | Adaia Tabris née Arainai |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic (*Familial*) | 
+> | Connection | Platonic - *Familial* | 
 > | Status |  ***Deceased*** |
 >
 > **Summary**
@@ -273,7 +273,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Name | Cyrion Tabris |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic (*Familial*) | 
+> | Connection | Platonic - *Familial* | 
 > | Status | Alive |
 >
 > **Summary**
@@ -297,7 +297,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Name | Soris |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic (*familial*) | 
+> | Connection | Platonic - *Familial* | 
 > | Status | Alive |
 >
 > **Summary**
@@ -321,7 +321,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Name | Shianni |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic (*familial*) | 
+> | Connection | Platonic - *Familial* | 
 > | Status | Alive |
 >
 > **Summary**
@@ -345,7 +345,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > | Name | Nelaros |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Acquaintances (*Arranged Engagement*) |
+> | Connection | Acquaintances - *Arranged Engagement* |
 > | Status | ***Deceased*** |
 >
 > **Summary**

@@ -201,24 +201,120 @@
 
 ---
 # Connections
-## NPC
+## Adaia Tabris
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ Adaia Tabris née Arainai (she/her)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Adaia Tabris née Arainai |
+> | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | Platonic - *Familial* | 
+> | Status |  ***Deceased*** |
+>
+> **Summary**
+> 
+> > *Adaia is Ashina's mother, and the wife of Cyrion Tabris of Denerim.*
+> 
+> TBA
+> 
+> 
+> 
+
+## Cyrion Tabris
+
+> [!profilebox]+ Cyrion Tabris (he/him)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Cyrion Tabris |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - *Familial* | 
 > | Status | Alive |
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Cyrion is Ashina's father, and the widower of Adaia Tabris née Arainai.*
+> 
+> TBA
+> 
+> 
+> 
+
+## Soris
+
+> [!profilebox]+ Soris (he/him)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Soris |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - *Familial* | 
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *Soris is Ashina's cousin, and Cyrion Tabris' nephew.*
+> 
+> TBA
+> 
+> 
+> 
+
+## Shianni
+
+> [!profilebox]+ Shianni (she/her)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Shianni |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Platonic - *Familial* | 
+> | Status | Alive |
+>
+> **Summary**
+> 
+> > *Shianni is Ashina's cousin, and Cyrion Tabris' niece.*
+> 
+> TBA
+> 
+> 
+> 
+
+## Nelaros
+
+> [!profilebox]+ Nelaros (he/him)
+> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Nelaros |
+> | Fandom | Dragon Age |
+> | Pre-Established | Yes |
+> | Connection | Acquaintances - *Arranged Engagement* |
+> | Status | ***Deceased*** |
+>
+> **Summary**
+> 
+> > *Nelaros was Ashina's intended betrothed before the disasterous events of their wedding in 9:30 Dragon. He died while attempting to rescue her and the other kidnapped women from the Arl's palace after the bridal party was stolen mid-ceremony by Vauaghn Kendells.*
 > 
 > TBA
 > 

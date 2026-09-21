@@ -197,19 +197,20 @@
 
 ---
 # Connections
-## NPC
+## Viago de Riva
 
-> [!profilebox]+ NPCName (PRONOUNS)
+> [!profilebox]+ Viago de Riva (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Viago de Riva |
+> | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | Talon - Master Crow |
+> |  | Platonic - Queerplatonic |
 > | Status | Alive |
 >
 > **Summary**
