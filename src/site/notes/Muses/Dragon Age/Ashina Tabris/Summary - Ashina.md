@@ -479,6 +479,49 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 > 
 
+## Crows Takeover
+
+> [!statsbox]+ Crows Takeover ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse/AU Details | Crows Takeover |
+> | Verse/AU Type | Altverse - Canon Divergent AU |
+> | Setting | Dragon Age |
+> | Timeline | — |
+> | Condition | Warden - HoF - Crow |
+> |  | High Approval With Zevran |
+> | Open To Plotting | Yes |
+> | | — Alt Crow Houses (*Arainai, Dellamorte, De Riva*) |
+> | Crossovers | Yes |
+> | Availability | Specify To Request Verse |
+>
+> **Summary**
+> 
+> > *Based on the original Epilogue cards in DAO & Awakening, where Zevran and the Warden potentially take over the Crows.*
+> 
+> TBA
+>  
+> **Tumblr Tags**
+> 
+> | | |
+> |---|---|
+> | Verse | Ashina ☾⭒ Crows Takeover ( Dragon Age ) |
+> 
+> > [!statsbox]- Timeline Tags
+> >
+> > | | |
+> > |---|---|
+> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Crows Takeover — 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Crows Takeover — 9:45 - 9:49 Dragon ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Crows Takeover — 9:40 - 9:44 Dragon ( Dragon Age ) |
+> > | 9:35 - 9:39 Dragon (*Default*) | Ashina ☾⭒ Crows Takeover — 9:35 - 9:39 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Crows Takeover — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> 
+> 
+
 
 
 ---
