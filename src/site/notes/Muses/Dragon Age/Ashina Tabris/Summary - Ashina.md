@@ -12,7 +12,7 @@
 >  -> ~~Ashina Tabris~~
 > Nickname -> Ash
 >  -> Snapdragon (*Varric only*)
-> Alias -> Tabris Arainai [^1]
+> Alias -> Tathas Arainai [^1]
 >  -> Dark Wolf of Denerim
 >  -> Grey Raven (*Crows Only*)
 > Gender -> Female (*GNC*)
