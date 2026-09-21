@@ -201,24 +201,24 @@
 
 ---
 # Connections
-## NPC
+## Prince of Frost
 
-> [!profilebox]+ NPCName (PRONOUNS)
-> ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> [!profilebox]+ Prince of Frost (he/him)
+> ![38762a30ac75e909aef173da30242a53-2968035018.jpg\|150x150](/img/user/z%20Assets/Attachments/38762a30ac75e909aef173da30242a53-2968035018.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | NPCName |
-> | Fandom | — |
+> | Name | Prince of Frost |
+> | Fandom | Baldur's Gate (*Forgotten Realms*) |
 > | Pre-Established | Yes |
-> | Connection | Platonic |
+> | Connection | ~~Master~~ Patron |
 > | Status | Alive |
 >
 > **Summary**
 > 
-> >TBA
+> > *Archfey — Winter Court*
 > 
 > TBA
 > 
