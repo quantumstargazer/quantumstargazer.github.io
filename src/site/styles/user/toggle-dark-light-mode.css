@@ -2,8 +2,8 @@
 
 #floating-control {
 position: fixed;
-  width: 60px;
-  height: 70px;
+  width: 30px;
+  height: 30px;
 color: var(--link-color);
 bottom: 1vmax;
 right: 1vmax;
