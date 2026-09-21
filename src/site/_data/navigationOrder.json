@@ -136,9 +136,19 @@
     "Muse Tags"
   ],
   "/! Tags/Muse Tags": [
-    "Dragon Age",
     "Baldur's Gate",
+    "Dragon Age",
     "Mass Effect"
+  ],
+  "/! Tags/Muse Tags/Baldur's Gate": [
+    "Faeynore Moonstar",
+    "Tavares Umbrafae"
+  ],
+  "/! Tags/Muse Tags/Baldur's Gate/Faeynore Moonstar": [
+    "Tags - Faeynore"
+  ],
+  "/! Tags/Muse Tags/Baldur's Gate/Tavares Umbrafae": [
+    "Tags - Tavares"
   ],
   "/! Tags/Muse Tags/Dragon Age": [
     "Ashina Tabris",
@@ -170,16 +180,6 @@
   "/! Tags/Muse Tags/Dragon Age/Zevran Arainai": [
     "Tags - Zevran"
   ],
-  "/! Tags/Muse Tags/Baldur's Gate": [
-    "Faeynore Moonstar",
-    "Tavares Umbrafae"
-  ],
-  "/! Tags/Muse Tags/Baldur's Gate/Faeynore Moonstar": [
-    "Tags - Faeynore"
-  ],
-  "/! Tags/Muse Tags/Baldur's Gate/Tavares Umbrafae": [
-    "Tags - Tavares"
-  ],
   "/! Tags/Muse Tags/Mass Effect": [
     "Isabela Shepard"
   ],
@@ -187,38 +187,13 @@
     "Tags - Isabela"
   ],
   "/Rulebook (Old)": [
-    "FAQ Details",
-    "Guidelines Details",
     "Rules Details",
+    "Guidelines Details",
+    "FAQ Details",
     "Actual Rules",
     "Guidelines",
     "RP FAQ",
     "Rulebook - Index"
-  ],
-  "/Rulebook (Old)/FAQ Details": [
-    "Accessibility - FAQ",
-    "Answered FAQs - FAQ",
-    "Blocking + Following - FAQ",
-    "Do's + Don'ts - FAQ",
-    "Mature Audiences Only - FAQ",
-    "Muses - FAQ",
-    "Non-Roleplayers - FAQ",
-    "Post Formatting - FAQ",
-    "Starting Interactions - FAQ",
-    "Tropes + Themes - FAQ",
-    "Verses + AUs - FAQ"
-  ],
-  "/Rulebook (Old)/Guidelines Details": [
-    "Blanket Permissions - Guidelines",
-    "Communications - Guidelines",
-    "Forms — Interaction - Guidelines",
-    "Forms — Interest Tracking - Guidelines",
-    "Inbox - Guidelines",
-    "Interactions - Guidelines",
-    "Muses - Guidelines",
-    "Ships + Dynamics - Guidelines",
-    "Starters - Guidelines",
-    "Verses + AUs - Guidelines"
   ],
   "/Rulebook (Old)/Rules Details": [
     "Fandom Specific Rules",
@@ -235,5 +210,30 @@
     "! Baldur's Gate - Rules",
     "! Dragon Age - Rules",
     "! Mass Effect - Rules"
+  ],
+  "/Rulebook (Old)/Guidelines Details": [
+    "Blanket Permissions - Guidelines",
+    "Communications - Guidelines",
+    "Forms — Interaction - Guidelines",
+    "Forms — Interest Tracking - Guidelines",
+    "Inbox - Guidelines",
+    "Interactions - Guidelines",
+    "Muses - Guidelines",
+    "Ships + Dynamics - Guidelines",
+    "Starters - Guidelines",
+    "Verses + AUs - Guidelines"
+  ],
+  "/Rulebook (Old)/FAQ Details": [
+    "Accessibility - FAQ",
+    "Answered FAQs - FAQ",
+    "Blocking + Following - FAQ",
+    "Do's + Don'ts - FAQ",
+    "Mature Audiences Only - FAQ",
+    "Muses - FAQ",
+    "Non-Roleplayers - FAQ",
+    "Post Formatting - FAQ",
+    "Starting Interactions - FAQ",
+    "Tropes + Themes - FAQ",
+    "Verses + AUs - FAQ"
   ]
 }
