@@ -15,9 +15,27 @@
     "Interactive Forms"
   ],
   "/Muses": [
-    "Dragon Age",
     "Baldur's Gate",
+    "Dragon Age",
     "Mass Effect"
+  ],
+  "/Muses/Baldur's Gate": [
+    "Faeynore Moonstar",
+    "Tavares Umbrafae"
+  ],
+  "/Muses/Baldur's Gate/Faeynore Moonstar": [
+    "Summary - Faeynore",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Baldur's Gate/Faeynore Moonstar/Ziggy's Notes": [
+    "Dossier Template - Faeynore"
+  ],
+  "/Muses/Baldur's Gate/Tavares Umbrafae": [
+    "Summary - Tavares",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Baldur's Gate/Tavares Umbrafae/Ziggy's Notes": [
+    "Dossier Template - Tavares"
   ],
   "/Muses/Dragon Age": [
     "Ashina Tabris",
@@ -30,44 +48,66 @@
   ],
   "/Muses/Dragon Age/Ashina Tabris": [
     "Summary - Ashina",
-    "0 Canon Typical"
+    "0 Canon Typical",
+    "Ziggy's Notes"
   ],
   "/Muses/Dragon Age/Ashina Tabris/0 Canon Typical": [
     "Dragon Age - Ashina"
   ],
+  "/Muses/Dragon Age/Ashina Tabris/Ziggy's Notes": [
+    "Dossier Template - Ashina"
+  ],
   "/Muses/Dragon Age/Haleir Lavellan": [
-    "Summary - Haleir"
+    "Summary - Haleir",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Dragon Age/Haleir Lavellan/Ziggy's Notes": [
+    "Dossier Template - Haleir"
   ],
   "/Muses/Dragon Age/Isenril Mahariel": [
-    "Summary - Mahariel"
+    "Summary - Mahariel",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Dragon Age/Isenril Mahariel/Ziggy's Notes": [
+    "Dossier Template - Mahariel"
   ],
   "/Muses/Dragon Age/Leonardo de Riva": [
-    "Summary - Leonardo"
+    "Summary - Leonardo",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Dragon Age/Leonardo de Riva/Ziggy's Notes": [
+    "Dossier Template - Leonardo"
   ],
   "/Muses/Dragon Age/Marian Hawke": [
-    "Summary - Marian"
+    "Summary - Marian",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Dragon Age/Marian Hawke/Ziggy's Notes": [
+    "Dossier Template - Marian"
   ],
   "/Muses/Dragon Age/Ward Ingellvar": [
-    "Summary - Ward"
+    "Summary - Ward",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Dragon Age/Ward Ingellvar/Ziggy's Notes": [
+    "Dossier Template - Ward"
   ],
   "/Muses/Dragon Age/Zevran Arainai": [
-    "Summary - Zevran"
+    "Summary - Zevran",
+    "Ziggy's Notes"
   ],
-  "/Muses/Baldur's Gate": [
-    "Faeynore Moonstar",
-    "Tavares Umbrafae"
-  ],
-  "/Muses/Baldur's Gate/Faeynore Moonstar": [
-    "Summary - Faeynore"
-  ],
-  "/Muses/Baldur's Gate/Tavares Umbrafae": [
-    "Summary - Tavares"
+  "/Muses/Dragon Age/Zevran Arainai/Ziggy's Notes": [
+    "Dossier Template - Zevran"
   ],
   "/Muses/Mass Effect": [
     "Isabela Shepard"
   ],
   "/Muses/Mass Effect/Isabela Shepard": [
-    "Summary - Isabela"
+    "Summary - Isabela",
+    "Ziggy's Notes"
+  ],
+  "/Muses/Mass Effect/Isabela Shepard/Ziggy's Notes": [
+    "Dossier Template - Isabela"
   ],
   "/Worldstates": [
     "Dragon Age Worldstates"
