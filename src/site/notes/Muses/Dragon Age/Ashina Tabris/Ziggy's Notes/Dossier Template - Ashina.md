@@ -229,7 +229,7 @@
 # Headcanons
 ## Headcanon
 
-> [!statsbox]+ Headcanon ( VerseFandom )
+> [!statsbox]+ Headcanon
 >
 > **Basic Info**
 > 
@@ -246,8 +246,6 @@
 > > *TBA*
 > 
 > TBA
-> 
-> 
 > 
 > **Details**
 > 
@@ -282,8 +280,6 @@
 > 
 > TBA
 > 
-> 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -299,7 +295,7 @@
 # Quick Guides
 ## Things *You* Should Know
 
-> [!statsbox]+ Headcanon ( VerseFandom )
+> [!statsbox]+ Headcanon
 >
 > **Basic Info**
 > 
@@ -316,8 +312,6 @@
 > > *TBA*
 > 
 > TBA
-> 
-> 
 > 
 > **Details**
 > 
@@ -332,7 +326,7 @@
 
 ## Things Your Muse *Could* Know
 
-> [!statsbox]+ Headcanon ( VerseFandom )
+> [!statsbox]+ Headcanon
 >
 > **Basic Info**
 > 
@@ -349,8 +343,6 @@
 > > *TBA*
 > 
 > TBA
-> 
-> 
 > 
 > **Details**
 > 
@@ -365,7 +357,7 @@
 
 ## Things Your Muse Should *Not* Know
 
-> [!statsbox]+ Headcanon ( VerseFandom )
+> [!statsbox]+ Headcanon
 >
 > **Basic Info**
 > 
@@ -382,8 +374,6 @@
 > > *TBA*
 > 
 > TBA
-> 
-> 
 > 
 > **Details**
 > 

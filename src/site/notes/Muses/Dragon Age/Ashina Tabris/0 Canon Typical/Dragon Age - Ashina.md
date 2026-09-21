@@ -379,9 +379,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > Adaia came to Ferelden in 9:06 Dragon from Antiva City, Antiva, where she was a Crow of House Arainai, before fleeing the Crows and escaping to Denerim in hopes of finding a life outside of murder and death for her unborn child, who was born months later on the 30th of Harvestmere. Now married to Cyrion Tabris, Adaia kept her child close, afraid that if the Crows found her that they would not only kill *her*, but they would also take Ashina to raise as a Crow in her stead after she had ran away.
 >
-> In 9:24 Dragon, Adaia was returning from the market when she was ambushed by a group of humans and murdered just outside of the gates of the sectioned off elven community. Ashina is only 17 when her mother is killed, and she does not take the news well, leading to years of grief and her repeated refusals to accept any suggestions that she should be wed so she might be seen as an adult by the community
-> 
-> 
+> In 9:24 Dragon, Adaia was returning from the market when she was ambushed by a group of humans and murdered just outside of the gates of the sectioned off elven community. Ashina is only 17 when her mother is killed, and she does not take the news well, leading to years of grief and her repeated refusals to accept any suggestions that she should be wed so she might be seen as an adult by the community.
 > 
 > **Details**
 > 
@@ -416,29 +414,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > This functions similarly to the effects of drinking from the Well of Sorrows, only far more limited, as it's only one spirit's memories and the spirit itself is not actually a part of it. But she does get vague impressions when interacting with elvhen ruins and artifacts, as well as ancient elves — including the Evanuris themselves — as a result of being in possession of these ancient memories herself now.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Solas
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Solas |
-> > | Dynamic | Strangers |
-> > | Awareness | No |
-> > | Involvement | No |
-> > | Approval | Neutral (0) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *The ancient warrior's memories leave a strong impression regarding Fen'Harel, and this will likely color Ashina's perception of Solas if or when they ever encounter one another.*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -472,29 +447,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -525,29 +477,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -586,29 +515,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > Ashina is selfish, has an extremely strong will to live, and unless you are one of *her people*, is not willing to die for anyone else. 
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -640,202 +546,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > No one who didn't know her prior to one or both of these events should even know her family name *at all* unless she explicitly tells them or it's revealed to them through the story itself (*example: those present during the Fifth Blight when she returns to the Alienage may learn her true identity as a result of her interacting with her family*).
 > 
-> **Connections**
-> 
-> > *The following connections are pre-approved for knowing who Ashina really is.*
-> 
-> > [!profilebox]- Cyrion Tabris
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Cyrion Tabris |
-> > | Dynamic | Father |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Shianni
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Shianni |
-> > | Dynamic | Cousin |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Soris
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Soris |
-> > | Dynamic | Cousin |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Valora
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Valora |
-> > | Dynamic | Cousin-In-Law (*Soris' Wife*) |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Neutral (25) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Nelaros
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Nelaros |
-> > | Dynamic | Intended Betrothed (*Deceased*) |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Neutral (50) |
-> > | Open To Plotting | Yes - "*Deceased*" |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Duncan
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Duncan |
-> > | Dynamic | Strangers |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Neutral (10) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
->
-> > The following companions who may possibly learn her real name, and the conditions required in order to achieve this, are:
-> 
-> > [!profilebox]- Zevran Arainai
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Zevran Arainai |
-> > | Dynamic | Best Friends - Possible Love Interest |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *Zev obviously can know "Arainai" is not her real name from the start.*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Morrigan
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Morrigan |
-> > | Dynamic | Best Friends |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Sten
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Sten |
-> > | Dynamic | Best Friends |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Shale
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Shale |
-> > | Dynamic | Best Friends |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | No |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -849,7 +559,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ### Adaia Was An Antivan Crow
 
-> [!statsbox]- Adaia was an Antivan Crow of House Arainai ( Dragon Age )
+> [!statsbox]- Adaia Was An Antivan Crow Of House Arainai ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -870,29 +580,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > - While in Denerim, she meets Cyrion Tabris — they become engaged and then wed soon after.
 > - Adaia gives birth to Ashina Tabris on the 30th of Harvestmere, 9:06 Dragon.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Adaia Arainai
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Adaia Arainai |
-> > | Dynamic | Mother |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | Yes - *Personal Dynamics Only* |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -904,9 +591,9 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
-### Questions of Paternity
+### Questions Of Paternity
 
-> [!statsbox]- Questions of Paternity ( Dragon Age )
+> [!statsbox]- Questions Of Paternity ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -923,29 +610,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > *TBA*
 > 
 > There were plenty of questions around the Denerim Alienage as to whether Cyrion was truly Ashina's father, given the timing so soon after he and Adaia even meet before she is noticeably pregnant, and with how little Ashina actually favors him, while being *very clearly* Antivan. 
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Cyrion Tabris
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Cyrion Tabris |
-> > | Dynamic | Father |
-> > | Awareness | Maybe |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -983,29 +647,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > - When not in combat, Ashina can maintain the obfuscation for long periods of time so long as her attention is not too divided by other tasks, allowing her to stay hidden even while in conversation with another Grey Warden.
 > - When in combat, she will remain hidden for up to 4 seconds after the obfuscation drops before darkspawn and/or wardens may become aware of her blighted presence.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1036,29 +677,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > *[Power of Blood (Rogue)](https://dragonage.miraheze.org/wiki/Power_of_Blood#Rogue)*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -1091,29 +709,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > Ashina is raised speaking both Common Trade Tongue and Antivan, taught the latter by her mother. 
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1144,29 +739,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > *TBA*
 > 
 > Ashina learns to speak, read, and write Qunlat from Sten during the course of the Fifth Blight, gaining fluency through continued correspondence with him in the years following ending the Blight.
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Sten
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Sten |
-> > | Dynamic | Best Friend |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -1201,29 +773,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > TBA
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Duncan
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Duncan |
-> > | Dynamic | Strangers |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Neutral (10) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1255,105 +804,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > Ashina takes up [Master Ignacio's](https://dragonage.miraheze.org/wiki/Ignacio) [offer to join the Crows](https://dragonage.miraheze.org/wiki/The_Trial_of_Crows) when she tires of being a Warden, entering negotiations with the Fifth Talon of House de Riva in 9:33 Dragon to secure a promise of protection from the Order of the Grey Wardens in return for her service as an Antivan Crow within House de Riva.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Zevran Arainai
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Master Ignacio
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Fifth Talon of House de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- Caterina Dellamorte
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- King of Antiva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1384,29 +834,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > *Post-Amaranthine Crisis — 9:31 or 9:32 Dragon onward*
 > 
 > The First Warden has ordered that "_Warden Tathas Arainai_", also known as the Hero of Ferelden, the Warden-Commander of Ferelden, and _de facto_ Arlessa of Amaranthine, be brought in to Weisshaupt for questioning pertaining to her survival after killing the Archdemon Urthemiel, as well as her encounter with the Architect, among many other things he seeks answer to about her activities during the Fifth Blight itself.
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- First Warden
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | First Warden |
-> > | Dynamic | Strangers |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Hostile (-50) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -1441,29 +868,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > Ashina did *not* want to get married, and had managed to avoid such ever since her mother was killed in 9:24 Dragon. But with her approaching the age of 25, her father was pressured into arranging something for her lest the Alienage's *hahren* do so himself, as he did for Soris.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1497,29 +901,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > The massacre that follows in the Arl of Denerim's palace as she leaves a trail of blood and death in her wake is the first time she has ever killed anyone at all, and she kills dozens of guards and nobles alike in order to free herself and the other women.
 > 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
 > **Details**
 > 
 > > [!statsbox]- Spoilers
@@ -1547,34 +928,11 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 >
 > **Summary**
 > 
-> > *TBA*
+> > 
 > 
 > - When Ashina is conscripted into the Grey Wardens, she *insists* that she not be enlisted under her real name, for her family's protection.
 > - The name in the recruit roster lists her as "*Tathas Adaia Arainai*" — named such after the story she tells the kids playing in the alley about the elven hero-thief, and her mother.
 > - Once she leaves Denerim, only Duncan knows her true identity, but only refers to her as Tathas, per her request — it is this name that she uses to introduce herself throughout the course of the Fifth Blight, and throughout the Amaranthine Crisis.
-> 
-> **Connections**
-> 
-> > *There are some who may know her true identity after 9:33 Dragon, when she joins the Antivan Crows. This includes a few of the Talons, primarily the Fifth Talon (Viago's predecessor) and First Talon (likely Caterina Dellamorte), as well as a handful of Master Assassins and other influential Crows, such as Viago de Riva, Andarateia Cantori, and Lucanis Dellamorte (if they do not know the truth sooner, they will likely learn it when they become Talons themselves).*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
