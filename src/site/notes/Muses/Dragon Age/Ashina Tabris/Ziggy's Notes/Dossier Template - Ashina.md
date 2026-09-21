@@ -214,7 +214,7 @@
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
 > | Connection | Platonic - *Familial* | 
-> | Status |  ***Deceased*** |
+> | Status |  Deceased - *9:24 Dragon* |
 >
 > **Summary**
 > 
@@ -310,11 +310,12 @@
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
 > | Connection | Acquaintances - *Arranged Engagement* |
-> | Status | ***Deceased*** |
+> |  | Potential Love Interest |
+> | Status | Deceased - *9:30 Dragon* |
 >
 > **Summary**
 > 
-> > *Nelaros was Ashina's intended betrothed before the disasterous events of their wedding in 9:30 Dragon. He died while attempting to rescue her and the other kidnapped women from the Arl's palace after the bridal party was stolen mid-ceremony by Vauaghn Kendells.*
+> > *Nelaros was Ashina's intended betrothed before the disastrous events of their wedding in 9:30 Dragon. He died while attempting to rescue her and the other kidnapped women from the Arl's palace after the bridal party was stolen mid-ceremony by Vaughan Kendells.*
 > 
 > TBA
 > 
