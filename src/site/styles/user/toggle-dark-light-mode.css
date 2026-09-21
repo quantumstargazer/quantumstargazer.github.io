@@ -3,7 +3,7 @@
 #floating-control {
 position: fixed;
   width: 30px;
-  height: 30px;
+  height: 50px;
 color: var(--link-color);
 top: 1vmax;
 left: 1vmax;

@@ -20,7 +20,7 @@
     /* hashtags */
 
     &[href^="#"]{
-      text-decoration: none;
+     /* text-decoration: none; */
       padding-inline: .4rem;
     }
 
