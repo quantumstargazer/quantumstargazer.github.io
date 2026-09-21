@@ -48,7 +48,9 @@
 # Quick Info
 ## Summary
 
+Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen's vallaslin, and become the clan's hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.
 
+In 9:30 Dragon, Mahariel and Tamlen investigate one such ruin, where they discover a lone ornate mirror standing in the middle of a chamber deep within the ruins. While Mahariel warns to be cautious, Tamlen approaches it and subsequently releases a strand of blight into the chamber, sickening both of the young hunters, and changing their lives forever.
 ## Quote
 
 > [!quote] Isenril Mahariel

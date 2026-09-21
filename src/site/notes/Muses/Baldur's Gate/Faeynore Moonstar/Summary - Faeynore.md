@@ -49,7 +49,9 @@
 # Quick Info
 ## Summary
 
+Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - _including_ Magistrate Astarion Ancunín before his death some two centuries prior.
 
+They have a specialized interest in Faerie and Infernal contracts, for how often their investigations have turned out to have such contracts involved.
 ## Quote
 
 > [!quote] Faeynore Moonstar

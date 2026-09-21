@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tags/muse-tags/dragon-age/ward-ingellvar/tags-ward/","tags":["muse-tags","muse-ward","tags-ward"],"dg-note-properties":{"tags":["muse-tags","muse-ward","tags-ward"],"aliases":["Tags - Ward Ingellvar"]}}
 ---
 
-# In Character
+### In Character
 
 ```
 IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ward Ingellvar, 

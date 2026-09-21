@@ -49,10 +49,10 @@
 # Quick Info
 ## Summary
 
-
+In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 ## Quote
 
-> [!quote] Zevran Arainai
+> [!quote] Zevran Arainai - *9:31 Dragon*
 > 
 > "I'm still waiting for a reason not to slit her throat and toss her in the river. I haven't heard it yet." 
 > 

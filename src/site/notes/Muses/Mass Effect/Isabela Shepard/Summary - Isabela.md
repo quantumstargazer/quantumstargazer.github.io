@@ -50,7 +50,9 @@
 # Quick Info
 ## Summary
 
+Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.
 
+She often defies expectations, as she refuses to kowtow to the Alliance's demands of putting humanity's interests first. Once she is given Spectre status, she stops answering to the Alliance Brass, pushing the fact that she now answers to no one but the Council, and refusing to become the Alliance's puppet Spectre.
 ## Quote
 
 > [!quote] Isabela Shepard

@@ -46,7 +46,7 @@
 - *Fandom:* [[Muse Roster - Index#Dragon Age\|Dragon Age]]
 - *Tags:* [[! Tags/Muse Tags/Dragon Age/Marian Hawke/Tags - Marian\|Tags - Marian Hawke]]
 
-> [!abstract] "Double Trouble" Worldstate
+> [!abstract]- "Double Trouble" Worldstate
 > 
 > Marian *defaults* to her [[Worldstates/Dragon Age Worldstates/Double Trouble - Marian\|"Double Trouble" Worldstate]] in most verses, with Garrett, Bethany, and Carver Hawke all being *my* portrayals of them by default. Plotting is likely needed when interacting with another Hawke sibling to where I will not be writing all four siblings myself.
 > 
@@ -57,7 +57,11 @@
 # Quick Info
 ## Summary
 
-*TBA*
+The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven.
+
+At thirteen, Bethany's magic manifests at the age of nine, and the family is forced to move again, this time to Lothering in the Ferelden Hinterlands. When Malcolm dies in 9:27 Dragon, Marian takes over as the head of the family at the age of twenty, and is essentially left raising her younger siblings in their mother's negligence brought on by her grief from the loss of her husband.
+
+In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when the Hawkes are once more forced to flee their home. Their destination: _Kirkwall_.
 
 ## Quote
 

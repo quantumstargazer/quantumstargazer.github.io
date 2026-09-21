@@ -49,7 +49,9 @@
 # Quick Info
 ## Summary
 
+Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers are killed by Antivan Crows, and he is instead taken into House de Riva.
 
+When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. He doesn't give up on his rogue training, insisting that he can manage both it _and_ his magical training, and while many expected him to fail, his sheer determination to prove himself worthy of being a de Riva leads to his eventually studying to be a Spellblade Assassin.
 ## Quote
 
 > [!quote] Leonardo de Riva
