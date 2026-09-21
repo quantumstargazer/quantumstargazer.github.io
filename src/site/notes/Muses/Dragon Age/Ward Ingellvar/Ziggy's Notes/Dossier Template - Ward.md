@@ -61,7 +61,10 @@
 
 ## Quote
 
-
+> [!quote] Ward Ingellvar
+> 
+> "Quote"
+> 
 
 ---
 # Background
@@ -198,38 +201,24 @@
 
 ---
 # Connections
- **Mains**
-> 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
-> 
+## NPC
 
-## Vorgoth
-
-> [!profilebox]+ Vorgoth (they/them/themselves)
+> [!profilebox]+ NPCName (PRONOUNS)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Name | Vorgoth |
-> | Fandom | Dragon Age |
+> | Name | NPCName |
+> | Fandom | — |
 > | Pre-Established | Yes |
-> | Connection | Platonic - *Familial* |
+> | Connection | Platonic |
 > | Status | Alive |
 >
 > **Summary**
 > 
-> > *Vorgoth is recognized as Ward's legal guardian.*
+> >TBA
 > 
 > TBA
 > 
@@ -258,28 +247,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -314,28 +282,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -370,28 +317,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -424,28 +350,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -478,28 +383,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 

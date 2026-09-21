@@ -233,19 +233,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ---
 # Connections
- **Mains**
-> 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
-> 
+## Adaia Tabris
 
 > [!profilebox]- Adaia Tabris née Arainai (she/her/herself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -269,6 +257,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+## Cyrion Tabris
+
 > [!profilebox]- Cyrion Tabris (he/him/himself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
@@ -290,6 +280,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 > 
+
+## Soris
 
 > [!profilebox]- Soris (he/him/himself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -313,6 +305,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+## Shianni
+
 > [!profilebox]- Shianni (she/her/herself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
@@ -334,6 +328,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 > 
+
+## Nelaros
 
 > [!profilebox]- Nelaros (he/him/himself)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -581,11 +577,11 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
-
-
 ---
 # Quick Guides
 ## Things *You* Should Know
+
+### Not "Self-Sacrificing Hero" Material
 
 > [!statsbox]- Not "Self-Sacrificing Hero" Material ( Dragon Age )
 >
@@ -640,6 +636,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 
 > 
 > 
+
+### Ashina Tabris Is "Dead"
 
 > [!statsbox]- Ashina Tabris Is "Dead" ( Dragon Age )
 >
@@ -866,6 +864,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+### Adaia Was An Antivan Crow
+
 > [!statsbox]- Adaia was an Antivan Crow of House Arainai ( Dragon Age )
 >
 > **Basic Info**
@@ -921,6 +921,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+### Questions of Paternity
+
 > [!statsbox]- Questions of Paternity ( Dragon Age )
 >
 > **Basic Info**
@@ -974,6 +976,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 
 > 
 > 
+
+### Warden Ability: Blight Obfuscation
 
 > [!statsbox]- Warden Ability: Blight Obfuscation ( Dragon Age )
 >
@@ -1030,6 +1034,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+### Warden Ability: Power of Blood
+
 > [!statsbox]- Warden Ability: Power of Blood ( Dragon Age )
 >
 > **Basic Info**
@@ -1082,6 +1088,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+### Languages Spoken: Common & Antivan
+
 > [!statsbox]- Languages Spoken: Common & Antivan ( Dragon Age )
 >
 > **Basic Info**
@@ -1133,6 +1141,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 
 > 
 > 
+
+### Language Learned: Qunlat
 
 > [!statsbox]- Language Learned: Qunlat ( Dragon Age )
 >
@@ -1188,6 +1198,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Things Your Muse *Could* Know
 
+### Conscripted Against Her Will
+
 > [!statsbox]- Conscripted Against Her Will ( Dragon Age )
 >
 > **Basic Info**
@@ -1239,6 +1251,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 
 > 
 > 
+
+### Warden Tathas Is Killed In 9:33 Dragon
 
 > [!statsbox]- Warden Tathas Is Killed In 9:33 Dragon ( Dragon Age )
 >
@@ -1368,6 +1382,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+### Warden Tathas Is Wanted By Weisshaupt
+
 > [!statsbox]- Warden Tathas Is Wanted By Weisshaupt ( Dragon Age )
 >
 > **Basic Info**
@@ -1422,6 +1438,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Things Your Muse Should *Not* Know
 
+### Arranged Marriage Wedding Disaster
+
 > [!statsbox]- Arranged Marriage Wedding Disaster ( Dragon Age )
 >
 > **Basic Info**
@@ -1473,6 +1491,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 
 > 
 > 
+
+### First Kills
 
 > [!statsbox]- First Kills ( Dragon Age )
 >
@@ -1528,7 +1548,9 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
-> [!statsbox]- Warden Tathas, Hero of Ferelden ( Dragon Age )
+### Warden Tathas: Hero of Ferelden
+
+> [!statsbox]- Warden Tathas: Hero of Ferelden ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -1600,6 +1622,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 	- *ENCOUNTER:* Nathanial Howe &/or Senior Wardens
 > > 	- *EVENT:* Fall of the Gallows
 > 
+
+### Searching For A Cure
 
 > [!statsbox]- Searching For A Cure ( Dragon Age )
 >
@@ -1675,6 +1699,8 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+### Language Learned: Ancient Elvhen
+
 > [!statsbox]- Language Learned: Ancient Elvhen ( Dragon Age )
 >
 > **Basic Info**
@@ -1728,8 +1754,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > 
 > 
 > 
-
-
 
 ---
 # Additional Information

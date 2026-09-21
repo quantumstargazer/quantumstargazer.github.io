@@ -196,20 +196,6 @@
 
 ---
 # Connections
- **Mains**
-> 
-> | | |
-> |---|---|
-> | Main - PartnerURL | — |
-> 
-> **Ships & Dynamics**
-> 
-> | | |
-> |---|---|
-> | Ship - PartnerURL | — |
-> | Dynamic - PartnerURL | — |
-> 
-
 ## NPC
 
 > [!profilebox]+ NPCName (PRONOUNS)
@@ -256,28 +242,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -312,28 +277,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -368,28 +312,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -422,28 +345,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
@@ -476,28 +378,7 @@
 > 
 > TBA
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- NPC
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 
