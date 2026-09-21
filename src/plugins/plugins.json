@@ -26,6 +26,18 @@
         "src/plugins/copy-code-button/styles/copy.scss",
         "src/plugins/copy-code-button/templates/copy.njk"
       ]
+    },
+    "giscus-comments": {
+      "repo": "oleeskild/garden-plugin-giscus-comments",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-21T02:41:40.107Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/giscus-comments/README.md",
+        "src/plugins/giscus-comments/garden-plugin.json",
+        "src/plugins/giscus-comments/templates/comments.njk"
+      ]
     }
   }
 }
