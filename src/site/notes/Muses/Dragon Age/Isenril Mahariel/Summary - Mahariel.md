@@ -89,7 +89,7 @@ In 9:30 Dragon, Mahariel and Tamlen investigate one such ruin, where they discov
 > 
 > | | |
 > |---|---|
-> | Verse | ~~Mahariel ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >

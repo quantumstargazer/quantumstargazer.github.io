@@ -89,7 +89,7 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > 
 > | | |
 > |---|---|
-> | Verse | ~~Ward ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >

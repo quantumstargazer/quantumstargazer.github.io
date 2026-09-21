@@ -94,7 +94,7 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 > 
 > | | |
 > |---|---|
-> | Verse | ~~Zevran ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >

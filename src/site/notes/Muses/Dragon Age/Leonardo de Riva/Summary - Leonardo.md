@@ -92,7 +92,7 @@ When he is first brought into the House, he begins training as a rogue, only for
 > 
 > | | |
 > |---|---|
-> | Verse | ~~Leonardo ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >

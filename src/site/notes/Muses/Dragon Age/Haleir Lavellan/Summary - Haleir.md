@@ -91,7 +91,7 @@ In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas _truly
 > 
 > | | |
 > |---|---|
-> | Verse | ~~Haleir ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >

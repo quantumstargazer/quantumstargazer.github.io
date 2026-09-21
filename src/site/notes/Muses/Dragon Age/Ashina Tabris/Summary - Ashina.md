@@ -97,7 +97,7 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 > | | |
 > |---|---|
-> | Verse (*only uses timeline tags*) | ~~Ashina ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >

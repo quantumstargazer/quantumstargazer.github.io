@@ -99,7 +99,7 @@ In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when t
 > 
 > | | |
 > |---|---|
-> | Verse | ~~Marian ☾⭒ Dragon Age ( Dragon Age )~~ |
+> | Verse | *Only uses Timeline Tags* |
 > 
 > > [!statsbox]+ Timeline Tags
 > >
