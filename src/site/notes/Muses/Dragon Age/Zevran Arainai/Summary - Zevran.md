@@ -49,6 +49,10 @@
 # Quick Info
 ## Summary
 
+Zevran Arainai is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate.
+
+After the Blight, he turns his attention to his personal fight for survival against House Arainai of the Antivan Crows, which eventually extends to the other houses as well, earning him the moniker of the Black Shadow after the deaths of several Talons, Guildmasters, and many Crows over the years.
+
 In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 ## Quote
 
