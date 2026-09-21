@@ -12,7 +12,7 @@
   & a {
     color: inherit;
     font-weight: inherit;
-    text-decoration: none; 
+    text-decoration: underline solid; 
     font-style: inherit;   
     background: none;
     padding-inline: 0;
@@ -20,7 +20,7 @@
     /* hashtags */
 
     &[href^="#"]{
-     /* text-decoration: none; */
+      text-decoration: underline solid;
       padding-inline: .4rem;
     }
 
