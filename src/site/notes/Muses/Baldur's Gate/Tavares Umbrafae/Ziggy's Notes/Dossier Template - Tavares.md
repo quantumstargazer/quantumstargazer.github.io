@@ -138,7 +138,7 @@
 > | | |
 > |---|---|
 > | Primary | Common |
-> | Native | Drow (*Callidaen*) |
+> | Native | Drow (*Callidaen* dialect) |
 > | Known | Elvish |
 > |  | Sylvan |
 > |  | Primordial |
