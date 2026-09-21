@@ -99,7 +99,7 @@ In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas _truly
 > > |---|---|
 > > | 9:50 - 9:54 Dragon | Haleir ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Haleir ☾⭒ 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Haleir ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon (*Default*) | Haleir ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Haleir ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |
 > > | 9:30 - 9:34 Dragon | Haleir ☾⭒ 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 

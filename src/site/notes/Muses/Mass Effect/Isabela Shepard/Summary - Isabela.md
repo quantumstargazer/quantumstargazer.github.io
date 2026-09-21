@@ -98,7 +98,7 @@ She fights for the safety of the entire galaxy, not simply one species, and she 
 > > | | |
 > > |---|---|
 > > | 2186 - 2189 CE | Isabela ☾⭒ 2186 - 2189 CE ( Mass Effect ) |
-> > | 2184 - 2186 CE | Isabela ☾⭒ 2184 - 2186 CE ( Mass Effect ) |
+> > | 2184 - 2186 CE (*Default*) | Isabela ☾⭒ 2184 - 2186 CE ( Mass Effect ) |
 > > | 2182 - 2184 CE | Isabela ☾⭒ 2182 - 2184 CE ( Mass Effect ) |
 > > 
 > 

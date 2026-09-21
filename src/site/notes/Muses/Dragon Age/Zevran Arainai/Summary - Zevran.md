@@ -100,7 +100,7 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Zevran ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon (*Default*) | Zevran ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Zevran ☾⭒ 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Zevran ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Zevran ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |

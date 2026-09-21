@@ -95,7 +95,7 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ward ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon (*Default*) | Ward ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ward ☾⭒ 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ward ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ward ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |

@@ -108,7 +108,7 @@ In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when t
 > > | 9:50 - 9:54 Dragon | Marian ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Marian ☾⭒ 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Marian ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Marian ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |
+> > | 9:35 - 9:39 Dragon (*Default*) | Marian ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |
 > > | 9:30 - 9:34 Dragon | Marian ☾⭒ 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
 > 

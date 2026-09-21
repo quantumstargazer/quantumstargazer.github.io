@@ -98,7 +98,7 @@ When he is first brought into the House, he begins training as a rogue, only for
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Leonardo ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon (*Default*) | Leonardo ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Leonardo ☾⭒ 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Leonardo ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Leonardo ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |
