@@ -186,11 +186,15 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 >
 > | | |
 > |---|---|
-> | Primary Class | Master Assassin (*Rogue*) |
-> | Secondary Class | Duelist (*Rogue*) |
-> | Tertiary Class | Shadow (*Rogue*) |
-> | Additional Support(s) | Bard (*Rogue*) |
-> | Fighting Style(s) | Duel Wield Blades |
+> | Primary Class | **Rogue** — *Dual Wield & Archery* |
+> |  | Master Assassin |
+> |  | Duelist |
+> |  | Shadow |
+> |  | Bard |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | Dual Wield Blades |
 > |  | Archery |
 > |  | Poisons |
 >
@@ -235,7 +239,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Connections
 ## Adaia Tabris
 
-> [!profilebox]- Adaia Tabris née Arainai (she/her/herself)
+> [!profilebox]- Adaia Tabris née Arainai (she/her)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -259,7 +263,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Cyrion Tabris
 
-> [!profilebox]- Cyrion Tabris (he/him/himself)
+> [!profilebox]- Cyrion Tabris (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -283,7 +287,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Soris
 
-> [!profilebox]- Soris (he/him/himself)
+> [!profilebox]- Soris (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -307,7 +311,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Shianni
 
-> [!profilebox]- Shianni (she/her/herself)
+> [!profilebox]- Shianni (she/her)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -331,7 +335,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Nelaros
 
-> [!profilebox]- Nelaros (he/him/himself)
+> [!profilebox]- Nelaros (he/him)
 > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > 
 > **Basic Info**
@@ -377,28 +381,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 >
 > In 9:24 Dragon, Adaia was returning from the market when she was ambushed by a group of humans and murdered just outside of the gates of the sectioned off elven community. Ashina is only 17 when her mother is killed, and she does not take the news well, leading to years of grief and her repeated refusals to accept any suggestions that she should be wed so she might be seen as an adult by the community
 > 
-> **Connections**
 > 
-> > *TBA*
-> 
-> > [!profilebox]- Adaia Tabris née Arainai
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Adaia Tabris née Arainai |
-> > | Dynamic | Mother |
-> > | Awareness | Yes |
-> > | Involvement | Yes |
-> > | Approval | Max (100) |
-> > | Open To Plotting | Yes |
-> > 
-> > **Details**
-> > 
-> > > *Adaia was an Antivan Crow of House Arainai, and was hunted down and killed for running away from her House in 9:06 Dragon, though it took them 17 years before they finally found her in Denerim. The Crows were unaware of Ashina at the time.*
-> > 
-> > TBA
-> > 
 > 
 > **Details**
 > 

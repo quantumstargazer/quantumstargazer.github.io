@@ -168,11 +168,15 @@
 >
 > | | |
 > |---|---|
-> | Primary Class | Master Assassin (*Rogue*) |
-> | Secondary Class | Duelist (*Rogue*) |
-> | Tertiary Class | Shadow (*Rogue*) |
-> | Additional Support(s) | Bard (*Rogue*) |
-> | Fighting Style(s) | Duel Wield Blades |
+> | Primary Class | **Rogue** — *Dual Wield & Archery* |
+> |  | Master Assassin |
+> |  | Duelist |
+> |  | Shadow |
+> |  | Bard |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | Dual Wield Blades |
 > |  | Archery |
 > |  | Poisons |
 >
