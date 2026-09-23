@@ -398,73 +398,31 @@ They have a specialized interest in Faerie and Infernal contracts, for how often
 > | Setting | VerseFandom |
 > | Timeline | — |
 > | Condition | — |
-> | Open To Plotting | Yes - partnerurl Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | partnerurl Only - Not Open For Request |
+> | Open To Plotting | partnerurl Only |
+> | Crossovers | partnerurl Only |
+> | Availability | partnerurl Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- PartnerMuse
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | PartnerMuse |
-> > | Portrayal | PartnerURL |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 >
 > **Tumblr Tags**
 > 
 > | | |
 > |---|---|
-> | Verse | Faeynore ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Faeynore ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Faeynore ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Faeynore ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Faeynore ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Faeynore ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -472,9 +430,9 @@ They have a specialized interest in Faerie and Infernal contracts, for how often
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Faeynore x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Faeynore & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Faeynore & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
 > > 
 > 
 

@@ -428,73 +428,31 @@ When he is first brought into the House, he begins training as a rogue, only for
 > | Setting | VerseFandom |
 > | Timeline | — |
 > | Condition | — |
-> | Open To Plotting | Yes - partnerurl Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | partnerurl Only - Not Open For Request |
+> | Open To Plotting | partnerurl Only |
+> | Crossovers | partnerurl Only |
+> | Availability | partnerurl Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- PartnerMuse
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | PartnerMuse |
-> > | Portrayal | PartnerURL |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 >
 > **Tumblr Tags**
 > 
 > | | |
 > |---|---|
-> | Verse | Leonardo ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Leonardo ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Leonardo ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Leonardo ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Leonardo ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Leonardo ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -502,9 +460,9 @@ When he is first brought into the House, he begins training as a rogue, only for
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Leonardo x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Leonardo & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Leonardo & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
 > > 
 > 
 

@@ -688,7 +688,54 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > > 
 > 
 
-
+> [!statsbox]+ VerseID ( PartnerMuse - PartnerURL )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse/AU Details | VerseID |
+> | Verse/AU Type | Private - Private Verses & AUs |
+> | Setting | VerseFandom |
+> | Timeline | — |
+> | Condition | — |
+> | Open To Plotting | partnerurl Only |
+> | Crossovers | partnerurl Only |
+> | Availability | partnerurl Only |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+>
+> **Tumblr Tags**
+> 
+> | | |
+> |---|---|
+> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> 
+> > [!statsbox]- Timeline Tags
+> >
+> > | | |
+> > |---|---|
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > 
+> 
+> 
+> > [!statsbox]- Connection Tags
+> >
+> > | | |
+> > |---|---|
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
+> > 
+> 
 
 
 
