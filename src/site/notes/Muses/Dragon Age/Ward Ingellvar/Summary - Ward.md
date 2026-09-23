@@ -589,9 +589,6 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 ---
 # Private Verses & AUs
 
-> [!attention] Not Currently Available
-> 
-
 
 
 ## luctumvigilantes - Atris
@@ -608,57 +605,15 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > | Setting | Dragon Age |
 > | Timeline | 9:45 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - luctumvigilantes Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | luctumvigilantes Only - Not Open For Request |
+> | Open To Plotting | luctumvigilantes Only |
+> | Crossovers | luctumvigilantes Only |
+> | Availability | luctumvigilantes Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Atris
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Atria |
-> > | Portrayal | luctumvigilantes |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | — |
-> > | Awareness | — |
-> > | Involvement | — |
-> > | Approval | — |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > TBA
-> > 
 >
 > **Tumblr Tags**
 > 
@@ -688,6 +643,9 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > > 
 > 
 
+## PartnerURL - PartnerMuse
+### VerseID ( PartnerMuse - PartnerURL )
+
 > [!statsbox]+ VerseID ( PartnerMuse - PartnerURL )
 >
 > **Basic Info**
@@ -713,17 +671,17 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > 
 > | | |
 > |---|---|
-> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Ward ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Ward ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -731,9 +689,9 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Ward x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Ward & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Ward & PartnerMuse — PartnerURL )  |
 > > 
 > 
 

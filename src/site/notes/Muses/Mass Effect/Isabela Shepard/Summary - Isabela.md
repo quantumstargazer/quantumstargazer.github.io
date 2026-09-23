@@ -1113,17 +1113,17 @@ She fights for the safety of the entire galaxy, not simply one species, and she 
 > 
 > | | |
 > |---|---|
-> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Isabela ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Isabela ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Isabela ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Isabela ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Isabela ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Isabela ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -1131,9 +1131,9 @@ She fights for the safety of the entire galaxy, not simply one species, and she 
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Isabela x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Isabela & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Isabela & PartnerMuse — PartnerURL )  |
 > > 
 > 
 

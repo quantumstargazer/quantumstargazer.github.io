@@ -605,17 +605,17 @@ In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas _truly
 > 
 > | | |
 > |---|---|
-> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Haleir ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Haleir ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Haleir ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Haleir ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Haleir ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Haleir ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -623,9 +623,9 @@ In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas _truly
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Haleir x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Haleir & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Haleir & PartnerMuse — PartnerURL )  |
 > > 
 > 
 

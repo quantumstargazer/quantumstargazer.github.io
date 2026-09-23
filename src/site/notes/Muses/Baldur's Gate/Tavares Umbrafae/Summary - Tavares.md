@@ -413,17 +413,17 @@ Exiled from her home in Callidae when she returned decades after her disappearan
 > 
 > | | |
 > |---|---|
-> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Tavares ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Tavares ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Tavares ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Tavares ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Tavares ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Tavares ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -431,9 +431,9 @@ Exiled from her home in Callidae when she returned decades after her disappearan
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Tavares x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Tavares & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Tavares & PartnerMuse — PartnerURL )  |
 > > 
 > 
 

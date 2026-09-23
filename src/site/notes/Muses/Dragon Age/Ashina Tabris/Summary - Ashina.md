@@ -856,57 +856,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *Ashina joins House de Riva in 9:33 Dragon after the "death" of Warden Tathas Arainai brings an end to the Crows' contract against the Hero of Ferelden.*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -948,57 +906,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:50 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1040,57 +956,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1132,57 +1006,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1224,57 +1056,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1316,57 +1106,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1408,57 +1156,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1500,57 +1206,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1592,57 +1256,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- NPCName
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | NPCName |
-> > | Portrayal | NPC |
-> > | Dynamic | Info |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 
@@ -1691,57 +1313,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
 > | Condition | — |
-> | Open To Plotting | Yes - corvusrookery Only |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | corvusrookery Only - Not Open For Request |
+> | Open To Plotting | corvusrookery Only |
+> | Crossovers | corvusrookery Only |
+> | Availability | corvusrookery Only |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
-> **Connections**
-> 
-> > *TBA*
-> 
-> > [!profilebox]- Viago de Riva
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Viago de Riva |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
-> 
-> > [!profilebox]- Andarateia Cantori
-> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
-> > 
-> > | | |
-> > |---|---|
-> > | Name | Andarateia Cantori |
-> > | Portrayal | corvusrookery |
-> > | Dynamic | Varies ( *timeline specific* ) |
-> > | Awareness | Info |
-> > | Involvement | Info |
-> > | Approval | Info |
-> > 
-> > **Details**
-> > 
-> > > *TBA*
-> > 
-> > *TBA*
-> > 
 > 
 > **Tumblr Tags**
 > 

@@ -653,17 +653,17 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 > 
 > | | |
 > |---|---|
-> | Verse | Muse1 ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
+> | Verse | Zevran ☾⭒ VerseID ( PartnerMuse — PartnerURL ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
-> > | YEAR | Muse1 ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Zevran ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Zevran ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Zevran ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Zevran ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
+> > | YEAR | Zevran ☾⭒ VerseID — YEAR ( PartnerMuse — PartnerURL ) |
 > > 
 > 
 > 
@@ -671,9 +671,9 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Muse1 x PartnerMuse ( PartnerURL ) |
-> > | Connection - Platonic Dynamics | Connection ☾⭒ Muse1 & PartnerMuse ( PartnerURL ) |
-> > | Relationship | Rel ☾⭒ TBA ( Muse1 & PartnerMuse — PartnerURL )  |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ Zevran x PartnerMuse ( PartnerURL ) |
+> > | Connection - Platonic Dynamics | Connection ☾⭒ Zevran & PartnerMuse ( PartnerURL ) |
+> > | Relationship | Rel ☾⭒ TBA ( Zevran & PartnerMuse — PartnerURL )  |
 > > 
 > 
 
