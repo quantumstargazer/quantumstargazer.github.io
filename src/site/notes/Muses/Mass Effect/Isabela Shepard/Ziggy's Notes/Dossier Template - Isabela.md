@@ -229,7 +229,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Nihlus put Isabela's name forward as a Spectre candidate and is meant to be her mentor if accepted by the Citadel Council as the first human Spectre.*
 > 
 > TBA
 > 
