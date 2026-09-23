@@ -82,7 +82,7 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Zevran uses the chaos of the Talon's Summit to become Eighth Talon and take over House Arainai.*
 > 
 > Zevran Arainai is a veteran of the Fifth Blight, having joined the fight to bring the Blight to an end after being spared by the very Grey Warden he was contracted to assassinate. 
 > 
