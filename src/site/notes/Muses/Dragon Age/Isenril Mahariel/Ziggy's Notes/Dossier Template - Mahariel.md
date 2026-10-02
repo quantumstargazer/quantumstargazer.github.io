@@ -95,7 +95,7 @@
 > | | |
 > |---|---|
 > | Date of Birth | DAY of MONTH |
-> | Year of Birth | YEAR |
+> | Year of Birth | 9:12 Dragon |
 >
 > **Personal Identity**
 >
@@ -118,6 +118,7 @@
 > | Hair | Black |
 > | Eyes | Fade Green |
 > | Complexion | Brown Skin |
+> | Vallaslin | Dirthamen |
 >
 > **Demographics**
 >
