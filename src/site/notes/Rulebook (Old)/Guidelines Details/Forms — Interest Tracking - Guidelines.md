@@ -13,7 +13,7 @@
 > *Example:* You write a Dragon Age muse. I think Isabela Shepard (*Mass Effect*) might be fun to write against them. Izzy has no less than 3 AUs for Dragon Age for me to choose from, including at least one where she is native to Thedas as an artificer and assassin rather than being her canon-based self from within the Mass Effect setting, so I pick the most suitable verse for the interaction I have in mind and send her your way.
 
 ## If Not Filled Out, All Open Muses Are Fair Game
-Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses &/or their fandom matched Fandom Specific AUs &/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the Disinterest Tracker form. 
+Rather than having to require people to fill out an Interest Tracker to opt-in to which muses they're interested in actually interacting with, now mutuals are assumed to have interest in *all* [[! Open Muses - Roster\|Open Muses]], and their Canon-Based Verses and/or their fandom matched Fandom Specific AUs and/or Trapped In Another World AUs ***unless*** they have *opted-out* by way of filling out the Disinterest Tracker form. 
 ### It's Fine To Only Have Interest In Some Muses
 I would rather know that you're only interested in specific muses, even if it's just one or two in the whole roster, than to have things frequently and often silently dropped because you're not actually interested in them. This is what the form is for, so I know not to send you muses you don't want to write with, and/or within which verses.
 ### Highly Recommended But Not Required
@@ -27,7 +27,7 @@ This form is *technically* optional, but if I start sending you muses and/or ver
 # RP Preference Tracker
 Not everyone in the rpc operates in the same way, and interests can be wide and extremely varied. The RP Preference Tracker is intended to cover at least the basics of what I usually prefer to know that isn't always covered in other people's guidelines, and aren't always answered through some random memes and/or reblogged PSAs.
 ## Optional But Recommended
-This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships &/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
+This form is *completely optional*, but recommended, especially if you're wanting to run multiple threads with the same muse pairings, potentially develop ships and/or deeper dynamics, have topics/tropes you specifically *don't* want to write, etc. 
 ## Fill Out PR Preference Tracker Form
 > [!abstract]- Form - RP Preference Tracker
 > <iframe data-tally-src="https://tally.so/embed/rjOV7N?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="12240" frameborder="0" marginheight="0" marginwidth="0" title="RP Preferences Tracker - QS"></iframe>
@@ -42,7 +42,7 @@ This form is *completely optional*, but recommended, especially if you're wantin
 
 This is the closest thing I have to a **permanent starter call**, and it comes with additional benefits beyond my just sending you starters at random.
 ## Potential Mains
-**This is where my [[Fellow Stargazers#Mains & Exclusives\|Mains]] come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this form.
+**This is where my [[Fellow Stargazers#Mains and Exclusives\|Mains]] come from.** This is a decision I make for myself, and it is not expected to mutually reciprocated. There is also an option for opting out of being a potential main if you do fill out this form.
 ## Terms of Use
 Should you choose to join this list, you are helping reduce anxiety to interact on a regular basis by providing me with authorisation for the following:
 

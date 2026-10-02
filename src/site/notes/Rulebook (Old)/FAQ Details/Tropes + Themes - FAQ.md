@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook-old/faq-details/tropes-themes-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Tropes & Themes"]}}
+{"dg-publish":true,"permalink":"/rulebook-old/faq-details/tropes-themes-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Tropes and Themes"]}}
 ---
 
-# Tropes & Themes
+# Tropes and Themes
 
 ---
 # Soulmates (subverted)

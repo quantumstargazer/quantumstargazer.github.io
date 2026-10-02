@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook-old/rules-details/not-ps-enough-t-ps-rules/","tags":["rules","rules-fandom-specific"],"dg-note-properties":{"tags":["rules","rules-fandom-specific"],"aliases":["NOTPs & Enough-TPs"]}}
+{"dg-publish":true,"permalink":"/rulebook-old/rules-details/not-ps-enough-t-ps-rules/","tags":["rules","rules-fandom-specific"],"dg-note-properties":{"tags":["rules","rules-fandom-specific"],"aliases":["NOTPs and Enough-TPs"]}}
 ---
 
-# NOTPs & Enough-TPs 
-> For guidelines regarding shipping, see: [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines\|Ships & Dynamics]]
+# NOTPs and Enough-TPs 
+> For guidelines regarding shipping, see: [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines\|Ships and Dynamics]]
 
 ---
 # NOTPs 

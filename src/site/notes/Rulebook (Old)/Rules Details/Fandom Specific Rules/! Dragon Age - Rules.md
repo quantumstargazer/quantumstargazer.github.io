@@ -18,9 +18,9 @@ These are defaults for *my worldstates*, and events in general[^1] if not otherw
 - **9:31 Dragon - *Firstfall*** - Amaranthine Crisis ends.
 - **9:33 Dragon - *Drakonis*** - Morrigan leaves through the eluvian.
 - **9:37 Dragon - *Haring*** - Kirkwall Rebellions occur.
-- **9:40 Dragon - *Justinian*** - Divine's Conclave is announced & invitations sent.
+- **9:40 Dragon - *Justinian*** - Divine's Conclave is announced and invitations sent.
 - **9:40 Dragon - *Wintermarch*** - Varric Tethras is interrogated about Hawke's whereabouts.
-- **9:41 Dragon - *Cloudreach*** - The Breach is opened, & the Inquisition is reborn.
+- **9:41 Dragon - *Cloudreach*** - The Breach is opened, and the Inquisition is reborn.
 - **9:42 Dragon - *Solace*** - Corypheus is defeated. 
 - **9:44 Dragon - *Bloomingtide*** - The Exalted Council occurs. 
 - **9:45 Dragon - *Kingsway*** - The Summit of Talons of the Antivan Crows occurs.
@@ -28,7 +28,7 @@ These are defaults for *my worldstates*, and events in general[^1] if not otherw
 - **9:51 Dragon - *Solace*** - Rook disrupts Solas' ritual. A Double Blight begins. 
 
 ---
-# OC & OC Interactions
+# OC and OC Interactions
 ## Flexibility Expected
 **I *welcome* both multi-protagonist interactions *and* interactions where a muse survives** where they might have otherwise died if they did not fall into the hero role themselves (which is the basis for many of Companion AUs for my DA muses). Even my most stubborn muses are capable of stepping back to let someone else take charge when it's deemed necessary, and I am *always* willing to adjust a worldstate to replace the default hero of another part of the timeline with yours and *their* choices.
 ## Multiple Heroes
@@ -39,7 +39,7 @@ These are defaults for *my worldstates*, and events in general[^1] if not otherw
 ## Default Worldstates
 **I do not have a singular default worldstate.** While I have *preferences* and biases towards certain outcomes, I also enjoy *variety*, and each muse has their own worldstate that they default to, and occasionally alternate ones for specific verses. 
 ## Custom Worldstates
-**I am *also* open to crafting custom worldstates for private verses & AUs** — I am working on putting together a form to assist in crafting custom worldstates, though as I said, it will be limited to those with private verses & AUs, which typically require plotting via discord.
+**I am *also* open to crafting custom worldstates for private verses and AUs** — I am working on putting together a form to assist in crafting custom worldstates, though as I said, it will be limited to those with private verses and AUs, which typically require plotting via discord.
 ## DNI Worldstate Conditions
 > [!rule]+ Dragon Age Worldstate Conditions
 > **I will *not* write in worldstates that utilize the following conditions — these are non-negotiable:**
@@ -88,7 +88,7 @@ Zevran's ambush is along the Imperial Highway, so their intended destination aft
 **Zevran becomes a true bane to the Crows as the Black Shadow** — he is responsible for the deaths of *several* Talons from House Arainai, as well as various Guildmasters and entire cells from a variety of Houses, and likely resulted in some of the minor houses being wiped out completely.
 
 ---
-# Sixth & Final Blights
+# Sixth and Final Blights
 The following involve headcanons regarding the events that come *after* the Veilguard.
 ## Fate of Southern Thedas
 **TBA**

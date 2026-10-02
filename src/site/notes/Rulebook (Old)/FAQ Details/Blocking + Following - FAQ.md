@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook-old/faq-details/blocking-following-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Blocking & Following","Following & Blocking","Following & Unfollowing","Following","Unfollowing","Blocking"]}}
+{"dg-publish":true,"permalink":"/rulebook-old/faq-details/blocking-following-faq/","tags":["faq"],"dg-note-properties":{"tags":["faq"],"aliases":["Blocking and Following","Following and Blocking","Following and Unfollowing","Following","Unfollowing","Blocking"]}}
 ---
 
-# Blocking & Following
-> [!attention]+ Selective & Mutuals Only
+# Blocking and Following
+> [!attention]+ Selective and Mutuals Only
 > 
 > **I *am* selective and mutuals only**, but I also do follow back the *majority* of people who follow me first. Usually, the ones I *don't* follow back are the ones who clearly ignored everything regarding my clearly stated boundaries — my selectivity is more that someone has actually read my rules above anything else.
 
@@ -23,10 +23,10 @@
 > - Non-Roleplayer (Personal) blogs
 > - One-liner only roleplay blogs
 > - Smut/fetish only roleplay blogs
-> - Group &/or discord roleplay blogs
+> - Group and/or discord roleplay blogs
 > - Only content warning consists of "Dead Dove: Do Not Eat" without context
 > - Lack of rules anywhere on blog, carrd, doc, site, etc. 
-> - Incompatible rules with my own rules where no compromise &/or exception can reasonably be made (ie use of banned faceclaims, fandoms, &/or other content listed in [[Rulebook/Actual Rules\|the rules]]).
+> - Incompatible rules with my own rules where no compromise and/or exception can reasonably be made (ie use of banned faceclaims, fandoms, and/or other content listed in [[Rulebook/Actual Rules\|the rules]]).
 > - 
 
 ---

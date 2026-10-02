@@ -16,7 +16,7 @@ Please tag using one or more of the following formats:
 ---
 # Content Warnings Needed
 In cases where it's requested to be *at least warned about*, so long as you state in your rules and/or pinned post that the content may occur on your blog, then that's fine — it's just not something I want to effectively be jumpscared with without any form of warning whatsoever.
-## Themes & Tropes
+## Themes and Tropes
 
 | content to be tagged                                      | will follow/interact if<br>only mentioned in posts      | will follow/interact<br>if roleplayed on tumblr |
 | :-------------------------------------------------------- | :------------------------------------------------------ | :---------------------------------------------: |
@@ -44,7 +44,7 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 | content to be tagged                       | will follow/interact if<br>posted regularly |
 | ------------------------------------------ | :-----------------------------------------: |
 | politics (*especially US politics*)        |                   **no**                    |
-| Donald Trump & Family                      |                   **no**                    |
+| Donald Trump and Family                      |                   **no**                    |
 | US Republican Party                        |                   **no**                    |
 | Conservatives (Political)                  |                   **no**                    |
 | current events                             |                   **no**                    |
@@ -54,7 +54,7 @@ In cases where it's requested to be *at least warned about*, so long as you stat
 | ICE raids                                  |                   **no**                    |
 | mass shootings                             |                   **no**                    |
 | prolife (*anti-abortion/pro-forced birth*) |                   **no**                    |
-| JK Rowling & works (ie "Harry Potter")     |                   **no**                    |
+| JK Rowling and works (ie "Harry Potter")     |                   **no**                    |
 | COVID-19                                   |                  **maybe**                  |
 | tornado damage (*especially photos*)       |                  **maybe**                  |
 | suicide (*including inclination*)[^1]      |                  **maybe**                  |

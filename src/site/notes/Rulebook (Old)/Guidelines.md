@@ -6,13 +6,13 @@
 ## Read Rules Before Following
 > [!attention]+ Read Rules Before Following
 > 
-> If you haven't done so already, you should read the [Actual Rules](Rules%20&%20Guidelines/Actual%20Rules%5C) before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
+> If you haven't done so already, you should read the [Actual Rules](Rules%20and%20Guidelines/Actual%20Rules%5C) before following. These guidelines are only an expansion of that and may not apply to *everyone*, depending on fandoms, interaction preferences, interest in shipping, etc., unlike the rules themselves.
 ## Blanket Permissions
 > [!guideline] Blanket Permissions
 > 
 > See [[Rulebook (Old)/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]] for what is allowed without having to ask or wait for posts prompting any of the things that are stated as being always open to mutuals.
 
-> *For Further Details, See:* [The Actual Rules](Rulebook/Actual%20Rules.md) &/or [[Rulebook (Old)/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
+> *For Further Details, See:* [The Actual Rules](Rulebook/Actual%20Rules.md) and/or [[Rulebook (Old)/Guidelines Details/Blanket Permissions - Guidelines\|Blanket Permissions]]
 
 ---
 # Interactions
@@ -109,7 +109,7 @@ I am not always able to fill memes and/or prompts right away, so please be sure 
 > - "\[prompt] for *whatever the prompt is*"
 > - "PROMPT for \[link to meme on quantumstar-rpmemes]"[^7]
 > 
-> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
+> **Anything that could be confused for another meme/prompt and/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
 ## Send Any Time
 **You do not have to wait for me to be active on the dash to send things!** My inbox is always open, unless I have *literally* turned it off.
@@ -119,7 +119,7 @@ I end up spending a lot of time on mobile, and since I rely heavily on userscrip
 > *For Further Details, See:* [[Rulebook (Old)/Guidelines Details/Inbox - Guidelines\|Inbox]]
 
 ---
-# Ships & Dynamics
+# Ships and Dynamics
 ## Multi-Shipping
 Ships (as well as dynamics) are not Highlanders — there can be more than one. **There is no cheating** (*unless specifically plotted and agreed upon ooc*, and even then it is *strictly* with regards to NPCs and *not* other people's portrayals, as I am *not* interested in interacting in most group verses and/or AU scenarios involving multiple muns in a shared verse setting[^5]).
 ## Chemistry
@@ -150,10 +150,10 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 > 
 > **Sending such is *not* considered forced shipping** — if I don't feel we're quite there yet, I will simply let the ask hang out in the inbox until a more suitable time to answer it.
 
-> *For Further Details, See:* [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines\|Ships & Dynamics]]
+> *For Further Details, See:* [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines\|Ships and Dynamics]]
 
 ---
-# Verses & AUs
+# Verses and AUs
 ## Specify Verse
 **I strongly prefer when *you* choose which variant of my muse you wish to interact with.** This largely stems from experience with people frequently dropping interactions without saying a word about doing so because they're not *actually* interested in that muse and/or verse, and rather than just *saying so*, they run the risk of my eventually refusing to interact with them anymore when everything is frequently dropped instead.
 ### Disinterest Tracker
@@ -162,22 +162,22 @@ Sexual ships — which may be *independent* of a romantic ship, in cases of more
 I typically default to a muse's canon-based verses and/or their fandom-matched to your muse's verse AUs (ie if your muse is from Baldur's Gate and you're interacting with Isabela Shepard, I will typically use one of her Baldur's Gate AUs unless the interaction is actually set within the Mass Effect universe).
 ### If Not Specified
 In the event that you *don't* specify a verse, I will most likely fall back on one of my muse's default verses. In some cases, I may reach out and specifically request that you specify a verse, if I'm not certain where to go with an interaction otherwise (often as a result of indecision lock where there's too many possibilities).
-## Private Verses & AUs
-Private Verses & AUs are largely reserved for Mains, Permanent Interactions Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
+## Private Verses and AUs
+Private Verses and AUs are largely reserved for Mains, Permanent Interactions Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together. 
 
 Generally speaking, if I'm likely to want and/or need to have room to where I can make notes to track progression of the pairing's dynamics together, then I'll probably tag it as a private verse and have dedicated note pages to keep track of such things on here.
-### Interacting In Other Muns' Private Verses & AUs
+### Interacting In Other Muns' Private Verses and AUs
 It is *exceptionally rare* that I am willing to let anyone other than the intended partner interact within any private verses, largely due to the fact that even mutual mutuals can one day *not be* mutuals anymore, and so there is the matter of untangling the mess then when it comes to dissolving those connections.
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.
 
-> *For Further Details, See:* [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines\|Verses & AUs]]
+> *For Further Details, See:* [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines\|Verses and AUs]]
 
 ---
 # Plotting
 ## Improv Roleplay
 **I am very much an improv roleplayer.** While I can handle doing some loose plotting to help guide the overall intended path of a dynamic and/or ship, I work best with minimal prompting and simply letting inspiration lead where it may.
-## Plotting Dynamics, Ships, Verses, &/or AUs
+## Plotting Dynamics, Ships, Verses, and/or AUs
 ### Strict Plotters
 > [!rule]+ Incompatible Partner for Strict Plotters
 > 
@@ -191,7 +191,7 @@ As such, private verses are most likely available *only* for their intended part
 # Additional Guidelines
 - [[Rulebook (Old)/Guidelines Details/Forms — Interaction - Guidelines\|Interaction Forms]]
 - [[Rulebook (Old)/Guidelines Details/Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
-- [[Rulebook (Old)/Guidelines Details/Mods + Expanded Canon - Guidelines\|Mods & Expanded Canon]]
+- [[Rulebook (Old)/Guidelines Details/Mods + Expanded Canon - Guidelines\|Mods and Expanded Canon]]
 
 > *For Further Details, See:* TBA
 
@@ -210,7 +210,7 @@ As such, private verses are most likely available *only* for their intended part
 
 [^1]: Sideblog for archiving any and all of the memes, prompts lists, etc. for personal roleplaying purposes. All memes on the blog are considered "active" and may be sent in no matter how long ago I reblogged it.
 
-[^2]: Tagged as **; partnerurl / partnermuse & mymuse / 000** with the appropriate number for which thread the interaction is.
+[^2]: Tagged as **; partnerurl / partnermuse and mymuse / 000** with the appropriate number for which thread the interaction is.
 
 [^3]: Crossovers are handled from the perspective of *my muse's background* being adjusted to fit into another fandom's setting. This does *not* affect your muse's background in any way.
 

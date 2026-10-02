@@ -23,7 +23,7 @@ This continuity is based on an *individual partner basis* — the continuity wit
 # Plotting
 ## Improv Roleplay
 **I am very much an improv roleplayer.** While I can handle doing some loose plotting to help guide the overall intended path of a dynamic and/or ship, I work best with minimal prompting and simply letting inspiration lead where it may.
-## Plotting Dynamics, Ships, Verses, &/or AUs
+## Plotting Dynamics, Ships, Verses, and/or AUs
 ### Strict Plotters
 > [!rule]+ Incompatible Partner for Strict Plotters
 > 

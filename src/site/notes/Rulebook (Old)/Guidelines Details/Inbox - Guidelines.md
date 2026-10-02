@@ -25,7 +25,7 @@
 > - "1. *This is an example for whatever the prompt is*." <small>(number *not* necessary)</small>
 > - "*This is an example for whatever the prompt is*."
 > 
-> **Anything that could be confused for another meme/prompt &/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
+> **Anything that could be confused for another meme/prompt and/or as a sentence starter should include the full prompt.** You can *also* include a link to the meme itself (preferably from where I reblogged it from [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)
 
 ---
 # Specify When Tagged

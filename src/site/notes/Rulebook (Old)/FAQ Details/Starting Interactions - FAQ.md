@@ -11,12 +11,12 @@ All requests for *me* to start an interaction must be made through the interacti
 ## Starter Calls
 - **Starter Call** (*form*) - available 24/7 to request that I write you a starter 
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from & in which verse variant(s)
+	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from and in which verse variant(s)
 	- *Randomized Option?:* **Yes** - choose "*Ziggy's Choice*" as applicable
 ## Inbox Calls
 - **Inbox Call** (*form*) - available 24/7 to request that I send you memes[^2]
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from & in which verse variant(s)
+	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from and in which verse variant(s)
 	- *Randomized Option?:* **Yes** - choose "*Ziggy's Choice*" as applicable
 
 ---
@@ -30,7 +30,7 @@ All requests for *me* to start an interaction must be made through the interacti
 ## Prompts/Memes
 - **Send Prompts/Memes** - simply send me prompts whenever you want to
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
+	- *What To Expect:* Prompts tag has subtags for IC, Spicy, and OOC to help you find what you're looking for in terms of interaction
 	- *Additional Prompts:* [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
 
 

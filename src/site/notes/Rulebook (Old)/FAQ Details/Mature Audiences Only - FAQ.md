@@ -7,7 +7,7 @@
 > I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me. I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing any roleplay interactions with you or your muses until you are at least 21.
 
 My blogs and everything therein (including this wiki) are intended for mature audiences only, and as such I *only* follow and interact with those who are **21 years or older**. My primary fandoms are similarly rated, and so this should be taken into account prior to deciding whether or not to follow me.
-## Mature & Sexual Content Present
+## Mature and Sexual Content Present
 Explicit mature themes, including sexual content, are marked via the community label system.
 
 Sexually suggestive and explicit content is tagged and/or is placed under a cut. The tags for blacklisting are:

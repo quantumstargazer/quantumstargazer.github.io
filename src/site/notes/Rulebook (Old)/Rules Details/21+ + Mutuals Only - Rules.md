@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook-old/rules-details/21-mutuals-only-rules/","tags":["rules"],"dg-note-properties":{"tags":["rules"],"aliases":["21+ & Mutuals Only"]}}
+{"dg-publish":true,"permalink":"/rulebook-old/rules-details/21-mutuals-only-rules/","tags":["rules"],"dg-note-properties":{"tags":["rules"],"aliases":["21+ and Mutuals Only"]}}
 ---
 
-# 21+ & Mutuals Only
+# 21+ and Mutuals Only
 > [!rule]+ Must Be 18+ To Follow
 > **I *hard block* any minors — as well as any blogs who do not list an age at all — who follow me.** I do *not* roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will *not* be writing with you until you are at least 21.
 ## Only Interacts With 21+

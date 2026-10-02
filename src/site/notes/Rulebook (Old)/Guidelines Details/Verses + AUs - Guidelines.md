@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook-old/guidelines-details/verses-a-us-guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":["Verses & AUs"]}}
+{"dg-publish":true,"permalink":"/rulebook-old/guidelines-details/verses-a-us-guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":["Verses and AUs"]}}
 ---
 
-# Verses & AUs
+# Verses and AUs
 
 ---
 # Specify Verse
@@ -15,9 +15,9 @@ In the event that you *don't* specify a verse, I will most likely fall back on o
 **If you're not interested in a verse/AU, you need to fill out the Disinterest Tracker and *let me know*.** I won't send anything your way that you actively state you're not interested in, but if you don't *tell me*, and it's not stated in your rules either, then how can I possibly know? I honestly don't have the energy to spare for this kind of behavior. If you can't be upfront about your disinterest in something when I have actively provided a means for you to do so, then we're probably not compatible roleplay partners.
 
 ---
-# Private Verses & AUs
-**Private Verses & AUs are largely reserved for Mains, Permanent Interactions Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together.** Generally speaking, if I'm likely to want and/or need to have room to where I can make notes to track progression of the pairing's dynamics together, then I'll probably tag it as a private verse and have dedicated note pages to keep track of such things on here.
-## Interacting In Other Muns' Private Verses & AUs
+# Private Verses and AUs
+**Private Verses and AUs are largely reserved for Mains, Permanent Interactions Call Members, and partners with whom I'm shipping with and/or our muses have strong dynamics together.** Generally speaking, if I'm likely to want and/or need to have room to where I can make notes to track progression of the pairing's dynamics together, then I'll probably tag it as a private verse and have dedicated note pages to keep track of such things on here.
+## Interacting In Other Muns' Private Verses and AUs
 It is *exceptionally rare* that I am willing to let anyone other than the intended partner interact within any private verses, largely due to the fact that even mutual mutuals can one day *not be* mutuals anymore, and so there is the matter of untangling the mess then when it comes to dissolving those connections.
 
 As such, private verses are most likely available *only* for their intended partner that is actively mentioned in the verse's tag itself.

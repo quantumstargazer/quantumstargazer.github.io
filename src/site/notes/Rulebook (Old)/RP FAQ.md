@@ -18,11 +18,11 @@ If you're looking to start a thread with me, these are the best means to do so:
 ## Request Ziggy Starts
 - **Starter Call** (*form*) - available 24/7 to request that I write you a starter 
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from & in which verse variant(s)
+	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want starter(s) from and in which verse variant(s)
 	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
 - **Inbox Call** (*form*) - available 24/7 to request that I send you memes[^2]
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from & in which verse variant(s)
+	- *What To Expect:* Your username, specify your muse (if multimuse), select my muse(s) you want prompt(s) from and in which verse variant(s)
 	- *Randomized Option?:* Yes - choose "*Ziggy's Choice*" as applicable
 ## For You To Start
 - **Write Starter(s)** - simply write me starters whenever you want to
@@ -31,7 +31,7 @@ If you're looking to start a thread with me, these are the best means to do so:
 	- *Requirements:* **Mutuals Only
 - **Send Prompts/Memes** - simply send me prompts whenever you want to
 	- *Requirements:* **Mutuals Only**
-	- *What To Expect:* Prompts tag has subtags for IC, Spicy, & OOC to help you find what you're looking for in terms of interaction
+	- *What To Expect:* Prompts tag has subtags for IC, Spicy, and OOC to help you find what you're looking for in terms of interaction
 	- *Additional Prompts:* [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com) (*sideblog*) - personal rp prompts/memes archive with a much larger variety of memes available to be sent in
 
 > *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Starting Interactions - FAQ\|Starting Interactions]]
@@ -57,24 +57,24 @@ If you're looking to start a thread with me, these are the best means to do so:
 | Detail                     | Style Used By Ziggy                            |  Accessibility?   |
 | -------------------------- | ---------------------------------------------- | :---------------: |
 | Icons                      | None Used                                      |        n/a        |
-| Graphics                   | Banners & Dividers                             |        n/a        |
+| Graphics                   | Banners and Dividers                             |        n/a        |
 | Paragraph Length           | Typically 4 to 6 lines, minus inline footnotes |        n/a        |
 | Case (*ie Capitalisation*) | Proper Sentence Case                           | (*working on it*) |
 
 > *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Post Formatting - FAQ\|Post Formatting]]
 
 ---
-# Verses & AUs
+# Verses and AUs
 ## Fandom Matched By Default
 > [!rule]+ Fandom Matched By Default
 > **I will typically match fandom to fandom**, so whatever fandom your muse is being written in the setting of, I will use my corresponding verse and/or AU that matches that fandom. If I don't have an established verse already, I may create one for your muse's fandom, in either the Fandom Specific AUs and/or Trapped In Another World AUs variants.
-## Mix & Match Fandoms On Request
-> [!guideline]+ Mix & Match Fandoms On Request
-> **I am open to playing with mix & match fandom selections**, so if you want to explore a specific fandom setting with our muses from any combination of their available verses and AUs, then all you have to do is ask. The answer will almost always be "*yes*", so long as I'm even remotely familiar with the fandom you want to set things in.
+## Mix and Match Fandoms On Request
+> [!guideline]+ Mix and Match Fandoms On Request
+> **I am open to playing with mix and match fandom selections**, so if you want to explore a specific fandom setting with our muses from any combination of their available verses and AUs, then all you have to do is ask. The answer will almost always be "*yes*", so long as I'm even remotely familiar with the fandom you want to set things in.
 
-## Types of Available Verses & AUs
-### Canon-Based Verses & AUs 
-- *Includes **Canon Typical** & **Canon Divergent AUs***
+## Types of Available Verses and AUs
+### Canon-Based Verses and AUs 
+- *Includes **Canon Typical** and **Canon Divergent AUs***
 - These are the standard verses that take place within the muse's origin fandom universe, whether sticking closer to whatever the muse's personal canon (ie *Canon Typical*) is, or being an alternate variant of such (ie *Canon Divergent AUs*)
 ### Fandom Specific AUs 
 - *Includes various crossover AUs*
@@ -82,23 +82,23 @@ If you're looking to start a thread with me, these are the best means to do so:
 ### Trapped In Another World AUs 
 - *Includes various universe displacement AUs*
 - Typically verses where my muse finds themselves in another fandom's universe by one means or another, and their (likely impossible) mission to find a way back home while trying to survive in an unfamiliar world.
-### Other Verses & AUs
+### Other Verses and AUs
 - *Mostly future proofing*
 - Occasional verses/AUs that just don't quite fit into the other categories.
-- May also include any purely multifandom verses &/or AUs.
-### Private Verses & AUs
-- *Includes private Dynamic/Ship Verses & AUs — not limited to romantic shipping*
-- *Most commonly reserved for Mains, Permanent Interactions Call Members, & shipping partners*
-- **Often plotted verses/AUs & dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
+- May also include any purely multifandom verses and/or AUs.
+### Private Verses and AUs
+- *Includes private Dynamic/Ship Verses and AUs — not limited to romantic shipping*
+- *Most commonly reserved for Mains, Permanent Interactions Call Members, and shipping partners*
+- **Often plotted verses/AUs and dynamics/ships**, so if we've done a lot of plotting, or have developed dynamics/ships, I may switch the interactions to private verses so that I can more easily keep separate notes for the progression of the interactions and any verse/interactions specific divergences and/or plotting that we've established.
 
-> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ\|Verses & AUs]]
+> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ\|Verses and AUs]]
 
 ---
 # Following
 ## Following = Want To Write With You
 **I only follow people I actually want to write with.** So if I'm following you, I *want* to write with you — and you're welcome to jump into my inbox or hit me up on discord as soon as we're mutuals.
 
-> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ\|Blocking and Following]]
 
 ---
 # Unfollowing
@@ -109,7 +109,7 @@ I will typically unfollow any archived blogs whenever I notice the announcement 
 ## Sudden Incompatibility
 If your rules change and suddenly become incompatible with my own, or your entire blogs changes to the point that I'm no longer comfortable following you for whatever reason, I will typically unfollow and likely block in the process as well, where such incompatibility issues are concerned so as not to accidentally refollow again in the future.
 
-> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ\|Blocking and Following]]
 
 ---
 # Blocking
@@ -117,7 +117,7 @@ If your rules change and suddenly become incompatible with my own, or your entir
 ## Hard Block - Never Soft Block
 I have severe memory issues, so I do *not* soft block, even if that is *your* preference. My memory is not reliable enough to ensure I don't attempt to refollow anyone who isn't hard blocked, so I will *always* outright hard block anyone I do not wish to see on my dash at all. If you are bothered by people hard blocking you, then I may not be a suitable roleplay partner for you, in the event that blocking is ever needed in the future, because I will *not* be making exceptions to this for *anyone*.
 
-> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ\|Blocking & Following]]
+> *For Further Details, See:* [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ\|Blocking and Following]]
 
 ---
 

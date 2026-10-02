@@ -3,7 +3,7 @@
 ---
 
 # Blanket Permissions
-> *See also:* [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ\|Do's & Don'ts of Interacting]]
+> *See also:* [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ\|Do's and Don'ts of Interacting]]
 
 ***Mutuals*** do not have to ask or wait for posts prompting them to do any of the following:
 ## Send Prompts To Inbox
@@ -18,7 +18,7 @@
 ## Reply To Open Starters
 - **Reply To Open Starters**
 	- Available to ALL Mutuals
-	- Can adjust to fit most of the muse's verses &/or AUs
+	- Can adjust to fit most of the muse's verses and/or AUs
 	- Will create custom closed starters based on any upon request
 ## Request That I Send Memes
 - **Request That I Send Them Prompts/Memes**
@@ -32,7 +32,7 @@
 	- Message on discord *(only place I currently can handle plotting)*
 ## Ask To Ship
 - **Ask To Ship, Plot Dynamics, Etc.**
-	- Message on discord &/or via tumblr inbox
+	- Message on discord and/or via tumblr inbox
 ## Add As Friend On Discord
 - **Add As Friend On Discord**
 	- Mutuals Only — ***lefae639605***

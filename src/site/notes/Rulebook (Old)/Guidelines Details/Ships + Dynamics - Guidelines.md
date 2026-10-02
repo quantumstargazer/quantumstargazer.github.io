@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/rulebook-old/guidelines-details/ships-dynamics-guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":["Ships & Dynamics"]}}
+{"dg-publish":true,"permalink":"/rulebook-old/guidelines-details/ships-dynamics-guidelines/","tags":["guidelines"],"dg-note-properties":{"tags":["guidelines"],"aliases":["Ships and Dynamics"]}}
 ---
 
-# Ships & Dynamics
-> [!guideline]+ Defaults to Platonic &/or Queerplatonic
+# Ships and Dynamics
+> [!guideline]+ Defaults to Platonic and/or Queerplatonic
 >
 > **By default, I don't set out *to* ship, though shipping *is* welcome.** I don't ever actually expect things to go into shipping unless it's been discussed ooc as a direction we'd like to explore, but it's *always* chemistry based — if the muses don't have the necessary chemistry, then there's simply not going to be a ship there, even if I might normally have a bias for that pairing. Just because I *could* see the pairing *in general* working out, it doesn't necessarily mean it will work out with every individual portrayal.
 > 

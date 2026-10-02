@@ -27,7 +27,7 @@
 
 ---
 # Irregulars 
-- *availability:* **For [[Fellow Stargazers#Mains\|Mains]] & [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] Members Only**
+- *availability:* **For [[Fellow Stargazers#Mains\|Mains]] and [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] Members Only**
 
 
 ---

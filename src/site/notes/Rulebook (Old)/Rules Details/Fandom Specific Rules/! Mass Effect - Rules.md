@@ -17,7 +17,7 @@
 # Galaxystates
 **I do not have a singular default galaxystate.** While I have *preferences* and biases towards certain outcomes, I also enjoy variety, and each muse has their own galaxystate that they default to, and occasionally alternate ones for specific verses. 
 
-I am *also* open to utilising my partners' galaxystates[^1], and/or crafting custom galaxystates for private verses & AUs — I am working on putting together a form to assist in crafting custom galaxystates, though as I said, it will be limited to those with private verses & AUs, which typically require plotting via discord.
+I am *also* open to utilising my partners' galaxystates[^1], and/or crafting custom galaxystates for private verses and AUs — I am working on putting together a form to assist in crafting custom galaxystates, though as I said, it will be limited to those with private verses and AUs, which typically require plotting via discord.
 ## DNI Galaxystate Conditions
 > [!rule]+ Mass Effect Galaxystate Conditions
 > **I will *not* write in galaxystates that utilize the following conditions — these are non-negotiable:**
@@ -46,7 +46,7 @@ However, I rely heavily on canon-divergence where the ending is concerned, much 
 ## Ending Divergences
 - **EDI survives** - she may have been temporarily knocked out and/or may require repairs before she's fully functional again, but she *is* alive. 
 - **The Geth survive** - like EDI, they were likely temporarily knocked offline and/or may need repairs before they are fully functional again.
-- **Shepard survives & is recovered by crew** - Shepard's MIA status is temporary, with the crew being insistent on searching for them after having lost them once before, refusing to believe they're dead again until they see them for themselves.
+- **Shepard survives and is recovered by crew** - Shepard's MIA status is temporary, with the crew being insistent on searching for them after having lost them once before, refusing to believe they're dead again until they see them for themselves.
 
 ---
 

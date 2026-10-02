@@ -16,7 +16,7 @@
 	4. [[Rulebook/Actual Rules#Selective\|Selective]]
 		1. [[Rulebook/Actual Rules#Hard Block If Not Interested\|Hard Block If Not Interested]]
 2. [[Rulebook/Actual Rules#Don't Be A Dick\|Don't Be A Dick]]
-3. [[Rulebook/Actual Rules#21+ & Mutuals Only\|21+ & Mutuals Only]]
+3. [[Rulebook/Actual Rules#21+ and Mutuals Only\|21+ and Mutuals Only]]
 	1. [[Rulebook/Actual Rules#Only Interacts With 21+\|Only Interacts With 21+]]
 	2. [[Rulebook/Actual Rules#Only Interacts With Mutuals\|Only Interacts With Mutuals]]
 		1. [[Rulebook/Actual Rules#If I Follow You First\|If I Follow You First]]
@@ -25,19 +25,19 @@
 	1. [[Rulebook/Actual Rules#Don't Like? Don't Follow.\|Don't Like? Don't Follow.]]
 	2. [[Rulebook/Actual Rules#Hard Block Only - No Soft Block\|Hard Block Only - No Soft Block]]
 	3. [[Rulebook/Actual Rules#Disinterest Tracker\|Disinterest Tracker]]
-5. [[Rulebook/Actual Rules#Banned & Restricted Content\|Banned & Restricted Content]]
+5. [[Rulebook/Actual Rules#Banned and Restricted Content\|Banned and Restricted Content]]
 	1. [[Rulebook/Actual Rules#AI Generated Content\|AI Generated Content]]
-	2. [[Rulebook/Actual Rules#Tropes & Themes\|Tropes & Themes]]
+	2. [[Rulebook/Actual Rules#Tropes and Themes\|Tropes and Themes]]
 	3. [[Rulebook/Actual Rules#Fandoms\|Fandoms]]
 	4. [[Rulebook/Actual Rules#Faceclaims\|Faceclaims]]
 6. [[Rulebook/Actual Rules#Interacting\|Interacting]]
-	1. [[Rulebook/Actual Rules#Do's & Don'ts\|Do's & Don'ts]]
+	1. [[Rulebook/Actual Rules#Do's and Don'ts\|Do's and Don'ts]]
 	2. [[Rulebook/Actual Rules#RP Forms\|RP Forms]]
 		1. [[Rulebook/Actual Rules#Interaction Calls\|Interaction Calls]]
 		2. [[Rulebook/Actual Rules#Interest Tracking Forms\|Interest Tracking Forms]]
-	3. [[Rulebook/Actual Rules#Inbox Prompts & Memes\|Inbox Prompts & Memes]]
+	3. [[Rulebook/Actual Rules#Inbox Prompts and Memes\|Inbox Prompts and Memes]]
 		1. [[Rulebook/Actual Rules#Send Full Prompts To Inbox\|Send Full Prompts To Inbox]]
-	4. [[Rulebook/Actual Rules#Specify Muse &/or Verse\|Specify Muse &/or Verse]]
+	4. [[Rulebook/Actual Rules#Specify Muse and/or Verse\|Specify Muse and/or Verse]]
 7. [[Rulebook/Actual Rules#Additional Rules May Apply\|Additional Rules May Apply]]
 	1. [[Rulebook/Actual Rules#Blacklist Tags\|Blacklist Tags]]
 		1. [[Rulebook/Actual Rules#Preferred Formatting\|Preferred Formatting]]
@@ -48,7 +48,7 @@
 		1. [[Rulebook/Actual Rules#Marked For Mature Content\|Marked For Mature Content]]
 			1. [[Rulebook/Actual Rules#Sexually Explicit May Be Under Cut\|Sexually Explicit May Be Under Cut]]
 		2. [[Rulebook/Actual Rules#Tagged For NSFW\|Tagged For NSFW]]
-		3. [[Rulebook/Actual Rules#Exploring Sexual Ships & Dynamics\|Exploring Sexual Ships & Dynamics]]
+		3. [[Rulebook/Actual Rules#Exploring Sexual Ships and Dynamics\|Exploring Sexual Ships and Dynamics]]
 	4. [[Rulebook/Actual Rules#Fandom-Specific Rules\|Fandom-Specific Rules]]
 8. [[Rulebook/Actual Rules#Additional Guidelines May Apply\|Additional Guidelines May Apply]]
 	1. [[Rulebook/Actual Rules#Guidelines\|Guidelines]]
@@ -57,17 +57,17 @@
 
 ## Rules Details
 
-### 21 & Mutuals Only
-1. [[Rulebook (Old)/Rules Details/21+ + Mutuals Only - Rules#21+ & Mutuals Only\|21+ & Mutuals Only]]
+### 21 and Mutuals Only
+1. [[Rulebook (Old)/Rules Details/21+ + Mutuals Only - Rules#21+ and Mutuals Only\|21+ and Mutuals Only]]
 	1. [[Rulebook (Old)/Rules Details/21+ + Mutuals Only - Rules#Only Interacts With 21+\|Only Interacts With 21+]]
 	2. [[Rulebook (Old)/Rules Details/21+ + Mutuals Only - Rules#Rated for Mature Audiences Only\|Rated for Mature Audiences Only]]
 
-### Banned & Restricted Content
-1. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Banned & Restricted Content\|Banned & Restricted Content]]
+### Banned and Restricted Content
+1. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Banned and Restricted Content\|Banned and Restricted Content]]
 2. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#AI Generated Content\|AI Generated Content]]
-3. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Tropes & Themes\|Tropes & Themes]]
-	1. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Banned Tropes & Themes\|Banned Tropes & Themes]]
-	2. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Restricted Tropes & Themes\|Restricted Tropes & Themes]]
+3. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Tropes and Themes\|Tropes and Themes]]
+	1. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Banned Tropes and Themes\|Banned Tropes and Themes]]
+	2. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Restricted Tropes and Themes\|Restricted Tropes and Themes]]
 4. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Fandoms\|Fandoms]]
 	1. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Banned Fandoms\|Banned Fandoms]]
 	2. [[Rulebook (Old)/Rules Details/Banned + Restricted Content - Rules#Restricted Fandoms\|Restricted Fandoms]]
@@ -79,7 +79,7 @@
 1. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Blacklist Tags\|Blacklist Tags]]
 	1. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Tag Format\|Tag Format]]
 2. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Content Warnings Needed\|Content Warnings Needed]]
-	1. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Themes & Tropes\|Themes & Tropes]]
+	1. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Themes and Tropes\|Themes and Tropes]]
 	2. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Real Life Events\|Real Life Events]]
 3. [[Rulebook (Old)/Rules Details/Blacklist Tags - Rules#Migraine Triggers\|Migraine Triggers]]
 
@@ -97,14 +97,14 @@
 
 ### Exclusivity
 1. [[Rulebook (Old)/Rules Details/Exclusivity - Rules#Mutuals Only Exclusivity\|Mutuals Only Exclusivity]]
-2. [[Rulebook (Old)/Rules Details/Exclusivity - Rules#Mains & Exclusives\|Mains & Exclusives]]
+2. [[Rulebook (Old)/Rules Details/Exclusivity - Rules#Mains and Exclusives\|Mains and Exclusives]]
 3. [[Rulebook (Old)/Rules Details/Exclusivity - Rules#Other People's Exclusivity\|Other People's Exclusivity]]
 	1. [[Rulebook (Old)/Rules Details/Exclusivity - Rules#No Exclusives On Follow\|No Exclusives On Follow]]
 	2. [[Rulebook (Old)/Rules Details/Exclusivity - Rules#No Forced Exclusivity Of Any Kind\|No Forced Exclusivity Of Any Kind]]
 
 ### Sexual Content
 1. [[Rulebook (Old)/Rules Details/Sexual Content - Rules#Sexual Content\|Sexual Content]]
-2. [[Rulebook (Old)/Rules Details/Sexual Content - Rules#Smut - 21+ & Mutuals Only\|Smut - 21+ & Mutuals Only]]
+2. [[Rulebook (Old)/Rules Details/Sexual Content - Rules#Smut - 21+ and Mutuals Only\|Smut - 21+ and Mutuals Only]]
 	1. [[Rulebook (Old)/Rules Details/Sexual Content - Rules#No Anonymous NSFW\|No Anonymous NSFW]]
 3. [[Rulebook (Old)/Rules Details/Sexual Content - Rules#No Ship/Dynamic Required To Start\|No Ship/Dynamic Required To Start]]
 
@@ -161,7 +161,7 @@
 	4. [[Rulebook (Old)/Guidelines#Prompts Never Expire\|Prompts Never Expire]]
 	5. [[Rulebook (Old)/Guidelines#Include Full Prompt When Sending\|Include Full Prompt When Sending]]
 	6. [[Rulebook (Old)/Guidelines#Send Any Time\|Send Any Time]]
-7. [[Rulebook (Old)/Guidelines#Ships & Dynamics\|Ships & Dynamics]]
+7. [[Rulebook (Old)/Guidelines#Ships and Dynamics\|Ships and Dynamics]]
 	1. [[Rulebook (Old)/Guidelines#Multi-Shipping\|Multi-Shipping]]
 	2. [[Rulebook (Old)/Guidelines#Chemistry\|Chemistry]]
 		1. [[Rulebook (Old)/Guidelines#Flirting ≠ Forced Shipping\|Flirting ≠ Forced Shipping]]
@@ -174,16 +174,16 @@
 		1. [[Rulebook (Old)/Guidelines#Romanic Ships\|Romanic Ships]]
 		2. [[Rulebook (Old)/Guidelines#Sexual Ships\|Sexual Ships]]
 		3. [[Rulebook (Old)/Guidelines#Smut\|Smut]]
-8. [[Rulebook (Old)/Guidelines#Verses & AUs\|Verses & AUs]]
+8. [[Rulebook (Old)/Guidelines#Verses and AUs\|Verses and AUs]]
 	1. [[Rulebook (Old)/Guidelines#Specify Verse\|Specify Verse]]
 		1. [[Rulebook (Old)/Guidelines#Disinterest Tracker\|Disinterest Tracker]]
 		2. [[Rulebook (Old)/Guidelines#Default Verses/AUs\|Default Verses/AUs]]
 		3. [[Rulebook (Old)/Guidelines#If Not Specified\|If Not Specified]]
-	2. [[Rulebook (Old)/Guidelines#Private Verses & AUs\|Private Verses & AUs]]
-		1. [[Rulebook (Old)/Guidelines#Interacting In Other Muns' Private Verses & AUs\|Interacting In Other Muns' Private Verses & AUs]]
+	2. [[Rulebook (Old)/Guidelines#Private Verses and AUs\|Private Verses and AUs]]
+		1. [[Rulebook (Old)/Guidelines#Interacting In Other Muns' Private Verses and AUs\|Interacting In Other Muns' Private Verses and AUs]]
 9. [[Rulebook (Old)/Guidelines#Plotting\|Plotting]]
 	1. [[Rulebook (Old)/Guidelines#Improv Roleplay\|Improv Roleplay]]
-	2. [[Rulebook (Old)/Guidelines#Plotting Dynamics, Ships, Verses, &/or AUs\|Plotting Dynamics, Ships, Verses, &/or AUs]]
+	2. [[Rulebook (Old)/Guidelines#Plotting Dynamics, Ships, Verses, and/or AUs\|Plotting Dynamics, Ships, Verses, and/or AUs]]
 		1. [[Rulebook (Old)/Guidelines#Strict Plotters\|Strict Plotters]]
 10. [[Rulebook (Old)/Guidelines#Additional Guidelines\|Additional Guidelines]]
 
@@ -238,11 +238,11 @@
 	1. [[Rulebook (Old)/Guidelines Details/Interactions - Guidelines#Separate Multi-Verse Continuities\|Separate Multi-Verse Continuities]]
 4. [[Rulebook (Old)/Guidelines Details/Interactions - Guidelines#Plotting\|Plotting]]
 	1. [[Rulebook (Old)/Guidelines Details/Interactions - Guidelines#Improv Roleplay\|Improv Roleplay]]
-	2. [[Rulebook (Old)/Guidelines Details/Interactions - Guidelines#Plotting Dynamics, Ships, Verses, &/or AUs\|Plotting Dynamics, Ships, Verses, &/or AUs]]
+	2. [[Rulebook (Old)/Guidelines Details/Interactions - Guidelines#Plotting Dynamics, Ships, Verses, and/or AUs\|Plotting Dynamics, Ships, Verses, and/or AUs]]
 		1. [[Rulebook (Old)/Guidelines Details/Interactions - Guidelines#Strict Plotters\|Strict Plotters]]
 
-### Mods & Expanded Canon
-1. [[Rulebook (Old)/Guidelines Details/Mods + Expanded Canon - Guidelines#Mods & Expanded Canon\|Mods & Expanded Canon]]
+### Mods and Expanded Canon
+1. [[Rulebook (Old)/Guidelines Details/Mods + Expanded Canon - Guidelines#Mods and Expanded Canon\|Mods and Expanded Canon]]
 2. [[Rulebook (Old)/Guidelines Details/Mods + Expanded Canon - Guidelines#Modded Gameplay\|Modded Gameplay]]
 3. [[Rulebook (Old)/Guidelines Details/Mods + Expanded Canon - Guidelines#Expanded Canon\|Expanded Canon]]
 
@@ -254,8 +254,8 @@
 5. [[Rulebook (Old)/Guidelines Details/Muses - Guidelines#Friends Only\|Friends Only]]
 6. [[Rulebook (Old)/Guidelines Details/Muses - Guidelines#Irregulars\|Irregulars]]
 
-### Ships & Dynamics
-1. [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines#Ships & Dynamics\|Ships & Dynamics]]
+### Ships and Dynamics
+1. [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines#Ships and Dynamics\|Ships and Dynamics]]
 	1. [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines#Multi-Shipping\|Multi-Shipping]]
 	2. [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines#Chemistry\|Chemistry]]
 		1. [[Rulebook (Old)/Guidelines Details/Ships + Dynamics - Guidelines#Flirting ≠ Forced Shipping\|Flirting ≠ Forced Shipping]]
@@ -278,14 +278,14 @@
 	1. [[Rulebook (Old)/Guidelines Details/Starters - Guidelines#Opens For Mutuals Only\|Opens For Mutuals Only]]
 	2. [[Rulebook (Old)/Guidelines Details/Starters - Guidelines#Customized Opens Upon Request\|Customized Opens Upon Request]]
 
-### Verses & AUs
-1. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Verses & AUs\|Verses & AUs]]
+### Verses and AUs
+1. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Verses and AUs\|Verses and AUs]]
 2. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Specify Verse\|Specify Verse]]
 	1. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Default Verses/AUs\|Default Verses/AUs]]
 		1. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#If Not Specified\|If Not Specified]]
 	2. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Disinterest Tracker\|Disinterest Tracker]]
-3. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Private Verses & AUs\|Private Verses & AUs]]
-	1. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Interacting In Other Muns' Private Verses & AUs\|Interacting In Other Muns' Private Verses & AUs]]
+3. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Private Verses and AUs\|Private Verses and AUs]]
+	1. [[Rulebook (Old)/Guidelines Details/Verses + AUs - Guidelines#Interacting In Other Muns' Private Verses and AUs\|Interacting In Other Muns' Private Verses and AUs]]
 
 
 
@@ -300,14 +300,14 @@
 4. [[Rulebook/RP FAQ#Post Formatting\|Post Formatting]]
 	1. [[Rulebook/RP FAQ#Text Formatting\|Text Formatting]]
 	2. [[Rulebook/RP FAQ#Other Post Details\|Other Post Details]]
-5. [[Rulebook/RP FAQ#Verses & AUs\|Verses & AUs]]
-	1. [[Rulebook/RP FAQ#Types of Available Verses & AUs\|Types of Available Verses & AUs]]
-		1. [[Rulebook/RP FAQ#Canon-Based Verses & AUs\|Canon-Based Verses & AUs]]
+5. [[Rulebook/RP FAQ#Verses and AUs\|Verses and AUs]]
+	1. [[Rulebook/RP FAQ#Types of Available Verses and AUs\|Types of Available Verses and AUs]]
+		1. [[Rulebook/RP FAQ#Canon-Based Verses and AUs\|Canon-Based Verses and AUs]]
 		2. [[Rulebook/RP FAQ#Fandom Specific AUs\|Fandom Specific AUs]]
 		3. [[Rulebook/RP FAQ#Trapped In Another World AUs\|Trapped In Another World AUs]]
-		4. [[Rulebook/RP FAQ#Other Verses & AUs\|Other Verses & AUs]]
-		5. [[Rulebook/RP FAQ#Private Verses & AUs\|Private Verses & AUs]]
-6. [[Rulebook/RP FAQ#Blocking & Following\|Blocking & Following]]
+		4. [[Rulebook/RP FAQ#Other Verses and AUs\|Other Verses and AUs]]
+		5. [[Rulebook/RP FAQ#Private Verses and AUs\|Private Verses and AUs]]
+6. [[Rulebook/RP FAQ#Blocking and Following\|Blocking and Following]]
 7. [[Rulebook/RP FAQ#Blocking\|Blocking]]
 	1. [[Rulebook/RP FAQ#Hard Block - Never Soft Block\|Hard Block - Never Soft Block]]
 8. [[Rulebook/RP FAQ#Following\|Following]]
@@ -333,8 +333,8 @@
 	1. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Frequently Asked Questions\|Frequently Asked Questions]]
 		1. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Dash Things\|Dash Things]]
 		2. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Inbox Things\|Inbox Things]]
-		3. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Ships & Dynamics\|Ships & Dynamics]]
-		4. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Wiki & Blog\|Wiki & Blog]]
+		3. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Ships and Dynamics\|Ships and Dynamics]]
+		4. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Wiki and Blog\|Wiki and Blog]]
 2. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Chain "Promos"\|Chain "Promos"]]
 3. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Inbox - Mobile Accessibility\|Inbox - Mobile Accessibility]]
 4. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|Queerplatonic Dynamics]]
@@ -342,8 +342,8 @@
 5. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Reporting Corrections\|Reporting Corrections]]
 6. [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Requesting More Information\|Requesting More Information]]
 
-### Blocking & Following
-1. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Blocking & Following\|Blocking & Following]]
+### Blocking and Following
+1. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Blocking and Following\|Blocking and Following]]
 2. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Following\|Following]]
 	1. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Rarely Follows First\|Rarely Follows First]]
 	2. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Following = Want To Write With You\|Following = Want To Write With You]]
@@ -358,8 +358,8 @@
 	2. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Block On Sight - Hard Limits\|Block On Sight - Hard Limits]]
 	3. [[Rulebook (Old)/FAQ Details/Blocking + Following - FAQ#Constantly Dropped Interactions\|Constantly Dropped Interactions]]
 
-### Do's & Don'ts
-1. [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ#Do's & Don'ts of Interacting\|Do's & Don'ts of Interacting]]
+### Do's and Don'ts
+1. [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ#Do's and Don'ts of Interacting\|Do's and Don'ts of Interacting]]
 2. [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ#TL;DR\|TL;DR]]
 	1. [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ#Do\|Do]]
 	2. [[Rulebook (Old)/FAQ Details/Do's + Don'ts - FAQ#Don't\|Don't]]
@@ -376,11 +376,11 @@
 	3. [[Fellow Stargazers#Dragon Age Muses\|Dragon Age Muses]]
 	4. [[Fellow Stargazers#Mass Effect Muses\|Mass Effect Muses]]
 	5. [[Fellow Stargazers#Other Fandom Muses\|Other Fandom Muses]]
-5. [[Fellow Stargazers#Ships & Dynamics Partners\|Ships & Dynamics Partners]]
+5. [[Fellow Stargazers#Ships and Dynamics Partners\|Ships and Dynamics Partners]]
 
 ### Mature Audiences Only
 1. [[Rulebook (Old)/FAQ Details/Mature Audiences Only - FAQ#Rated M for Mature Audiences Only\|Rated M for Mature Audiences Only]]
-	1. [[Rulebook (Old)/FAQ Details/Mature Audiences Only - FAQ#Mature & Sexual Content Present\|Mature & Sexual Content Present]]
+	1. [[Rulebook (Old)/FAQ Details/Mature Audiences Only - FAQ#Mature and Sexual Content Present\|Mature and Sexual Content Present]]
 2. [[Rulebook (Old)/FAQ Details/Mature Audiences Only - FAQ#Viewer Discretion Is Advised\|Viewer Discretion Is Advised]]
 	1. [[Rulebook (Old)/FAQ Details/Mature Audiences Only - FAQ#Content Warnings\|Content Warnings]]
 
@@ -414,14 +414,14 @@
 	3. [[Rulebook (Old)/FAQ Details/Starting Interactions - FAQ#Prompts/Memes\|Prompts/Memes]]
 
 
-### Themes & Tropes
-1. [[Rulebook (Old)/FAQ Details/Tropes + Themes - FAQ#Tropes & Themes\|Tropes & Themes]]
+### Themes and Tropes
+1. [[Rulebook (Old)/FAQ Details/Tropes + Themes - FAQ#Tropes and Themes\|Tropes and Themes]]
 2. [[Rulebook (Old)/FAQ Details/Tropes + Themes - FAQ#Soulmates (subverted)\|Soulmates (subverted)]]
 
-### Verses & AUs
-1. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Verses & AUs\|Verses & AUs]]
-2. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Types of Available Verses & AUs\|Types of Available Verses & AUs]]
-	1. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Canon-Based Verses & AUs\|Canon-Based Verses & AUs]]
+### Verses and AUs
+1. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Verses and AUs\|Verses and AUs]]
+2. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Types of Available Verses and AUs\|Types of Available Verses and AUs]]
+	1. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Canon-Based Verses and AUs\|Canon-Based Verses and AUs]]
 	2. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Fandom Specific AUs\|Fandom Specific AUs]]
 		1. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Baldur's Gate\|Baldur's Gate]]
 		2. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Dragon Age\|Dragon Age]]
@@ -432,12 +432,12 @@
 		2. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Dragon Age\|Dragon Age]]
 		3. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Mass Effect\|Mass Effect]]
 		4. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Other Fandoms\|Other Fandoms]]
-	4. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Other Verses & AUs\|Other Verses & AUs]]
+	4. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Other Verses and AUs\|Other Verses and AUs]]
 		1. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Baldur's Gate\|Baldur's Gate]]
 		2. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Dragon Age\|Dragon Age]]
 		3. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Mass Effect\|Mass Effect]]
 		4. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Other Fandoms\|Other Fandoms]]
-	5. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Private Verses & AUs\|Private Verses & AUs]]
+	5. [[Rulebook (Old)/FAQ Details/Verses + AUs - FAQ#Private Verses and AUs\|Private Verses and AUs]]
 
 
 

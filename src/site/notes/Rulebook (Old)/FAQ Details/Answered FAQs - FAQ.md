@@ -10,9 +10,9 @@
 - [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Chain "Promos"\|Why don't you reblog the "person I reblogged this from" posts?]]
 ### Inbox Things
 - Why don't you send prompts/memes from mobile?
-### Ships & Dynamics
+### Ships and Dynamics
 - [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Queerplatonic Dynamics\|What are queerplatonic relationships/dynamics?]]
-### Wiki & Blog
+### Wiki and Blog
 - [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Reporting Corrections\|Should I tell you if there's spelling/grammar mistakes, broken links, etc.?]]
 - [[Rulebook (Old)/FAQ Details/Answered FAQs - FAQ#Requesting More Information\|Can I ask for more information about a muse, verse, etc.?]]
 
@@ -36,31 +36,31 @@ So I typically only send things to people's inboxes from my desktop, and that me
 A **queerplatonic relationship**[^1] is a partnership which does not fit the "*traditional*" models of friendships or romantic relationships. Queerplatonic relationships often have characteristics commonly associated with romantic relationships, such as deep emotional intimacy, prioritization, and commitment, while still defying a "*platonic or romantic*" categorization. Queerplatonic relationships have a flexible dynamic, and each relationship is tailored to the needs of the individuals involved, with no outside societal expectations or guidelines to follow. 
 ## Fictional Examples
 *These are just some examples of canon dynamics that can be read as queerplatonic:*[^2]
-- Gale & Tara - *Baldur's Gate*
-- Jaheira & Minsc (& Boo) - *Baldur's Gate*
-- The Warden & Sten (*kadan*) - *Dragon Age: Origins*
-- The Warden & Zevran - *Dragon Age: Origins*
-- Hawke & Varric Tethras - *Dragon Age 2*
-- Inquisitor (female) & Dorian Pavus - *Dragon Age: Inquisition* 
-- Shepard & Garrus Vakarian - *Mass Effect*
-- Shepard (female) & Tali'Zorah - *Mass Effect*
-- Shepard & Jeff "Joker" Moreau - *Mass Effect* 
-- Shepard & Urdnot Wrex - *Mass Effect*
-- Shepard & Mordin Solus - *Mass Effect 2*
-- Eighth Doctor & Josie Day - *Doctor Who* 
-- Tenth Doctor & Donna Noble - *Doctor Who*
-- Irving Braxiatel & Bernice Summerfield - *Doctor Who*
-- Irving Braxiatel & Romana & Leela & Narvin - *Doctor Who*
-- Tony Stark & James "Rhodey" Rhodes & Virginia "Pepper" Potts - *Marvel*
-- John Shepard & Rodney McCay - *Stargate*
-- Shaun & Ed - *Shaun of the Dead*
-- Batman & Superman - *DCU*
-- Crowley & Aziraphale - *Good Omens*
-- Sherlock Holmes & Dr. John Watson - *Sherlock Holmes*
-- Link & Zelda - *Legend of Zelda*
-- Jessie & James - *Pokemon*
-- Yami & Yugi Moto - *Yu-Gi-Oh*
-- Peter Venkman & Egon Spengler & Ray Stantz & Winston Zeddemore - *The **Real** Ghostbusters*
+- Gale and Tara - *Baldur's Gate*
+- Jaheira and Minsc (and Boo) - *Baldur's Gate*
+- The Warden and Sten (*kadan*) - *Dragon Age: Origins*
+- The Warden and Zevran - *Dragon Age: Origins*
+- Hawke and Varric Tethras - *Dragon Age 2*
+- Inquisitor (female) and Dorian Pavus - *Dragon Age: Inquisition* 
+- Shepard and Garrus Vakarian - *Mass Effect*
+- Shepard (female) and Tali'Zorah - *Mass Effect*
+- Shepard and Jeff "Joker" Moreau - *Mass Effect* 
+- Shepard and Urdnot Wrex - *Mass Effect*
+- Shepard and Mordin Solus - *Mass Effect 2*
+- Eighth Doctor and Josie Day - *Doctor Who* 
+- Tenth Doctor and Donna Noble - *Doctor Who*
+- Irving Braxiatel and Bernice Summerfield - *Doctor Who*
+- Irving Braxiatel and Romana and Leela and Narvin - *Doctor Who*
+- Tony Stark and James "Rhodey" Rhodes and Virginia "Pepper" Potts - *Marvel*
+- John Shepard and Rodney McCay - *Stargate*
+- Shaun and Ed - *Shaun of the Dead*
+- Batman and Superman - *DCU*
+- Crowley and Aziraphale - *Good Omens*
+- Sherlock Holmes and Dr. John Watson - *Sherlock Holmes*
+- Link and Zelda - *Legend of Zelda*
+- Jessie and James - *Pokemon*
+- Yami and Yugi Moto - *Yu-Gi-Oh*
+- Peter Venkman and Egon Spengler and Ray Stantz and Winston Zeddemore - *The **Real** Ghostbusters*
 - *...and many more canon dynamics.*
 
 ---
