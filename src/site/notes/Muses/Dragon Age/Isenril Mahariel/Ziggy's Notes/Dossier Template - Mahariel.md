@@ -146,11 +146,13 @@
 > | Patron(s) | \[*REDACTED*] |
 > | Organization(s) | \[*REDACTED*] |
 > | Employer(s) | \[*REDACTED*] |
-> | Occupation(s) | Hunter of Secrets |
+> | Occupation(s) | Emerald Knight |
+> |  | Hunter of Secrets |
 > |  | Grey Warden |
 > | Title(s) | \[*REDACTED*] |
 > |  | Warden-Commander of Ferelden |
 > |  | Hero of Ferelden |
+> |  | Emerald Knight |
 >
 > **Spiritual Beliefs**
 >
@@ -158,6 +160,7 @@
 > |---|---|
 > | Beliefs | Questioning |
 > | Patron Deity | Dirthamen |
+> |  | \[*REDACTED*] |
 > | Pantheon | Evanuris |
 >
 > **Combat Classes**
@@ -165,7 +168,7 @@
 > | | |
 > |---|---|
 > | Primary Class | Rogue — Archery - Poisons - Dual Wield |
-> |  | Ranger (*Rogue*) |
+> |  | Emerald Knight (*Rogue*)[^1] |
 > |  | Assassin (*Rogue*) |
 > |  | Shadow (*Rogue*) |
 > | Secondary Class | — |
@@ -452,7 +455,7 @@
 ---
 ## Applicable Mods
 
-- *TBA*
+- [Emerald Knight Specialization](https://www.nexusmods.com/dragonage/mods/5512)
 
 
 
@@ -471,3 +474,5 @@
 
 ---
 # Footnotes
+
+[^1]: [Emerald Knight Specialization](https://www.nexusmods.com/dragonage/mods/5512) mod, with some headcanon changes to better fit Mahariel's story in how he acquires the knowledge of the Emerald Knights.
