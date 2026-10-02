@@ -24,6 +24,16 @@
 > Currently, some sections have limited information available while I am restructuring the site, while others are simply the old version that I've put in place for now until I can get the new pages put together (like everything in the Rulebook section). I'm trying to keep the old stuff to a minimum, but it's a bit difficult to have a rp blog without any rules up, y'know?
 
 ---
+# Status Updates
+
+> [!ziggy] Current Status
+> 
+> Slow activity. Expect days and/or weeks long delays between replies. All replies are posted immediately once they're ready and are never queued.
+> 
+> — *01 October 2026*
+> 
+
+---
 ## QuantumStargazer
 
 > [!ziggy] Quantum Stargazer
