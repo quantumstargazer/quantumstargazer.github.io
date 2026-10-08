@@ -169,7 +169,7 @@
 > | | |
 > |---|---|
 > | Primary Class | **Rogue** — *Dual Wield & Archery* |
-> |  | Master Assassin |
+> |  | Master Assassin  |
 > |  | Duelist |
 > |  | Shadow |
 > |  | Bard |
@@ -213,14 +213,14 @@
 > | Name | Adaia Tabris née Arainai |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic - *Familial* | 
+> | Connection | Platonic - *Familial ( Mother )* | 
 > | Status |  Deceased - *9:24 Dragon* |
 >
 > **Summary**
 > 
 > > *Adaia is Ashina's mother, and the wife of Cyrion Tabris of Denerim.*
 > 
-> TBA
+> Adaia Arainai is a runaway assassin from House Arainai of the Antivan Crows, who fled Antiva in 9:06 Dragon for Ferelden, where she hides among the other elves in Denerim for the next 17 years, before the Crows catch up with her on her way home from the market.
 > 
 > 
 > 
@@ -237,7 +237,7 @@
 > | Name | Cyrion Tabris |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic - *Familial* | 
+> | Connection | Platonic - *Familial ( Father )* | 
 > | Status | Alive |
 >
 > **Summary**
@@ -261,7 +261,7 @@
 > | Name | Soris |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic - *Familial* | 
+> | Connection | Platonic - *Familial ( Cousin )* | 
 > | Status | Alive |
 >
 > **Summary**
@@ -285,7 +285,7 @@
 > | Name | Shianni |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Platonic - *Familial* | 
+> | Connection | Platonic - *Familial ( Cousin )* | 
 > | Status | Alive |
 >
 > **Summary**
@@ -309,7 +309,8 @@
 > | Name | Nelaros |
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
-> | Connection | Acquaintances - *Arranged Engagement* |
+> | Connection | Betrothed - *Arranged Marriage* |
+> |  | Acquaintances |
 > |  | Potential Love Interest |
 > | Status | Deceased - *9:30 Dragon* |
 >
