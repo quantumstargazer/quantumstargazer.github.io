@@ -214,7 +214,7 @@
 > | Pre-Established | Yes |
 > | Connection | Platonic - Queerplatonic |
 > |  | Potential Love Interest |
-> | Status | Deceased - *9:30 Dragon* |
+> | Status | Deceased - *9:30 Dragon*[^2] |
 >
 > **Summary**
 > 
@@ -477,3 +477,5 @@
 # Footnotes
 
 [^1]: [Emerald Knight Specialization](https://www.nexusmods.com/dragonage/mods/5512) mod, with some headcanon changes to better fit Mahariel's story in how he acquires the knowledge of the Emerald Knights.
+
+[^2]: **Default - By Canon Only** — Instances of Divergence may occur where Tamlen survives being blighted by one means or another, though that method may vary per AU and/or general interactions, if requested in order to change things up.
