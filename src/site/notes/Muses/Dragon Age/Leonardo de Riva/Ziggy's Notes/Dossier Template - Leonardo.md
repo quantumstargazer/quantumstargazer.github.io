@@ -404,7 +404,7 @@
 ---
 ## Applicable Mods
 
-- *TBA*
+- [True Necromancy](https://www.nexusmods.com/dragonagetheveilguard/mods/1099)[^1]
 
 
 
@@ -423,3 +423,5 @@
 
 ---
 # Footnotes
+
+[^1]: Mostly for the necrotic "spells" borrowed from the Crow rogues.
