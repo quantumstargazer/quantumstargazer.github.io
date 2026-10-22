@@ -263,7 +263,7 @@
 > | Fandom | Dragon Age |
 > | Pre-Established | Yes |
 > | Connection | Antagonistic |
-> | Status | Deceased - *9:36 Dragon* |
+> | Status | Deceased - *9:37 Dragon* |
 >
 > **Summary**
 > 
