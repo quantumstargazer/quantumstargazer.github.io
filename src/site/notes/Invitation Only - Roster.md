@@ -377,6 +377,39 @@
 > | Multiverse | [[Summary - Anders#Other Verses & AUs\|Other Verses & AUs]] |
 > | Private | [[Summary - Anders#Private Verses & AUs\|Private Verses & AUs]] |
 
+## Orana
+
+> [!profilebox] Orana (she/her)
+> ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Orana |
+> | Fandom | Dragon Age |
+> | Roster | [[Invitation Only - Roster#Orana\|Invitation Only]] |
+> | Status | Canon Divergent |
+> | Restrictions | Not Available Without Invite |
+>
+> **Summary**
+> 
+> > *City Elf — ~~Freed Slave~~ Amell Estates Head of Staff*
+> 
+> TBA
+> 
+> **Navigation**
+> 
+> | | |
+> |---|---|
+> | Muse Info | [[Summary - Orana\|Orana]] |
+> | Mainverses | [[Summary - Orana#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Orana#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Orana#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Orana#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Orana#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Orana#Private Verses & AUs\|Private Verses & AUs]] |
+
 ## Clark Kent
 
 > [!profilebox] Clark Kent (he/him)
@@ -394,6 +427,7 @@
 >
 > **Summary**
 > 
+> > *\[Redacted] — ~~Kent Family Farmhand~~ Journalist*
 > > **Heavy Canon Divergence** — *Inspired by Easter Egg in DAO*
 > 
 > TBA
@@ -427,6 +461,7 @@
 >
 > **Summary**
 > 
+> > *Human Noble — Socialite*
 > > **Heavy Canon Divergence** — *Inspired by Easter Egg in DAO for Clark Kent*
 > 
 > TBA
