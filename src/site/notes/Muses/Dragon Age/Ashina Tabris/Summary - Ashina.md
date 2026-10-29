@@ -67,6 +67,132 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 9:51 Dragon | 45 +/- years |
+> | 9:50 Dragon | 44 +/- years |
+> | 9:45 Dragon | 39 +/- years |
+> | 9:40 Dragon | 34 +/- years |
+> | 9:35 Dragon | 29 +/- years |
+> | 9:30 Dragon | 24 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | 30th of Harvestmere (*10th Month*) |
+> | Year of Birth | 9:06 Dragon |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Biromantic Bisexual |
+> | MBTI | ISTJ-T |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Elf |
+> | Race | City Elf |
+> | Ethnicity | Antivan / Ferelden |
+> | Height | 157 cm |
+> |  | 5 ft 1.81 in |
+> | Body Type | — |
+> | Hair | Black / Dark Brown |
+> | Eyes | Amber Brown |
+> | Complexion | Brown Skin |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Thedas (*planet name unknown*) |
+> | Place of Birth | Denerim - Ferelden |
+> | Homeworld | Thedas (*planet name unknown*) |
+> | Nationality | Antivan |
+> | Home Town | Salle - Antiva |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common Trade Tongue |
+> | Native | Antivan |
+> | Known | Qunlat |
+> |  | Elvhen (*Ancient*) |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Antivan Crows |
+> |  | Grey Wardens (*defected*) |
+> | Patron(s) | Fifth Talon |
+> |  | Viago de Riva |
+> | Organization(s) | House de Riva |
+> | Employer(s) | House of Crows |
+> | Occupation(s) | Master Assassin |
+> | Title(s) | Talon's Second |
+> |  | Master Crow |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Faithless |
+> | Patron Deity | ~~The Maker~~ |
+> | Pantheon | ~~Andrastian~~ |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | **Rogue** — *Dual Wield & Archery* |
+> |  | Master Assassin  |
+> |  | Duelist |
+> |  | Shadow |
+> |  | Bard |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | Dual Wield Blades |
+> |  | Archery |
+> |  | Poisons |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Neutral |
+> | General Demeanor | Understated & Reserved |
+> 
+
+---
 # Canon Typical
 ## Dragon Age
 
@@ -1355,6 +1481,31 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 > 
 
+
+
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

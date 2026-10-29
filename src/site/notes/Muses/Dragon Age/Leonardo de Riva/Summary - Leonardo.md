@@ -60,6 +60,131 @@ When he is first brought into the House, he begins training as a rogue, only for
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 9:51 Dragon | 24 +/- years |
+> | 9:50 Dragon | 23 +/- years |
+> | 9:45 Dragon | 18 +/- years |
+> | 9:40 Dragon | 13 +/- years |
+> | 9:35 Dragon | 8 +/- years |
+> | 9:30 Dragon | 3 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | 16th of Guardian (*2nd Month*) |
+> | Year of Birth | 9:27 Dragon |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Panromantic Pansexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Human |
+> | Race | Human ~~Noble~~ Mage |
+> | Ethnicity | Antivan |
+> | Height | 180 cm |
+> |  | 5 ft 10.87 in |
+> | Body Type | — |
+> | Hair | Black/Dark Brown |
+> |  | Curly |
+> |  | Chin Length |
+> | Eyes | Pale Blue |
+> | Complexion | Brown Skin |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Thedas (*planet name unknown*) |
+> | Place of Birth | Salle - Antiva |
+> | Homeworld | Thedas (*planet name unknown*) |
+> | Nationality | Antivan |
+> | Home Town | Salle - Antiva |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common Trade Tongue |
+> | Native | Antivan |
+> | Known | — |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Antivan Crows |
+> |  | House de Riva |
+> | Patron(s) | Fifth Talon of House de Riva |
+> |  | Viago de Riva |
+> | Organization(s) | The Veilguard |
+> | Employer(s) | Varric Tethras |
+> | Occupation(s) | Assassin |
+> | Title(s) | Antivan Crow |
+> |  | Spellblade Assassin |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Questioning |
+> | Patron Deity | The Maker |
+> | Pantheon | Andrastian |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Mage - *Ice & Lightning + Necrotic Passives* |
+> |  | Spellblade (*Antivan Crow Specialization*) |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | Assassin (*Rogue - Antivan Crow*) |
+> | Fighting Style(s) | Orb & Dagger |
+> |  | Dual Wield Daggers |
+> |  | Poisons |
+> |  | Staff |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Moral |
+> | General Demeanor | Quiet & Anxious |
+> 
+
+---
 # Canon Typical
 ## Dragon Age
 
@@ -465,6 +590,29 @@ When he is first brought into the House, he begins training as a rogue, only for
 > > | Relationship | Rel ☾⭒ TBA ( Leonardo & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

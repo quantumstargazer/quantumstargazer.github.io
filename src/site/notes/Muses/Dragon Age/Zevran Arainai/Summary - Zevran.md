@@ -62,6 +62,134 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 9:51 Dragon | 47 +/- years |
+> | 9:50 Dragon | 46 +/- years |
+> | 9:45 Dragon | 41 +/- years |
+> | 9:40 Dragon | 36 +/- years |
+> | 9:35 Dragon | 31 +/- years |
+> | 9:30 Dragon | 26 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | DAY of MONTH |
+> | Year of Birth | 9:04 Dragon |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Biromantic Bisexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Elf |
+> | Race | City Elf |
+> | Ethnicity | Antivan |
+> | Height | 169 cm |
+> |  | 5 ft 6.54 in |
+> | Body Type | — |
+> | Hair | Blond |
+> |  | Shoulder Length |
+> | Eyes | Amber Brown |
+> | Complexion | Brown Skin |
+> |  | House Arainai Crow Tattoos |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Thedas (*planet name unknown*) |
+> | Place of Birth | Riato - Antiva |
+> | Homeworld | Thedas (*planet name unknown*) |
+> | Nationality | Antivan |
+> | Home Town | Antiva City - Antiva |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common Trade Tongue |
+> | Native | Antivan |
+> | Known | — |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Antivan Crows |
+> |  | House Arainai |
+> | Patron(s) | — |
+> | Organization(s) | — |
+> | Employer(s) | — |
+> | Occupation(s) | Eighth Talon (*as of 9:45 Dragon*) |
+> |  | Head of House Arainai (*as of 9:45 Dragon*) |
+> |  | Master Assassin |
+> | Title(s) | Eighth Talon of the Antivan Crows |
+> |  | Master Crow |
+> |  | Black Shadow |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Questioning |
+> | Patron Deity | The Maker |
+> | Pantheon | Andrastian |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Rogue — Dual Wield - Archery - Poisons |
+> |  | Master Assassin (*Antivan Crows specialization*) |
+> |  | Duelist (*Rogue*) |
+> |  | Shadow (*Rogue*) |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | Dual Wield Blades |
+> |  | Archery |
+> |  | Poisons |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Neutral |
+> | General Demeanor | — |
+> 
+
+---
 # Canon Typical
 ## Dragon Age
 
@@ -676,6 +804,29 @@ In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half o
 > > | Relationship | Rel ☾⭒ TBA ( Zevran & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

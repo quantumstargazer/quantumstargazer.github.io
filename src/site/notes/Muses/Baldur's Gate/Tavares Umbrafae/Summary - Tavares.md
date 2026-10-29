@@ -59,6 +59,136 @@ Exiled from her home in Callidae when she returned decades after her disappearan
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 1492 DR | 99 +/- years |
+> | 1400 DR | XX +/- years |
+> | 1393 DR | 0 +/- years |
+> | 1367 DR | — |
+> | 1300 DR | — |
+> | 1067 DR | — |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | DAY of MONTH |
+> | Year of Birth | 1393 DR |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Aromantic Pansexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Half-Fey Elf |
+> | Race | Half-Eladrin Drow |
+> | Ethnicity | Half-Winter Eladrin Aevendrow |
+> | Height | 167 cm |
+> |  | 5 ft 5.75 in |
+> | Body Type | — |
+> | Hair | Drow White |
+> | Eyes | Pale Ice Blue (*Glamoured — Both Eyes*) |
+> |  | White Sclera (*Glamoured — Both Eyes*) |
+> |  | Feydark (*Left Eye Only*) |
+> |  | Prince of Frost (*Right Eye Only*) — **Pact Binding Mark** |
+> |  | Blue Sclera (*Both Eyes*) |
+> | Complexion | Starlight Enclave |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Toril |
+> | Place of Birth | Callidae - The North - Faerûn |
+> | Homeworld | Toril |
+> | Nationality | — |
+> | Home Town | — |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common |
+> | Native | Drow (*Callidaen* dialect) |
+> | Known | Elvish |
+> |  | Sylvan |
+> |  | Primordial |
+> |  | Undercommon |
+> |  | Drow |
+> |  | Drpw Sign |
+> |  | Thieves' Cant |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Scions of the Long Night |
+> |  | Winter Court (*Faerie*) |
+> | Patron(s) | Prince of Frost |
+> | Organization(s) | — |
+> | Employer(s) | — |
+> | Occupation(s) | Archfey Warlock |
+> | Title(s) | Long Night Scion |
+> |  | Misfortune Bringer |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Faithful |
+> | Patron Deity | Corellon Larethian |
+> | Pantheon | Seldarine |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Long Night Scion (*Archfey Warlock*) |
+> | Secondary Class | Misfortune Bringer ( *Rogue* ) |
+> | Tertiary Class | Frozen Sorcery ( *~~Sorcerer~~ Wintertouched* )[^1] |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | Spellblade |
+> |  | Ice (*Cold*) Magic |
+> |  | Faerie (*Psychic*) Magic |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Rebel Impure |
+> | General Demeanor | — |
+> 
+
+---
 # Canon Typical
 ## Absolute Crisis
 
@@ -436,6 +566,29 @@ Exiled from her home in Callidae when she returned decades after her disappearan
 > > | Relationship | Rel ☾⭒ TBA ( Tavares & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

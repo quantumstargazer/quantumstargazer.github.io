@@ -76,6 +76,21 @@
 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
 # Statistics
 ## Muse Stats
 
@@ -398,7 +413,7 @@
 > 
 
 ---
-# Additional Information
+# Extras
 ## Quotes & Catchphrases
 
 - *TBA*

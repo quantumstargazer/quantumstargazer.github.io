@@ -71,6 +71,126 @@ In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when t
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 9:51 Dragon | 44 +/- years |
+> | 9:50 Dragon | 43 +/- years |
+> | 9:45 Dragon | 38 +/- years |
+> | 9:40 Dragon | 33 +/- years |
+> | 9:35 Dragon | 28 +/- years |
+> | 9:30 Dragon | 23 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | DAY of MONTH |
+> | Year of Birth | 9:07 Dragon |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Biromantic Bisexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Human |
+> | Race | Human ~~Commoner~~ Noble |
+> | Ethnicity | Ferelden |
+> | Height | XXX cm |
+> |  | x ft xx in |
+> | Body Type | — |
+> | Hair | Black |
+> | Eyes | Cobalt Blue |
+> | Complexion | Tanned Skin |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Thedas (*planet name unknown*) |
+> | Place of Birth | Ferelden |
+> | Homeworld | Thedas (*planet name unknown*) |
+> | Nationality | Free Marcher |
+> | Home Town | Kirkwall - Free Marches |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common Trade Tongue |
+> | Native | — |
+> | Known | Orlesian |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Kirkwall |
+> | Patron(s) | Varric Tetras |
+> | Organization(s) | — |
+> | Employer(s) | — |
+> | Occupation(s) | Freelancer |
+> | Title(s) | Champion of Kirkwall |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Questioning |
+> | Patron Deity | The Maker |
+> | Pantheon | Andrastian |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Rogue — Archery - Poisons - Dual Wield |
+> |  | Shadow (*Rogue*)  |
+> |  | Assassin (*Rogue*) |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | Archery |
+> |  | Poisons |
+> |  | Dual Wield Blades |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Neutral |
+> | General Demeanor | — |
+> 
+
+---
 # Canon Typical
 ## Dragon Age
 
@@ -596,6 +716,29 @@ In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when t
 > > | Relationship | Rel ☾⭒ TBA ( Marian & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

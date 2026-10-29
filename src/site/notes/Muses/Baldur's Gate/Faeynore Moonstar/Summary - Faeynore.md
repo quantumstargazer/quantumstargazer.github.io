@@ -60,6 +60,125 @@ They have a specialized interest in Faerie and Infernal contracts, for how often
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 1492 DR | 326 +/- years |
+> | 1400 DR | XX +/- years |
+> | 1367 DR | XX +/- years |
+> | 1300 DR | XX +/- years |
+> | 1166 DR | 0 +/- years |
+> | 1067 DR | — |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | DAY of MONTH |
+> | Year of Birth | 1166 DR |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Panromantic Pansexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Elf |
+> | Race | High Elf |
+> | Ethnicity | Moon Elf |
+> | Height | 160 cm |
+> |  | 5 ft 2.99 in |
+> | Body Type | — |
+> | Hair | Moonlight White |
+> | Eyes | Purple-Blue |
+> | Complexion | Pale Dusk |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Toril |
+> | Place of Birth | Drelagara - Evermeet - Trackless Sea - Feywild |
+> | Homeworld | Toril |
+> | Nationality | Baldurian |
+> | Home Town | Baldur's Gate - Storm Coast - Faerûn |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common |
+> | Native | Elvish |
+> | Known | Sylvan |
+> |  | Infernal |
+> |  | Thieves' Cant |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | — |
+> | Patron(s) | — |
+> | Organization(s) | Moonstar Investigations |
+> | Employer(s) | Self-Employed |
+> | Occupation(s) | Private Investigator |
+> | Title(s) | Investigator |
+> |  | Spirit Medium |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Faithful |
+> | Patron Deity | Corellon Larethian |
+> | Pantheon | Seldarine |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Medium (*Investigator*)[^1] |
+> | Secondary Class | College of Glamour Bard |
+> | Tertiary Class | — |
+> | Additional Support(s) | — |
+> | Fighting Style(s) | — |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Neutral |
+> | General Demeanor | — |
+> 
+
+---
 # Canon Typical
 ## Private Investigator
 
@@ -435,6 +554,29 @@ They have a specialized interest in Faerie and Infernal contracts, for how often
 > > | Relationship | Rel ☾⭒ TBA ( Faeynore & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

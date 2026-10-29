@@ -63,6 +63,144 @@ She fights for the safety of the entire galaxy, not simply one species, and she 
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 2186 CE | 32 +/- years |
+> | 2185 CE | 31 +/- years (*Revived by Cerberus*) |
+> | 2184 CE | 30 +/- years (*Declared Killed In Action*) |
+> | 2183 CE | 29 +/- years |
+> | 2180 CE | 26 +/- years |
+> | 2175 CE | 21 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | 11th of April |
+> | Year of Birth | 2154 CE |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Demiromantic Pansexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Human |
+> | Race | Enhanced Human (*Biotic - Limited Combat Proficiency*) |
+> | Ethnicity | Louisianan Creole |
+> | Height | 170 cm |
+> |  | 5 ft 6.93 in |
+> | Body Type | — |
+> | Hair | Red |
+> |  | Shoulder Length |
+> | Eyes | Emerald Green |
+> | Complexion | — |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Earth - Sol - Local - Milky Way |
+> | Place of Birth | New Orleans - Louisiana - United North American States |
+> | Homeworld | Earth - Sol - Local - Milky Way |
+> | Nationality | United North American |
+> | Home Town | — |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Galactic Trade Standard |
+> |  | Galactic Trade Sign (*GTSL*) |
+> | Native | Louisianan Creole |
+> |  | English |
+> |  | UNA Sign (*UNASL*) |
+> | Known | Mandarin |
+> |  | Spanish |
+> |  | Hindi |
+> |  | Arabic |
+> |  | Khelish (*Quarian — limited*) |
+> |  | Palaven Standard (*Turian — limited*) |
+> |  | (*Krogan — limited*) |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Special Tactics & Reconnaissance |
+> | Patron(s) | Citadel Council |
+> |  | Human Systems Alliance |
+> | Organization(s) | Special Tactics & Reconnaissance |
+> | Employer(s) | Citadel Council |
+> | Occupation(s) | Spectre Agent |
+> |  | N7 Operative |
+> |  | Infiltration Saboteur Engineer |
+> | Title(s) | Spectre |
+> |  | Commander — *de facto* Captain |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Faithless |
+> | Patron Deity | — |
+> | Pantheon | — |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Engineer — *Combat & Starship Engineering* |
+> | Secondary Class | Infiltrator |
+> | Tertiary Class | Saboteur |
+> | Additional Support(s) | Biotic (*Limited Combat Proficiency*) |
+> | Fighting Style(s) | Infiltration Saboteur Engineer |
+> |  | Sniper Rifle |
+> |  | Heavy Pistol |
+> |  | Small Machine Gun (*SMG*) |
+> |  | Heavy Weaponry |
+> |  | Combat Drones |
+> |  | Omnitool Tech |
+> |  | Omniblade |
+> |  | Biotic Flare |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Neutral |
+> | General Demeanor | — |
+> 
+
+---
 # Canon Typical
 ## Reaper War
 
@@ -1136,6 +1274,29 @@ She fights for the safety of the entire galaxy, not simply one species, and she 
 > > | Relationship | Rel ☾⭒ TBA ( Isabela & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 

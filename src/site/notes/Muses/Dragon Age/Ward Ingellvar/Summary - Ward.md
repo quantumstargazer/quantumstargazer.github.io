@@ -59,6 +59,133 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 9:51 Dragon | 21 +/- years |
+> | 9:50 Dragon | 20 +/- years |
+> | 9:45 Dragon | 15 +/- years |
+> | 9:40 Dragon | 10 +/- years |
+> | 9:35 Dragon | 5 +/- years |
+> | 9:30 Dragon | 0 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | 30th of Harvestmere (*10th Month*) |
+> | Year of Birth | 9:30 Dragon |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Panromantic Demisexual |
+> | MBTI | ISFP-T |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | ~~Spirit~~ Elf |
+> | Race | ~~Spirit of Learning~~ City Elf |
+> | Ethnicity | Nevarran |
+> | Height | 147 cm |
+> |  | 4 ft 9.87 in |
+> | Body Type | — |
+> | Hair | Ghostly Shock White |
+> |  | Curls |
+> |  | Jaw Length |
+> | Eyes | Deathly Silver-White |
+> | Complexion | Warm Beige Skin |
+> |  | Skeletal Ritual Scarification |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Thedas (*planet name unknown*) |
+> | Place of Birth | Grand Necropolis - Nevarra City - Nevarra |
+> |  | The Fade (*wisp formation*) |
+> | Homeworld | Thedas (*planet name unknown*) |
+> | Nationality | Nevarran |
+> | Home Town | Grand Necropolis - Nevarra City - Nevarra |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common Trade Tongue |
+> | Native | Nevarran |
+> |  | ~~Elvhen (*Ancient - Spirit*)~~ |
+> | Known | Elvhen (*Ancient - Spirit*) — *Post-Elvhen Origin Reveal* |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | Mourn Watch |
+> | Patron(s) | Vorgoth |
+> |  | Myrna |
+> | Organization(s) | The Veilguard |
+> | Employer(s) | Varric Tetras |
+> | Occupation(s) | Mourn Watcher |
+> | Title(s) | Death Caller |
+> |  | Mortalitasi |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Questioning |
+> | Patron Deity | — |
+> | Pantheon | — |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Mage - *Necromancy & Ice* |
+> |  | Death Caller (*Mourn Watch Specialization*) |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | True Necromancy (*Mage - modded*) |
+> |  | Spirit Healing (*verse/timeline dependent*) |
+> | Fighting Style(s) | Staff |
+> |  | Orb & Dagger |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | Chaotic Good |
+> | General Demeanor | Quiet & Reserved |
+> |  | Subtly Excitable |
+> 
+
+---
 # Canon Typical
 ## Dragon Age
 
@@ -694,6 +821,31 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > > | Relationship | Rel ☾⭒ TBA ( Ward & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
+
+
 
 
 

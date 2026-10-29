@@ -96,6 +96,21 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 *TBA*
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
 # Statistics
 ## Muse Stats
 
@@ -1033,7 +1048,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 
 ---
-# Additional Information
+# Extras
 ## Quotes & Catchphrases
 
 - "I killed them like dogs, Shianni. Not just them. All the humans who hurt you." — *said to her cousin, Shianni, after freeing her and the other women stolen from the Alienage - 9:30 Dragon.*

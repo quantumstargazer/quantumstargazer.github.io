@@ -59,6 +59,135 @@ In 9:30 Dragon, Mahariel and Tamlen investigate one such ruin, where they discov
 > 
 
 ---
+# Personality
+
+## Introduction
+
+
+## Habits & Hobbies
+
+
+## Likes
+
+
+## Dislikes
+
+
+---
+# Statistics
+## Muse Stats
+
+> [!statsbox]+ Muse Stats
+>
+> **Apparent Age**
+>
+> | | |
+> |---|---|
+> | 9:51 Dragon | 39 +/- years |
+> | 9:50 Dragon | 38 +/- years |
+> | 9:45 Dragon | 33 +/- years |
+> | 9:40 Dragon | 28 +/- years |
+> | 9:35 Dragon | 23 +/- years |
+> | 9:30 Dragon | 18 +/- years |
+>
+> **Birthdate**
+>
+> | | |
+> |---|---|
+> | Date of Birth | DAY of MONTH |
+> | Year of Birth | 9:12 Dragon |
+>
+> **Personal Identity**
+>
+> | | |
+> |---|---|
+> | Orientation | Biromantic Bisexual |
+> | MBTI | — |
+> | Enneagram | — |
+>
+> **Physical Description**
+>
+> | | |
+> |---|---|
+> | Species | Elf |
+> | Race | Dalish Elf |
+> | Ethnicity | Ferelden |
+> | Height | XXX cm |
+> |  | x ft xx in |
+> | Body Type | — |
+> | Hair | Black |
+> | Eyes | Fade Green |
+> | Complexion | Brown Skin |
+> | Vallaslin | Dirthamen |
+>
+> **Demographics**
+>
+> | | |
+> |---|---|
+> | Planet of Origin | Thedas (*planet name unknown*) |
+> | Place of Birth | Brecilian Forest - Ferelden |
+> | Homeworld | Thedas (*planet name unknown*) |
+> | Nationality | Ferelden |
+> | Home Town | — |
+>
+> **Languages**
+>
+> | | |
+> |---|---|
+> | Primary | Common Trade Tongue |
+> | Native | Elven (*Dalish*) |
+> | Known | Elvhen (*Ancient*) |
+>
+> **Social Standings & Affiliations**
+>
+> | | |
+> |---|---|
+> | Faction(s) | \[*REDACTED*] |
+> |  | Grey Wardens |
+> | Patron(s) | \[*REDACTED*] |
+> | Organization(s) | \[*REDACTED*] |
+> | Employer(s) | \[*REDACTED*] |
+> | Occupation(s) | Emerald Knight |
+> |  | Hunter of Secrets |
+> |  | Grey Warden |
+> | Title(s) | \[*REDACTED*] |
+> |  | Warden-Commander of Ferelden |
+> |  | Hero of Ferelden |
+> |  | Emerald Knight |
+>
+> **Spiritual Beliefs**
+>
+> | | |
+> |---|---|
+> | Beliefs | Questioning |
+> | Patron Deity | Dirthamen |
+> |  | \[*REDACTED*] |
+> | Pantheon | Evanuris |
+>
+> **Combat Classes**
+>
+> | | |
+> |---|---|
+> | Primary Class | Rogue — Archery - Poisons - Dual Wield |
+> |  | Emerald Knight (*Rogue*)[^1] |
+> |  | Assassin (*Rogue*) |
+> |  | Shadow (*Rogue*) |
+> | Secondary Class | — |
+> | Tertiary Class | — |
+> | Additional Support(s) | Arcane Archer (*Mage*) |
+> | Fighting Style(s) | Archery |
+> |  | Poisons |
+> |  | Dual Wield Blades |
+>
+> **Personality**
+>
+> | | |
+> |---|---|
+> | Moral Alignment | — |
+> | General Demeanor | — |
+> 
+
+---
 # Canon Typical
 ## Dragon Age
 
@@ -708,6 +837,29 @@ In 9:30 Dragon, Mahariel and Tamlen investigate one such ruin, where they discov
 > > | Relationship | Rel ☾⭒ TBA ( Mahariel & PartnerMuse — PartnerURL )  |
 > > 
 > 
+
+---
+# Extras
+## Quotes & Catchphrases
+
+- *TBA*
+
+---
+## Trivia
+
+- *TBA*
+
+
+---
+## TV Tropes
+
+- *TBA*
+
+
+---
+## Applicable Mods
+
+- *TBA*
 
 
 
