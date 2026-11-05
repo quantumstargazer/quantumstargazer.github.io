@@ -28,9 +28,9 @@
 
 > [!ziggy] Current Status
 > 
-> Slow activity. Expect days and/or weeks long delays between replies. All replies are posted immediately once they're ready and are never queued.
+> **Slow activity.** Expect days and/or weeks long delays between replies. All replies are posted immediately once they're ready and are never queued.
 > 
-> — *01 October 2026*
+> — *05 November 2026*
 > 
 
 ---
