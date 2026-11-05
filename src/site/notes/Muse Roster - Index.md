@@ -85,6 +85,7 @@
 - [[Invitation Only - Roster#Heir\|Heir]]
 - [[Invitation Only - Roster#Merrill\|Merrill]]
 - [[Invitation Only - Roster#Anders\|Anders]]
+- [[Invitation Only - Roster#Orana\|Orana]]
 ## Irregulars 
 ### Original Characters
 #### Veterans of the Fifth Blight
