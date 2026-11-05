@@ -196,7 +196,6 @@
 
 
 
-
-
-
+---
+# Footnotes
 [^1]: [Companion Mod for Elder Scrolls V: Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1461) — *not my own OC*, but neither is he "canon" (though he absolutely should be).
