@@ -129,8 +129,8 @@
 > | Species | Human |
 > | Race | Human ~~Commoner~~ Noble |
 > | Ethnicity | Ferelden |
-> | Height | XXX cm |
-> |  | x ft xx in |
+> | Height | 173 cm |
+> |  | 5 ft 8.11 in |
 > | Body Type | — |
 > | Hair | Black |
 > | Eyes | Cobalt Blue |
