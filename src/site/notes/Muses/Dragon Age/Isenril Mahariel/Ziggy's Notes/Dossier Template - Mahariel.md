@@ -127,13 +127,14 @@
 > | Species | Elf |
 > | Race | Dalish Elf |
 > | Ethnicity | Ferelden |
-> | Height | XXX cm |
-> |  | x ft xx in |
+> | Height | 177 cm |
+> |  | 5 ft 9.69 in |
 > | Body Type | — |
 > | Hair | Black |
 > | Eyes | Fade Green |
 > | Complexion | Brown Skin |
 > | Vallaslin | Dirthamen |
+> |  | \[*REDACTED*] |
 >
 > **Demographics**
 >
