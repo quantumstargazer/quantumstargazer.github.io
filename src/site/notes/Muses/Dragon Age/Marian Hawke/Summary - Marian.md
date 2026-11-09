@@ -124,8 +124,8 @@ In 9:30 Dragon, the Fifth Blight begins, and Marian's entire life changes when t
 > | Species | Human |
 > | Race | Human ~~Commoner~~ Noble |
 > | Ethnicity | Ferelden |
-> | Height | XXX cm |
-> |  | x ft xx in |
+> | Height | 173 cm |
+> |  | 5 ft 8.11 in |
 > | Body Type | — |
 > | Hair | Black |
 > | Eyes | Cobalt Blue |
