@@ -118,7 +118,8 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 > | Hair | Ghostly Shock White |
 > |  | Curls |
 > |  | Jaw Length |
-> | Eyes | Deathly Silver-White |
+> | Eyes | Deathly Silver-White[^1] |
+> |  | Pale Lavender Centralized Heterochromia |
 > | Complexion | Warm Beige Skin |
 > |  | Skeletal Ritual Scarification |
 >
@@ -857,3 +858,4 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 
 ---
 # Footnotes
+[^1]: The silvery-white of their irises are simply desaturated lavender, while there is a thin hint of pale lavender around their pupils and a slightly darker hint of lavender around their outer irises.
