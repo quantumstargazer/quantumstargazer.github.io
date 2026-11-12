@@ -843,7 +843,8 @@ Ward is quiet and often reserved, tending to prefer the company of spirits and t
 ---
 ## Applicable Mods
 
-- *TBA*
+- [True Necromancy](https://www.nexusmods.com/dragonagetheveilguard/mods/1099)
+- [Custom Mage Dodge Trails - Necromancer](https://www.nexusmods.com/dragonagetheveilguard/mods/1560)
 
 
 
