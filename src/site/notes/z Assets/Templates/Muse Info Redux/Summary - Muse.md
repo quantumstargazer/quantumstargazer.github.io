@@ -37,7 +37,7 @@
 > Private -> [[Summary - Muse1#Private Verses & AUs\|Private Verses & AUs]]
 > 
 
-> [!question]+ AUs May Diverge From Baseline
+> [!question]- AUs May Diverge From Baseline
 > 
 > The muse info on this page is meant to be a baseline to give you a general idea about who the character is in *most* of their canon-esque portrayals, and may not accurate reflect the specifics for all verses and AUs.
 > 
@@ -46,7 +46,7 @@
 # Quick Info
 ## Summary
 
-
+> *TBA*
 ## Quote
 
 > [!quote] MuseName
