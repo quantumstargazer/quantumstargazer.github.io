@@ -333,39 +333,7 @@
 
 ---
 ## Other Fandoms AUs
-### Doctor Who AUs
-#### One Big Continuity Error
 
-> [!statsbox]+ One Big Continuity Error — Alt Universe ( Doctor Who )
->
-> **Basic Info**
-> 
-> | | |
-> |---|---|
-> | Verse/AU Details | One Big Continuity Error |
-> | Verse/AU Type | Alt Universe - Fandom Specific AU |
-> | Setting | Doctor Who |
-> | Timeline | *Varies* |
-> | Condition | Intended For Doctor Who & Other Time Travellers |
-> | Open To Plotting | Yes |
-> | Crossovers | Fandom Matched Unless Otherwise Requested |
-> | Availability | Specify To Request Verse |
->
-> **Summary**
-> 
-> > *TBA*
-> 
-> TBA
->  
-> **Tumblr Tags**
-> 
-> | | |
-> |---|---|
-> | Verse | MUSE1 ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who ) |
-> 
-> 
-
----
 ### Elder Scrolls AUs
 
 > [!attention] Not Currently Available
@@ -511,39 +479,6 @@
 
 ---
 ## Other Fandoms AWs
-### Doctor Who AWs
-#### Previously—Next Time
-
-> [!statsbox]+ Previously—Next Time — Displaced ( Doctor Who )
->
-> **Basic Info**
-> 
-> | | |
-> |---|---|
-> | Verse/AU Details | Previously—Next Time |
-> | Verse/AU Type | Crossover - Displaced Universe AU |
-> | Setting | Doctor Who |
-> | Timeline | *Varies* |
-> | Condition | Intended For Doctor Who & Other Time Travellers |
-> | Open To Plotting | Yes |
-> | Crossovers | Yes |
-> | Availability | Specify To Request Verse |
->
-> **Summary**
-> 
-> > *TBA*
-> 
-> TBA
->  
-> **Tumblr Tags**
-> 
-> | | |
-> |---|---|
-> | Verse | MUSE1 ☾⭒ Previously—Next Time — Displaced ( Doctor Who ) |
-> 
-> 
-
----
 ### Elder Scrolls AWs
 
 > [!attention] Not Currently Available
@@ -570,6 +505,40 @@
 
 
 
+
+---
+## Other Fandoms Verses & AUs
+### Doctor Who AUs
+#### One Big Continuity Error
+
+> [!statsbox]+ One Big Continuity Error — Doctor Who ( Multiverse )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse/AU Details | One Big Continuity Error |
+> | Verse/AU Type | Multiverse - Other Verses & AUs |
+> | Setting | Doctor Who |
+> | Timeline | *Multiverse Travel + Time & Space Travel* |
+> | Condition | Intended For Doctor Who & Other Time Travellers |
+> | Open To Plotting | Yes |
+> | Crossovers | Yes |
+> | Availability | Open To Everyone |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+>  
+> **Tumblr Tags**
+> 
+> | | |
+> |---|---|
+> | Verse | MUSE1 ☾⭒ One Big Continuity Error — Doctor Who ( Multiverse ) |
+> 
+> 
 
 ---
 # Private Verses & AUs
