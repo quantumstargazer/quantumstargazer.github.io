@@ -428,6 +428,7 @@
 > **Summary**
 > 
 > > *TBA*
+> > **Heavy Canon Divergence** — Twin of Bran Cousland
 > 
 > TBA
 > 
@@ -461,6 +462,7 @@
 > **Summary**
 > 
 > > *TBA*
+> > **Heavy Canon Divergence** — Twin of Aileas Cousland
 > 
 > TBA
 > 
@@ -494,6 +496,7 @@
 > **Summary**
 > 
 > > *TBA*
+> > **Heavy Canon Divergence** — Dalish Mage Origin
 > 
 > TBA
 > 
@@ -627,6 +630,7 @@
 > **Summary**
 > 
 > > *TBA*
+> > **Heavy Canon Divergence** — Twin of Quincy Hawke
 > 
 > TBA
 > 
@@ -660,6 +664,7 @@
 > **Summary**
 > 
 > > *TBA*
+> > **Heavy Canon Divergence** — Twin of Rowan Hawke
 > 
 > TBA
 > 
