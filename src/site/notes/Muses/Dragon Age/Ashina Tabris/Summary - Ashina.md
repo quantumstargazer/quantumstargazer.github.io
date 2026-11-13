@@ -509,15 +509,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 > 
 
-## Arainai Deflector
+## Arainai Defector
 
-> [!statsbox]+ Arainai Deflector ( Dragon Age )
+> [!statsbox]+ Arainai Defector ( Dragon Age )
 >
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Verse/AU Details | Arainai Deflector |
+> | Verse/AU Details | Arainai Defector |
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:50 - 9:54 Dragon |
@@ -537,19 +537,19 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 > | | |
 > |---|---|
-> | Verse | Ashina ☾⭒ Arainai Deflector ( Dragon Age ) |
+> | Verse | Ashina ☾⭒ Arainai Defector ( Dragon Age ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Arainai Deflector — 9:50 - 9:54 Dragon ( Dragon Age ) |
-> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Arainai Deflector — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Arainai Deflector — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Arainai Deflector — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon (*Default*) | Ashina ☾⭒ Arainai Deflector — 9:30 - 9:34 Dragon ( Dragon Age ) |
-> > | 9:25 - 9:29 Dragon | Ashina ☾⭒ Arainai Deflector — 9:25 - 9:29 Dragon ( Dragon Age ) |
-> > | 9:20 - 9:24 Dragon | Ashina ☾⭒ Arainai Deflector — 9:20 - 9:24 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Arainai Defector — 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Arainai Defector — 9:45 - 9:49 Dragon ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Arainai Defector — 9:40 - 9:44 Dragon ( Dragon Age ) |
+> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Arainai Defector — 9:35 - 9:39 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon (*Default*) | Ashina ☾⭒ Arainai Defector — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:25 - 9:29 Dragon | Ashina ☾⭒ Arainai Defector — 9:25 - 9:29 Dragon ( Dragon Age ) |
+> > | 9:20 - 9:24 Dragon | Ashina ☾⭒ Arainai Defector — 9:20 - 9:24 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -1319,15 +1319,15 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > > 
 > 
 
-### Arainai Deflector
+### Arainai Defector
 
-> [!statsbox]+ Arainai Deflector ( Viago - corvusrookery )
+> [!statsbox]+ Arainai Defector ( Viago - corvusrookery )
 >
 > **Basic Info**
 > 
 > | | |
 > |---|---|
-> | Verse/AU Details | Arainai Deflector |
+> | Verse/AU Details | Arainai Defector |
 > | Verse/AU Type | Private - Private Verses & AUs |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
@@ -1346,17 +1346,17 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 > 
 > | | |
 > |---|---|
-> | Verse | Ashina ☾⭒ Arainai Deflector ( Viago — corvusrookery ) |
+> | Verse | Ashina ☾⭒ Arainai Defector ( Viago — corvusrookery ) |
 >  
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Arainai Deflector — 9:50 - 9:54 Dragon ( Viago — corvusrookery ) |
-> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Arainai Deflector — 9:45 - 9:49 Dragon ( Viago — corvusrookery ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Arainai Deflector — 9:40 - 9:44 Dragon ( Viago — corvusrookery ) |
-> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Arainai Deflector — 9:35 - 9:39 Dragon ( Viago — corvusrookery ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Arainai Deflector — 9:30 - 9:34 Dragon ( Viago — corvusrookery ) |
+> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Arainai Defector — 9:50 - 9:54 Dragon ( Viago — corvusrookery ) |
+> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Arainai Defector — 9:45 - 9:49 Dragon ( Viago — corvusrookery ) |
+> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Arainai Defector — 9:40 - 9:44 Dragon ( Viago — corvusrookery ) |
+> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Arainai Defector — 9:35 - 9:39 Dragon ( Viago — corvusrookery ) |
+> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Arainai Defector — 9:30 - 9:34 Dragon ( Viago — corvusrookery ) |
 > > 
 > 
 > > [!statsbox]- Connection Tags
