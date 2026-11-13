@@ -307,6 +307,7 @@
 > In most cases, the rewritten backstories will reflect many of the key points to the muse's personal history from their original canon, but only insofar as the new setting allows. This also applies to Combat Class and Abilities/Powers, reflective of what is available in universe with the closest approximation to what they are able to achieve in their origin canon.
 > 
 
+---
 ## Baldur's Gate AUs
 
 > [!attention] Not Currently Available
@@ -314,6 +315,7 @@
 
 
 
+---
 ## Dragon Age AUs
 
 > [!attention] Not Currently Available
@@ -321,6 +323,7 @@
 
 
 
+---
 ## Mass Effect AUs
 
 > [!attention] Not Currently Available
@@ -328,6 +331,7 @@
 
 
 
+---
 ## Other Fandoms AUs
 ### Doctor Who AUs
 #### One Big Continuity Error
@@ -361,8 +365,7 @@
 > 
 > 
 
-
-
+---
 ### Elder Scrolls AUs
 
 > [!attention] Not Currently Available
@@ -370,6 +373,7 @@
 
 
 
+---
 ### Stardew Valley AUs
 
 > [!attention] Not Currently Available
@@ -419,6 +423,7 @@
 
 
 
+---
 ## Dragon Age AWs
 #### This Shit Is Weird
 
@@ -462,6 +467,7 @@
 > 
 > 
 
+---
 ## Mass Effect AWs
 #### Anomaly Detected
 
@@ -502,6 +508,8 @@
 > > 
 > 
 > 
+
+---
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Previously—Next Time
@@ -535,12 +543,15 @@
 > 
 > 
 
+---
 ### Elder Scrolls AWs
 
 > [!attention] Not Currently Available
 > 
 
 
+
+---
 ### Stardew Valley AWs
 
 > [!attention] Not Currently Available
