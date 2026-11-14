@@ -470,12 +470,6 @@ Mahariel ☾⭒ QuickID — Alt Universe ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 2 DW.1 One Big Continuity Error
-```
-Mahariel ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 2 ES.1 Verse
 ```
@@ -493,62 +487,66 @@ Mahariel ☾⭒ QuickID — Alt Universe ( Stardew Valley )
 ### Baldur's Gate
 #### 3 BG.1 Absolute Crisis
 ```
-Mahariel ☾⭒ Absolute Crisis — Another World ( Baldur's Gate )
+Mahariel ☾⭒ Absolute Crisis — Displaced ( Baldur's Gate )
 ```
 
 #### 3 BG.1 Planar Agent
 ```
-Mahariel ☾⭒ Planar Agent — Another World ( Baldur's Gate )
+Mahariel ☾⭒ Planar Agent — Displaced ( Baldur's Gate )
 ```
 
 ### Dragon Age
 #### 3 DA.1 This Shit Is Weird
 ```
-Mahariel ☾⭒ This Shit Is Weird — Another World ( Dragon Age )
+Mahariel ☾⭒ This Shit Is Weird — Displaced ( Dragon Age )
 ```
 
 ### Mass Effect
 #### 3 ME.1 Anomaly Detected
 ```
-Mahariel ☾⭒ Anomaly Detected — Another World ( Mass Effect )
+Mahariel ☾⭒ Anomaly Detected — Displaced ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 3 DW.1 Previously—Next Time
-```
-Mahariel ☾⭒ Previously—Next Time — Another World ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 3 ES.1 Verse
 ```
-Mahariel ☾⭒ QuickID — Another World ( Elder Scrolls )
+Mahariel ☾⭒ QuickID — Displaced ( Elder Scrolls )
 ```
 
 #### Stardew Valley
 ##### 3 SV.1 Verse
 ```
-Mahariel ☾⭒ QuickID — Another World ( Stardew Valley )
+Mahariel ☾⭒ QuickID — Displaced ( Stardew Valley )
 ```
 
 ---
 ## Other Verses & AUs
-
-### 4.1 Planar Wanderer (Baldur's Gate)
+### Baldur's Gate
+#### 4.1 Planar Wanderer
 ```
-Mahariel ☾⭒ Planar Wanderer — Another World ( Multiverse )
-```
-
-### 4.2 Eluvian Explorer (Dragon Age)
-```
-Mahariel ☾⭒ Eluvian Explorer — Another World ( Multiverse )
+Mahariel ☾⭒ Planar Wanderer — Baldur's Gate ( Multiverse )
 ```
 
-### 4.3 Crucible BS (Mass Effect)
+### Dragon Age
+#### 4.2 Eluvian Explorer
 ```
-Mahariel ☾⭒ Crucible BS — Another World ( Multiverse )
+Mahariel ☾⭒ Eluvian Explorer — Dragon Age ( Multiverse )
 ```
+
+### Mass Effect
+#### 4.3 Crucible BS
+```
+Mahariel ☾⭒ Crucible BS — Mass Effect ( Multiverse )
+```
+
+### Other Fandoms
+#### Doctor Who
+##### 4 DW.1 One Big Continuity Error
+```
+Mahariel ☾⭒ One Big Continuity Error — Doctor Who ( Multiverse )
+```
+
 
 ---
 ## Private Verses & AUs

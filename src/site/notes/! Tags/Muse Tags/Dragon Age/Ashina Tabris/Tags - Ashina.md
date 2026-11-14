@@ -395,12 +395,6 @@ Ashina ☾⭒ QuickID — Alt Universe ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 2 DW.1 One Big Continuity Error
-```
-Ashina ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 2 ES.1 Verse
 ```
@@ -418,62 +412,66 @@ Ashina ☾⭒ QuickID — Alt Universe ( Stardew Valley )
 ### Baldur's Gate
 #### 3 BG.1 Absolute Crisis
 ```
-Ashina ☾⭒ Absolute Crisis — Another World ( Baldur's Gate )
+Ashina ☾⭒ Absolute Crisis — Displaced ( Baldur's Gate )
 ```
 
 #### 3 BG.1 Planar Agent
 ```
-Ashina ☾⭒ Planar Agent — Another World ( Baldur's Gate )
+Ashina ☾⭒ Planar Agent — Displaced ( Baldur's Gate )
 ```
 
 ### Dragon Age
 #### 3 DA.1 This Shit Is Weird
 ```
-Ashina ☾⭒ This Shit Is Weird — Another World ( Dragon Age )
+Ashina ☾⭒ This Shit Is Weird — Displaced ( Dragon Age )
 ```
 
 ### Mass Effect
 #### 3 ME.1 Anomaly Detected
 ```
-Ashina ☾⭒ Anomaly Detected — Another World ( Mass Effect )
+Ashina ☾⭒ Anomaly Detected — Displaced ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 3 DW.1 Previously—Next Time
-```
-Ashina ☾⭒ Previously—Next Time — Another World ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 3 ES.1 Verse
 ```
-Ashina ☾⭒ QuickID — Another World ( Elder Scrolls )
+Ashina ☾⭒ QuickID — Displaced ( Elder Scrolls )
 ```
 
 #### Stardew Valley
 ##### 3 SV.1 Verse
 ```
-Ashina ☾⭒ QuickID — Another World ( Stardew Valley )
+Ashina ☾⭒ QuickID — Displaced ( Stardew Valley )
 ```
 
 ---
 ## Other Verses & AUs
-
-### 4.1 Planar Wanderer (Baldur's Gate)
+### Baldur's Gate
+#### 4.1 Planar Wanderer
 ```
-Ashina ☾⭒ Planar Wanderer — Another World ( Multiverse )
-```
-
-### 4.2 Eluvian Explorer (Dragon Age)
-```
-Ashina ☾⭒ Eluvian Explorer — Another World ( Multiverse )
+Ashina ☾⭒ Planar Wanderer — Baldur's Gate ( Multiverse )
 ```
 
-### 4.3 Crucible BS (Mass Effect)
+### Dragon Age
+#### 4.2 Eluvian Explorer
 ```
-Ashina ☾⭒ Crucible BS — Another World ( Multiverse )
+Ashina ☾⭒ Eluvian Explorer — Dragon Age ( Multiverse )
 ```
+
+### Mass Effect
+#### 4.3 Crucible BS
+```
+Ashina ☾⭒ Crucible BS — Mass Effect ( Multiverse )
+```
+
+### Other Fandoms
+#### Doctor Who
+##### 4 DW.1 One Big Continuity Error
+```
+Ashina ☾⭒ One Big Continuity Error — Doctor Who ( Multiverse )
+```
+
 
 ---
 ## Private Verses & AUs

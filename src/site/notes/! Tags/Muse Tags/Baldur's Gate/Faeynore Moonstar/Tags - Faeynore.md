@@ -99,12 +99,6 @@ Faeynore ☾⭒ QuickID — Alt Universe ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 2 DW.1 One Big Continuity Error
-```
-Faeynore ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 2 ES.1 Verse
 ```
@@ -122,62 +116,67 @@ Faeynore ☾⭒ QuickID — Alt Universe ( Stardew Valley )
 ### Baldur's Gate
 #### 3 BG.1 Absolute Crisis
 ```
-Faeynore ☾⭒ Absolute Crisis — Another World ( Baldur's Gate )
+Faeynore ☾⭒ Absolute Crisis — Displaced ( Baldur's Gate )
 ```
 
 #### 3 BG.1 Planar Agent
 ```
-Faeynore ☾⭒ Planar Agent — Another World ( Baldur's Gate )
+Faeynore ☾⭒ Planar Agent — Displaced ( Baldur's Gate )
 ```
 
 ### Dragon Age
 #### 3 DA.1 This Shit Is Weird
 ```
-Faeynore ☾⭒ This Shit Is Weird — Another World ( Dragon Age )
+Faeynore ☾⭒ This Shit Is Weird — Displaced ( Dragon Age )
 ```
 
 ### Mass Effect
 #### 3 ME.1 Anomaly Detected
 ```
-Faeynore ☾⭒ Anomaly Detected — Another World ( Mass Effect )
+Faeynore ☾⭒ Anomaly Detected — Displaced ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 3 DW.1 Previously—Next Time
-```
-Faeynore ☾⭒ Previously—Next Time — Another World ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 3 ES.1 Verse
 ```
-Faeynore ☾⭒ QuickID — Another World ( Elder Scrolls )
+Faeynore ☾⭒ QuickID — Displaced ( Elder Scrolls )
 ```
 
 #### Stardew Valley
 ##### 3 SV.1 Verse
 ```
-Faeynore ☾⭒ QuickID — Another World ( Stardew Valley )
+Faeynore ☾⭒ QuickID — Displaced ( Stardew Valley )
 ```
 
 ---
 ## Other Verses & AUs
-
-### 4.1 Planar Wanderer (Baldur's Gate)
+### Baldur's Gate
+#### 4.1 Planar Wanderer
 ```
-Faeynore ☾⭒ Planar Wanderer — Another World ( Multiverse )
-```
-
-### 4.2 Eluvian Explorer (Dragon Age)
-```
-Faeynore ☾⭒ Eluvian Explorer — Another World ( Multiverse )
+Faeynore ☾⭒ Planar Wanderer — Baldur's Gate ( Multiverse )
 ```
 
-### 4.3 Crucible BS (Mass Effect)
+### Dragon Age
+#### 4.2 Eluvian Explorer
 ```
-Faeynore ☾⭒ Crucible BS — Another World ( Multiverse )
+Faeynore ☾⭒ Eluvian Explorer — Dragon Age ( Multiverse )
 ```
+
+### Mass Effect
+#### 4.3 Crucible BS
+```
+Faeynore ☾⭒ Crucible BS — Mass Effect ( Multiverse )
+```
+
+### Other Fandoms
+#### Doctor Who
+##### 4 DW.1 One Big Continuity Error
+```
+Faeynore ☾⭒ One Big Continuity Error — Doctor Who ( Multiverse )
+```
+
+
 
 ---
 ## Private Verses & AUs

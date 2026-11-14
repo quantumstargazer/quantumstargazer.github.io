@@ -129,12 +129,6 @@ Isabela ☾⭒ QuickID — Alt Universe ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 2 DW.1 One Big Continuity Error
-```
-Isabela ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 2 ES.1 Verse
 ```
@@ -152,62 +146,66 @@ Isabela ☾⭒ QuickID — Alt Universe ( Stardew Valley )
 ### Baldur's Gate
 #### 3 BG.1 Absolute Crisis
 ```
-Isabela ☾⭒ Absolute Crisis — Another World ( Baldur's Gate )
+Isabela ☾⭒ Absolute Crisis — Displaced ( Baldur's Gate )
 ```
 
 #### 3 BG.1 Planar Agent
 ```
-Isabela ☾⭒ Planar Agent — Another World ( Baldur's Gate )
+Isabela ☾⭒ Planar Agent — Displaced ( Baldur's Gate )
 ```
 
 ### Dragon Age
 #### 3 DA.1 This Shit Is Weird
 ```
-Isabela ☾⭒ This Shit Is Weird — Another World ( Dragon Age )
+Isabela ☾⭒ This Shit Is Weird — Displaced ( Dragon Age )
 ```
 
 ### Mass Effect
 #### 3 ME.1 Anomaly Detected
 ```
-Isabela ☾⭒ Anomaly Detected — Another World ( Mass Effect )
+Isabela ☾⭒ Anomaly Detected — Displaced ( Mass Effect )
 ```
 
 ### Other Fandoms
-#### Doctor Who
-##### 3 DW.1 Previously—Next Time
-```
-Isabela ☾⭒ Previously—Next Time — Another World ( Doctor Who )
-```
-
 #### Elder Scrolls
 ##### 3 ES.1 Verse
 ```
-Isabela ☾⭒ QuickID — Another World ( Elder Scrolls )
+Isabela ☾⭒ QuickID — Displaced ( Elder Scrolls )
 ```
 
 #### Stardew Valley
 ##### 3 SV.1 Verse
 ```
-Isabela ☾⭒ QuickID — Another World ( Stardew Valley )
+Isabela ☾⭒ QuickID — Displaced ( Stardew Valley )
 ```
 
 ---
 ## Other Verses & AUs
-
-### 4.1 Planar Wanderer (Baldur's Gate)
+### Baldur's Gate
+#### 4.1 Planar Wanderer
 ```
-Isabela ☾⭒ Planar Wanderer — Another World ( Multiverse )
-```
-
-### 4.2 Eluvian Explorer (Dragon Age)
-```
-Isabela ☾⭒ Eluvian Explorer — Another World ( Multiverse )
+Isabela ☾⭒ Planar Wanderer — Baldur's Gate ( Multiverse )
 ```
 
-### 4.3 Crucible BS (Mass Effect)
+### Dragon Age
+#### 4.2 Eluvian Explorer
 ```
-Isabela ☾⭒ Crucible BS — Another World ( Multiverse )
+Isabela ☾⭒ Eluvian Explorer — Dragon Age ( Multiverse )
 ```
+
+### Mass Effect
+#### 4.3 Crucible BS
+```
+Isabela ☾⭒ Crucible BS — Mass Effect ( Multiverse )
+```
+
+### Other Fandoms
+#### Doctor Who
+##### 4 DW.1 One Big Continuity Error
+```
+Isabela ☾⭒ One Big Continuity Error — Doctor Who ( Multiverse )
+```
+
 
 ---
 ## Private Verses & AUs
