@@ -128,7 +128,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Tiefling — TBA*
 > 
 > TBA
 > 
@@ -361,7 +361,7 @@
 >
 > **Summary**
 > 
-> > *Human Mage — ~~Grey Wardens~~ Mage Underground of Kirkwall — Spirit Healer*
+> > *~~Human Mage~~ Abomination — ~~Grey Wardens~~ Mage Underground — Spirit Healer*
 > 
 > TBA
 > 
