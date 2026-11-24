@@ -262,6 +262,7 @@
 > **Summary**
 > 
 > > *Dalish Elf — Clan Sabrae*
+> > **Heavy Canon Divergence** — TBA
 > 
 > TBA
 > 
@@ -596,6 +597,7 @@
 > **Summary**
 > 
 > > *TBA*
+> > **Heavy Canon Divergence** — TBA
 > 
 > TBA
 > 
