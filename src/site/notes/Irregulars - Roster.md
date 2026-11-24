@@ -28,7 +28,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Human Wizard — Chosen of Mystra*
 > 
 > TBA
 > 
@@ -127,7 +127,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Qunari — Arishok*
 > 
 > TBA
 > 
@@ -261,7 +261,7 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Dalish Elf — Clan Sabrae*
 > 
 > TBA
 > 
